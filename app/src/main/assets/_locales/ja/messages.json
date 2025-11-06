@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll 言語バッジ",
+    "description": "拡張機能の名前"
+  },
+  "extensionDescription": {
+    "message": "設定された言語の吹き替えがあるアニメにバッジを追加します。",
+    "description": "拡張機能の説明"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll バッジ - 設定",
+    "description": "オプションページのタイトル"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll バッジ - 設定",
+    "description": "オプションページのメインヘッダー"
+  },
+  "headerSubtitle": {
+    "message": "バッジを表示する音声言語を最大3つ選択",
+    "description": "目的を説明する小見出し"
+  },
+  "infoBoxText": {
+    "message": "選択した言語の音声が利用可能なアニメカードにバッジが表示されます",
+    "description": "情報ボックスのテキスト"
+  },
+  "sectionLanguages": {
+    "message": "音声言語",
+    "description": "言語セクションの見出し"
+  },
+  "helpTextMaxLanguages": {
+    "message": "最大3つの言語を選択",
+    "description": "最大言語数のヘルプテキスト"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ 最大3つの言語を選択できます",
+    "description": "最大言語数を超えた場合の警告"
+  },
+  "previewTitle": {
+    "message": "バッジプレビュー",
+    "description": "プレビューセクションのタイトル"
+  },
+  "previewNoSelection": {
+    "message": "プレビューを表示するには、少なくとも1つの言語を選択してください",
+    "description": "言語が選択されていない場合のメッセージ"
+  },
+  "buttonSave": {
+    "message": "設定を保存",
+    "description": "保存ボタンのテキスト"
+  },
+  "buttonReset": {
+    "message": "デフォルトにリセット",
+    "description": "リセットボタンのテキスト"
+  },
+  "errorLoadingPreferences": {
+    "message": "設定の読み込みエラー",
+    "description": "読み込み失敗時のエラーメッセージ"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "少なくとも1つの言語を選択してください",
+    "description": "言語が選択されていない場合のエラー"
+  },
+  "errorMaxLanguages": {
+    "message": "最大$MAX$つの言語を選択できます",
+    "description": "言語が多すぎる場合のエラー",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ 設定を保存しました！変更を確認するにはCrunchyrollページを再読み込みしてください。",
+    "description": "保存後の成功メッセージ"
+  },
+  "errorSavingPreferences": {
+    "message": "設定の保存エラー",
+    "description": "保存失敗時のエラーメッセージ"
+  },
+  "successReset": {
+    "message": "設定をリセットしました。「保存」をクリックして適用してください。",
+    "description": "リセット後の成功メッセージ"
+  }
+}

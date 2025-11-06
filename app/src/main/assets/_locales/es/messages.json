@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Insignias de Idiomas",
+    "description": "Nombre de la extensión"
+  },
+  "extensionDescription": {
+    "message": "Añade insignias a los anime con doblaje en los idiomas configurados.",
+    "description": "Descripción de la extensión"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Insignias - Configuración",
+    "description": "Título de la página de opciones"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Insignias - Configuración",
+    "description": "Encabezado principal de la página de opciones"
+  },
+  "headerSubtitle": {
+    "message": "Elige hasta 3 idiomas de audio para mostrar insignias",
+    "description": "Subtítulo que explica el propósito"
+  },
+  "infoBoxText": {
+    "message": "Las insignias aparecerán en las tarjetas de anime que tengan audio disponible en los idiomas seleccionados",
+    "description": "Texto del cuadro de información"
+  },
+  "sectionLanguages": {
+    "message": "Idiomas de Audio",
+    "description": "Encabezado de sección de idiomas"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Selecciona hasta 3 idiomas",
+    "description": "Texto de ayuda para el máximo de idiomas"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ Puedes seleccionar hasta 3 idiomas",
+    "description": "Advertencia cuando se superan los idiomas máximos"
+  },
+  "previewTitle": {
+    "message": "Vista Previa de Insignia",
+    "description": "Título de la sección de vista previa"
+  },
+  "previewNoSelection": {
+    "message": "Selecciona al menos un idioma para ver la vista previa",
+    "description": "Mensaje cuando no hay idioma seleccionado"
+  },
+  "buttonSave": {
+    "message": "Guardar Configuración",
+    "description": "Texto del botón guardar"
+  },
+  "buttonReset": {
+    "message": "Restaurar Predeterminado",
+    "description": "Texto del botón restaurar"
+  },
+  "errorLoadingPreferences": {
+    "message": "Error al cargar las preferencias",
+    "description": "Mensaje de error cuando falla la carga"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Selecciona al menos un idioma",
+    "description": "Error cuando no hay idioma seleccionado"
+  },
+  "errorMaxLanguages": {
+    "message": "Puedes seleccionar hasta $MAX$ idiomas",
+    "description": "Error cuando hay demasiados idiomas seleccionados",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ ¡Configuración guardada! Recarga las páginas de Crunchyroll para ver los cambios.",
+    "description": "Mensaje de éxito después de guardar"
+  },
+  "errorSavingPreferences": {
+    "message": "Error al guardar las preferencias",
+    "description": "Mensaje de error cuando falla el guardado"
+  },
+  "successReset": {
+    "message": "Configuración restaurada. Haz clic en \"Guardar\" para aplicar.",
+    "description": "Mensaje de éxito después de restaurar"
+  }
+}

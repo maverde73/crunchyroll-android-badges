@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Language Badges",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Adds badges to anime with dubbing in configured languages.",
+    "description": "Description of the extension"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Badges - Settings",
+    "description": "Title of the options page"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Badges - Configuration",
+    "description": "Main header of the options page"
+  },
+  "headerSubtitle": {
+    "message": "Choose up to 3 audio languages to display badges for",
+    "description": "Subtitle explaining the purpose"
+  },
+  "infoBoxText": {
+    "message": "Badges will appear on anime cards that have audio available in the selected languages",
+    "description": "Information box text"
+  },
+  "sectionLanguages": {
+    "message": "Audio Languages",
+    "description": "Section heading for languages"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Select up to 3 languages",
+    "description": "Help text for maximum languages"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ You can select up to 3 languages",
+    "description": "Warning when max languages exceeded"
+  },
+  "previewTitle": {
+    "message": "Badge Preview",
+    "description": "Title for preview section"
+  },
+  "previewNoSelection": {
+    "message": "Select at least one language to see the preview",
+    "description": "Message when no language is selected"
+  },
+  "buttonSave": {
+    "message": "Save Settings",
+    "description": "Save button text"
+  },
+  "buttonReset": {
+    "message": "Reset to Default",
+    "description": "Reset button text"
+  },
+  "errorLoadingPreferences": {
+    "message": "Error loading preferences",
+    "description": "Error message when loading fails"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Select at least one language",
+    "description": "Error when no language is selected"
+  },
+  "errorMaxLanguages": {
+    "message": "You can select up to $MAX$ languages",
+    "description": "Error when too many languages selected",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ Settings saved! Reload Crunchyroll pages to see the changes.",
+    "description": "Success message after saving"
+  },
+  "errorSavingPreferences": {
+    "message": "Error saving preferences",
+    "description": "Error message when saving fails"
+  },
+  "successReset": {
+    "message": "Settings reset. Click \"Save\" to apply.",
+    "description": "Success message after reset"
+  }
+}

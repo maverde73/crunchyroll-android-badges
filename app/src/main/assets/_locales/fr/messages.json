@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Badges de Langues",
+    "description": "Nom de l'extension"
+  },
+  "extensionDescription": {
+    "message": "Ajoute des badges aux anime avec doublage dans les langues configurées.",
+    "description": "Description de l'extension"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Badges - Paramètres",
+    "description": "Titre de la page d'options"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Badges - Configuration",
+    "description": "En-tête principal de la page d'options"
+  },
+  "headerSubtitle": {
+    "message": "Choisissez jusqu'à 3 langues audio pour afficher les badges",
+    "description": "Sous-titre expliquant le but"
+  },
+  "infoBoxText": {
+    "message": "Les badges apparaîtront sur les cartes d'anime ayant de l'audio disponible dans les langues sélectionnées",
+    "description": "Texte de la boîte d'information"
+  },
+  "sectionLanguages": {
+    "message": "Langues Audio",
+    "description": "En-tête de section pour les langues"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Sélectionnez jusqu'à 3 langues",
+    "description": "Texte d'aide pour le maximum de langues"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ Vous pouvez sélectionner jusqu'à 3 langues",
+    "description": "Avertissement en cas de dépassement du nombre maximum de langues"
+  },
+  "previewTitle": {
+    "message": "Aperçu du Badge",
+    "description": "Titre de la section d'aperçu"
+  },
+  "previewNoSelection": {
+    "message": "Sélectionnez au moins une langue pour voir l'aperçu",
+    "description": "Message lorsqu'aucune langue n'est sélectionnée"
+  },
+  "buttonSave": {
+    "message": "Enregistrer les Paramètres",
+    "description": "Texte du bouton d'enregistrement"
+  },
+  "buttonReset": {
+    "message": "Réinitialiser par Défaut",
+    "description": "Texte du bouton de réinitialisation"
+  },
+  "errorLoadingPreferences": {
+    "message": "Erreur lors du chargement des préférences",
+    "description": "Message d'erreur en cas d'échec du chargement"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Sélectionnez au moins une langue",
+    "description": "Erreur lorsqu'aucune langue n'est sélectionnée"
+  },
+  "errorMaxLanguages": {
+    "message": "Vous pouvez sélectionner jusqu'à $MAX$ langues",
+    "description": "Erreur en cas de trop de langues sélectionnées",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ Paramètres enregistrés ! Rechargez les pages Crunchyroll pour voir les changements.",
+    "description": "Message de succès après l'enregistrement"
+  },
+  "errorSavingPreferences": {
+    "message": "Erreur lors de l'enregistrement des préférences",
+    "description": "Message d'erreur en cas d'échec de l'enregistrement"
+  },
+  "successReset": {
+    "message": "Paramètres réinitialisés. Cliquez sur \"Enregistrer\" pour appliquer.",
+    "description": "Message de succès après la réinitialisation"
+  }
+}

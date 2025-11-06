@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Языковые Значки",
+    "description": "Название расширения"
+  },
+  "extensionDescription": {
+    "message": "Добавляет значки к аниме с дубляжом на настроенных языках.",
+    "description": "Описание расширения"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Значки - Настройки",
+    "description": "Заголовок страницы настроек"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Значки - Конфигурация",
+    "description": "Основной заголовок страницы настроек"
+  },
+  "headerSubtitle": {
+    "message": "Выберите до 3 языков аудио для отображения значков",
+    "description": "Подзаголовок, объясняющий назначение"
+  },
+  "infoBoxText": {
+    "message": "Значки будут отображаться на карточках аниме, имеющих аудио на выбранных языках",
+    "description": "Текст информационного поля"
+  },
+  "sectionLanguages": {
+    "message": "Языки Аудио",
+    "description": "Заголовок раздела языков"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Выберите до 3 языков",
+    "description": "Текст подсказки для максимального количества языков"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ Вы можете выбрать до 3 языков",
+    "description": "Предупреждение при превышении максимального количества языков"
+  },
+  "previewTitle": {
+    "message": "Предпросмотр Значка",
+    "description": "Заголовок раздела предпросмотра"
+  },
+  "previewNoSelection": {
+    "message": "Выберите хотя бы один язык для просмотра предварительного просмотра",
+    "description": "Сообщение, когда язык не выбран"
+  },
+  "buttonSave": {
+    "message": "Сохранить Настройки",
+    "description": "Текст кнопки сохранения"
+  },
+  "buttonReset": {
+    "message": "Сбросить по Умолчанию",
+    "description": "Текст кнопки сброса"
+  },
+  "errorLoadingPreferences": {
+    "message": "Ошибка загрузки настроек",
+    "description": "Сообщение об ошибке при сбое загрузки"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Выберите хотя бы один язык",
+    "description": "Ошибка, когда язык не выбран"
+  },
+  "errorMaxLanguages": {
+    "message": "Вы можете выбрать до $MAX$ языков",
+    "description": "Ошибка при выборе слишком большого количества языков",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ Настройки сохранены! Перезагрузите страницы Crunchyroll, чтобы увидеть изменения.",
+    "description": "Сообщение об успехе после сохранения"
+  },
+  "errorSavingPreferences": {
+    "message": "Ошибка сохранения настроек",
+    "description": "Сообщение об ошибке при сбое сохранения"
+  },
+  "successReset": {
+    "message": "Настройки сброшены. Нажмите \"Сохранить\", чтобы применить.",
+    "description": "Сообщение об успехе после сброса"
+  }
+}

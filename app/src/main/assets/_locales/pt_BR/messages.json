@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Distintivos de Idiomas",
+    "description": "Nome da extensão"
+  },
+  "extensionDescription": {
+    "message": "Adiciona distintivos aos animes com dublagem nos idiomas configurados.",
+    "description": "Descrição da extensão"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Distintivos - Configurações",
+    "description": "Título da página de opções"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Distintivos - Configuração",
+    "description": "Cabeçalho principal da página de opções"
+  },
+  "headerSubtitle": {
+    "message": "Escolha até 3 idiomas de áudio para exibir distintivos",
+    "description": "Subtítulo explicando o propósito"
+  },
+  "infoBoxText": {
+    "message": "Os distintivos aparecerão nos cards de anime que têm áudio disponível nos idiomas selecionados",
+    "description": "Texto da caixa de informações"
+  },
+  "sectionLanguages": {
+    "message": "Idiomas de Áudio",
+    "description": "Cabeçalho da seção de idiomas"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Selecione até 3 idiomas",
+    "description": "Texto de ajuda para o máximo de idiomas"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ Você pode selecionar até 3 idiomas",
+    "description": "Aviso quando exceder o máximo de idiomas"
+  },
+  "previewTitle": {
+    "message": "Visualização do Distintivo",
+    "description": "Título da seção de visualização"
+  },
+  "previewNoSelection": {
+    "message": "Selecione pelo menos um idioma para ver a visualização",
+    "description": "Mensagem quando nenhum idioma está selecionado"
+  },
+  "buttonSave": {
+    "message": "Salvar Configurações",
+    "description": "Texto do botão salvar"
+  },
+  "buttonReset": {
+    "message": "Restaurar Padrão",
+    "description": "Texto do botão restaurar"
+  },
+  "errorLoadingPreferences": {
+    "message": "Erro ao carregar preferências",
+    "description": "Mensagem de erro quando o carregamento falha"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Selecione pelo menos um idioma",
+    "description": "Erro quando nenhum idioma está selecionado"
+  },
+  "errorMaxLanguages": {
+    "message": "Você pode selecionar até $MAX$ idiomas",
+    "description": "Erro quando muitos idiomas estão selecionados",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ Configurações salvas! Recarregue as páginas do Crunchyroll para ver as mudanças.",
+    "description": "Mensagem de sucesso após salvar"
+  },
+  "errorSavingPreferences": {
+    "message": "Erro ao salvar preferências",
+    "description": "Mensagem de erro quando o salvamento falha"
+  },
+  "successReset": {
+    "message": "Configurações restauradas. Clique em \"Salvar\" para aplicar.",
+    "description": "Mensagem de sucesso após restaurar"
+  }
+}

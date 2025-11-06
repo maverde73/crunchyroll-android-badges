@@ -1,0 +1,84 @@
+{
+  "extensionName": {
+    "message": "Crunchyroll Sprach-Badges",
+    "description": "Name der Erweiterung"
+  },
+  "extensionDescription": {
+    "message": "Fügt Badges zu Anime mit Synchronisation in konfigurierten Sprachen hinzu.",
+    "description": "Beschreibung der Erweiterung"
+  },
+  "optionsTitle": {
+    "message": "Crunchyroll Badges - Einstellungen",
+    "description": "Titel der Optionsseite"
+  },
+  "headerTitle": {
+    "message": "🎌 Crunchyroll Badges - Konfiguration",
+    "description": "Hauptüberschrift der Optionsseite"
+  },
+  "headerSubtitle": {
+    "message": "Wählen Sie bis zu 3 Audiosprachen aus, für die Badges angezeigt werden sollen",
+    "description": "Untertitel, der den Zweck erklärt"
+  },
+  "infoBoxText": {
+    "message": "Badges erscheinen auf Anime-Karten, die Audio in den ausgewählten Sprachen verfügbar haben",
+    "description": "Text des Informationsfelds"
+  },
+  "sectionLanguages": {
+    "message": "Audiosprachen",
+    "description": "Abschnittsüberschrift für Sprachen"
+  },
+  "helpTextMaxLanguages": {
+    "message": "Wählen Sie maximal 3 Sprachen",
+    "description": "Hilfetext für maximale Sprachen"
+  },
+  "warningMaxLanguages": {
+    "message": "⚠️ Sie können maximal 3 Sprachen auswählen",
+    "description": "Warnung bei Überschreitung der maximalen Sprachen"
+  },
+  "previewTitle": {
+    "message": "Badge-Vorschau",
+    "description": "Titel des Vorschauabschnitts"
+  },
+  "previewNoSelection": {
+    "message": "Wählen Sie mindestens eine Sprache, um die Vorschau zu sehen",
+    "description": "Nachricht, wenn keine Sprache ausgewählt ist"
+  },
+  "buttonSave": {
+    "message": "Einstellungen Speichern",
+    "description": "Text der Speichern-Schaltfläche"
+  },
+  "buttonReset": {
+    "message": "Auf Standard Zurücksetzen",
+    "description": "Text der Zurücksetzen-Schaltfläche"
+  },
+  "errorLoadingPreferences": {
+    "message": "Fehler beim Laden der Einstellungen",
+    "description": "Fehlermeldung, wenn das Laden fehlschlägt"
+  },
+  "errorSelectAtLeastOne": {
+    "message": "Wählen Sie mindestens eine Sprache",
+    "description": "Fehler, wenn keine Sprache ausgewählt ist"
+  },
+  "errorMaxLanguages": {
+    "message": "Sie können maximal $MAX$ Sprachen auswählen",
+    "description": "Fehler bei zu vielen ausgewählten Sprachen",
+    "placeholders": {
+      "max": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "successSaved": {
+    "message": "✅ Einstellungen gespeichert! Laden Sie Crunchyroll-Seiten neu, um die Änderungen zu sehen.",
+    "description": "Erfolgsmeldung nach dem Speichern"
+  },
+  "errorSavingPreferences": {
+    "message": "Fehler beim Speichern der Einstellungen",
+    "description": "Fehlermeldung, wenn das Speichern fehlschlägt"
+  },
+  "successReset": {
+    "message": "Einstellungen zurückgesetzt. Klicken Sie auf \"Speichern\" zum Anwenden.",
+    "description": "Erfolgsmeldung nach dem Zurücksetzen"
+  }
+}
