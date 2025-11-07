@@ -10,13 +10,17 @@
     android:foreground="?android:attr/selectableItemBackground"
     app:cardBackgroundColor="#2A2A2A"
     app:cardCornerRadius="8dp"
-    app:cardElevation="4dp">
+    app:cardElevation="4dp"
+    android:stateListAnimator="@null">
 
     <LinearLayout
+        android:id="@+id/cardContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:padding="12dp">
+        android:padding="12dp"
+        android:background="@drawable/card_focus_selector"
+        android:duplicateParentState="true">
 
         <!-- Poster Image -->
         <ImageView

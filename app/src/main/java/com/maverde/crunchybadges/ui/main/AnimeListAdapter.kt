@@ -39,6 +39,25 @@ class AnimeListAdapter(
         private val episodeCountText: TextView = itemView.findViewById(R.id.episodeCountText)
         private val ratingText: TextView = itemView.findViewById(R.id.ratingText)
 
+        init {
+            // Add focus change listener for visual feedback
+            itemView.setOnFocusChangeListener { view, hasFocus ->
+                val scale = if (hasFocus) 1.08f else 1.0f
+                val elevation = if (hasFocus) 12f else 4f
+
+                view.animate()
+                    .scaleX(scale)
+                    .scaleY(scale)
+                    .setDuration(200)
+                    .start()
+
+                // Update card elevation
+                if (view is androidx.cardview.widget.CardView) {
+                    view.cardElevation = elevation * view.resources.displayMetrics.density
+                }
+            }
+        }
+
         fun bind(anime: AnimeEntity) {
             titleText.text = anime.title
             episodeCountText.text = if (anime.episodeCount > 1) {
