@@ -18,19 +18,13 @@ class JavaScriptBridge(
     /**
      * Called from JavaScript when user clicks on an anime
      * @param seriesId - Crunchyroll series ID (e.g., "GP5HJ84P7")
+     * @param seriesTitle - Title of the series (optional, for Fire TV search)
      */
     @JavascriptInterface
-    fun openAnime(seriesId: String) {
+    fun openAnime(seriesId: String, seriesTitle: String? = null) {
         activity.runOnUiThread {
-            // Show toast feedback
-            Toast.makeText(
-                activity,
-                "Opening anime in Crunchyroll app...",
-                Toast.LENGTH_SHORT
-            ).show()
-
-            // Launch Crunchyroll app with series ID
-            intentLauncher.launchCrunchyrollApp(seriesId)
+            // Launch Crunchyroll with platform-aware method
+            intentLauncher.launchCrunchyrollApp(seriesId, seriesTitle)
         }
     }
 
@@ -68,5 +62,25 @@ class JavaScriptBridge(
                 Toast.LENGTH_SHORT
             ).show()
         }
+    }
+
+    /**
+     * Get filter undubbed preference
+     * @return true if user wants to show only dubbed anime
+     */
+    @JavascriptInterface
+    fun shouldFilterUndubbed(): Boolean {
+        val prefs = activity.getSharedPreferences("crunchybadges", Activity.MODE_PRIVATE)
+        return prefs.getBoolean("filterUndubbed", false)
+    }
+
+    /**
+     * Save filter undubbed preference
+     * @param enabled - true to show only dubbed anime
+     */
+    @JavascriptInterface
+    fun saveFilterUndubbed(enabled: Boolean) {
+        val prefs = activity.getSharedPreferences("crunchybadges", Activity.MODE_PRIVATE)
+        prefs.edit().putBoolean("filterUndubbed", enabled).apply()
     }
 }

@@ -29,15 +29,40 @@ class WebViewManager(
 
     @SuppressLint("SetJavaScriptEnabled")
     private fun setupWebView() {
+        // Enable cookie manager for persistent login
+        val cookieManager = android.webkit.CookieManager.getInstance()
+        cookieManager.setAcceptCookie(true)
+        cookieManager.setAcceptThirdPartyCookies(webView, true)
+
         webView.settings.apply {
+            // JavaScript
             javaScriptEnabled = true
+
+            // Storage & Database
             domStorageEnabled = true
             databaseEnabled = true
+
+            // Cache - Aggressive caching for better performance
+            // LOAD_CACHE_ELSE_NETWORK prioritizes cache, loads from network only if needed
+            cacheMode = android.webkit.WebSettings.LOAD_CACHE_ELSE_NETWORK
+
+            // Media & Content
+            mediaPlaybackRequiresUserGesture = false
+            loadsImagesAutomatically = true
+            mixedContentMode = android.webkit.WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
+
+            // Zoom
             setSupportZoom(true)
             builtInZoomControls = true
             displayZoomControls = false
+
+            // Viewport
             useWideViewPort = true
             loadWithOverviewMode = true
+
+            // Allow file access for cookies/storage
+            allowFileAccess = true
+            allowContentAccess = true
         }
 
         // Add JavaScript interface for communication
@@ -55,6 +80,9 @@ class WebViewManager(
                 if (url.contains("crunchyroll.com")) {
                     injectJavaScript(view)
                     injectCSS(view)
+
+                    // Force cookie flush to ensure they're saved
+                    android.webkit.CookieManager.getInstance().flush()
                 }
             }
         }
@@ -65,32 +93,25 @@ class WebViewManager(
     }
 
     private fun injectJavaScript(view: WebView) {
-        // Inject injected.js (API interceptor)
+        // 1. Inject injected.js (API interceptor - must be first)
         val injectedJs = loadAsset("injected.js")
-        view.evaluateJavascript(injectedJs, null)
+        view.evaluateJavascript(injectedJs) { result ->
+            android.util.Log.d("CrunchyBadges", "Injected.js loaded: $result")
+        }
 
-        // Inject content.js (badge logic)
-        val contentJs = loadAsset("content.js")
-        // Modify content.js to use Android bridge
-        val modifiedContentJs = contentJs.replace(
-            "// Add badges to element",
-            """
-            // Intercept anime clicks for Android
-            document.addEventListener('click', (e) => {
-                const link = e.target.closest('a[href*="/series/"]');
-                if (link) {
-                    e.preventDefault();
-                    const match = link.href.match(/\/series\/([A-Z0-9]+)/i);
-                    if (match) {
-                        Android.openAnime(match[1]);
-                    }
-                }
-            }, true);
+        // 2. Inject content-android.js (badge logic - uses Android bridge)
+        val contentAndroidJs = loadAsset("content-android.js")
+        view.evaluateJavascript(contentAndroidJs) { result ->
+            android.util.Log.d("CrunchyBadges", "Content-android.js loaded: $result")
+        }
 
-            // Add badges to element
-            """.trimIndent()
-        )
-        view.evaluateJavascript(modifiedContentJs, null)
+        // 3. Inject click-interceptor.js (handles clicks on anime cards)
+        val clickInterceptorJs = loadAsset("click-interceptor.js")
+        view.evaluateJavascript(clickInterceptorJs) { result ->
+            android.util.Log.d("CrunchyBadges", "Click-interceptor.js loaded: $result")
+        }
+
+        android.util.Log.d("CrunchyBadges", "All scripts injected successfully")
     }
 
     private fun injectCSS(view: WebView) {

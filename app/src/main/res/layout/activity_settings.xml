@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="#FFFFFF"
+    tools:context=".SettingsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Crunchyroll Language Badges"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Impostazioni"
+            android:textSize="18sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:layout_marginBottom="32dp" />
+
+        <!-- Languages Section -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lingue da monitorare (max 3)"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="16dp" />
+
+        <CheckBox
+            android:id="@+id/checkItaIT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇮🇹 Italiano (ITA)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkEnUS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇺🇸 English (ENG)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkEsES"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇪🇸 Español (ESP)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkEs419"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🌎 Español Latinoamérica (LAT)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkDeDE"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇩🇪 Deutsch (DEU)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkFrFR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇫🇷 Français (FRA)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkPtBR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇧🇷 Português (POR)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkJaJP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇯🇵 日本語 (JAP)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkRuRU"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🇷🇺 Русский (RUS)"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Filter Section -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#CCCCCC"
+            android:layout_marginBottom="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Opzioni visualizzazione"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="16dp" />
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/switchFilterUndubbed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mostra solo anime doppiati"
+            android:textSize="16sp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nasconde gli anime senza doppiaggio nelle lingue selezionate"
+            android:textSize="12sp"
+            android:textColor="#666666"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_marginBottom="32dp" />
+
+        <!-- Save Button -->
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salva e ricarica"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>
