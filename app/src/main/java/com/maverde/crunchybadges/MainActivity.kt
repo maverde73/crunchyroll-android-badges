@@ -1,103 +1,82 @@
 package com.maverde.crunchybadges
 
-import android.content.Intent
 import android.os.Bundle
-import android.view.KeyEvent
-import android.webkit.WebView
+import android.view.View
+import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.lifecycleScope
+import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.RecyclerView
+import com.maverde.crunchybadges.ui.main.AnimeListAdapter
+import com.maverde.crunchybadges.ui.main.MainViewModel
+import kotlinx.coroutines.launch
 
 /**
- * Main Activity - Crunchyroll Language Badges
+ * Main Activity - v3.0 Native Catalog
  *
- * Displays Crunchyroll in a WebView with language badge overlay.
- * When user selects an anime, launches the official Crunchyroll app.
+ * Displays Italian-dubbed anime from local database
+ * Uses native RecyclerView instead of WebView
  */
 class MainActivity : AppCompatActivity() {
 
-    companion object {
-        private const val SETTINGS_REQUEST_CODE = 1001
-    }
-
-    private lateinit var webView: WebView
-    private lateinit var webViewManager: WebViewManager
-    private lateinit var intentLauncher: IntentLauncher
+    private lateinit var viewModel: MainViewModel
+    private lateinit var recyclerView: RecyclerView
+    private lateinit var emptyText: TextView
+    private lateinit var adapter: AnimeListAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        webView = findViewById(R.id.webView)
-        intentLauncher = IntentLauncher(this)
+        // Initialize views
+        recyclerView = findViewById(R.id.recyclerView)
+        emptyText = findViewById(R.id.emptyText)
 
-        // Initialize WebView with badge injection
-        webViewManager = WebViewManager(
-            webView = webView,
-            activity = this,
-            intentLauncher = intentLauncher
-        )
+        // Setup RecyclerView
+        adapter = AnimeListAdapter { anime ->
+            // TODO: Open DetailActivity or Crunchyroll app
+            Toast.makeText(
+                this,
+                "Cliccato: ${anime.title}",
+                Toast.LENGTH_SHORT
+            ).show()
+        }
 
-        // Load Crunchyroll
-        webViewManager.loadCrunchyroll()
-    }
+        recyclerView.adapter = adapter
+        recyclerView.layoutManager = GridLayoutManager(this, getGridSpanCount())
 
-    override fun onBackPressed() {
-        if (webView.canGoBack()) {
-            webView.goBack()
-        } else {
-            super.onBackPressed()
+        // Initialize ViewModel
+        viewModel = ViewModelProvider(this)[MainViewModel::class.java]
+
+        // Observe anime list
+        lifecycleScope.launch {
+            viewModel.animeList.collect { animeList ->
+                if (animeList.isEmpty()) {
+                    recyclerView.visibility = View.GONE
+                    emptyText.visibility = View.VISIBLE
+                } else {
+                    recyclerView.visibility = View.VISIBLE
+                    emptyText.visibility = View.GONE
+                    adapter.submitList(animeList)
+                }
+            }
         }
     }
 
-    override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
-        // Open settings when MENU button is pressed (Fire TV remote)
-        if (keyCode == KeyEvent.KEYCODE_MENU) {
-            openSettings()
-            return true
+    /**
+     * Determine grid column count based on screen width
+     * Fire TV typically has wider screens
+     */
+    private fun getGridSpanCount(): Int {
+        val displayMetrics = resources.displayMetrics
+        val screenWidthDp = displayMetrics.widthPixels / displayMetrics.density
+        return when {
+            screenWidthDp >= 1200 -> 4  // Very wide screens (Fire TV, tablets)
+            screenWidthDp >= 800 -> 3   // Tablets
+            screenWidthDp >= 600 -> 2   // Large phones
+            else -> 1                    // Phones
         }
-        return super.onKeyDown(keyCode, event)
-    }
-
-    private fun openSettings() {
-        val intent = Intent(this, SettingsActivity::class.java)
-        startActivityForResult(intent, SETTINGS_REQUEST_CODE)
-    }
-
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-
-        if (requestCode == SETTINGS_REQUEST_CODE && resultCode == RESULT_OK) {
-            // Settings changed, reload the page to apply new filters
-            webView.reload()
-        }
-    }
-
-    override fun onPause() {
-        super.onPause()
-        // Save WebView state and flush cookies
-        webView.onPause()
-        android.webkit.CookieManager.getInstance().flush()
-    }
-
-    override fun onResume() {
-        super.onResume()
-        // Resume WebView
-        webView.onResume()
-    }
-
-    override fun onSaveInstanceState(outState: android.os.Bundle) {
-        super.onSaveInstanceState(outState)
-        // Save WebView state for restoration after configuration changes
-        webView.saveState(outState)
-    }
-
-    override fun onRestoreInstanceState(savedInstanceState: android.os.Bundle) {
-        super.onRestoreInstanceState(savedInstanceState)
-        // Restore WebView state
-        webView.restoreState(savedInstanceState)
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-        webView.destroy()
     }
 }
