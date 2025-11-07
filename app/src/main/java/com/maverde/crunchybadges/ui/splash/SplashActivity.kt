@@ -51,6 +51,19 @@ class SplashActivity : AppCompatActivity() {
             if (viewModel.isDatabaseEmpty()) {
                 subtitleText.text = "Caricamento catalogo Crunchyroll..."
                 viewModel.startScraping()
+
+                // TEMPORARY: Navigate to main after 30 seconds for testing
+                progressBar.postDelayed({
+                    lifecycleScope.launch {
+                        val count = viewModel.getItalianCount()
+                        if (count > 0) {
+                            subtitleText.text = "Test mode: navigazione anticipata..."
+                            progressBar.postDelayed({
+                                navigateToMain()
+                            }, 2000)
+                        }
+                    }
+                }, 30000) // 30 seconds
             } else {
                 // Database already populated, go to main
                 navigateToMain()

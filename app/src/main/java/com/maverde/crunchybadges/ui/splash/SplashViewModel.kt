@@ -32,6 +32,13 @@ class SplashViewModel(application: Application) : AndroidViewModel(application) 
     }
 
     /**
+     * Get current Italian anime count
+     */
+    suspend fun getItalianCount(): Int {
+        return repository.getItalianAnimeCount()
+    }
+
+    /**
      * Start scraping process
      */
     fun startScraping() {

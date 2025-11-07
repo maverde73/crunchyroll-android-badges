@@ -122,7 +122,7 @@ class WebViewScraper(private val context: Context) {
     }
 
     /**
-     * Trigger next page load by scrolling or direct API call
+     * Trigger next page load by direct API fetch
      */
     private fun loadNextPage() {
         if (totalExpected == 0) {
@@ -137,19 +137,33 @@ class WebViewScraper(private val context: Context) {
             return
         }
 
-        // Scroll to trigger next page load
-        webView.post {
-            webView.evaluateJavascript(
-                "window.scrollTo(0, document.body.scrollHeight);",
-                null
-            )
+        // Make direct API call with fetch
+        val start = currentOffset
+        val apiUrl = "/content/v2/discover/browse?start=$start&n=36&sort_by=alphabetical"
 
-            // Schedule next check after delay to allow content to load
-            webView.postDelayed({
-                if (currentOffset < totalExpected) {
-                    loadNextPage()
-                }
-            }, 2000)  // Wait 2 seconds between scrolls
+        webView.post {
+            val fetchScript = """
+                (function() {
+                    console.log('[Scraper] Fetching page at offset $start');
+                    fetch('$apiUrl', {
+                        method: 'GET',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        credentials: 'include'
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('[Scraper] API response for offset $start:', data.total);
+                        Android.onApiResponse(JSON.stringify(data));
+                    })
+                    .catch(error => {
+                        console.error('[Scraper] Fetch error:', error);
+                    });
+                })();
+            """.trimIndent()
+
+            webView.evaluateJavascript(fetchScript, null)
         }
     }
 
