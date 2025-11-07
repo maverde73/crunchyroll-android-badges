@@ -22,6 +22,12 @@ class WebViewScraper(private val context: Context) {
 
     private val json = Json { ignoreUnknownKeys = true }
 
+    private var totalExpected = 0
+    private var currentOffset = 0
+    private val pageSize = 36  // Crunchyroll default page size
+
+    private var receivedResponses = mutableSetOf<Int>()  // Track received offsets
+
     companion object {
         private const val CRUNCHYROLL_URL = "https://www.crunchyroll.com/videos/new"
 
@@ -116,6 +122,38 @@ class WebViewScraper(private val context: Context) {
     }
 
     /**
+     * Trigger next page load by scrolling or direct API call
+     */
+    private fun loadNextPage() {
+        if (totalExpected == 0) {
+            // Wait for first response to know the total
+            return
+        }
+
+        if (currentOffset >= totalExpected) {
+            // All data loaded
+            android.util.Log.d("WebViewScraper", "Scraping complete!")
+            responseChannel.trySend(ScrapingResult.Complete)
+            return
+        }
+
+        // Scroll to trigger next page load
+        webView.post {
+            webView.evaluateJavascript(
+                "window.scrollTo(0, document.body.scrollHeight);",
+                null
+            )
+
+            // Schedule next check after delay to allow content to load
+            webView.postDelayed({
+                if (currentOffset < totalExpected) {
+                    loadNextPage()
+                }
+            }, 2000)  // Wait 2 seconds between scrolls
+        }
+    }
+
+    /**
      * JavaScript bridge to receive API responses
      */
     private inner class ScraperBridge {
@@ -127,7 +165,25 @@ class WebViewScraper(private val context: Context) {
                     "WebViewScraper",
                     "Parsed response: ${response.data.size} items, total: ${response.total}"
                 )
+
+                // Update total if this is first response
+                if (totalExpected == 0) {
+                    totalExpected = response.total
+                    android.util.Log.d("WebViewScraper", "Total items to scrape: $totalExpected")
+                }
+
+                // Mark this offset as received
+                receivedResponses.add(currentOffset)
+                currentOffset += response.data.size
+
+                // Send response
                 responseChannel.trySend(ScrapingResult.Success(response))
+
+                // Trigger next page if needed
+                android.os.Handler(android.os.Looper.getMainLooper()).post {
+                    loadNextPage()
+                }
+
             } catch (e: Exception) {
                 android.util.Log.e("WebViewScraper", "Error parsing JSON", e)
                 responseChannel.trySend(ScrapingResult.Error(e.message ?: "Parse error"))
