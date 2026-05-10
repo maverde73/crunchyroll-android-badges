@@ -46,28 +46,30 @@ class SplashActivity : AppCompatActivity() {
             }
         }
 
-        // Check database and start scraping if needed
+        // Always run scraping: FULL_SYNC if DB empty, INCREMENTAL_SYNC otherwise.
+        // SplashViewModel.startScraping() picks the right mode internally.
         lifecycleScope.launch {
-            if (viewModel.isDatabaseEmpty()) {
-                subtitleText.text = "Caricamento catalogo Crunchyroll..."
-                viewModel.startScraping()
-
-                // TEMPORARY: Navigate to main after 30 seconds for testing
-                progressBar.postDelayed({
-                    lifecycleScope.launch {
-                        val count = viewModel.getItalianCount()
-                        if (count > 0) {
-                            subtitleText.text = "Test mode: navigazione anticipata..."
-                            progressBar.postDelayed({
-                                navigateToMain()
-                            }, 2000)
-                        }
-                    }
-                }, 30000) // 30 seconds
+            val isEmpty = viewModel.isDatabaseEmpty()
+            subtitleText.text = if (isEmpty) {
+                "Caricamento catalogo Crunchyroll..."
             } else {
-                // Database already populated, go to main
-                navigateToMain()
+                "Controllo nuovi titoli..."
             }
+            viewModel.startScraping()
+
+            // Safety escape hatch: if scraping doesn't reach Complete within 30s
+            // and we already have something to show, navigate anyway.
+            progressBar.postDelayed({
+                lifecycleScope.launch {
+                    val count = viewModel.getItalianCount()
+                    if (count > 0) {
+                        subtitleText.text = "Timeout — apertura catalogo..."
+                        progressBar.postDelayed({
+                            navigateToMain()
+                        }, 2000)
+                    }
+                }
+            }, 30000)
         }
     }
 

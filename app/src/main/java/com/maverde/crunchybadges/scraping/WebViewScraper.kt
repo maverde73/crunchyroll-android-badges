@@ -8,6 +8,10 @@ import android.webkit.WebViewClient
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.receiveAsFlow
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.cancel
+import kotlinx.coroutines.launch
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.jsonObject
 import com.maverde.crunchybadges.data.models.BrowseResponse
@@ -16,7 +20,10 @@ import com.maverde.crunchybadges.data.models.BrowseResponse
  * WebView-based scraper that intercepts Crunchyroll API responses
  * Bypasses Cloudflare by using a real browser engine
  */
-class WebViewScraper(private val context: Context) {
+class WebViewScraper(
+    private val context: Context,
+    private val sortBy: String = "alphabetical"  // alphabetical | newly_added
+) {
 
     private lateinit var webView: WebView
     private val responseChannel = Channel<ScrapingResult>(Channel.UNLIMITED)
@@ -29,19 +36,33 @@ class WebViewScraper(private val context: Context) {
 
     private var receivedResponses = mutableSetOf<Int>()  // Track received offsets
 
-    // Extracted authentication data
-    private var authHeaders: Map<String, String>? = null
-    private var cookies: String? = null
+    // Base URL extracted from first API call
     private var baseUrl: String? = null
-    private var useDirectApi = false  // Switch to direct API after first response
+
+    // API client for sequential pagination (initialized after first response)
+    private var apiClient: ApiClient? = null
+    private val apiScope = CoroutineScope(Dispatchers.IO)
+
+    @Volatile
+    private var destroyed = false
 
     companion object {
         private const val CRUNCHYROLL_URL = "https://www.crunchyroll.com/videos/new"
 
-        // JavaScript to intercept API responses with full request details
+        // JavaScript to intercept API responses with auth headers
         private const val INTERCEPTOR_SCRIPT = """
             (function() {
-                console.log('[Scraper] Injecting API interceptor with headers extraction');
+                console.log('[Scraper] Injecting API interceptor with auth extraction');
+
+                // Intercept XMLHttpRequest.setRequestHeader to capture auth
+                const originalSetRequestHeader = XMLHttpRequest.prototype.setRequestHeader;
+                XMLHttpRequest.prototype.setRequestHeader = function(header, value) {
+                    if (!this._requestHeaders) {
+                        this._requestHeaders = {};
+                    }
+                    this._requestHeaders[header] = value;
+                    return originalSetRequestHeader.apply(this, arguments);
+                };
 
                 const originalFetch = window.fetch;
                 window.fetch = function(...args) {
@@ -50,18 +71,36 @@ class WebViewScraper(private val context: Context) {
 
                     return originalFetch.apply(this, args).then(response => {
                         if (url.includes('/content/v2/discover/browse')) {
-                            // Extract headers from request
                             const requestHeaders = options.headers || {};
                             const cookies = document.cookie;
+
+                            // Extract auth from localStorage/sessionStorage
+                            const localStorage = {};
+                            const sessionStorage = {};
+                            try {
+                                for (let i = 0; i < window.localStorage.length; i++) {
+                                    const key = window.localStorage.key(i);
+                                    if (key.includes('token') || key.includes('auth')) {
+                                        localStorage[key] = window.localStorage.getItem(key);
+                                    }
+                                }
+                                for (let i = 0; i < window.sessionStorage.length; i++) {
+                                    const key = window.sessionStorage.key(i);
+                                    if (key.includes('token') || key.includes('auth')) {
+                                        sessionStorage[key] = window.sessionStorage.getItem(key);
+                                    }
+                                }
+                            } catch(e) {}
 
                             response.clone().json().then(data => {
                                 console.log('[Scraper] Intercepted fetch API:', data.total);
 
-                                // Send data + headers to Android
                                 const payload = {
                                     data: data,
                                     requestHeaders: requestHeaders,
                                     cookies: cookies,
+                                    localStorage: localStorage,
+                                    sessionStorage: sessionStorage,
                                     url: url
                                 };
                                 Android.onApiResponseWithHeaders(JSON.stringify(payload));
@@ -77,6 +116,7 @@ class WebViewScraper(private val context: Context) {
                 XMLHttpRequest.prototype.open = function(method, url) {
                     this._url = url;
                     this._method = method;
+                    this._requestHeaders = {};
                     return originalOpen.apply(this, arguments);
                 };
 
@@ -88,18 +128,34 @@ class WebViewScraper(private val context: Context) {
                             try {
                                 const data = JSON.parse(this.responseText);
                                 console.log('[Scraper] Intercepted XHR browse API:', data.total);
+                                console.log('[Scraper] Request headers:', xhr._requestHeaders);
 
-                                // Extract all request headers
-                                const requestHeaders = {};
-                                const headerStr = xhr.getAllResponseHeaders();
-
-                                // Get cookies
                                 const cookies = document.cookie;
+
+                                // Extract auth from localStorage/sessionStorage
+                                const localStorage = {};
+                                const sessionStorage = {};
+                                try {
+                                    for (let i = 0; i < window.localStorage.length; i++) {
+                                        const key = window.localStorage.key(i);
+                                        if (key.includes('token') || key.includes('auth')) {
+                                            localStorage[key] = window.localStorage.getItem(key);
+                                        }
+                                    }
+                                    for (let i = 0; i < window.sessionStorage.length; i++) {
+                                        const key = window.sessionStorage.key(i);
+                                        if (key.includes('token') || key.includes('auth')) {
+                                            sessionStorage[key] = window.sessionStorage.getItem(key);
+                                        }
+                                    }
+                                } catch(e) {}
 
                                 const payload = {
                                     data: data,
-                                    requestHeaders: requestHeaders,
+                                    requestHeaders: xhr._requestHeaders || {},
                                     cookies: cookies,
+                                    localStorage: localStorage,
+                                    sessionStorage: sessionStorage,
                                     url: this._url,
                                     method: this._method
                                 };
@@ -113,7 +169,7 @@ class WebViewScraper(private val context: Context) {
                     return originalSend.call(this, body);
                 };
 
-                console.log('[Scraper] API interceptor with headers ready');
+                console.log('[Scraper] API interceptor with auth ready');
             })();
         """
     }
@@ -154,15 +210,33 @@ class WebViewScraper(private val context: Context) {
     fun getResultsFlow(): Flow<ScrapingResult> = responseChannel.receiveAsFlow()
 
     /**
-     * Clean up resources
+     * Clean up resources. Idempotent and safe to call from any thread:
+     * WebView.destroy() must run on the main thread, so we post it.
      */
     fun destroy() {
-        webView.destroy()
+        if (destroyed) return
+        destroyed = true
+
+        // Stop any in-flight OkHttp pagination so its results don't reach a closed channel
+        apiScope.cancel()
+
+        // WebView must be destroyed on the main looper
+        if (this::webView.isInitialized) {
+            val mainHandler = android.os.Handler(android.os.Looper.getMainLooper())
+            mainHandler.post {
+                try {
+                    webView.destroy()
+                } catch (e: Exception) {
+                    android.util.Log.w("WebViewScraper", "WebView destroy failed: ${e.message}")
+                }
+            }
+        }
+
         responseChannel.close()
     }
 
     /**
-     * Trigger next page load by direct API fetch with extracted auth data
+     * Trigger next page load using OkHttp (sequential, rate-limited)
      */
     private fun loadNextPage() {
         if (totalExpected == 0) {
@@ -177,61 +251,37 @@ class WebViewScraper(private val context: Context) {
             return
         }
 
-        // Check if we have auth data
-        if (!useDirectApi || authHeaders == null) {
-            android.util.Log.w("WebViewScraper", "Waiting for auth data...")
+        // Check if ApiClient is initialized
+        if (apiClient == null) {
+            android.util.Log.w("WebViewScraper", "Waiting for ApiClient initialization...")
             return
         }
 
-        // Make direct API call with extracted auth headers
-        val start = currentOffset
-        val apiUrl = "/content/v2/discover/browse?start=$start&n=36&sort_by=alphabetical"
+        android.util.Log.d("WebViewScraper", "Loading page via OkHttp: $currentOffset/$totalExpected")
 
-        // Build headers object from extracted data
-        val headersJson = authHeaders!!.entries.joinToString(",\n") { (key, value) ->
-            // Escape value for JSON
-            val escapedValue = value.replace("\"", "\\\"").replace("\n", "\\n")
-            "        '$key': \"$escapedValue\""
-        }
+        // Use ApiClient to fetch next page (sequential with delay)
+        apiScope.launch {
+            val response = apiClient!!.fetchPage(currentOffset, pageSize)
 
-        android.util.Log.d("WebViewScraper", "Fetching offset $start/$totalExpected")
+            if (response != null) {
+                // Success - send response
+                responseChannel.trySend(ScrapingResult.Success(response))
 
-        webView.post {
-            val fetchScript = """
-                (function() {
-                    console.log('[Scraper] Direct API fetch at offset $start');
-                    fetch('$apiUrl', {
-                        method: 'GET',
-                        headers: {
-$headersJson,
-                            'Content-Type': 'application/json'
-                        },
-                        credentials: 'include'
-                    })
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error('HTTP ' + response.status);
-                        }
-                        return response.json();
-                    })
-                    .then(data => {
-                        console.log('[Scraper] Success for offset $start:', data.data.length, 'items');
-                        const payload = {
-                            data: data,
-                            requestHeaders: {},
-                            cookies: document.cookie,
-                            url: '$apiUrl'
-                        };
-                        Android.onApiResponseWithHeaders(JSON.stringify(payload));
-                    })
-                    .catch(error => {
-                        console.error('[Scraper] Fetch error at $start:', error);
-                        console.error('[Scraper] Error details:', error.message);
-                    });
-                })();
-            """.trimIndent()
+                // Update offset
+                currentOffset += response.data.size
 
-            webView.evaluateJavascript(fetchScript, null)
+                android.util.Log.d(
+                    "WebViewScraper",
+                    "OkHttp page loaded: ${response.data.size} items. Progress: $currentOffset/$totalExpected"
+                )
+
+                // Trigger next page
+                loadNextPage()
+            } else {
+                // Failed - report error
+                android.util.Log.e("WebViewScraper", "OkHttp fetch failed at offset $currentOffset")
+                responseChannel.trySend(ScrapingResult.Error("Failed to fetch page at $currentOffset"))
+            }
         }
     }
 
@@ -252,19 +302,68 @@ $headersJson,
                     "Parsed response: ${response.data.size} items, total: ${response.total}"
                 )
 
-                // Extract headers and cookies from first response
-                if (authHeaders == null) {
-                    val headersObj = payload["requestHeaders"]?.jsonObject
-                    authHeaders = headersObj?.mapValues { it.value.toString().trim('"') } ?: emptyMap()
-                    cookies = payload["cookies"]?.toString()?.trim('"') ?: ""
-                    baseUrl = payload["url"]?.toString()?.trim('"')?.substringBefore("?") ?: ""
+                // Initialize ApiClient on first response using auth headers + cookies
+                if (apiClient == null) {
+                    // Get cookies directly from WebView's CookieManager
+                    val cookieManager = android.webkit.CookieManager.getInstance()
+                    val webViewCookies = cookieManager.getCookie("https://www.crunchyroll.com") ?: ""
 
-                    android.util.Log.d("WebViewScraper", "Extracted auth data:")
-                    android.util.Log.d("WebViewScraper", "  Headers: ${authHeaders?.keys}")
-                    android.util.Log.d("WebViewScraper", "  Cookies: ${cookies?.take(50)}...")
-                    android.util.Log.d("WebViewScraper", "  Base URL: $baseUrl")
+                    android.util.Log.d("WebViewScraper", "Initializing ApiClient")
+                    android.util.Log.d("WebViewScraper", "  Cookies: ${webViewCookies.take(100)}...")
 
-                    useDirectApi = true
+                    // Extract request headers from payload
+                    val headersMap = mutableMapOf<String, String>()
+                    try {
+                        val requestHeaders = payload["requestHeaders"]?.jsonObject
+                        requestHeaders?.forEach { (key, value) ->
+                            val headerValue = value.toString().trim('"')
+                            headersMap[key] = headerValue
+                            if (key.equals("authorization", ignoreCase = true)) {
+                                android.util.Log.d("WebViewScraper", "  Found Authorization header: ${headerValue.take(50)}...")
+                            }
+                        }
+                    } catch (e: Exception) {
+                        android.util.Log.w("WebViewScraper", "Could not extract request headers: ${e.message}")
+                    }
+
+                    // Extract auth tokens from localStorage/sessionStorage
+                    try {
+                        val localStorage = payload["localStorage"]?.jsonObject
+                        val sessionStorage = payload["sessionStorage"]?.jsonObject
+
+                        localStorage?.forEach { (key, value) ->
+                            val tokenValue = value.toString().trim('"')
+                            android.util.Log.d("WebViewScraper", "  localStorage[$key]: ${tokenValue.take(50)}...")
+
+                            // If no Authorization header yet, try to construct one from token
+                            if (!headersMap.containsKey("Authorization") && !headersMap.containsKey("authorization")) {
+                                if (key.contains("token", ignoreCase = true) && tokenValue.length > 20) {
+                                    headersMap["Authorization"] = "Bearer $tokenValue"
+                                    android.util.Log.d("WebViewScraper", "  Using localStorage token as Authorization")
+                                }
+                            }
+                        }
+
+                        sessionStorage?.forEach { (key, value) ->
+                            val tokenValue = value.toString().trim('"')
+                            android.util.Log.d("WebViewScraper", "  sessionStorage[$key]: ${tokenValue.take(50)}...")
+                        }
+                    } catch (e: Exception) {
+                        android.util.Log.w("WebViewScraper", "Could not extract storage data: ${e.message}")
+                    }
+
+                    // Use known Crunchyroll API endpoint (always the same)
+                    val apiUrl = "https://www.crunchyroll.com/content/v2/discover/browse"
+
+                    if (webViewCookies.isNotEmpty()) {
+                        android.util.Log.d("WebViewScraper", "  API URL: $apiUrl")
+                        android.util.Log.d("WebViewScraper", "  Headers count: ${headersMap.size}")
+
+                        apiClient = ApiClient(apiUrl, headersMap, webViewCookies, sortBy)
+                        android.util.Log.d("WebViewScraper", "✅ ApiClient initialized! Switching to OkHttp for pagination.")
+                    } else {
+                        android.util.Log.e("WebViewScraper", "❌ Failed to init ApiClient: no cookies available")
+                    }
                 }
 
                 // Update total if this is first response
@@ -280,8 +379,9 @@ $headersJson,
                 // Send response
                 responseChannel.trySend(ScrapingResult.Success(response))
 
-                // Trigger next page if needed
-                android.os.Handler(android.os.Looper.getMainLooper()).post {
+                // Trigger next page if ApiClient is ready
+                if (apiClient != null) {
+                    // Use OkHttp for subsequent pages
                     loadNextPage()
                 }
 
