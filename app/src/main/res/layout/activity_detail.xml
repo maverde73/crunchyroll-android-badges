@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1A1A1A"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Wide Poster Header -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp">
+
+            <ImageView
+                android:id="@+id/posterWideImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:contentDescription="Banner anime"
+                tools:src="@drawable/icon48" />
+
+            <!-- Gradient overlay -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_gravity="bottom"
+                android:background="@android:drawable/screen_background_dark_transparent" />
+
+        </FrameLayout>
+
+        <!-- Content Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/titleText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                tools:text="Blue Lock" />
+
+            <!-- Info Row: Year • Seasons • Episodes • Type -->
+            <TextView
+                android:id="@+id/infoText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="14sp"
+                android:textColor="#AAAAAA"
+                tools:text="2022 • 2 stagioni • 39 episodi • Serie" />
+
+            <!-- Rating Row -->
+            <LinearLayout
+                android:id="@+id/ratingContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="⭐"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/ratingText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:textColor="#FFD700"
+                    android:textStyle="bold"
+                    android:layout_marginStart="6dp"
+                    tools:text="4.8" />
+
+                <TextView
+                    android:id="@+id/ratingVotesText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textColor="#AAAAAA"
+                    android:layout_marginStart="8dp"
+                    tools:text="(1,234 voti)" />
+
+                <!-- Maturity Rating Badge -->
+                <TextView
+                    android:id="@+id/maturityRatingText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="11sp"
+                    android:textColor="#FFFFFF"
+                    android:background="#E91E63"
+                    android:paddingStart="6dp"
+                    android:paddingEnd="6dp"
+                    android:paddingTop="2dp"
+                    android:paddingBottom="2dp"
+                    android:layout_marginStart="12dp"
+                    android:textStyle="bold"
+                    tools:text="TV-14" />
+
+            </LinearLayout>
+
+            <!-- Description Section -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Trama"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="20dp" />
+
+            <TextView
+                android:id="@+id/descriptionText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="14sp"
+                android:textColor="#CCCCCC"
+                android:lineSpacingExtra="4dp"
+                tools:text="Una descrizione lunga dell'anime che può occupare più righe..." />
+
+            <!-- Translation Controls -->
+            <LinearLayout
+                android:id="@+id/translationControls"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <!-- Translate Button -->
+                <Button
+                    android:id="@+id/translateButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:text="Traduci in Italiano"
+                    android:textSize="12sp"
+                    android:textColor="#FFFFFF"
+                    android:background="@drawable/button_blue_focus_selector"
+                    android:focusable="true"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp" />
+
+                <!-- Loading indicator -->
+                <ProgressBar
+                    android:id="@+id/translationProgress"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_marginStart="12dp"
+                    android:visibility="gone"
+                    android:indeterminateTint="#4A90D9" />
+
+                <!-- Toggle (visible after translation) - using RadioGroup for compatibility -->
+                <RadioGroup
+                    android:id="@+id/languageToggle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone">
+
+                    <RadioButton
+                        android:id="@+id/radioOriginal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Originale"
+                        android:textColor="#CCCCCC"
+                        android:buttonTint="#4A90D9"
+                        android:background="@drawable/radio_focus_selector"
+                        android:padding="8dp"
+                        android:focusable="true" />
+
+                    <RadioButton
+                        android:id="@+id/radioItaliano"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Italiano"
+                        android:textColor="#CCCCCC"
+                        android:buttonTint="#4A90D9"
+                        android:background="@drawable/radio_focus_selector"
+                        android:padding="8dp"
+                        android:checked="true"
+                        android:focusable="true" />
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <!-- Cultural Notes (optional, shown after translation) -->
+            <TextView
+                android:id="@+id/culturalNotesText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="12sp"
+                android:textColor="#888888"
+                android:textStyle="italic"
+                android:visibility="gone"
+                tools:text="Nota: 'Nakama' indica un compagno di squadra con legame profondo" />
+
+            <!-- Audio Locales Section -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lingue Audio"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="20dp" />
+
+            <TextView
+                android:id="@+id/audioLocalesText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="16sp"
+                android:textColor="#CCCCCC"
+                android:lineSpacingExtra="4dp"
+                tools:text="🇮🇹 Italiano  🇺🇸 English  🇯🇵 日本語  🇪🇸 Español" />
+
+            <!-- Subtitle Locales Section -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sottotitoli"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="20dp" />
+
+            <TextView
+                android:id="@+id/subtitleLocalesText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="14sp"
+                android:textColor="#CCCCCC"
+                tools:text="Italiano, English, Español, Français, Deutsch, Português..." />
+
+            <!-- Content Descriptors Section -->
+            <TextView
+                android:id="@+id/contentDescriptorsLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Contenuti"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="20dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/contentDescriptorsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="14sp"
+                android:textColor="#CCCCCC"
+                android:visibility="gone"
+                tools:text="Violenza, Linguaggio forte" />
+
+            <!-- Awards Section -->
+            <TextView
+                android:id="@+id/awardsLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Premi"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="20dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/awardsText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textSize="14sp"
+                android:textColor="#CCCCCC"
+                android:visibility="gone"
+                tools:text="Best Animation 2023" />
+
+            <!-- Crunchyroll Button -->
+            <Button
+                android:id="@+id/openCrunchyrollButton"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="16dp"
+                android:text="Apri su Crunchyroll"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="@drawable/button_focus_selector"
+                android:focusable="true" />
+
+            <!-- Prime Video Button (Anime Generation) -->
+            <Button
+                android:id="@+id/openPrimeVideoButton"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_marginBottom="16dp"
+                android:text="Apri in Prime Video"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:background="@drawable/button_focus_selector"
+                android:focusable="true"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -106,6 +106,25 @@ class IntentLauncher(private val activity: Activity) {
     }
 
     /**
+     * Open an Anime Generation title in Prime Video via its web/deep-link URL.
+     * No setPackage() so Fire OS AppsFilter does not block it (same approach as
+     * the Crunchyroll Fire TV path).
+     */
+    fun launchPrimeVideo(deepLinkUrl: String) {
+        try {
+            val intent = Intent(Intent.ACTION_VIEW).apply {
+                data = Uri.parse(deepLinkUrl)
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            activity.startActivity(intent)
+            android.util.Log.d("CrunchyBadges", "Opened Prime Video link: $deepLinkUrl")
+        } catch (e: Exception) {
+            android.util.Log.e("CrunchyBadges", "Failed to open Prime Video link", e)
+            Toast.makeText(activity, "Impossibile aprire Prime Video", Toast.LENGTH_LONG).show()
+        }
+    }
+
+    /**
      * Fallback: Launch Crunchyroll app to home screen
      */
     private fun launchCrunchyrollHome() {
