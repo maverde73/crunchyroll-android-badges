@@ -10,34 +10,41 @@ import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import coil.load
 import com.maverde.crunchybadges.R
-import com.maverde.crunchybadges.data.local.entities.AnimeEntity
+import com.maverde.crunchybadges.data.local.entities.SeriesWithAllData
+import com.maverde.crunchybadges.utils.LocaleHelper
 
 /**
- * Adapter for displaying anime list in RecyclerView
+ * Adapter for displaying series list in RecyclerView
+ * V2: Updated to use SeriesWithAllData (normalized schema)
  */
 class AnimeListAdapter(
-    private val onAnimeClick: (AnimeEntity) -> Unit
-) : ListAdapter<AnimeEntity, AnimeListAdapter.AnimeViewHolder>(AnimeDiffCallback()) {
+    private val onSeriesClick: (SeriesWithAllData) -> Unit
+) : ListAdapter<SeriesWithAllData, AnimeListAdapter.SeriesViewHolder>(SeriesDiffCallback()) {
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): AnimeViewHolder {
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): SeriesViewHolder {
         val view = LayoutInflater.from(parent.context)
             .inflate(R.layout.item_anime_card, parent, false)
-        return AnimeViewHolder(view, onAnimeClick)
+        return SeriesViewHolder(view, onSeriesClick)
     }
 
-    override fun onBindViewHolder(holder: AnimeViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: SeriesViewHolder, position: Int) {
         holder.bind(getItem(position))
     }
 
-    class AnimeViewHolder(
+    class SeriesViewHolder(
         itemView: View,
-        private val onAnimeClick: (AnimeEntity) -> Unit
+        private val onSeriesClick: (SeriesWithAllData) -> Unit
     ) : RecyclerView.ViewHolder(itemView) {
 
         private val posterImage: ImageView = itemView.findViewById(R.id.posterImage)
         private val titleText: TextView = itemView.findViewById(R.id.titleText)
         private val episodeCountText: TextView = itemView.findViewById(R.id.episodeCountText)
+        private val ratingContainer: View = itemView.findViewById(R.id.ratingContainer)
         private val ratingText: TextView = itemView.findViewById(R.id.ratingText)
+        private val maturityRatingText: TextView = itemView.findViewById(R.id.maturityRatingText)
+        private val languageBadgeText: TextView = itemView.findViewById(R.id.languageBadgeText)
+        private val badgeCrunchyroll: TextView = itemView.findViewById(R.id.badgeCrunchyroll)
+        private val badgeAnimeGeneration: TextView = itemView.findViewById(R.id.badgeAnimeGeneration)
 
         init {
             // Add focus change listener for visual feedback
@@ -58,17 +65,61 @@ class AnimeListAdapter(
             }
         }
 
-        fun bind(anime: AnimeEntity) {
-            titleText.text = anime.title
-            episodeCountText.text = if (anime.episodeCount > 1) {
-                "${anime.episodeCount} episodi"
-            } else {
-                "${anime.episodeCount} episodio"
-            }
-            ratingText.text = String.format("%.1f", anime.rating)
+        fun bind(seriesData: SeriesWithAllData) {
+            // Use series and metadata from the normalized structure
+            val series = seriesData.series
+            val metadata = seriesData.metadata
+            val rating = seriesData.rating
 
-            // Load poster image with Coil
-            posterImage.load(anime.posterTallUrl) {
+            titleText.text = series.title
+
+            // Episode count from metadata
+            val episodeCount = metadata?.episodeCount ?: 0
+            episodeCountText.text = if (episodeCount > 1) {
+                "$episodeCount episodi"
+            } else {
+                "$episodeCount episodio"
+            }
+
+            // Show rating only if > 0 (0 means no rating available)
+            val ratingAverage = rating?.average ?: 0.0
+            if (ratingAverage > 0) {
+                ratingContainer.visibility = View.VISIBLE
+                ratingText.text = String.format("%.1f", ratingAverage)
+            } else {
+                ratingContainer.visibility = View.GONE
+            }
+
+            // Maturity rating - use helper method from SeriesWithAllData
+            val maturityRating = seriesData.getMaturityRating()
+            if (maturityRating.isNotEmpty()) {
+                maturityRatingText.visibility = View.VISIBLE
+                maturityRatingText.text = maturityRating
+            } else {
+                maturityRatingText.visibility = View.GONE
+            }
+
+            // Language badge - show flag emoji only if series has audio in system locale
+            val systemLocale = LocaleHelper.getSystemAudioLocale(itemView.context)
+            if (seriesData.hasAudioLocale(systemLocale)) {
+                val flagEmoji = LocaleHelper.getFlagEmoji(systemLocale)
+                if (flagEmoji != null) {
+                    languageBadgeText.visibility = View.VISIBLE
+                    languageBadgeText.text = flagEmoji
+                } else {
+                    languageBadgeText.visibility = View.GONE
+                }
+            } else {
+                languageBadgeText.visibility = View.GONE
+            }
+
+            // Platform badges
+            badgeCrunchyroll.visibility = if (seriesData.isOnCrunchyroll()) View.VISIBLE else View.GONE
+            badgeAnimeGeneration.visibility = if (seriesData.isOnAnimeGeneration()) View.VISIBLE else View.GONE
+
+            // Load poster image using helper method
+            val posterUrl = seriesData.getPosterTallUrl()
+            posterImage.load(posterUrl) {
                 crossfade(true)
                 placeholder(R.drawable.icon48)
                 error(R.drawable.icon48)
@@ -76,7 +127,7 @@ class AnimeListAdapter(
 
             // Click listener
             itemView.setOnClickListener {
-                onAnimeClick(anime)
+                onSeriesClick(seriesData)
             }
         }
     }
@@ -84,12 +135,12 @@ class AnimeListAdapter(
     /**
      * DiffUtil callback for efficient list updates
      */
-    class AnimeDiffCallback : DiffUtil.ItemCallback<AnimeEntity>() {
-        override fun areItemsTheSame(oldItem: AnimeEntity, newItem: AnimeEntity): Boolean {
-            return oldItem.id == newItem.id
+    class SeriesDiffCallback : DiffUtil.ItemCallback<SeriesWithAllData>() {
+        override fun areItemsTheSame(oldItem: SeriesWithAllData, newItem: SeriesWithAllData): Boolean {
+            return oldItem.series.id == newItem.series.id
         }
 
-        override fun areContentsTheSame(oldItem: AnimeEntity, newItem: AnimeEntity): Boolean {
+        override fun areContentsTheSame(oldItem: SeriesWithAllData, newItem: SeriesWithAllData): Boolean {
             return oldItem == newItem
         }
     }
