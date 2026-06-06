@@ -1,0 +1,25 @@
+[project]
+name = "agpipeline"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "simple-justwatch-python-api>=0.16",
+    "requests>=2.31",
+    "rapidfuzz>=3.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+ag-build-catalog = "agpipeline.build_catalog:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["agpipeline"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

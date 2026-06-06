@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+catalog_anime_generation.json
+anime-list-full.json
