@@ -18,7 +18,7 @@ import kotlinx.coroutines.launch
 class SplashViewModel(application: Application) : AndroidViewModel(application) {
 
     private val database = AnimeDatabase.getDatabase(application)
-    private val repository = AnimeRepository(database.animeDao())
+    private val repository = AnimeRepository(database.animeDao(), application.applicationContext)
     private lateinit var scrapingService: ScrapingService
 
     private val _scrapingState = MutableStateFlow<ScrapingProgress>(ScrapingProgress.Idle)
@@ -26,33 +26,50 @@ class SplashViewModel(application: Application) : AndroidViewModel(application) 
 
     /**
      * Check if database is empty
+     * V2: Now checks total series count (we download ALL series, not just Italian)
      */
     suspend fun isDatabaseEmpty(): Boolean {
-        return repository.getItalianAnimeCount() == 0
+        return repository.getTotalSeriesCount() == 0
     }
 
     /**
-     * Get current Italian anime count
+     * Get current series count with Italian audio
      */
     suspend fun getItalianCount(): Int {
-        return repository.getItalianAnimeCount()
+        return repository.getItalianSeriesCount()
     }
 
     /**
      * Start scraping process
+     * Uses FULL_SYNC if database is empty, INCREMENTAL_SYNC otherwise
      */
     fun startScraping() {
-        scrapingService = ScrapingService(getApplication(), repository)
-
-        // Collect scraping progress
         viewModelScope.launch {
-            scrapingService.progressFlow.collect { progress ->
-                _scrapingState.value = progress
-            }
-        }
+            // Kick off Anime Generation catalog sync (independent of CR scrape).
+            com.maverde.crunchybadges.sync.AnimeGenerationSyncScheduler.syncNow(getApplication())
+            com.maverde.crunchybadges.sync.AnimeGenerationSyncScheduler.schedulePeriodic(getApplication())
 
-        // Start scraping
-        scrapingService.startScraping()
+            // Determine sync mode based on database state
+            val syncMode = if (isDatabaseEmpty()) {
+                android.util.Log.d("SplashViewModel", "Database empty → FULL_SYNC (alphabetical)")
+                com.maverde.crunchybadges.scraping.SyncMode.FULL_SYNC
+            } else {
+                android.util.Log.d("SplashViewModel", "Database has data → INCREMENTAL_SYNC (newly_added)")
+                com.maverde.crunchybadges.scraping.SyncMode.INCREMENTAL_SYNC
+            }
+
+            scrapingService = ScrapingService(getApplication(), repository, syncMode)
+
+            // Collect scraping progress
+            launch {
+                scrapingService.progressFlow.collect { progress ->
+                    _scrapingState.value = progress
+                }
+            }
+
+            // Start scraping
+            scrapingService.startScraping()
+        }
     }
 
     override fun onCleared() {
