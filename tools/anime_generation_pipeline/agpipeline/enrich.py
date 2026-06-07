@@ -57,29 +57,38 @@ class Enricher:
         meta.maturity_rating = self._fetch_certification(tmdb_id, media_type)
 
     def _fetch_certification(self, tmdb_id: int, media_type: str) -> str:
-        """Italian age certification, or empty string if none."""
+        """Age certification, preferring Italy then falling back to US; '' if none."""
+        it = us = ""
         if media_type == "movie":
             body = self._http(
                 f"https://api.themoviedb.org/3/movie/{tmdb_id}/release_dates",
                 {"api_key": self._tmdb_key},
             )
             for r in body.get("results", []):
-                if r.get("iso_3166_1") == "IT":
-                    for rd in r.get("release_dates", []):
-                        cert = (rd.get("certification") or "").strip()
-                        if cert:
-                            return cert
+                region = r.get("iso_3166_1")
+                if region not in ("IT", "US"):
+                    continue
+                for rd in r.get("release_dates", []):
+                    cert = (rd.get("certification") or "").strip()
+                    if cert:
+                        if region == "IT":
+                            it = it or cert
+                        else:
+                            us = us or cert
         else:
             body = self._http(
                 f"https://api.themoviedb.org/3/tv/{tmdb_id}/content_ratings",
                 {"api_key": self._tmdb_key},
             )
             for r in body.get("results", []):
+                cert = (r.get("rating") or "").strip()
+                if not cert:
+                    continue
                 if r.get("iso_3166_1") == "IT":
-                    cert = (r.get("rating") or "").strip()
-                    if cert:
-                        return cert
-        return ""
+                    it = it or cert
+                elif r.get("iso_3166_1") == "US":
+                    us = us or cert
+        return it or us
 
     def _apply_jikan(self, meta: EnrichedMeta, mal_id: int) -> None:
         body = self._http(f"https://api.jikan.moe/v4/anime/{mal_id}", {}).get("data", {})
