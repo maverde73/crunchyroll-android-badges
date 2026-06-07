@@ -110,6 +110,51 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
+     * Switch tab by overscrolling the grid horizontally:
+     * RIGHT at the rightmost column -> next tab, LEFT at the leftmost column -> previous tab.
+     */
+    override fun dispatchKeyEvent(event: KeyEvent): Boolean {
+        if (event.action == KeyEvent.ACTION_DOWN &&
+            (event.keyCode == KeyEvent.KEYCODE_DPAD_RIGHT || event.keyCode == KeyEvent.KEYCODE_DPAD_LEFT)
+        ) {
+            val focused = recyclerView.focusedChild
+            val lm = recyclerView.layoutManager as? GridLayoutManager
+            if (focused != null && lm != null) {
+                val pos = recyclerView.getChildAdapterPosition(focused)
+                if (pos != RecyclerView.NO_POSITION) {
+                    val span = lm.spanCount
+                    val col = pos % span
+                    val isLast = pos == adapter.itemCount - 1
+                    if (event.keyCode == KeyEvent.KEYCODE_DPAD_RIGHT && (col == span - 1 || isLast)) {
+                        if (switchTab(+1)) return true
+                    }
+                    if (event.keyCode == KeyEvent.KEYCODE_DPAD_LEFT && col == 0) {
+                        if (switchTab(-1)) return true
+                    }
+                }
+            }
+        }
+        return super.dispatchKeyEvent(event)
+    }
+
+    /**
+     * Move to an adjacent tab. Returns true if a switch happened.
+     */
+    private fun switchTab(delta: Int): Boolean {
+        val tabs = findViewById<com.google.android.material.tabs.TabLayout>(R.id.platformTabs)
+        val target = tabs.selectedTabPosition + delta
+        if (target in 0 until tabs.tabCount) {
+            tabs.getTabAt(target)?.select()  // triggers setPlatform + grid reload
+            // Move focus into the new grid once it is populated.
+            recyclerView.postDelayed({
+                (recyclerView.findViewHolderForAdapterPosition(0)?.itemView ?: recyclerView).requestFocus()
+            }, 150)
+            return true
+        }
+        return false
+    }
+
+    /**
      * Handle Fire TV remote Menu button to open filters
      */
     override fun onKeyDown(keyCode: Int, event: KeyEvent?): Boolean {
