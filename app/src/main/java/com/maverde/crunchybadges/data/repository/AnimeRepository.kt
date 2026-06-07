@@ -490,7 +490,8 @@ class AnimeRepository(
             seasonCount = 0,
             seriesLaunchYear = this.year,
             isDubbed = this.audio_locales.any { it.startsWith("it") },
-            isSubbed = this.subtitle_locales.isNotEmpty()
+            isSubbed = this.subtitle_locales.isNotEmpty(),
+            extMaturityRating = this.maturity_rating.ifEmpty { null }
         )
         val ratingEntity = this.rating?.let {
             Rating(seriesId = seriesId, average = it, total = 0, rating = null)

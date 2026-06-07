@@ -205,8 +205,13 @@ class DetailActivity : AppCompatActivity() {
         originalDescription = series.description
         descriptionText.text = originalDescription.takeIf { it.isNotEmpty() } ?: "Nessuna descrizione disponibile."
 
-        // Check for cached translation
-        if (originalDescription.isNotEmpty()) {
+        // Anime Generation descriptions are already in Italian (TMDB it-IT) -> no translation.
+        val alreadyItalian = seriesData.isOnAnimeGeneration() && !seriesData.isOnCrunchyroll()
+        if (alreadyItalian) {
+            translateButton.visibility = View.GONE
+            languageToggle.visibility = View.GONE
+            culturalNotesText.visibility = View.GONE
+        } else if (originalDescription.isNotEmpty()) {
             checkCachedTranslation(series.id)
         } else {
             // Hide translate button if no description

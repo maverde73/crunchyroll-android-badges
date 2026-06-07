@@ -28,7 +28,8 @@ data class AnimeGenerationTitle(
     val audio_locales: List<String> = emptyList(),
     val subtitle_locales: List<String> = emptyList(),
     val languages_assumed: Boolean = false,
-    val deep_link_url: String = ""
+    val deep_link_url: String = "",
+    val maturity_rating: String = ""
 )
 
 @Serializable
