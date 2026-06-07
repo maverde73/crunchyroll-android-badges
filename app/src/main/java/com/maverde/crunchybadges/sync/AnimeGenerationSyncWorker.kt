@@ -49,6 +49,6 @@ class AnimeGenerationSyncWorker(
         // pipeline once it is live. The worker also accepts an inputData["url"]
         // override (used by tests and for pointing at a fixture).
         const val CATALOG_URL =
-            "https://raw.githubusercontent.com/maverde73/crunchyroll-android-badges/v3.0-native-api-catalog/docs/catalog/catalog_anime_generation.json"
+            "https://raw.githubusercontent.com/maverde73/crunchyroll-android-badges/main/docs/catalog/catalog_anime_generation.json"
     }
 }
