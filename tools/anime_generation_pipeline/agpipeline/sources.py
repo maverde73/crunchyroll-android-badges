@@ -69,39 +69,77 @@ def fetch_crunchyroll_catalog(http_get, page_size: int = 36, max_pages: int = 20
     return parse_crunchyroll_browse(pages)
 
 
-# --- CI-only live wrappers (exercised by workflow_dispatch, not unit tests) ---
-# These convert the simple-justwatch-python-api objects into the dict shape the
-# tested pure parsers expect. Verify the attribute names against the installed
-# library version on first CI run (spec §11 open question).
-AG_PROVIDER = "anime_generation_amazon_channel"
+# --- Live wrappers (verified against simple-justwatch-python-api 0.16) ---
+# The Anime Generation channel is the JustWatch provider with technical_name
+# "amazonanimegeneration" and 3-letter short_name "aag". Enumeration uses
+# popular(providers=[short_name]) which (unlike the technical_name) actually
+# filters server-side; ~281 titles are returned for IT.
+AG_PROVIDER = "amazonanimegeneration"
+AG_SHORT_NAME = "aag"
 
 
-def fetch_anime_generation_titles(jw_search, country: str = "IT", language: str = "it") -> list["RawAgTitle"]:
-    """Enumerate Anime Generation titles via JustWatch search results.
+def _media_to_entry(media) -> dict:
+    """Convert a simple-justwatch MediaEntry into the dict shape parsers expect."""
+    offers = [
+        {
+            "package": {"technical_name": getattr(getattr(o, "package", None), "technical_name", "")},
+            "audio_languages": list(getattr(o, "audio_languages", []) or []),
+            "subtitle_languages": list(getattr(o, "subtitle_languages", []) or []),
+            "url": getattr(o, "url", "") or "",
+        }
+        for o in (getattr(media, "offers", []) or [])
+    ]
+    return {
+        "entry_id": getattr(media, "entry_id", ""),
+        "title": getattr(media, "title", ""),
+        "release_year": getattr(media, "release_year", None),
+        "offers": offers,
+    }
 
-    jw_search is simplejustwatchapi.justwatch.search. We page through a broad
-    query and keep only entries carrying an AG offer. (If the library exposes a
-    provider-listing call in your version, prefer it; the parser is the same.)
+
+def fetch_anime_generation_titles(
+    jw, country: str = "IT", language: str = "it", page_size: int = 100, max_pages: int = 12
+) -> list["RawAgTitle"]:
+    """Enumerate the full Anime Generation catalog via JustWatch `popular`.
+
+    `jw` is the simplejustwatchapi.justwatch module. We resolve the provider's
+    3-letter short_name, then page through popular(providers=[short]) until the
+    catalog is exhausted, and keep only entries carrying the AG offer.
     """
-    entries: list[dict] = []
-    results = jw_search("anime", country, language, 200, True)  # (query, country, lang, count, best_only)
-    for media in results:
-        offers = [
-            {
-                "package": {"technical_name": getattr(o.package, "technical_name", "")},
-                "audio_languages": list(getattr(o, "audio_languages", []) or []),
-                "subtitle_languages": list(getattr(o, "subtitle_languages", []) or []),
-                "url": getattr(o, "url", ""),
-            }
-            for o in (getattr(media, "offers", []) or [])
-        ]
-        entries.append({
-            "entry_id": getattr(media, "entry_id", ""),
-            "title": getattr(media, "title", ""),
-            "release_year": getattr(media, "release_year", None),
-            "offers": offers,
-        })
+    short = next(
+        (getattr(p, "short_name", None) for p in jw.providers(country)
+         if getattr(p, "technical_name", "") == AG_PROVIDER),
+        None,
+    ) or AG_SHORT_NAME
+
+    seen: dict[str, object] = {}
+    for i in range(max_pages):
+        batch = jw.popular(country, language, page_size, True, i * page_size, providers=[short])
+        if not batch:
+            break
+        for m in batch:
+            seen[getattr(m, "entry_id", "")] = m
+        if len(batch) < page_size:
+            break
+
+    entries = [_media_to_entry(m) for m in seen.values()]
     return parse_justwatch_offers(entries, provider=AG_PROVIDER)
+
+
+def tmdb_search_external_ids(http_get, tmdb_key: str, title: str, year: int | None) -> dict[str, int]:
+    """Resolve a title (+year) to a TMDB id via TMDB's own search (it-IT).
+
+    More robust than the AniList->Fribb->TMDB chain: one call, returns the best
+    TV match. The Enricher then fetches full it-IT details by that id.
+    """
+    params = {"api_key": tmdb_key, "language": "it-IT", "query": title}
+    if year:
+        params["first_air_date_year"] = year
+    body = http_get("https://api.themoviedb.org/3/search/tv", params)
+    results = body.get("results") or []
+    if not results:
+        return {}
+    return {"tmdb_id": int(results[0]["id"])}
 
 
 def anilist_mal_id_for(http_post, title: str, year: int | None) -> int | None:

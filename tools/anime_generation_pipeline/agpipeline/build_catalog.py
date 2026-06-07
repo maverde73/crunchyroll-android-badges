@@ -22,11 +22,16 @@ def build_catalog(
     mal_lookup: MalLookup,
     version: int,
     generated_at: str,
+    external_ids_lookup=None,
 ) -> Catalog:
     titles: list[CatalogTitle] = []
     for raw in ag_titles:
-        mal_id = mal_lookup(raw)
-        external_ids = id_mapper.external_ids(mal_id=mal_id) if mal_id else {}
+        if external_ids_lookup is not None:
+            # Direct lookup (e.g. TMDB search by title) -> external ids.
+            external_ids = external_ids_lookup(raw) or {}
+        else:
+            mal_id = mal_lookup(raw)
+            external_ids = id_mapper.external_ids(mal_id=mal_id) if mal_id else {}
         meta = enricher.enrich(external_ids) if external_ids else None
         matched_cr = best_crunchyroll_match(raw.title, raw.year, cr_catalog)
 
@@ -63,8 +68,9 @@ def write_if_valid(catalog: Catalog, out_path: Path, min_titles: int) -> None:
 
 def main() -> int:  # pragma: no cover - CI integration entrypoint
     import datetime
+    import time
     import requests
-    from simplejustwatchapi.justwatch import search  # provided by the JustWatch lib
+    import simplejustwatchapi.justwatch as jw
 
     from agpipeline.sources import (
         anilist_mal_id_for,
@@ -79,33 +85,52 @@ def main() -> int:  # pragma: no cover - CI integration entrypoint
     session = requests.Session()
     session.headers.update({"User-Agent": "ag-pipeline/0.1"})
 
-    def http_get(url: str, params: dict) -> dict:
-        resp = session.get(url, params=params, timeout=30)
+    def _request(method: str, url: str, **kw) -> dict:
+        # Retry on rate limits / transient errors with simple backoff.
+        for attempt in range(5):
+            resp = session.request(method, url, timeout=30, **kw)
+            if resp.status_code == 429:
+                wait = int(resp.headers.get("Retry-After", 2 ** attempt))
+                time.sleep(min(wait, 30))
+                continue
+            resp.raise_for_status()
+            return resp.json()
         resp.raise_for_status()
         return resp.json()
+
+    def http_get(url: str, params: dict) -> dict:
+        return _request("GET", url, params=params)
 
     def http_post(url: str, payload: dict) -> dict:
-        resp = session.post(url, json=payload, timeout=30)
-        resp.raise_for_status()
-        return resp.json()
+        return _request("POST", url, json=payload)
 
-    ag_titles = fetch_anime_generation_titles(search)
-    cr_catalog = fetch_crunchyroll_catalog(http_get)
-    id_mapper = IdMapper.from_file(
-        Path(os.environ.get("ANIME_LISTS_PATH", "anime-list-full.json"))
-    )
+    ag_titles = fetch_anime_generation_titles(jw)
+    try:
+        cr_catalog = fetch_crunchyroll_catalog(http_get)
+    except Exception as e:
+        # The CR browse API requires auth headers (the app gets them via a
+        # WebView). Without them the fetch fails; skip CR matching for now —
+        # titles become AG-only (matched_crunchyroll_id stays null).
+        print(f"CR catalog fetch failed ({e}); skipping CR matching.")
+        cr_catalog = []
     enricher = Enricher(http_get=http_get, tmdb_key=tmdb_key)
 
-    matched = sum(1 for t in ag_titles)  # logged below for coverage visibility
+    from agpipeline.sources import tmdb_search_external_ids
 
-    def mal_lookup(raw: RawAgTitle):
-        return anilist_mal_id_for(http_post, raw.title, raw.year)
+    def ext_lookup(raw: RawAgTitle):
+        try:
+            return tmdb_search_external_ids(http_get, tmdb_key, raw.title, raw.year)
+        except Exception:
+            return {}
+
+    matched = len(ag_titles)  # logged below for coverage visibility
 
     catalog = build_catalog(
-        ag_titles=ag_titles, cr_catalog=cr_catalog, id_mapper=id_mapper,
-        enricher=enricher, mal_lookup=mal_lookup, version=1,
+        ag_titles=ag_titles, cr_catalog=cr_catalog, id_mapper=IdMapper([]),
+        enricher=enricher, mal_lookup=lambda r: None, version=1,
         generated_at=datetime.datetime.now(datetime.timezone.utc)
             .replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        external_ids_lookup=ext_lookup,
     )
     # Coverage visibility — never silently truncate (spec §11).
     with_tmdb = sum(1 for t in catalog.titles if t.external_ids.get("tmdb_id"))
