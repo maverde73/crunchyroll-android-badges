@@ -8,6 +8,7 @@ import com.maverde.crunchybadges.data.models.AnimeData
 import com.maverde.crunchybadges.data.models.AnimeGenerationCatalog
 import com.maverde.crunchybadges.data.models.AnimeGenerationTitle
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.io.File
@@ -189,7 +190,9 @@ class AnimeRepository(
             }
             com.maverde.crunchybadges.data.models.SortOption.MATURITY_ASC,
             com.maverde.crunchybadges.data.models.SortOption.MATURITY_DESC -> {
-                queryBuilder.append(" ORDER BY (SELECT ext_maturity_rating FROM series_metadata WHERE series_metadata.series_id = series.id) ${filter.sortBy.sqlDirection}")
+                // Maturity is stored in two formats (CR: "14"/"TV-14"; AG: "T"/"14+").
+                // SQL can't order these numerically, so we sort in Kotlin below.
+                queryBuilder.append(" ORDER BY title ASC")
             }
             com.maverde.crunchybadges.data.models.SortOption.ADDED_DESC,
             com.maverde.crunchybadges.data.models.SortOption.ADDED_ASC -> {
@@ -206,7 +209,27 @@ class AnimeRepository(
         }
 
         val query = androidx.sqlite.db.SimpleSQLiteQuery(queryBuilder.toString(), args.toTypedArray())
-        return animeDao.getSeriesFilteredRaw(query)
+        val flow = animeDao.getSeriesFilteredRaw(query)
+
+        // Maturity needs numeric ordering across the mixed CR/AG formats; do it in Kotlin.
+        return when (filter.sortBy) {
+            com.maverde.crunchybadges.data.models.SortOption.MATURITY_ASC ->
+                flow.map { list -> list.sortedBy { s -> maturityAge(s.getMaturityRating()).let { if (it < 0) Int.MAX_VALUE else it } } }
+            com.maverde.crunchybadges.data.models.SortOption.MATURITY_DESC ->
+                flow.map { list -> list.sortedByDescending { s -> maturityAge(s.getMaturityRating()).let { if (it < 0) Int.MIN_VALUE else it } } }
+            else -> flow
+        }
+    }
+
+    /**
+     * Parse a minimum-age integer from a maturity label in any format:
+     * AG "T"->0, "14+"->14; CR "16"->16, "TV-14"->14, "VM18"->18. Returns -1 if none.
+     */
+    private fun maturityAge(rating: String): Int {
+        val r = rating.trim()
+        if (r.isEmpty()) return -1
+        if (r.equals("T", ignoreCase = true)) return 0
+        return Regex("\\d+").find(r)?.value?.toIntOrNull() ?: -1
     }
 
     /**
