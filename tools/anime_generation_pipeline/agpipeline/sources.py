@@ -18,6 +18,7 @@ class RawAgTitle:
     audio_locales: list[str]
     subtitle_locales: list[str]
     deep_link_url: str
+    age_certification: str = ""  # JustWatch IT age certification (e.g. "VM14", "T")
 
 
 def parse_justwatch_offers(entries: list[dict], provider: str) -> list[RawAgTitle]:
@@ -38,6 +39,7 @@ def parse_justwatch_offers(entries: list[dict], provider: str) -> list[RawAgTitl
             audio_locales=[_to_locale(c) for c in offer.get("audio_languages") or []],
             subtitle_locales=[_to_locale(c) for c in offer.get("subtitle_languages") or []],
             deep_link_url=offer.get("url", ""),
+            age_certification=e.get("age_certification", "") or "",
         ))
     return out
 
@@ -93,6 +95,7 @@ def _media_to_entry(media) -> dict:
         "entry_id": getattr(media, "entry_id", ""),
         "title": getattr(media, "title", ""),
         "release_year": getattr(media, "release_year", None),
+        "age_certification": getattr(media, "age_certification", "") or "",
         "offers": offers,
     }
 
@@ -149,6 +152,33 @@ def tmdb_search_external_ids(http_get, tmdb_key: str, title: str, year: int | No
         return {"tmdb_id": int(mv[0]["id"]), "tmdb_type": "movie"}
 
     return {}
+
+
+def kitsu_age_rating(http_get, title: str) -> str:
+    """Kitsu ageRating (G/PG/R/R18) for the best title match, or ''. ~96% coverage."""
+    try:
+        body = http_get(
+            "https://kitsu.io/api/edge/anime",
+            {"filter[text]": title, "page[limit]": 1},
+        )
+        data = body.get("data") or []
+        if data:
+            return (data[0].get("attributes", {}).get("ageRating") or "").strip()
+    except Exception:
+        pass
+    return ""
+
+
+def jikan_age_rating(http_get, title: str) -> str:
+    """MyAnimeList 'rating' via Jikan search for the best title match, or ''. ~96% coverage."""
+    try:
+        body = http_get("https://api.jikan.moe/v4/anime", {"q": title, "limit": 1})
+        data = body.get("data") or []
+        if data:
+            return (data[0].get("rating") or "").strip()
+    except Exception:
+        pass
+    return ""
 
 
 def anilist_mal_id_for(http_post, title: str, year: int | None) -> int | None:

@@ -5,6 +5,7 @@ import os
 from pathlib import Path
 from typing import Callable
 
+from agpipeline.age import normalize_age
 from agpipeline.enrich import Enricher
 from agpipeline.matching import IdMapper, best_crunchyroll_match
 from agpipeline.models import Catalog, CatalogTitle
@@ -23,6 +24,7 @@ def build_catalog(
     version: int,
     generated_at: str,
     external_ids_lookup=None,
+    age_fallback=None,
 ) -> Catalog:
     titles: list[CatalogTitle] = []
     for raw in ag_titles:
@@ -39,6 +41,13 @@ def build_catalog(
         subs = raw.subtitle_locales or ["it-IT"]
         assumed = not raw.audio_locales
 
+        # Age: JustWatch (IT) -> TMDB (IT/US) -> fallback (Kitsu/Jikan), all normalized.
+        maturity = (
+            normalize_age(raw.age_certification)
+            or normalize_age(meta.maturity_rating if meta else "")
+            or (age_fallback(raw) if age_fallback else "")
+        )
+
         titles.append(CatalogTitle(
             ag_id=raw.ag_id,
             title=raw.title,
@@ -54,7 +63,7 @@ def build_catalog(
             subtitle_locales=subs,
             languages_assumed=assumed,
             deep_link_url=raw.deep_link_url,
-            maturity_rating=(meta.maturity_rating if meta else ""),
+            maturity_rating=maturity,
         ))
     return Catalog(version=version, generated_at=generated_at, titles=titles)
 
@@ -116,13 +125,18 @@ def main() -> int:  # pragma: no cover - CI integration entrypoint
         cr_catalog = []
     enricher = Enricher(http_get=http_get, tmdb_key=tmdb_key)
 
-    from agpipeline.sources import tmdb_search_external_ids
+    from agpipeline.sources import tmdb_search_external_ids, kitsu_age_rating, jikan_age_rating
 
     def ext_lookup(raw: RawAgTitle):
         try:
             return tmdb_search_external_ids(http_get, tmdb_key, raw.title, raw.year)
         except Exception:
             return {}
+
+    def age_fallback(raw: RawAgTitle) -> str:
+        # Called only when JustWatch + TMDB had no certification.
+        return normalize_age(kitsu_age_rating(http_get, raw.title)) \
+            or normalize_age(jikan_age_rating(http_get, raw.title))
 
     matched = len(ag_titles)  # logged below for coverage visibility
 
@@ -132,14 +146,17 @@ def main() -> int:  # pragma: no cover - CI integration entrypoint
         generated_at=datetime.datetime.now(datetime.timezone.utc)
             .replace(microsecond=0).isoformat().replace("+00:00", "Z"),
         external_ids_lookup=ext_lookup,
+        age_fallback=age_fallback,
     )
     # Coverage visibility — never silently truncate (spec §11).
     with_tmdb = sum(1 for t in catalog.titles if t.external_ids.get("tmdb_id"))
     matched_cr = sum(1 for t in catalog.titles if t.matched_crunchyroll_id)
     assumed_lang = sum(1 for t in catalog.titles if t.languages_assumed)
+    with_age = sum(1 for t in catalog.titles if t.maturity_rating)
     print(
         f"AG titles found: {matched} | with tmdb: {with_tmdb} | "
-        f"matched to CR: {matched_cr} | assumed languages: {assumed_lang}"
+        f"matched to CR: {matched_cr} | assumed languages: {assumed_lang} | "
+        f"with age rating: {with_age}"
     )
 
     write_if_valid(catalog, out_path, min_titles=min_titles)
