@@ -54,6 +54,7 @@ def build_catalog(
             subtitle_locales=subs,
             languages_assumed=assumed,
             deep_link_url=raw.deep_link_url,
+            maturity_rating=(meta.maturity_rating if meta else ""),
         ))
     return Catalog(version=version, generated_at=generated_at, titles=titles)
 

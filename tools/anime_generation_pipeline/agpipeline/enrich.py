@@ -15,6 +15,7 @@ class EnrichedMeta:
     genres: list[str] = field(default_factory=list)
     rating: float | None = None
     year: int | None = None
+    maturity_rating: str = ""
 
 
 class Enricher:
@@ -22,21 +23,22 @@ class Enricher:
         self._http = http_get
         self._tmdb_key = tmdb_key
 
-    def enrich(self, external_ids: dict[str, int]) -> EnrichedMeta:
+    def enrich(self, external_ids: dict) -> EnrichedMeta:
         meta = EnrichedMeta()
         tmdb_id = external_ids.get("tmdb_id")
         if tmdb_id:
-            self._apply_tmdb(meta, tmdb_id)
-        # Jikan fills any gaps (genres/rating/year/poster) and is the fallback
-        # when TMDB is missing — common for the classic back-catalog.
+            media_type = external_ids.get("tmdb_type", "tv")
+            self._apply_tmdb(meta, int(tmdb_id), media_type)
+        # Jikan fills any gaps when a MAL id is available (rarely, with the
+        # TMDB-search path) and TMDB missed description/poster.
         mal_id = external_ids.get("mal_id")
         if mal_id and (not meta.description_it or not meta.poster_tall):
-            self._apply_jikan(meta, mal_id)
+            self._apply_jikan(meta, int(mal_id))
         return meta
 
-    def _apply_tmdb(self, meta: EnrichedMeta, tmdb_id: int) -> None:
+    def _apply_tmdb(self, meta: EnrichedMeta, tmdb_id: int, media_type: str) -> None:
         body = self._http(
-            f"https://api.themoviedb.org/3/tv/{tmdb_id}",
+            f"https://api.themoviedb.org/3/{media_type}/{tmdb_id}",
             {"api_key": self._tmdb_key, "language": "it-IT"},
         )
         if body.get("overview"):
@@ -49,9 +51,35 @@ class Enricher:
             meta.genres = [g["name"] for g in body["genres"]]
         if body.get("vote_average"):
             meta.rating = float(body["vote_average"])
-        air = body.get("first_air_date") or ""
-        if len(air) >= 4 and air[:4].isdigit():
-            meta.year = int(air[:4])
+        date = body.get("first_air_date") or body.get("release_date") or ""
+        if len(date) >= 4 and date[:4].isdigit():
+            meta.year = int(date[:4])
+        meta.maturity_rating = self._fetch_certification(tmdb_id, media_type)
+
+    def _fetch_certification(self, tmdb_id: int, media_type: str) -> str:
+        """Italian age certification, or empty string if none."""
+        if media_type == "movie":
+            body = self._http(
+                f"https://api.themoviedb.org/3/movie/{tmdb_id}/release_dates",
+                {"api_key": self._tmdb_key},
+            )
+            for r in body.get("results", []):
+                if r.get("iso_3166_1") == "IT":
+                    for rd in r.get("release_dates", []):
+                        cert = (rd.get("certification") or "").strip()
+                        if cert:
+                            return cert
+        else:
+            body = self._http(
+                f"https://api.themoviedb.org/3/tv/{tmdb_id}/content_ratings",
+                {"api_key": self._tmdb_key},
+            )
+            for r in body.get("results", []):
+                if r.get("iso_3166_1") == "IT":
+                    cert = (r.get("rating") or "").strip()
+                    if cert:
+                        return cert
+        return ""
 
     def _apply_jikan(self, meta: EnrichedMeta, mal_id: int) -> None:
         body = self._http(f"https://api.jikan.moe/v4/anime/{mal_id}", {}).get("data", {})

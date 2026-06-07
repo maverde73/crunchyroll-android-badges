@@ -126,20 +126,29 @@ def fetch_anime_generation_titles(
     return parse_justwatch_offers(entries, provider=AG_PROVIDER)
 
 
-def tmdb_search_external_ids(http_get, tmdb_key: str, title: str, year: int | None) -> dict[str, int]:
+def tmdb_search_external_ids(http_get, tmdb_key: str, title: str, year: int | None) -> dict:
     """Resolve a title (+year) to a TMDB id via TMDB's own search (it-IT).
 
-    More robust than the AniList->Fribb->TMDB chain: one call, returns the best
-    TV match. The Enricher then fetches full it-IT details by that id.
+    Tries TV first, then movie (many Anime Generation entries are films).
+    Returns {"tmdb_id": id, "tmdb_type": "tv"|"movie"} or {} if no match.
     """
-    params = {"api_key": tmdb_key, "language": "it-IT", "query": title}
+    # TV
+    tv_params = {"api_key": tmdb_key, "language": "it-IT", "query": title}
     if year:
-        params["first_air_date_year"] = year
-    body = http_get("https://api.themoviedb.org/3/search/tv", params)
-    results = body.get("results") or []
-    if not results:
-        return {}
-    return {"tmdb_id": int(results[0]["id"])}
+        tv_params["first_air_date_year"] = year
+    tv = (http_get("https://api.themoviedb.org/3/search/tv", tv_params).get("results") or [])
+    if tv:
+        return {"tmdb_id": int(tv[0]["id"]), "tmdb_type": "tv"}
+
+    # Movie fallback
+    mv_params = {"api_key": tmdb_key, "language": "it-IT", "query": title}
+    if year:
+        mv_params["primary_release_year"] = year
+    mv = (http_get("https://api.themoviedb.org/3/search/movie", mv_params).get("results") or [])
+    if mv:
+        return {"tmdb_id": int(mv[0]["id"]), "tmdb_type": "movie"}
+
+    return {}
 
 
 def anilist_mal_id_for(http_post, title: str, year: int | None) -> int | None:
