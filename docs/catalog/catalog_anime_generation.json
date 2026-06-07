@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-07T00:34:26Z",
+  "generated_at": "2026-06-07T04:10:41Z",
   "titles": [
     {
       "ag_id": "tm190768",
@@ -40,40 +40,14 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7"
-    },
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.389,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4"
     },
     {
       "ag_id": "ts10145",
@@ -101,6 +75,32 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e"
+    },
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.389,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4"
     },
     {
       "ag_id": "ts27309",
@@ -174,26 +174,26 @@
       ],
       "rating": 8.544,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
         "pt",
         "ta",
         "te",
-        "en-US",
-        "es",
-        "fr",
-        "de",
-        "hi"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "pt",
         "ru",
-        "ar"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3"
@@ -297,33 +297,33 @@
       ],
       "rating": 8.362,
       "audio_locales": [
-        "es",
-        "it-IT",
-        "ta",
-        "te",
         "ar",
         "de",
-        "en-US",
+        "es",
         "fr",
-        "hi",
         "id",
+        "it-IT",
         "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "vi",
+        "ta",
         "en-US",
-        "es",
-        "id",
-        "it-IT",
-        "ms",
-        "ar",
-        "de",
-        "fr",
         "hi",
         "pt",
+        "te"
+      ],
+      "subtitle_locales": [
+        "ms",
+        "pt",
         "ru",
-        "th"
+        "ar",
+        "de",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "th",
+        "vi",
+        "en-US",
+        "hi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c"
@@ -374,17 +374,17 @@
       ],
       "rating": 8.391,
       "audio_locales": [
-        "de",
         "hi",
         "it-IT",
+        "ja-JP",
         "pt",
-        "te",
         "th",
         "en-US",
+        "ta",
+        "te",
+        "de",
         "es",
-        "fr",
-        "ja-JP",
-        "ta"
+        "fr"
       ],
       "subtitle_locales": [
         "en-US",
@@ -442,31 +442,56 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "pt",
         "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "th",
-        "zh",
+        "ru",
         "ar",
         "de",
         "en-US",
-        "id",
+        "fr",
         "it-IT",
         "pl",
+        "th",
+        "zh",
         "es",
-        "fr",
-        "pt",
-        "ru"
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14"
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd"
     },
     {
       "ag_id": "ts12311",
@@ -650,8 +675,8 @@
       ],
       "rating": 7.328,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -678,39 +703,14 @@
       ],
       "rating": 8.016,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466"
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd"
     },
     {
       "ag_id": "ts320501",
@@ -911,8 +911,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1024,39 +1024,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de"
     },
     {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 286791
-      },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "de"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c"
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1083,6 +1050,39 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526"
+    },
+    {
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286791
+      },
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pt",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c"
     },
     {
       "ag_id": "tm1542133",
@@ -1512,18 +1512,18 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "fr",
         "id",
         "it-IT",
-        "pt",
         "ru",
+        "th",
         "ar",
         "de",
-        "es",
+        "en-US",
+        "fr",
         "ms",
-        "th",
+        "pt",
         "vi",
-        "en-US"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863"
@@ -1632,32 +1632,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd"
     },
     {
-      "ag_id": "ts448353",
-      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 271003
-      },
-      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8"
-    },
-    {
       "ag_id": "ts76736",
       "title": "I cinque samurai: Message",
       "year": 1991,
@@ -1685,22 +1659,22 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb"
     },
     {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
+      "ag_id": "ts448353",
+      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 214651
+        "tmdb_id": 271003
       },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
       "genres": [
         "Animazione",
-        "Dramma",
-        "Commedia"
+        "Commedia",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.0,
+      "rating": 6.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1708,7 +1682,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8"
     },
     {
       "ag_id": "ts436411",
@@ -1736,6 +1710,32 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759"
+    },
+    {
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 214651
+      },
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1"
     },
     {
       "ag_id": "ts64898",
@@ -1913,32 +1913,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c"
     },
     {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.42,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd"
-    },
-    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -1963,6 +1937,32 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56"
+    },
+    {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.42,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd"
     },
     {
       "ag_id": "ts47136",
@@ -2012,12 +2012,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
-        "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3"
@@ -2040,8 +2040,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2291,8 +2291,8 @@
       ],
       "rating": 8.005,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2442,23 +2442,23 @@
       ],
       "rating": 7.392,
       "audio_locales": [
-        "de",
-        "en-US",
         "id",
         "ja-JP",
         "ru",
-        "th"
+        "th",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
         "ar",
         "fr",
         "pt",
         "ru",
+        "vi",
         "de",
         "en-US",
         "es",
-        "it-IT",
-        "vi"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875"
@@ -2666,32 +2666,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e"
     },
     {
-      "ag_id": "ts374187",
-      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 216074
-      },
-      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.159,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222"
-    },
-    {
       "ag_id": "ts76735",
       "title": "Gordian",
       "year": 1979,
@@ -2715,6 +2689,32 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106"
+    },
+    {
+      "ag_id": "ts374187",
+      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 216074
+      },
+      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.156,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222"
     },
     {
       "ag_id": "ts29076",
@@ -3010,6 +3010,32 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a"
     },
     {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.118,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376"
+    },
+    {
       "ag_id": "ts322046",
       "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
       "year": 2023,
@@ -3060,32 +3086,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f"
-    },
-    {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.118,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376"
     },
     {
       "ag_id": "ts220153",
@@ -3532,12 +3532,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
         "it-IT",
         "pt",
         "ar",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff"
@@ -4894,8 +4894,8 @@
       ],
       "rating": 6.871,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "de",
@@ -5115,8 +5115,8 @@
       "genres": [],
       "rating": null,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5696,8 +5696,8 @@
       "genres": [],
       "rating": null,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6065,8 +6065,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
