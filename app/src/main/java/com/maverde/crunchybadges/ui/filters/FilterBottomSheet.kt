@@ -8,7 +8,6 @@ import android.widget.*
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.maverde.crunchybadges.R
 import com.maverde.crunchybadges.data.models.FilterState
-import com.maverde.crunchybadges.data.models.PlatformFilter
 import com.maverde.crunchybadges.data.models.SortOption
 
 /**
@@ -23,7 +22,6 @@ class FilterBottomSheet(
     private lateinit var minRatingSeekBar: SeekBar
     private lateinit var ratingValueText: TextView
     private lateinit var sortBySpinner: Spinner
-    private lateinit var platformSpinner: Spinner
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -40,12 +38,10 @@ class FilterBottomSheet(
         minRatingSeekBar = view.findViewById(R.id.minRatingSeekBar)
         ratingValueText = view.findViewById(R.id.ratingValueText)
         sortBySpinner = view.findViewById(R.id.sortBySpinner)
-        platformSpinner = view.findViewById(R.id.platformSpinner)
 
         setupAudioLocaleSpinner()
         setupRatingSeekBar()
         setupSortSpinner()
-        setupPlatformSpinner()
         setupButtons(view)
 
         // Load current filter values
@@ -108,16 +104,6 @@ class FilterBottomSheet(
         sortBySpinner.adapter = adapter
     }
 
-    private fun setupPlatformSpinner() {
-        val adapter = ArrayAdapter(
-            requireContext(),
-            android.R.layout.simple_spinner_item,
-            PlatformFilter.values().map { it.displayName }
-        )
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
-        platformSpinner.adapter = adapter
-    }
-
     private fun setupButtons(view: View) {
         view.findViewById<Button>(R.id.clearFiltersButton).setOnClickListener {
             loadCurrentFilter()  // Reset to current
@@ -140,9 +126,6 @@ class FilterBottomSheet(
 
         // Sort
         sortBySpinner.setSelection(currentFilter.sortBy.ordinal)
-
-        // Platform
-        platformSpinner.setSelection(currentFilter.platform.ordinal)
     }
 
     private fun applyFilter() {
@@ -151,7 +134,6 @@ class FilterBottomSheet(
         val newFilter = FilterState(
             audioLocale = locales[audioLocaleSpinner.selectedItemPosition],
             minRating = minRatingSeekBar.progress / 10.0,
-            platform = PlatformFilter.values()[platformSpinner.selectedItemPosition],
             sortBy = SortOption.values()[sortBySpinner.selectedItemPosition]
         )
 

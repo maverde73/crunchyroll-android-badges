@@ -72,20 +72,6 @@
             android:layout_height="48dp"
             android:paddingTop="4dp" />
 
-        <!-- Platform Filter -->
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Piattaforma:"
-            android:textStyle="bold"
-            android:paddingTop="16dp" />
-
-        <Spinner
-            android:id="@+id/platformSpinner"
-            android:layout_width="match_parent"
-            android:layout_height="48dp"
-            android:paddingTop="4dp" />
-
         <!-- Action Buttons -->
         <LinearLayout
             android:layout_width="match_parent"

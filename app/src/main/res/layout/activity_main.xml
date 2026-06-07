@@ -25,6 +25,20 @@
             android:textStyle="bold" />
     </androidx.appcompat.widget.Toolbar>
 
+    <!-- Platform tabs: Crunchyroll | Anime Generation -->
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/platformTabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#222222"
+        android:focusable="true"
+        app:tabGravity="fill"
+        app:tabMode="fixed"
+        app:tabTextColor="#AAAAAA"
+        app:tabSelectedTextColor="#FFFFFF"
+        app:tabIndicatorColor="#FF640B"
+        app:tabIndicatorHeight="3dp" />
+
     <!-- RecyclerView for anime list -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
