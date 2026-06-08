@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-08T03:55:45Z",
+  "generated_at": "2026-06-08T10:51:58Z",
   "titles": [
     {
       "ag_id": "tm190768",
@@ -192,60 +192,30 @@
       ],
       "rating": 8.543,
       "audio_locales": [
-        "pt",
         "de",
         "en-US",
         "es",
+        "hi",
         "it-IT",
-        "ja-JP",
         "ta",
         "te",
         "fr",
-        "hi"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
         "ru",
         "ar",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+"
-    },
-    {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts345",
@@ -276,23 +246,24 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 60863,
+        "tmdb_id": 56387,
         "tmdb_type": "tv"
       },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
       "genres": [
+        "Action & Adventure",
         "Animazione",
-        "Commedia",
+        "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.6,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -301,8 +272,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts17714",
@@ -333,6 +304,35 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts89550",
       "title": "Fire Force",
       "year": 2019,
@@ -352,33 +352,33 @@
       ],
       "rating": 8.362,
       "audio_locales": [
-        "te",
-        "ar",
-        "en-US",
-        "fr",
-        "ja-JP",
-        "de",
-        "es",
-        "hi",
-        "id",
         "it-IT",
         "pt",
-        "ta"
-      ],
-      "subtitle_locales": [
-        "th",
+        "ar",
+        "fr",
+        "hi",
+        "id",
+        "ja-JP",
+        "ta",
+        "te",
         "de",
         "en-US",
-        "it-IT",
-        "ms",
+        "es"
+      ],
+      "subtitle_locales": [
+        "pt",
+        "ru",
+        "th",
         "vi",
         "ar",
         "es",
         "fr",
         "hi",
         "id",
-        "pt",
-        "ru"
+        "it-IT",
+        "ms",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -404,17 +404,17 @@
       ],
       "rating": 8.391,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th",
-        "de",
-        "en-US",
         "es",
         "fr",
-        "hi"
+        "hi",
+        "ja-JP",
+        "te",
+        "de",
+        "it-IT",
+        "pt",
+        "ta",
+        "th",
+        "en-US"
       ],
       "subtitle_locales": [
         "en-US",
@@ -503,31 +503,61 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "ja-JP",
+        "pt",
         "ta",
         "te",
         "th",
         "en-US",
         "es",
-        "hi",
-        "ja-JP",
-        "pt"
+        "hi"
       ],
       "subtitle_locales": [
         "ar",
         "en-US",
-        "es",
         "fr",
         "id",
-        "it-IT",
         "pl",
-        "pt",
         "de",
+        "es",
+        "it-IT",
+        "pt",
         "ru",
         "th",
         "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+"
     },
     {
@@ -562,36 +592,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.516,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -610,8 +610,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -637,10 +637,10 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.483,
+      "rating": 8.489,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -810,7 +810,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.475,
+      "rating": 8.476,
       "audio_locales": [
         "it-IT"
       ],
@@ -932,6 +932,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.146,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts45104",
@@ -1096,12 +1124,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1187,23 +1215,23 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
       },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
       "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
       ],
-      "rating": 7.4,
+      "rating": 7.471,
       "audio_locales": [
         "it-IT"
       ],
@@ -1211,8 +1239,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "ts38826",
@@ -1242,23 +1270,23 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
       },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
       ],
-      "rating": 7.471,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -1266,8 +1294,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts57405",
@@ -1563,7 +1591,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.297,
+      "rating": 8.296,
       "audio_locales": [
         "it-IT"
       ],
@@ -1621,27 +1649,27 @@
       ],
       "rating": 7.608,
       "audio_locales": [
+        "es",
+        "fr",
         "it-IT",
         "ja-JP",
         "pt",
         "de",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "subtitle_locales": [
+        "fr",
+        "pt",
+        "th",
         "vi",
         "ar",
         "en-US",
-        "fr",
         "id",
-        "pt",
-        "ru",
-        "de",
-        "es",
         "it-IT",
         "ms",
-        "th"
+        "ru",
+        "de",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1759,6 +1787,34 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts448353",
+      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 271003,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
+      "maturity_rating": "18+"
+    },
+    {
       "ag_id": "ts76736",
       "title": "I cinque samurai: Message",
       "year": 1991,
@@ -1786,34 +1842,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts448353",
-      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 271003,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts436411",
@@ -2003,7 +2031,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.612,
+      "rating": 6.558,
       "audio_locales": [
         "it-IT"
       ],
@@ -2126,34 +2154,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.146,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -2176,12 +2176,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2667,15 +2667,15 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "ar",
-        "en-US",
-        "pt",
         "ru",
         "de",
+        "pt",
+        "vi",
+        "ar",
+        "en-US",
         "es",
         "fr",
-        "it-IT",
-        "vi"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3046,34 +3046,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts246911",
-      "title": "Cyborg 009",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 131647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 10.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "tm130037",
       "title": "Holly & Benji: La Grande Sfida Europea",
       "year": 1985,
@@ -3124,6 +3096,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts246911",
+      "title": "Cyborg 009",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 131647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 10.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T"
     },
     {
@@ -3347,34 +3347,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3400,6 +3372,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+"
     },
     {
@@ -5502,16 +5502,16 @@
       ],
       "rating": 6.871,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "de",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5750,7 +5750,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.323,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6665,8 +6665,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6695,8 +6695,8 @@
       ],
       "rating": 7.19,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7904,8 +7904,8 @@
       ],
       "rating": 5.833,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
