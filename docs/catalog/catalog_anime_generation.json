@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-08T15:50:22Z",
+  "generated_at": "2026-06-08T20:13:33Z",
   "titles": [
     {
       "ag_id": "tm190768",
@@ -192,60 +192,30 @@
       ],
       "rating": 8.543,
       "audio_locales": [
-        "hi",
         "ja-JP",
-        "pt",
-        "ta",
-        "de",
         "en-US",
         "es",
-        "fr",
         "it-IT",
-        "te"
+        "pt",
+        "ta",
+        "te",
+        "de",
+        "fr",
+        "hi"
       ],
       "subtitle_locales": [
-        "pt",
         "ru",
         "ar",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+"
-    },
-    {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts345",
@@ -273,6 +243,64 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+"
+    },
+    {
+      "ag_id": "ts17714",
+      "title": "Devil May Cry",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 12577,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 7.621,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
       "maturity_rating": "14+"
     },
     {
@@ -305,34 +333,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts17714",
-      "title": "Devil May Cry",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 12577,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 7.621,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts89550",
       "title": "Fire Force",
       "year": 2019,
@@ -352,33 +352,33 @@
       ],
       "rating": 8.362,
       "audio_locales": [
-        "ta",
-        "de",
-        "ja-JP",
         "pt",
         "te",
-        "ar",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT"
-      ],
-      "subtitle_locales": [
+        "de",
         "en-US",
         "es",
         "hi",
         "id",
         "it-IT",
+        "ja-JP",
+        "ta",
+        "ar",
+        "fr"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
         "ms",
-        "ru",
+        "pt",
         "th",
+        "es",
+        "hi",
+        "id",
+        "ru",
+        "vi",
         "ar",
         "de",
-        "fr",
-        "pt",
-        "vi"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -404,17 +404,17 @@
       ],
       "rating": 8.391,
       "audio_locales": [
-        "en-US",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "de",
-        "fr",
-        "hi",
         "pt",
-        "ta",
         "te",
-        "th"
+        "ja-JP",
+        "th",
+        "fr",
+        "de",
+        "en-US",
+        "it-IT",
+        "ta",
+        "es",
+        "hi"
       ],
       "subtitle_locales": [
         "fr",
@@ -476,28 +476,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "hi",
-        "ja-JP",
-        "pt",
         "ta",
         "te",
         "th",
         "en-US",
-        "es"
+        "es",
+        "hi",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "ar",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
         "de",
         "en-US",
+        "es",
         "id",
+        "zh",
+        "ar",
+        "fr",
+        "it-IT",
         "pl",
+        "pt",
         "ru",
-        "th",
-        "zh"
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -755,8 +755,8 @@
       ],
       "rating": 8.016,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -878,34 +878,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts29400",
-      "title": "Capricciosa Orange Road",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9103,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.672,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts74597",
       "title": "Ken il guerriero: Le origini del mito",
       "year": 2006,
@@ -962,34 +934,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.146,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "ts45104",
       "title": "I cinque samurai",
       "year": 1988,
@@ -1035,8 +979,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1152,12 +1096,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1370,7 +1314,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.405,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1401,14 +1345,42 @@
       ],
       "rating": 7.818,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts29400",
+      "title": "Capricciosa Orange Road",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9103,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.672,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T"
     },
     {
@@ -1554,27 +1526,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+"
-    },
-    {
       "ag_id": "ts24483",
       "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
       "year": 2009,
@@ -1601,6 +1552,27 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "18+"
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts18944",
@@ -2147,6 +2119,34 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.146,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+"
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2197,12 +2197,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2688,15 +2688,15 @@
         "de"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
+        "es",
         "fr",
         "it-IT",
-        "ar",
-        "es",
         "pt",
+        "ar",
+        "de",
         "ru",
-        "vi"
+        "vi",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2776,8 +2776,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5274,8 +5274,8 @@
       ],
       "rating": 7.411,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5506,12 +5506,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6379,7 +6379,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.054,
+      "rating": 7.048,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7011,8 +7011,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7041,7 +7041,7 @@
         "Commedia",
         "televisione film"
       ],
-      "rating": 6.8,
+      "rating": 6.95,
       "audio_locales": [
         "it-IT"
       ],
@@ -7072,8 +7072,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
