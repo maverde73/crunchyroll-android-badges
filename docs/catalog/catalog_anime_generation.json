@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "generated_at": "2026-06-09T02:58:51Z",
+  "generated_at": "2026-06-09T09:41:42Z",
   "titles": [
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
+      "maturity_rating": "T"
+    },
     {
       "ag_id": "tm190768",
       "title": "Perfect Blue",
@@ -28,34 +56,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts10145",
@@ -192,26 +192,26 @@
       ],
       "rating": 8.543,
       "audio_locales": [
-        "en-US",
         "es",
         "hi",
         "pt",
-        "ta",
         "de",
         "fr",
         "it-IT",
         "ja-JP",
-        "te"
+        "ta",
+        "te",
+        "en-US"
       ],
       "subtitle_locales": [
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
         "ar",
         "de",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -350,35 +350,35 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.362,
+      "rating": 8.363,
       "audio_locales": [
-        "es",
+        "en-US",
         "fr",
         "hi",
         "id",
-        "it-IT",
         "ja-JP",
+        "pt",
         "ta",
-        "te",
         "ar",
-        "de",
-        "en-US",
-        "pt"
+        "es",
+        "it-IT",
+        "te",
+        "de"
       ],
       "subtitle_locales": [
-        "es",
-        "hi",
-        "th",
-        "vi",
-        "en-US",
         "fr",
-        "id",
+        "hi",
         "it-IT",
         "ms",
-        "pt",
         "ru",
+        "es",
+        "id",
+        "pt",
+        "th",
+        "vi",
         "ar",
-        "de"
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -404,24 +404,24 @@
       ],
       "rating": 8.391,
       "audio_locales": [
-        "te",
-        "th",
-        "es",
-        "fr",
-        "hi",
-        "it-IT",
-        "de",
         "en-US",
-        "ja-JP",
+        "es",
+        "hi",
         "pt",
-        "ta"
+        "te",
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "ta",
+        "th",
+        "de"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -486,18 +486,18 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
+        "th",
+        "zh",
         "de",
-        "en-US",
-        "fr",
+        "es",
         "id",
         "it-IT",
-        "pt",
-        "th",
-        "es",
         "pl",
+        "pt",
         "ru",
-        "zh"
+        "ar",
+        "en-US",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -639,8 +639,8 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -668,8 +668,8 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -782,7 +782,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.873,
+      "rating": 7.893,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1092,16 +1092,16 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
+        "it-IT",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1187,33 +1187,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.477,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts57405",
       "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
       "year": 1990,
@@ -1268,6 +1241,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.477,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "tm19944",
@@ -1619,29 +1619,29 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.608,
+      "rating": 7.59,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
-        "pt",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "th",
-        "fr",
-        "id",
-        "it-IT",
-        "ms",
-        "pt",
-        "ru",
-        "vi",
         "ar",
         "de",
         "en-US",
-        "es"
+        "es",
+        "id",
+        "it-IT",
+        "pt",
+        "th",
+        "fr",
+        "ms",
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1899,35 +1899,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -1954,6 +1925,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
       "maturity_rating": "T"
     },
     {
@@ -2176,12 +2176,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2500,6 +2500,35 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts56262",
+      "title": "Nanà supergirl",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34168,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanà supergirl (ななこ SOS Nanako SOS?), è un manga e anime giapponese (titolo originale Nanako SOS) prodotto nel 1983 da Hideo Azuma (manga), Juzo Tsubota (anime) e Kokusai Eigasha e trasmesso in Italia dal 1984. Hideo Azuma è anche il disegnatore di Pollon (memorabili sono infatti gli episodi in cui i personaggi di questa serie guardavano Pollon in TV).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z9xNrPFIrFNnkAeC3TcyQc3OsZY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tMeuJyTADvBrzzV9fMZoxt4cwOY.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Kids"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
+      "maturity_rating": "7+"
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -2530,35 +2559,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts56262",
-      "title": "Nanà supergirl",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34168,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nanà supergirl (ななこ SOS Nanako SOS?), è un manga e anime giapponese (titolo originale Nanako SOS) prodotto nel 1983 da Hideo Azuma (manga), Juzo Tsubota (anime) e Kokusai Eigasha e trasmesso in Italia dal 1984. Hideo Azuma è anche il disegnatore di Pollon (memorabili sono infatti gli episodi in cui i personaggi di questa serie guardavano Pollon in TV).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z9xNrPFIrFNnkAeC3TcyQc3OsZY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tMeuJyTADvBrzzV9fMZoxt4cwOY.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Kids"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
-      "maturity_rating": "7+"
-    },
-    {
       "ag_id": "ts399964",
       "title": "Shaman King: Flowers",
       "year": 2024,
@@ -2582,6 +2582,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "T"
     },
     {
@@ -2613,33 +2640,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2659,23 +2659,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "en-US",
-        "id",
-        "ja-JP",
         "ru",
         "th",
-        "de"
+        "de",
+        "en-US",
+        "id",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "fr",
-        "it-IT",
+        "es",
         "pt",
         "ru",
         "vi",
-        "en-US",
-        "es"
+        "ar",
+        "fr",
+        "it-IT",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3072,33 +3072,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3124,6 +3097,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
       "maturity_rating": "T"
     },
     {
@@ -3661,33 +3661,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts16785",
-      "title": "Capeta",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34803,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3741,6 +3714,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts16785",
+      "title": "Capeta",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34803,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
       "maturity_rating": "T"
     },
     {
@@ -3903,12 +3903,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "ar",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "ar"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4025,34 +4025,6 @@
       "maturity_rating": ""
     },
     {
-      "ag_id": "ts365130",
-      "title": "Dark Gathering",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 206799,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Keitarou ha una predisposizione ad attirare gli spiriti e, data la sua esperienza, gli viene affidato l'incarico di fare da insegnante. La persona che dovrà aiutare è una bambina di nome Yayoi. La piccola percepisce chiaramente gli spiriti e ne sta cercando uno in particolare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Cuja7qMSQi49LUEmcpntv2mOVu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fctgQPXyx6quhA7TY0xTb9STIuS.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero"
-      ],
-      "rating": 7.243,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "tm41614",
       "title": "I Cavalieri dello zodiaco - La leggenda dei guerrieri scarlatti",
       "year": 1988,
@@ -4079,6 +4051,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52f1b371-1335-431c-a672-cbaa95d743e2",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts365130",
+      "title": "Dark Gathering",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 206799,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Keitarou ha una predisposizione ad attirare gli spiriti e, data la sua esperienza, gli viene affidato l'incarico di fare da insegnante. La persona che dovrà aiutare è una bambina di nome Yayoi. La piccola percepisce chiaramente gli spiriti e ne sta cercando uno in particolare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Cuja7qMSQi49LUEmcpntv2mOVu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fctgQPXyx6quhA7TY0xTb9STIuS.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero"
+      ],
+      "rating": 7.243,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts26785",
@@ -4822,8 +4822,8 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5502,16 +5502,16 @@
       ],
       "rating": 6.871,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
         "ru",
         "de",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5619,8 +5619,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6175,7 +6175,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.887,
+      "rating": 6.884,
       "audio_locales": [
         "ja-JP",
         "it-IT"
@@ -6695,8 +6695,8 @@
       ],
       "rating": 7.19,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7011,8 +7011,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
