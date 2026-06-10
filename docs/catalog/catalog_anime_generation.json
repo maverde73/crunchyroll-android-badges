@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-10T03:37:10Z",
+  "generated_at": "2026-06-10T09:58:14Z",
   "titles": [
     {
       "ag_id": "tm190768",
@@ -220,26 +220,26 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
-        "es",
-        "hi",
         "it-IT",
         "ja-JP",
-        "ta",
+        "pt",
         "te",
-        "en-US",
         "fr",
-        "pt"
+        "hi",
+        "ta",
+        "de",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
-        "ru",
-        "ar",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -265,8 +265,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -352,33 +352,33 @@
       ],
       "rating": 8.363,
       "audio_locales": [
-        "hi",
-        "pt",
-        "ta",
         "ar",
+        "de",
+        "es",
         "fr",
+        "hi",
+        "ja-JP",
+        "pt",
+        "te",
+        "en-US",
         "id",
         "it-IT",
-        "ja-JP",
-        "te",
-        "de",
-        "en-US",
-        "es"
+        "ta"
       ],
       "subtitle_locales": [
-        "es",
-        "hi",
+        "fr",
         "id",
+        "ms",
+        "ru",
+        "th",
+        "de",
+        "hi",
         "it-IT",
         "pt",
-        "ru",
-        "en-US",
-        "fr",
-        "ms",
-        "th",
         "vi",
         "ar",
-        "de"
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -404,17 +404,17 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "pt",
-        "ta",
-        "te",
         "de",
         "es",
+        "fr",
         "ja-JP",
+        "ta",
+        "te",
         "th",
         "en-US",
-        "fr",
         "hi",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "subtitle_locales": [
         "it-IT",
@@ -476,28 +476,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US"
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pl",
-        "ru",
-        "th",
-        "de",
-        "fr",
-        "id",
-        "pt",
-        "zh",
         "ar",
         "en-US",
-        "es"
+        "fr",
+        "id",
+        "it-IT",
+        "pt",
+        "th",
+        "zh",
+        "de",
+        "es",
+        "pl",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -840,8 +840,8 @@
       ],
       "rating": 8.462,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1096,13 +1096,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pt",
         "ru",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1415,6 +1415,34 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts308038",
+      "title": "Demon Hunter - Le memorie del mezzo demone",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 133154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
+      "maturity_rating": "18+"
+    },
+    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -1442,34 +1470,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts308038",
-      "title": "Demon Hunter - Le memorie del mezzo demone",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 133154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts24632",
@@ -1631,18 +1631,18 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "ar",
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "ms",
-        "pt",
         "th",
-        "ar",
         "de",
-        "es",
         "id",
+        "pt",
         "ru",
-        "vi",
-        "en-US"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1678,6 +1678,33 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts52317",
+      "title": "Un oceano di avventure",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34160,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/e4uea3FDn8ORIjjUjlzwdZIfmPM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.417,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts452568",
       "title": "WITCH WATCH",
       "year": 2025,
@@ -1703,33 +1730,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
-      "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts52317",
-      "title": "Un oceano di avventure",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34160,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/e4uea3FDn8ORIjjUjlzwdZIfmPM.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.417,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
       "maturity_rating": "T"
     },
     {
@@ -1929,34 +1929,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts47224",
-      "title": "Sandy dai mille colori",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 28460,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -1983,6 +1955,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts47224",
+      "title": "Sandy dai mille colori",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 28460,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T"
     },
     {
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
         "es",
         "fr",
         "it-IT",
         "pl",
-        "pt",
-        "de",
-        "en-US"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2502,36 +2502,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts399964",
       "title": "Shaman King: Flowers",
       "year": 2024,
@@ -2587,31 +2557,34 @@
       "maturity_rating": "7+"
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
       },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
       "genres": [
+        "Azione",
+        "Avventura",
         "Animazione",
-        "Dramma"
+        "Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.9,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "T"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts68914",
@@ -2642,6 +2615,33 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2669,15 +2669,15 @@
         "th"
       ],
       "subtitle_locales": [
-        "vi",
         "de",
-        "en-US",
         "es",
         "pt",
         "ru",
         "ar",
+        "en-US",
         "fr",
-        "it-IT"
+        "it-IT",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3187,6 +3187,34 @@
       "maturity_rating": "7+"
     },
     {
+      "ag_id": "ts518",
+      "title": "Beelzebub",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 38603,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tatsumi Oga è uno studente del primo anno del Liceo Ishiyama, una scuola per delinquenti. Un giorno gli capita di raccogliere dal fiume un bambino, che non è altri che Beelzebub, il figlio del re dei demoni, destinato una volta diventato adulto a distruggere l'umanità. Oga ha la fama di essere il più cattivo della scuola, per questo è stato prescelto per occuparsi di allevare il bambino con l'aiuto della tata demoniaca Hilda. E se dovesse rifiutarsi, Oga verrebbe immediatamente ucciso! Il giovane delinquente si ritroverà così costretto a fare da genitore al piccolo Beel, cercando comunque un modo per passare l'incarico a un altro delinquente che possa soddisfare i requisiti necessari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pKD21lpNb6LzdXi3FfqDirxPGEo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3Z57uXxFEANAXQTukXmzJYnHc7F.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.254,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts72501",
       "title": "È un po' magia per Terry e Maggie",
       "year": 1993,
@@ -3214,34 +3242,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts518",
-      "title": "Beelzebub",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 38603,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tatsumi Oga è uno studente del primo anno del Liceo Ishiyama, una scuola per delinquenti. Un giorno gli capita di raccogliere dal fiume un bambino, che non è altri che Beelzebub, il figlio del re dei demoni, destinato una volta diventato adulto a distruggere l'umanità. Oga ha la fama di essere il più cattivo della scuola, per questo è stato prescelto per occuparsi di allevare il bambino con l'aiuto della tata demoniaca Hilda. E se dovesse rifiutarsi, Oga verrebbe immediatamente ucciso! Il giovane delinquente si ritroverà così costretto a fare da genitore al piccolo Beel, cercando comunque un modo per passare l'incarico a un altro delinquente che possa soddisfare i requisiti necessari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pKD21lpNb6LzdXi3FfqDirxPGEo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3Z57uXxFEANAXQTukXmzJYnHc7F.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.254,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts312683",
@@ -3291,34 +3291,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154098,
-        "tmdb_type": "tv"
-      },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.808,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts341771",
@@ -3402,6 +3374,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.808,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
       "maturity_rating": "14+"
     },
     {
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5053,8 +5053,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6177,8 +6177,8 @@
       ],
       "rating": 6.952,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7101,8 +7101,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
