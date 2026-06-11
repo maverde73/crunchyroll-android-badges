@@ -1,7 +1,34 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T10:22:09Z",
+  "generated_at": "2026-06-11T15:59:00Z",
   "titles": [
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+"
+    },
     {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
@@ -31,33 +58,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.305,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts10145",
       "title": "Detective Conan",
       "year": 1996,
@@ -75,7 +75,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.011,
+      "rating": 8.014,
       "audio_locales": [
         "it-IT"
       ],
@@ -103,10 +103,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.364,
+      "rating": 8.365,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -190,28 +190,28 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.543,
       "audio_locales": [
-        "ja-JP",
-        "pt",
         "en-US",
-        "es",
+        "fr",
+        "hi",
         "it-IT",
-        "ta",
+        "ja-JP",
         "te",
         "de",
-        "fr",
-        "hi"
+        "es",
+        "pt",
+        "ta"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -234,7 +234,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.505,
+      "rating": 8.503,
       "audio_locales": [
         "it-IT"
       ],
@@ -352,17 +352,17 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "es",
-        "hi",
-        "ta",
-        "te",
-        "fr",
-        "it-IT",
         "ja-JP",
-        "pt",
         "th",
         "de",
-        "en-US"
+        "fr",
+        "hi",
+        "it-IT",
+        "pt",
+        "ta",
+        "te",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
         "fr",
@@ -393,35 +393,35 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.362,
+      "rating": 8.35,
       "audio_locales": [
-        "ta",
-        "te",
-        "en-US",
-        "hi",
-        "id",
-        "it-IT",
-        "ja-JP",
         "ar",
-        "de",
         "es",
         "fr",
-        "pt"
+        "hi",
+        "id",
+        "ja-JP",
+        "ta",
+        "de",
+        "en-US",
+        "it-IT",
+        "pt",
+        "te"
       ],
       "subtitle_locales": [
-        "ar",
+        "hi",
+        "pt",
+        "ru",
+        "vi",
         "en-US",
         "es",
-        "fr",
-        "hi",
         "id",
-        "ms",
-        "pt",
-        "de",
         "it-IT",
-        "ru",
+        "ms",
         "th",
-        "vi"
+        "ar",
+        "de",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -457,6 +457,53 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.154,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "id",
+        "pl",
+        "pt",
+        "th",
+        "ar",
+        "it-IT",
+        "ru",
+        "zh",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -482,53 +529,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.154,
-      "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "ru",
-        "de",
-        "id",
-        "pl",
-        "th",
-        "zh",
-        "ar",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts12311",
@@ -592,6 +592,35 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -637,7 +666,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.496,
+      "rating": 8.464,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -647,35 +676,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
       "maturity_rating": "14+"
     },
     {
@@ -1096,13 +1096,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1216,6 +1216,34 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.507,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+"
+    },
+    {
       "ag_id": "ts38826",
       "title": "Maid-sama! - La doppia vita di Misaki",
       "year": 2010,
@@ -1271,34 +1299,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.507,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+"
-    },
-    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1346,8 +1346,8 @@
       ],
       "rating": 7.818,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1651,27 +1651,27 @@
       ],
       "rating": 7.59,
       "audio_locales": [
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
-        "pt",
-        "de"
+        "pt"
       ],
       "subtitle_locales": [
+        "vi",
+        "ar",
         "de",
-        "en-US",
+        "es",
         "fr",
         "id",
-        "it-IT",
         "ms",
         "pt",
-        "ru",
-        "ar",
-        "es",
         "th",
-        "vi"
+        "en-US",
+        "it-IT",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pl",
         "pt",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pl"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2219,35 +2219,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts1781",
-      "title": "City Hunter",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Mistero"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2275,6 +2246,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+"
+    },
+    {
+      "ag_id": "ts1781",
+      "title": "City Hunter",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Mistero"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts35975",
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "ru",
-        "th",
-        "de",
         "en-US",
         "id",
-        "ja-JP"
+        "ja-JP",
+        "ru",
+        "th",
+        "de"
       ],
       "subtitle_locales": [
-        "ru",
+        "fr",
+        "it-IT",
         "pt",
+        "ru",
         "vi",
         "ar",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3463,34 +3463,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts394055",
-      "title": "Suicide Squad ISEKAI",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 229926,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "tm136088",
       "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
       "year": 1989,
@@ -3517,6 +3489,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts394055",
+      "title": "Suicide Squad ISEKAI",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 229926,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts314452",
@@ -3798,33 +3798,6 @@
       "maturity_rating": "12+"
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -3853,6 +3826,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts15250",
@@ -3932,12 +3932,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
         "ar",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4508,8 +4508,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4540,8 +4540,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5648,8 +5648,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5730,7 +5730,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.167,
+      "rating": 7.906,
       "audio_locales": [
         "it-IT"
       ],
@@ -5781,8 +5781,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5947,8 +5947,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6206,8 +6206,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6724,8 +6724,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6925,8 +6925,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
