@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T15:59:00Z",
+  "generated_at": "2026-06-11T20:20:49Z",
   "titles": [
     {
       "ag_id": "tm190768",
@@ -103,10 +103,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.365,
+      "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -192,26 +192,26 @@
       ],
       "rating": 8.543,
       "audio_locales": [
-        "en-US",
-        "fr",
-        "hi",
-        "it-IT",
         "ja-JP",
         "te",
+        "ta",
+        "en-US",
         "de",
         "es",
         "pt",
-        "ta"
+        "fr",
+        "hi",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "pt",
         "ru",
         "ar",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -352,17 +352,17 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "ja-JP",
+        "ta",
+        "en-US",
         "th",
-        "de",
         "fr",
         "hi",
-        "it-IT",
         "pt",
-        "ta",
         "te",
-        "en-US",
-        "es"
+        "es",
+        "ja-JP",
+        "de",
+        "it-IT"
       ],
       "subtitle_locales": [
         "fr",
@@ -395,33 +395,33 @@
       ],
       "rating": 8.35,
       "audio_locales": [
+        "id",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
         "ar",
+        "de",
+        "en-US",
         "es",
         "fr",
         "hi",
-        "id",
-        "ja-JP",
-        "ta",
-        "de",
-        "en-US",
-        "it-IT",
-        "pt",
-        "te"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "hi",
-        "pt",
-        "ru",
-        "vi",
         "en-US",
         "es",
-        "id",
+        "fr",
         "it-IT",
-        "ms",
-        "th",
+        "ru",
+        "vi",
         "ar",
         "de",
-        "fr"
+        "hi",
+        "id",
+        "ms",
+        "pt",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -1096,13 +1096,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
-        "ru",
-        "de"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pl",
         "pt",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2352,8 +2352,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2929,8 +2929,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -5531,16 +5531,16 @@
       ],
       "rating": 6.871,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6263,10 +6263,10 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.491,
+      "rating": 7.492,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7445,8 +7445,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
