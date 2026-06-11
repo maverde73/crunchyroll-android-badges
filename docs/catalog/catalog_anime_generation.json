@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T03:53:36Z",
+  "generated_at": "2026-06-11T10:22:09Z",
   "titles": [
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.304,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+"
-    },
     {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
@@ -56,6 +29,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.305,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts10145",
@@ -161,7 +161,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.478,
+      "rating": 8.474,
       "audio_locales": [
         "it-IT"
       ],
@@ -192,26 +192,26 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
-        "es",
-        "hi",
         "ja-JP",
         "pt",
-        "ta",
         "en-US",
-        "fr",
+        "es",
         "it-IT",
-        "te"
+        "ta",
+        "te",
+        "de",
+        "fr",
+        "hi"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "ar",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -352,24 +352,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "en-US",
-        "pt",
-        "te",
-        "th",
-        "de",
         "es",
-        "fr",
         "hi",
+        "ta",
+        "te",
+        "fr",
         "it-IT",
         "ja-JP",
-        "ta"
+        "pt",
+        "th",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -393,33 +393,33 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.363,
+      "rating": 8.362,
       "audio_locales": [
-        "ar",
-        "de",
+        "ta",
+        "te",
+        "en-US",
         "hi",
         "id",
         "it-IT",
         "ja-JP",
-        "ta",
-        "te",
-        "en-US",
+        "ar",
+        "de",
         "es",
         "fr",
         "pt"
       ],
       "subtitle_locales": [
         "ar",
-        "de",
-        "fr",
-        "it-IT",
-        "ms",
-        "ru",
         "en-US",
         "es",
+        "fr",
         "hi",
         "id",
+        "ms",
         "pt",
+        "de",
+        "it-IT",
+        "ru",
         "th",
         "vi"
       ],
@@ -457,53 +457,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.154,
-      "audio_locales": [
-        "th",
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "pt",
-        "th",
-        "zh",
-        "de",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "ru",
-        "ar"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -529,6 +482,53 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.154,
+      "audio_locales": [
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "ru",
+        "de",
+        "id",
+        "pl",
+        "th",
+        "zh",
+        "ar",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts12311",
@@ -610,8 +610,8 @@
       ],
       "rating": 7.593,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -637,7 +637,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.5,
+      "rating": 8.496,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -694,7 +694,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.299,
+      "rating": 8.286,
       "audio_locales": [
         "ja-JP"
       ],
@@ -716,7 +716,7 @@
       },
       "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
       "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bKmSt151LOfnEUzp18a7FtPRmeD.jpg",
       "genres": [
         "Animazione",
         "Commedia",
@@ -725,8 +725,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -753,7 +753,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.3,
+      "rating": 7.326,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -810,7 +810,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.476,
+      "rating": 8.461,
       "audio_locales": [
         "it-IT"
       ],
@@ -838,7 +838,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.462,
+      "rating": 8.457,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -895,7 +895,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.782,
+      "rating": 7.767,
       "audio_locales": [
         "it-IT"
       ],
@@ -950,7 +950,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.169,
+      "rating": 7.217,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1096,13 +1096,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "ru",
+        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt",
-        "ru",
-        "de"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1231,7 +1231,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.5,
+      "rating": 8.465,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1346,8 +1346,8 @@
       ],
       "rating": 7.818,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1651,26 +1651,26 @@
       ],
       "rating": 7.59,
       "audio_locales": [
+        "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de",
-        "en-US"
+        "de"
       ],
       "subtitle_locales": [
-        "ar",
         "de",
         "en-US",
+        "fr",
         "id",
         "it-IT",
         "ms",
-        "ru",
-        "th",
-        "es",
-        "fr",
         "pt",
+        "ru",
+        "ar",
+        "es",
+        "th",
         "vi"
       ],
       "languages_assumed": false,
@@ -2087,7 +2087,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.421,
+      "rating": 8.423,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pl",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2352,8 +2352,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2557,6 +2557,34 @@
       "maturity_rating": "7+"
     },
     {
+      "ag_id": "ts68914",
+      "title": "Hurricane Polymar: Holy Blood",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43786,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
+      "maturity_rating": "16+"
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -2585,34 +2613,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts68914",
-      "title": "Hurricane Polymar: Holy Blood",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43786,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
-      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts44184",
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
+        "ru",
+        "th",
         "de",
         "en-US",
         "id",
-        "ja-JP",
-        "ru",
-        "th"
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "ru",
+        "pt",
+        "vi",
         "ar",
+        "de",
         "en-US",
         "es",
-        "ru",
-        "vi",
-        "de",
         "fr",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2699,7 +2699,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.4,
+      "rating": 5.643,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2852,34 +2852,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -2906,6 +2878,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
       "maturity_rating": "14+"
     },
     {
@@ -3117,7 +3117,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.2,
+      "rating": 8.198,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3203,7 +3203,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.254,
+      "rating": 8.231,
       "audio_locales": [
         "it-IT"
       ],
@@ -3473,13 +3473,13 @@
       },
       "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
       "poster_tall": "https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v6RfEUoDrB5iAZXmJ6ZT9tUs3ZX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.257,
+      "rating": 7.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4961,7 +4961,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.424,
+      "rating": 5.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5301,7 +5301,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.411,
+      "rating": 7.413,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5781,8 +5781,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5947,8 +5947,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6263,7 +6263,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.488,
+      "rating": 7.491,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6437,7 +6437,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.426,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6470,8 +6470,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6694,8 +6694,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
