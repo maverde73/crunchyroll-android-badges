@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T10:11:29Z",
+  "generated_at": "2026-06-12T14:56:27Z",
   "titles": [
     {
       "ag_id": "ts492780",
@@ -29,6 +29,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts10145",
@@ -60,33 +87,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -105,8 +105,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -190,28 +190,28 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.541,
+      "rating": 8.544,
       "audio_locales": [
-        "es",
-        "ja-JP",
+        "it-IT",
+        "pt",
         "ta",
         "de",
         "en-US",
+        "ja-JP",
+        "te",
+        "es",
         "fr",
-        "hi",
-        "it-IT",
-        "pt",
-        "te"
+        "hi"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
         "ru",
         "ar",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -276,34 +276,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts17714",
-      "title": "Devil May Cry",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 12577,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 7.632,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -333,6 +305,34 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts17714",
+      "title": "Devil May Cry",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 12577,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 7.632,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -352,24 +352,24 @@
       ],
       "rating": 8.391,
       "audio_locales": [
+        "de",
+        "es",
+        "ta",
         "en-US",
+        "fr",
         "hi",
+        "it-IT",
         "ja-JP",
         "pt",
         "te",
-        "th",
-        "de",
+        "th"
+      ],
+      "subtitle_locales": [
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "ta"
-      ],
-      "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pt",
-        "en-US",
-        "es"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -393,35 +393,35 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.347,
+      "rating": 8.345,
       "audio_locales": [
         "es",
+        "fr",
+        "it-IT",
+        "ta",
+        "te",
+        "ar",
+        "en-US",
         "hi",
+        "id",
         "ja-JP",
         "pt",
-        "ta",
-        "de",
+        "de"
+      ],
+      "subtitle_locales": [
+        "vi",
+        "ar",
         "en-US",
         "fr",
         "id",
         "it-IT",
-        "te",
-        "ar"
-      ],
-      "subtitle_locales": [
-        "ms",
+        "pt",
         "th",
         "de",
-        "it-IT",
-        "pt",
-        "ru",
-        "vi",
-        "ar",
-        "en-US",
         "es",
-        "fr",
         "hi",
-        "id"
+        "ms",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -457,6 +457,94 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts353577",
+      "title": "Isekai Farming - Vita contadina in un altro mondo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 196285,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Machio Hikaru, Salarymen 39enne, muore di malattia dopo una vita tutt'altro che esaltante. Mentre è in transito verso l'altro mondo, si imbatte in una divinità che gli propone di ricominciare una nuova vita in un mondo diverso. Machio accetta e, per ricompensarlo della sua scelta, il dio gli concede anche tre desideri: ottiene così un corpo immune dalle malattie, di avere una vita pacifica e di vivere facendo l'agricoltore. A quel punto, inizia per lui una nuova esistenza da \"Fattore\" in un mondo parallelo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.593,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -487,17 +575,17 @@
       ],
       "subtitle_locales": [
         "pt",
-        "th",
-        "it-IT",
-        "zh",
-        "de",
-        "fr",
-        "id",
-        "ar",
         "ru",
+        "id",
+        "pl",
+        "th",
+        "zh",
+        "ar",
+        "de",
         "en-US",
         "es",
-        "pl"
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -562,94 +650,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.516,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts353577",
-      "title": "Isekai Farming - Vita contadina in un altro mondo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 196285,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Machio Hikaru, Salarymen 39enne, muore di malattia dopo una vita tutt'altro che esaltante. Mentre è in transito verso l'altro mondo, si imbatte in una divinità che gli propone di ricominciare una nuova vita in un mondo diverso. Machio accetta e, per ricompensarlo della sua scelta, il dio gli concede anche tre desideri: ottiene così un corpo immune dalle malattie, di avere una vita pacifica e di vivere facendo l'agricoltore. A quel punto, inizia per lui una nuova esistenza da \"Fattore\" in un mondo parallelo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.593,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts360995",
       "title": "Boku no kokoro no yabai yatsu",
       "year": 2023,
@@ -668,8 +668,8 @@
       ],
       "rating": 8.464,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -755,8 +755,8 @@
       ],
       "rating": 7.326,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -990,33 +990,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.779,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1996,
@@ -1043,6 +1016,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+"
+    },
+    {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.779,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts34474",
@@ -1073,42 +1073,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 286791,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+"
-    },
-    {
       "ag_id": "tm1542133",
       "title": "One Piece Fan Letter",
       "year": 2024,
@@ -1127,7 +1091,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "T"
+      "maturity_rating": "13+"
     },
     {
       "ag_id": "ts26262",
@@ -1156,6 +1120,42 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286791,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "ru",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
+      "maturity_rating": "7+"
     },
     {
       "ag_id": "ts75698",
@@ -1315,7 +1315,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.405,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1576,6 +1576,34 @@
       "maturity_rating": "18+"
     },
     {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.771,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1605,34 +1633,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.771,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -1649,7 +1649,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.565,
+      "rating": 7.548,
       "audio_locales": [
         "de",
         "en-US",
@@ -1660,18 +1660,18 @@
         "pt"
       ],
       "subtitle_locales": [
-        "en-US",
+        "ms",
+        "th",
+        "vi",
+        "ar",
+        "de",
         "es",
         "fr",
         "id",
         "it-IT",
         "pt",
-        "ms",
         "ru",
-        "th",
-        "vi",
-        "ar",
-        "de"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1929,6 +1929,34 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts47224",
+      "title": "Sandy dai mille colori",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 28460,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -1955,34 +1983,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts47224",
-      "title": "Sandy dai mille colori",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 28460,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T"
     },
     {
@@ -2016,6 +2016,33 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts22705",
       "title": "Il fantastico mondo di Paul",
       "year": 1976,
@@ -2042,33 +2069,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
       "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts87564",
@@ -2173,17 +2173,17 @@
       ],
       "rating": 7.704,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "pt",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl"
+        "pl",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2352,8 +2352,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2670,11 +2670,11 @@
       ],
       "subtitle_locales": [
         "ru",
-        "ar",
+        "vi",
         "es",
         "it-IT",
         "pt",
-        "vi",
+        "ar",
         "de",
         "en-US",
         "fr"
@@ -2965,6 +2965,33 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts37954",
       "title": "Lovely Sara",
       "year": 1985,
@@ -2990,33 +3017,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
       "maturity_rating": "T"
     },
     {
@@ -3293,34 +3293,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.118,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3374,6 +3346,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.118,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+"
     },
     {
@@ -3798,36 +3798,6 @@
       "maturity_rating": "12+"
     },
     {
-      "ag_id": "tm5128",
-      "title": "Lupin III - Ruba il dizionario di Napoleone!",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80865,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.476,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts488482",
       "title": "La vita nella stanzetta al manga cafè",
       "year": 2026,
@@ -3855,22 +3825,25 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts15250",
-      "title": "Caro fratello",
+      "ag_id": "tm5128",
+      "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 36588,
-        "tmdb_type": "tv"
+        "tmdb_id": 80865,
+        "tmdb_type": "movie"
       },
-      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
       "genres": [
         "Animazione",
-        "Dramma"
+        "Azione",
+        "Commedia",
+        "televisione film",
+        "Crime"
       ],
-      "rating": 6.818,
+      "rating": 6.476,
       "audio_locales": [
         "it-IT"
       ],
@@ -3878,7 +3851,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
       "maturity_rating": "T"
     },
     {
@@ -3910,6 +3883,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
       "maturity_rating": "16+"
+    },
+    {
+      "ag_id": "ts15250",
+      "title": "Caro fratello",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36588,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.818,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "ts415273",
@@ -4327,35 +4327,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts343493",
-      "title": "Love Flops",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195990,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.757,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "ts317155",
       "title": "HEN - Bizzarro",
       "year": 1997,
@@ -4405,6 +4376,35 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts343493",
+      "title": "Love Flops",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195990,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.757,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
+      "maturity_rating": "18+"
+    },
+    {
       "ag_id": "tm29738",
       "title": "Naruto - La via dei ninja",
       "year": 2012,
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5053,8 +5053,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5220,8 +5220,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5648,8 +5648,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6580,8 +6580,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
