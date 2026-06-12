@@ -1,34 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-11T20:20:49Z",
+  "generated_at": "2026-06-12T10:11:29Z",
   "titles": [
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+"
-    },
     {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
@@ -75,7 +48,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.014,
+      "rating": 8.013,
       "audio_locales": [
         "it-IT"
       ],
@@ -84,6 +57,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+"
     },
     {
@@ -105,8 +105,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -190,18 +190,18 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.543,
+      "rating": 8.541,
       "audio_locales": [
-        "ja-JP",
-        "te",
-        "ta",
-        "en-US",
-        "de",
         "es",
-        "pt",
+        "ja-JP",
+        "ta",
+        "de",
+        "en-US",
         "fr",
         "hi",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "te"
       ],
       "subtitle_locales": [
         "it-IT",
@@ -234,7 +234,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.503,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -292,7 +292,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.63,
+      "rating": 7.632,
       "audio_locales": [
         "it-IT"
       ],
@@ -350,19 +350,19 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.392,
+      "rating": 8.391,
       "audio_locales": [
-        "ta",
         "en-US",
-        "th",
-        "fr",
         "hi",
+        "ja-JP",
         "pt",
         "te",
-        "es",
-        "ja-JP",
+        "th",
         "de",
-        "it-IT"
+        "es",
+        "fr",
+        "it-IT",
+        "ta"
       ],
       "subtitle_locales": [
         "fr",
@@ -393,35 +393,35 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.35,
+      "rating": 8.347,
       "audio_locales": [
-        "id",
+        "es",
+        "hi",
         "ja-JP",
         "pt",
         "ta",
-        "te",
-        "ar",
         "de",
         "en-US",
-        "es",
         "fr",
-        "hi",
-        "it-IT"
+        "id",
+        "it-IT",
+        "te",
+        "ar"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
+        "ms",
+        "th",
+        "de",
         "it-IT",
+        "pt",
         "ru",
         "vi",
         "ar",
-        "de",
+        "en-US",
+        "es",
+        "fr",
         "hi",
-        "id",
-        "ms",
-        "pt",
-        "th"
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -474,30 +474,30 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.154,
+      "rating": 8.151,
       "audio_locales": [
-        "en-US",
         "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
-        "th"
+        "th",
+        "en-US"
       ],
       "subtitle_locales": [
-        "fr",
-        "id",
-        "pl",
         "pt",
         "th",
-        "ar",
         "it-IT",
-        "ru",
         "zh",
         "de",
+        "fr",
+        "id",
+        "ar",
+        "ru",
         "en-US",
-        "es"
+        "es",
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -639,8 +639,8 @@
       ],
       "rating": 7.593,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -668,8 +668,8 @@
       ],
       "rating": 8.464,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -723,7 +723,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.029,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -810,7 +810,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.461,
+      "rating": 8.458,
       "audio_locales": [
         "it-IT"
       ],
@@ -838,7 +838,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.457,
+      "rating": 8.456,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -990,6 +990,33 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.779,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1996,
@@ -1016,33 +1043,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.779,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts34474",
@@ -1096,13 +1096,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "ru",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1259,7 +1259,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.465,
+      "rating": 8.468,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1287,7 +1287,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.4,
+      "rating": 7.388,
       "audio_locales": [
         "it-IT"
       ],
@@ -1315,7 +1315,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.405,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1564,7 +1564,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.297,
+      "rating": 8.295,
       "audio_locales": [
         "it-IT"
       ],
@@ -1574,34 +1574,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.771,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts21278",
@@ -1633,6 +1605,34 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.771,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -1649,7 +1649,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.59,
+      "rating": 7.565,
       "audio_locales": [
         "de",
         "en-US",
@@ -1660,18 +1660,18 @@
         "pt"
       ],
       "subtitle_locales": [
-        "vi",
-        "ar",
-        "de",
+        "en-US",
         "es",
         "fr",
         "id",
-        "ms",
-        "pt",
-        "th",
-        "en-US",
         "it-IT",
-        "ru"
+        "pt",
+        "ms",
+        "ru",
+        "th",
+        "vi",
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1846,6 +1846,32 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts394039",
       "title": "Il giovane sognatore è un realista",
       "year": 2023,
@@ -1872,32 +1898,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts5328",
@@ -2016,33 +2016,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts22705",
       "title": "Il fantastico mondo di Paul",
       "year": 1976,
@@ -2071,6 +2044,33 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -2087,7 +2087,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.423,
+      "rating": 8.421,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2352,8 +2352,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2585,6 +2585,33 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -2615,33 +2642,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
+        "de",
         "en-US",
         "id",
         "ja-JP",
         "ru",
-        "th",
-        "de"
+        "th"
       ],
       "subtitle_locales": [
-        "fr",
+        "ru",
+        "ar",
+        "es",
         "it-IT",
         "pt",
-        "ru",
         "vi",
-        "ar",
         "de",
         "en-US",
-        "es"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2796,34 +2796,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts31966",
-      "title": "Calendar Men",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45050,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts90818",
       "title": "Yatterman",
       "year": 2008,
@@ -2849,6 +2821,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts31966",
+      "title": "Calendar Men",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45050,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
       "maturity_rating": "T"
     },
     {
@@ -2929,39 +2929,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "de"
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts29076",
@@ -3017,6 +2990,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
       "maturity_rating": "T"
     },
     {
@@ -3293,34 +3293,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts341771",
-      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 194774,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3347,6 +3319,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts341771",
+      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 194774,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts220153",
@@ -3566,7 +3566,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.688,
+      "rating": 6.711,
       "audio_locales": [
         "it-IT"
       ],
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4540,8 +4540,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4777,34 +4777,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts53271",
-      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 69212,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 9.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
-      "maturity_rating": "16+"
-    },
-    {
       "ag_id": "tm132639",
       "title": "Venus Wars",
       "year": 1989,
@@ -4860,6 +4832,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts53271",
+      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 69212,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 9.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
+      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts282865",
@@ -5218,7 +5218,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.998,
+      "rating": 7.002,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5529,18 +5529,18 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.871,
+      "rating": 6.767,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "de",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6177,8 +6177,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6206,8 +6206,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6265,8 +6265,8 @@
       ],
       "rating": 7.492,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6437,7 +6437,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.426,
+      "rating": 7.429,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6580,8 +6580,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6694,8 +6694,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6724,8 +6724,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6925,8 +6925,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7187,7 +7187,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.859,
+      "rating": 6.868,
       "audio_locales": [
         "ja-JP",
         "it-IT"
@@ -7445,8 +7445,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7657,32 +7657,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "tm118756",
-      "title": "Holly e Benji: La grande sfida mondiale: Jr World Cup!",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 172415,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il Giappone partecipa a un torneo con Stati Uniti, Europa e Sud America.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2n96954FmEjYobDsFJHONYs7f4Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts343530",
       "title": "Opus.COLORs",
       "year": 2023,
@@ -7737,32 +7711,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11130d9d-c018-418d-885a-34cee48ce3e7",
-      "maturity_rating": "T"
-    },
-    {
-      "ag_id": "tm117720",
-      "title": "Holly e Benji: Corri per il domani!",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 172409,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nazionale giovanile giapponese si allena in vista della terza sfida contro l'Europa, ed i giocatori ripensano ai momenti passati (per esempio alla finale Nankatsu-Toho e al giorno in cui Benji sfidò i capitani delle squadre di differenti sport).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yBnOHbos7Hn0FcZr2T8e7cxvJp9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2AX32gmX1BfmpARQFBWeuuEmT83.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
       "maturity_rating": "T"
     },
     {
@@ -8000,6 +7948,58 @@
       "maturity_rating": "12+"
     },
     {
+      "ag_id": "tm130056",
+      "title": "Holly & Benji: La selezione giovanile del Giappone",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 264992,
+        "tmdb_type": "movie"
+      },
+      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "tm118756",
+      "title": "Holly e Benji: La grande sfida mondiale: Jr World Cup!",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 172415,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il Giappone partecipa a un torneo con Stati Uniti, Europa e Sud America.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2n96954FmEjYobDsFJHONYs7f4Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts22653",
       "title": "The Monkey - Le grandi avventure di Goku",
       "year": 1967,
@@ -8027,21 +8027,21 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "tm130056",
-      "title": "Holly & Benji: La selezione giovanile del Giappone",
-      "year": 1985,
+      "ag_id": "tm117720",
+      "title": "Holly e Benji: Corri per il domani!",
+      "year": 1986,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 264992,
+        "tmdb_id": 172409,
         "tmdb_type": "movie"
       },
-      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
+      "description_it": "La nazionale giovanile giapponese si allena in vista della terza sfida contro l'Europa, ed i giocatori ripensano ai momenti passati (per esempio alla finale Nankatsu-Toho e al giorno in cui Benji sfidò i capitani delle squadre di differenti sport).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yBnOHbos7Hn0FcZr2T8e7cxvJp9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2AX32gmX1BfmpARQFBWeuuEmT83.jpg",
       "genres": [
         "Animazione"
       ],
-      "rating": 7.7,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -8049,7 +8049,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
       "maturity_rating": "T"
     },
     {
