@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-12T14:56:27Z",
+  "generated_at": "2026-06-12T20:09:30Z",
   "titles": [
     {
       "ag_id": "ts492780",
@@ -105,8 +105,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -192,58 +192,30 @@
       ],
       "rating": 8.544,
       "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "de",
+        "fr",
         "it-IT",
         "pt",
         "ta",
-        "de",
-        "en-US",
-        "ja-JP",
-        "te",
-        "es",
-        "fr",
-        "hi"
+        "te"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
         "pt",
         "ru",
         "ar",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+"
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts14127",
@@ -274,6 +246,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+"
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts20112",
@@ -352,17 +352,17 @@
       ],
       "rating": 8.391,
       "audio_locales": [
-        "de",
-        "es",
-        "ta",
+        "th",
         "en-US",
         "fr",
         "hi",
         "it-IT",
-        "ja-JP",
         "pt",
-        "te",
-        "th"
+        "de",
+        "es",
+        "ja-JP",
+        "ta",
+        "te"
       ],
       "subtitle_locales": [
         "en-US",
@@ -395,33 +395,33 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "es",
-        "fr",
-        "it-IT",
-        "ta",
-        "te",
         "ar",
-        "en-US",
+        "de",
         "hi",
         "id",
+        "it-IT",
         "ja-JP",
+        "te",
+        "en-US",
+        "es",
+        "fr",
         "pt",
-        "de"
+        "ta"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "de",
+        "ms",
+        "ru",
+        "th",
         "vi",
         "ar",
         "en-US",
-        "fr",
-        "id",
-        "it-IT",
-        "pt",
-        "th",
-        "de",
         "es",
+        "fr",
         "hi",
-        "ms",
-        "ru"
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -564,28 +564,28 @@
       ],
       "rating": 8.151,
       "audio_locales": [
-        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "id",
-        "pl",
+        "it-IT",
+        "ru",
         "th",
+        "en-US",
+        "fr",
+        "pl",
+        "pt",
         "zh",
         "ar",
         "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -668,8 +668,8 @@
       ],
       "rating": 8.464,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -755,8 +755,8 @@
       ],
       "rating": 7.326,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1145,13 +1145,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1287,7 +1287,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.388,
+      "rating": 7.387,
       "audio_locales": [
         "it-IT"
       ],
@@ -1315,7 +1315,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.406,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1651,27 +1651,27 @@
       ],
       "rating": 7.548,
       "audio_locales": [
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "subtitle_locales": [
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ms",
-        "th",
-        "vi",
-        "ar",
-        "de",
-        "es",
-        "fr",
         "id",
         "it-IT",
+        "ms",
         "pt",
+        "ar",
         "ru",
-        "en-US"
+        "th",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2173,17 +2173,17 @@
       ],
       "rating": 7.704,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl",
-        "pt"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2237,8 +2237,8 @@
       ],
       "rating": 7.47,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2463,8 +2463,8 @@
       ],
       "rating": 8.005,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "de",
-        "en-US",
-        "id",
         "ja-JP",
         "ru",
-        "th"
+        "th",
+        "de",
+        "en-US",
+        "id"
       ],
       "subtitle_locales": [
-        "ru",
-        "vi",
+        "en-US",
         "es",
-        "it-IT",
+        "fr",
         "pt",
         "ar",
         "de",
-        "en-US",
-        "fr"
+        "it-IT",
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3932,12 +3932,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
         "pt",
         "ar",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4624,7 +4624,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.095,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -5053,8 +5053,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5220,8 +5220,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5535,12 +5535,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5648,8 +5648,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6177,8 +6177,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6206,8 +6206,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6753,8 +6753,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7040,8 +7040,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7918,6 +7918,32 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "tm130056",
+      "title": "Holly & Benji: La selezione giovanile del Giappone",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 264992,
+        "tmdb_type": "movie"
+      },
+      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "tm47223",
       "title": "Lupin III: La lampada di Aladino",
       "year": 2008,
@@ -7946,32 +7972,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
       "maturity_rating": "12+"
-    },
-    {
-      "ag_id": "tm130056",
-      "title": "Holly & Benji: La selezione giovanile del Giappone",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 264992,
-        "tmdb_type": "movie"
-      },
-      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "tm118756",
