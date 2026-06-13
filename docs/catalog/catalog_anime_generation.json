@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T03:37:06Z",
+  "generated_at": "2026-06-13T08:57:03Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -75,7 +75,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.305,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -220,26 +220,26 @@
       ],
       "rating": 8.544,
       "audio_locales": [
-        "fr",
-        "it-IT",
         "ja-JP",
+        "te",
+        "hi",
         "pt",
         "ta",
+        "de",
         "en-US",
         "es",
-        "hi",
-        "te",
-        "de"
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
-        "ar"
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -265,8 +265,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -322,8 +322,8 @@
       ],
       "rating": 8.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -350,26 +350,26 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.391,
+      "rating": 8.392,
       "audio_locales": [
+        "es",
         "hi",
-        "it-IT",
         "ja-JP",
-        "pt",
         "ta",
-        "te",
-        "en-US",
-        "es",
-        "th",
         "de",
-        "fr"
-      ],
-      "subtitle_locales": [
         "en-US",
-        "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pt",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -395,33 +395,33 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "fr",
-        "id",
-        "ja-JP",
         "pt",
         "ar",
         "es",
+        "fr",
         "hi",
-        "it-IT",
         "ta",
         "te",
         "de",
-        "en-US"
+        "en-US",
+        "id",
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
-        "th",
         "ar",
-        "es",
-        "id",
-        "ms",
-        "ru",
-        "vi",
         "de",
         "en-US",
+        "hi",
+        "pt",
+        "ru",
+        "th",
+        "vi",
+        "es",
         "fr",
-        "hi"
+        "id",
+        "it-IT",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -444,7 +444,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.678,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -534,28 +534,28 @@
       ],
       "rating": 8.151,
       "audio_locales": [
+        "hi",
+        "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
         "en-US",
-        "es",
-        "hi",
-        "ja-JP"
+        "es"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "th",
+        "fr",
+        "zh",
+        "id",
         "de",
         "en-US",
         "es",
-        "fr",
         "pl",
         "ru",
-        "zh",
-        "ar",
-        "id",
-        "it-IT",
-        "pt",
-        "th"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -782,7 +782,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.873,
+      "rating": 7.874,
       "audio_locales": [
         "ja-JP"
       ],
@@ -870,17 +870,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
+        "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1649,29 +1649,29 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.548,
+      "rating": 7.5,
       "audio_locales": [
+        "pt",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "ms",
+        "ru",
         "th",
         "ar",
-        "de",
         "en-US",
         "es",
+        "fr",
         "it-IT",
-        "ms",
         "pt",
         "vi",
-        "fr",
-        "id",
-        "ru"
+        "de",
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2004,7 +2004,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.558,
+      "rating": 6.598,
       "audio_locales": [
         "it-IT"
       ],
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
         "it-IT",
         "pl",
         "pt",
         "de",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2208,8 +2208,8 @@
       ],
       "rating": 7.311,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2629,7 +2629,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.9,
+      "rating": 7.878,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "ru",
         "th",
         "de",
         "en-US",
         "id",
-        "ja-JP"
+        "ja-JP",
+        "ru"
       ],
       "subtitle_locales": [
-        "es",
-        "it-IT",
-        "vi",
-        "en-US",
-        "fr",
-        "pt",
-        "ru",
         "ar",
-        "de"
+        "de",
+        "fr",
+        "it-IT",
+        "ru",
+        "en-US",
+        "es",
+        "pt",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3160,33 +3160,6 @@
       "maturity_rating": "12+"
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+"
-    },
-    {
       "ag_id": "ts518",
       "title": "Beelzebub",
       "year": 2011,
@@ -3263,6 +3236,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+"
     },
     {
       "ag_id": "ts406072",
@@ -3932,12 +3932,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "it-IT",
         "pt",
         "ar",
-        "en-US"
+        "en-US",
+        "es",
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4125,7 +4125,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 7.417,
+      "rating": 7.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5220,8 +5220,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5781,8 +5781,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6694,8 +6694,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7189,8 +7189,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
