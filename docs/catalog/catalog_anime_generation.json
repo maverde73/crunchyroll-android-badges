@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T08:57:03Z",
+  "generated_at": "2026-06-13T19:24:16Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -20,7 +20,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.013,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -103,7 +103,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.364,
+      "rating": 8.365,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -189,7 +189,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.502,
       "audio_locales": [
         "it-IT"
       ],
@@ -218,28 +218,28 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.544,
+      "rating": 8.542,
       "audio_locales": [
         "ja-JP",
         "te",
-        "hi",
+        "de",
+        "fr",
+        "it-IT",
         "pt",
         "ta",
-        "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "hi"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
         "ar",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -353,23 +353,23 @@
       "rating": 8.392,
       "audio_locales": [
         "es",
+        "fr",
         "hi",
+        "it-IT",
         "ja-JP",
         "ta",
-        "de",
-        "en-US",
-        "fr",
-        "it-IT",
-        "pt",
         "te",
-        "th"
+        "de",
+        "pt",
+        "th",
+        "en-US"
       ],
       "subtitle_locales": [
-        "fr",
         "it-IT",
         "pt",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -395,65 +395,36 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "pt",
         "ar",
-        "es",
+        "en-US",
         "fr",
+        "id",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "es",
         "hi",
         "ta",
-        "te",
-        "de",
-        "en-US",
-        "id",
-        "it-IT",
-        "ja-JP"
+        "te"
       ],
       "subtitle_locales": [
+        "ru",
+        "vi",
         "ar",
+        "es",
+        "hi",
+        "id",
+        "ms",
+        "th",
         "de",
         "en-US",
-        "hi",
-        "pt",
-        "ru",
-        "th",
-        "vi",
-        "es",
         "fr",
-        "id",
         "it-IT",
-        "ms"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.678,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
       "maturity_rating": "14+"
     },
     {
@@ -484,6 +455,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.678,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts353577",
@@ -534,28 +534,28 @@
       ],
       "rating": 8.151,
       "audio_locales": [
+        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "th",
-        "fr",
         "zh",
-        "id",
+        "ar",
         "de",
+        "pl",
+        "pt",
         "en-US",
         "es",
-        "pl",
-        "ru",
-        "ar"
+        "fr",
+        "id",
+        "it-IT",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -782,7 +782,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.874,
+      "rating": 7.885,
       "audio_locales": [
         "ja-JP"
       ],
@@ -810,7 +810,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.458,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -840,8 +840,8 @@
       ],
       "rating": 8.456,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -849,42 +849,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 286791,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru",
-        "de",
-        "en-US"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+"
     },
     {
       "ag_id": "ts74597",
@@ -1054,33 +1018,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.779,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1109,16 +1046,22 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "tm1542133",
-      "title": "One Piece Fan Letter",
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
       "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.779,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1126,8 +1069,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts26262",
@@ -1156,6 +1099,63 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286791,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
+      "maturity_rating": "7+"
+    },
+    {
+      "ag_id": "tm1542133",
+      "title": "One Piece Fan Letter",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+"
     },
     {
       "ag_id": "ts75698",
@@ -1488,7 +1488,7 @@
         "Action & Adventure",
         "Commedia"
       ],
-      "rating": 6.788,
+      "rating": 6.792,
       "audio_locales": [
         "it-IT"
       ],
@@ -1651,27 +1651,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "pt",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
+        "id",
+        "it-IT",
         "ms",
+        "de",
+        "en-US",
+        "pt",
         "ru",
         "th",
-        "ar",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
         "vi",
-        "de",
-        "id"
+        "ar",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2177,13 +2177,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "de",
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl",
-        "pt",
-        "de",
-        "en-US"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2208,8 +2208,8 @@
       ],
       "rating": 7.311,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2379,7 +2379,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.8,
+      "rating": 6.802,
       "audio_locales": [
         "it-IT"
       ],
@@ -2661,23 +2661,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "th",
         "de",
         "en-US",
         "id",
         "ja-JP",
-        "ru"
+        "ru",
+        "th"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "fr",
-        "it-IT",
-        "ru",
+        "vi",
         "en-US",
         "es",
+        "fr",
+        "ar",
+        "de",
+        "it-IT",
         "pt",
-        "vi"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3653,8 +3653,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3746,27 +3746,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts364419",
-      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "tm65451",
       "title": "Lupin III - Tokyo Crisis: L'unione fa la forza",
       "year": 1998,
@@ -3796,6 +3775,27 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb838b-5891-eedc-39de-f7877a08188c",
       "maturity_rating": "12+"
+    },
+    {
+      "ag_id": "ts364419",
+      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "tm5128",
@@ -3932,12 +3932,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
         "ar",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4423,8 +4423,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5220,8 +5220,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5535,12 +5535,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "it-IT",
         "pt",
         "ru",
-        "de",
-        "en-US",
-        "es"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6263,7 +6263,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.492,
+      "rating": 7.493,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6410,8 +6410,8 @@
       ],
       "rating": 7.056,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6437,10 +6437,10 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.429,
+      "rating": 7.431,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6470,8 +6470,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6580,8 +6580,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6925,8 +6925,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7918,32 +7918,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "tm130056",
-      "title": "Holly & Benji: La selezione giovanile del Giappone",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 264992,
-        "tmdb_type": "movie"
-      },
-      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "tm47223",
       "title": "Lupin III: La lampada di Aladino",
       "year": 2008,
@@ -7972,6 +7946,32 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
       "maturity_rating": "12+"
+    },
+    {
+      "ag_id": "tm130056",
+      "title": "Holly & Benji: La selezione giovanile del Giappone",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 264992,
+        "tmdb_type": "movie"
+      },
+      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "tm118756",
