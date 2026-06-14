@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-14T14:00:35Z",
+  "generated_at": "2026-06-14T19:25:26Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -47,7 +47,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.389,
+      "rating": 8.4,
       "audio_locales": [
         "ja-JP",
         "it-IT"
@@ -78,8 +78,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -144,34 +144,6 @@
       "maturity_rating": "18+"
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.502,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -220,30 +192,58 @@
       ],
       "rating": 8.545,
       "audio_locales": [
-        "te",
         "de",
         "en-US",
-        "es",
         "fr",
+        "hi",
+        "it-IT",
         "ja-JP",
         "pt",
-        "ta",
-        "hi",
-        "it-IT"
+        "te",
+        "es",
+        "ta"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
-        "ar",
-        "de",
-        "en-US"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+"
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.502,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts14127",
@@ -352,24 +352,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "ja-JP",
-        "te",
-        "de",
-        "en-US",
-        "es",
-        "hi",
         "pt",
         "ta",
         "th",
-        "fr",
-        "it-IT"
-      ],
-      "subtitle_locales": [
         "en-US",
         "es",
         "fr",
+        "hi",
         "it-IT",
-        "pt"
+        "ja-JP",
+        "te",
+        "de"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -395,33 +395,33 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "id",
+        "de",
+        "en-US",
+        "fr",
+        "it-IT",
         "ja-JP",
         "pt",
         "ta",
-        "ar",
-        "fr",
-        "it-IT",
-        "te",
-        "de",
-        "en-US",
         "es",
-        "hi"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "es",
-        "fr",
-        "it-IT",
-        "ms",
-        "en-US",
         "hi",
         "id",
+        "te",
+        "ar"
+      ],
+      "subtitle_locales": [
+        "es",
+        "fr",
+        "hi",
+        "ms",
         "pt",
+        "id",
+        "it-IT",
         "ru",
         "th",
-        "vi"
+        "vi",
+        "ar",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -547,16 +547,16 @@
       "subtitle_locales": [
         "ar",
         "de",
+        "en-US",
         "es",
+        "it-IT",
+        "pt",
+        "zh",
         "fr",
         "id",
-        "it-IT",
         "pl",
-        "th",
-        "en-US",
-        "pt",
         "ru",
-        "zh"
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -617,6 +617,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts12311",
@@ -723,7 +751,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.033,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -755,8 +783,8 @@
       ],
       "rating": 7.326,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -820,34 +848,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts37899",
@@ -1018,34 +1018,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts34474",
-      "title": "Evelyn e la magia di un sogno d'amore",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35678,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Persha Hayami (Evelyn, in Italia) è una bambina di 11 anni, figlia di una coppia giapponese, ma cresciuta in Africa. Dopo tanti anni trascorsi nel caldo continente, la ragazzina, affidata al miglior amico del padre, il professor Muroi, torna con quest'ultimo in Giappone dai genitori. Durante il viaggio di ritorno, l'aereo viene risucchiato in una dimensione parallela chiamata Lovely Dream (Sogno d'Amore, in Italia); qui la ragazzina incontra tre kappa, i quali le spiegano che il loro mondo è legato al suo tramite i sogni umani, ma che tuttavia la maggior parte di essi non riesce a superare la barriera di Lovely Dream congelandosi prima di realizzarsi. Solo l'energia dell'amore può scongelare questi sogni e riportare la primavera in un mondo sempre più ibernato",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uBKoRdudv0Ce3aB5gKxDgDOCgCE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Kids"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1996,
@@ -1099,6 +1071,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts34474",
+      "title": "Evelyn e la magia di un sogno d'amore",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35678,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Persha Hayami (Evelyn, in Italia) è una bambina di 11 anni, figlia di una coppia giapponese, ma cresciuta in Africa. Dopo tanti anni trascorsi nel caldo continente, la ragazzina, affidata al miglior amico del padre, il professor Muroi, torna con quest'ultimo in Giappone dai genitori. Durante il viaggio di ritorno, l'aereo viene risucchiato in una dimensione parallela chiamata Lovely Dream (Sogno d'Amore, in Italia); qui la ragazzina incontra tre kappa, i quali le spiegano che il loro mondo è legato al suo tramite i sogni umani, ma che tuttavia la maggior parte di essi non riesce a superare la barriera di Lovely Dream congelandosi prima di realizzarsi. Solo l'energia dell'amore può scongelare questi sogni e riportare la primavera in un mondo sempre più ibernato",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uBKoRdudv0Ce3aB5gKxDgDOCgCE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Kids"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "ts26262",
@@ -1173,13 +1173,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "ru",
+        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt",
-        "ru",
-        "de"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1692,27 +1692,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "fr",
         "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "fr",
         "it-IT",
+        "pt",
+        "ms",
+        "ru",
         "th",
         "vi",
+        "ar",
+        "de",
         "en-US",
         "es",
-        "id",
-        "ms",
-        "pt",
-        "ru"
+        "fr",
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2220,13 +2220,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
         "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2477,8 +2477,8 @@
       ],
       "rating": 8.005,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2645,23 +2645,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "th",
         "de",
         "en-US",
         "id",
         "ja-JP",
-        "ru"
+        "ru",
+        "th"
       ],
       "subtitle_locales": [
         "ar",
         "de",
         "en-US",
         "es",
-        "vi",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3946,12 +3946,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ar",
-        "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -5549,12 +5549,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6425,8 +6425,8 @@
       ],
       "rating": 7.056,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
