@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-14T03:58:35Z",
+  "generated_at": "2026-06-14T14:00:35Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -20,7 +20,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.005,
+      "rating": 8.007,
       "audio_locales": [
         "it-IT"
       ],
@@ -49,8 +49,8 @@
       ],
       "rating": 8.389,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -104,7 +104,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.306,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -218,28 +218,28 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.544,
+      "rating": 8.545,
       "audio_locales": [
-        "ja-JP",
-        "pt",
         "te",
+        "de",
         "en-US",
         "es",
         "fr",
+        "ja-JP",
+        "pt",
         "ta",
-        "de",
         "hi",
         "it-IT"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
         "it-IT",
         "pt",
         "ru",
         "ar",
         "de",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -353,16 +353,16 @@
       "rating": 8.392,
       "audio_locales": [
         "ja-JP",
-        "pt",
+        "te",
+        "de",
         "en-US",
         "es",
-        "it-IT",
+        "hi",
+        "pt",
         "ta",
-        "te",
         "th",
-        "de",
         "fr",
-        "hi"
+        "it-IT"
       ],
       "subtitle_locales": [
         "en-US",
@@ -395,36 +395,66 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "fr",
-        "hi",
         "id",
-        "it-IT",
+        "ja-JP",
+        "pt",
         "ta",
-        "te",
         "ar",
+        "fr",
+        "it-IT",
+        "te",
         "de",
         "en-US",
         "es",
-        "ja-JP",
-        "pt"
+        "hi"
       ],
       "subtitle_locales": [
+        "ar",
         "de",
-        "en-US",
         "es",
-        "hi",
-        "id",
+        "fr",
         "it-IT",
         "ms",
+        "en-US",
+        "hi",
+        "id",
         "pt",
-        "ar",
-        "fr",
         "ru",
         "th",
         "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+"
     },
     {
@@ -505,28 +535,28 @@
       ],
       "rating": 8.151,
       "audio_locales": [
+        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "th",
+        "ar",
+        "de",
         "es",
         "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "th",
+        "en-US",
         "pt",
         "ru",
-        "zh",
-        "de",
-        "en-US",
-        "ar",
-        "id",
-        "pl"
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -587,36 +617,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.516,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts12311",
@@ -723,10 +723,10 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.029,
+      "rating": 8.033,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -755,8 +755,8 @@
       ],
       "rating": 7.326,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -822,6 +822,34 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -849,34 +877,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts74597",
@@ -1173,13 +1173,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1346,11 +1346,25 @@
       ],
       "rating": 7.818,
       "audio_locales": [
+        "en-US",
+        "es",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "th",
+        "ar",
+        "en-US",
+        "es",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "vi",
+        "de",
+        "fr",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1678,27 +1692,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "fr",
+        "it-IT",
+        "ja-JP",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "ja-JP"
+        "es"
       ],
       "subtitle_locales": [
-        "vi",
+        "ar",
         "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
+        "th",
+        "vi",
+        "en-US",
+        "es",
+        "id",
         "ms",
         "pt",
-        "ru",
-        "ar",
-        "id",
-        "th"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2004,7 +2018,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.598,
+      "rating": 6.591,
       "audio_locales": [
         "it-IT"
       ],
@@ -2127,41 +2141,6 @@
       "maturity_rating": "16+"
     },
     {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.704,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -2206,7 +2185,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.311,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2217,6 +2196,41 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.704,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pl",
+        "pt",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "tm141589",
@@ -2335,34 +2349,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "tm112217",
-      "title": "Ken il guerriero - Il film",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19877,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-      ],
-      "rating": 6.802,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts55756",
       "title": "DanMachi - Sword Oratoria",
       "year": 2017,
@@ -2388,6 +2374,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "tm112217",
+      "title": "Ken il guerriero - Il film",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19877,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+      ],
+      "rating": 6.802,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
       "maturity_rating": "14+"
     },
     {
@@ -2612,6 +2626,48 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts223380",
+      "title": "BOFURI",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 96402,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.408,
+      "audio_locales": [
+        "th",
+        "de",
+        "en-US",
+        "id",
+        "ja-JP",
+        "ru"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "vi",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -2642,48 +2698,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts223380",
-      "title": "BOFURI",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 96402,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.408,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "id",
-        "ja-JP",
-        "ru",
-        "th"
-      ],
-      "subtitle_locales": [
-        "vi",
-        "ar",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru",
-        "de",
-        "en-US"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "tm1434295",
       "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
       "year": 2024,
@@ -2703,8 +2717,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3408,33 +3422,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts418967",
-      "title": "Haigakura",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 244592,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts322046",
       "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
       "year": 2023,
@@ -3491,6 +3478,33 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts418967",
+      "title": "Haigakura",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 244592,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts394055",
       "title": "Suicide Squad ISEKAI",
       "year": 2024,
@@ -3517,35 +3531,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts314452",
-      "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 136840,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GQR7tE6R8RZfiLt3AMZOdco3ad.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.016,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
-      "maturity_rating": "14+"
     },
     {
       "ag_id": "tm184092",
@@ -3576,6 +3561,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts314452",
+      "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 136840,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GQR7tE6R8RZfiLt3AMZOdco3ad.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.016,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts36530",
@@ -4540,8 +4554,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5053,8 +5067,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5220,8 +5234,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5535,12 +5549,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5648,8 +5662,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6581,8 +6595,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7041,8 +7055,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7102,8 +7116,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7298,7 +7312,7 @@
         "Avventura",
         "Crime"
       ],
-      "rating": 6.462,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -7359,8 +7373,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
