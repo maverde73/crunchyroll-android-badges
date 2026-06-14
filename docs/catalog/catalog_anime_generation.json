@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-13T19:24:16Z",
+  "generated_at": "2026-06-14T03:58:35Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -20,7 +20,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 8.005,
       "audio_locales": [
         "it-IT"
       ],
@@ -47,7 +47,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.389,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -57,6 +57,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mpsYIytXhDXjI9yYC1Fp1S3PxsS.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
       "maturity_rating": "T"
     },
     {
@@ -87,35 +116,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mpsYIytXhDXjI9yYC1Fp1S3PxsS.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.365,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -142,35 +142,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42444,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.474,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.983b114e-61c7-4701-ad2c-731b039c3573",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts345",
@@ -201,6 +172,35 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42444,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.473,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.983b114e-61c7-4701-ad2c-731b039c3573",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -218,28 +218,28 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.542,
+      "rating": 8.544,
       "audio_locales": [
         "ja-JP",
-        "te",
-        "de",
-        "fr",
-        "it-IT",
         "pt",
-        "ta",
+        "te",
         "en-US",
         "es",
-        "hi"
+        "fr",
+        "ta",
+        "de",
+        "hi",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "fr",
         "it-IT",
         "pt",
         "ru",
         "ar",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -276,6 +276,35 @@
       "maturity_rating": "18+"
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+"
+    },
+    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -304,35 +333,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.6,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -352,24 +352,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "es",
-        "fr",
-        "hi",
-        "it-IT",
         "ja-JP",
-        "ta",
-        "te",
-        "de",
-        "pt",
-        "th",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "it-IT",
         "pt",
         "en-US",
         "es",
-        "fr"
+        "it-IT",
+        "ta",
+        "te",
+        "th",
+        "de",
+        "fr",
+        "hi"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -395,33 +395,33 @@
       ],
       "rating": 8.345,
       "audio_locales": [
-        "ar",
-        "en-US",
         "fr",
+        "hi",
         "id",
         "it-IT",
-        "ja-JP",
-        "pt",
-        "de",
-        "es",
-        "hi",
         "ta",
-        "te"
+        "te",
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "ru",
-        "vi",
-        "ar",
+        "de",
+        "en-US",
         "es",
         "hi",
         "id",
-        "ms",
-        "th",
-        "de",
-        "en-US",
-        "fr",
         "it-IT",
-        "pt"
+        "ms",
+        "pt",
+        "ar",
+        "fr",
+        "ru",
+        "th",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -445,7 +445,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 7.284,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -482,7 +482,54 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.be512582-2e61-487e-a77d-e894a09b40d7",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.151,
+      "audio_locales": [
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th",
+        "en-US",
+        "es"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "th",
+        "es",
+        "fr",
+        "pt",
+        "ru",
+        "zh",
+        "de",
+        "en-US",
+        "ar",
+        "id",
+        "pl"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+"
     },
     {
@@ -512,53 +559,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.151,
-      "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "th",
-        "zh",
-        "ar",
-        "de",
-        "pl",
-        "pt",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+"
     },
     {
@@ -725,8 +725,8 @@
       ],
       "rating": 8.029,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -794,6 +794,63 @@
       "maturity_rating": "14+"
     },
     {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.507,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+"
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.456,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+"
+    },
+    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -820,35 +877,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.456,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts74597",
@@ -990,34 +1018,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts28081",
-      "title": "Un fiocco per sognare, un fiocco per cambiare",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43230,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+"
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1046,6 +1046,34 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts28081",
+      "title": "Un fiocco per sognare, un fiocco per cambiare",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43230,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
+      "maturity_rating": "16+"
+    },
+    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -1061,7 +1089,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.779,
+      "rating": 7.782,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1101,6 +1129,27 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "tm1542133",
+      "title": "One Piece Fan Letter",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+"
+    },
+    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1124,38 +1173,17 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "ru",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+"
-    },
-    {
-      "ag_id": "tm1542133",
-      "title": "One Piece Fan Letter",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+"
     },
     {
       "ag_id": "ts75698",
@@ -1214,34 +1242,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.507,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts38826",
@@ -1472,6 +1472,33 @@
       "maturity_rating": "T"
     },
     {
+      "ag_id": "ts485272",
+      "title": "Yugure al crepuscolo della perpetuità",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 294867,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
+      "maturity_rating": "16+"
+    },
+    {
       "ag_id": "ts24632",
       "title": "Abenobashi - Il quartiere commerciale di magia",
       "year": 2002,
@@ -1498,33 +1525,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts485272",
-      "title": "Yugure al crepuscolo della perpetuità",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 294867,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts476585",
@@ -1633,51 +1633,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "id",
-        "it-IT",
-        "ms",
-        "de",
-        "en-US",
-        "pt",
-        "ru",
-        "th",
-        "vi",
-        "ar",
-        "es",
-        "fr"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+"
-    },
-    {
       "ag_id": "ts52317",
       "title": "Un oceano di avventure",
       "year": 1994,
@@ -1703,6 +1658,51 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "pt",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "vi",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
+        "ar",
+        "id",
+        "th"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts469760",
@@ -2127,6 +2127,41 @@
       "maturity_rating": "16+"
     },
     {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.704,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pl",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T"
+    },
+    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -2153,41 +2188,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
       "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.704,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T"
     },
     {
       "ag_id": "ts311625",
@@ -2335,34 +2335,6 @@
       "maturity_rating": "14+"
     },
     {
-      "ag_id": "ts55756",
-      "title": "DanMachi - Sword Oratoria",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 70590,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.846,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+"
-    },
-    {
       "ag_id": "tm112217",
       "title": "Ken il guerriero - Il film",
       "year": 1986,
@@ -2388,6 +2360,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
+      "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts55756",
+      "title": "DanMachi - Sword Oratoria",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 70590,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.846,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
       "maturity_rating": "14+"
     },
     {
@@ -2670,45 +2670,18 @@
       ],
       "subtitle_locales": [
         "vi",
-        "en-US",
+        "ar",
         "es",
         "fr",
-        "ar",
-        "de",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.643,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
-      "maturity_rating": "18+"
     },
     {
       "ag_id": "tm1434295",
@@ -2766,6 +2739,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.643,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
+      "maturity_rating": "18+"
     },
     {
       "ag_id": "ts13335",
@@ -3578,35 +3578,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts56436",
-      "title": "I predatori del tempo",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68608,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -3653,8 +3624,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3690,6 +3661,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts56436",
+      "title": "I predatori del tempo",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68608,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
+      "maturity_rating": "T"
     },
     {
       "ag_id": "ts88978",
@@ -3932,12 +3932,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
         "ar",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4823,8 +4823,8 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5053,8 +5053,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5535,12 +5535,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5700,6 +5700,7 @@
       "poster_wide": "https://image.tmdb.org/t/p/original/xWP6CQszpcZ1uVoua2PHhewSBZA.jpg",
       "genres": [
         "Animazione",
+        "Action & Adventure",
         "Dramma"
       ],
       "rating": 6.1,
@@ -5711,7 +5712,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80f7cda8-a106-4572-9b7a-39469544fe85",
-      "maturity_rating": "T"
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts60492",
@@ -5947,8 +5948,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6177,8 +6178,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6263,7 +6264,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.493,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6410,8 +6411,8 @@
       ],
       "rating": 7.056,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6495,7 +6496,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 5.7,
+      "rating": 6.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -7040,8 +7041,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
