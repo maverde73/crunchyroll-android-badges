@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-14T19:25:26Z",
+  "generated_at": "2026-06-15T04:11:16Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -49,8 +49,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -76,10 +76,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -104,7 +104,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -132,7 +132,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.868,
+      "rating": 7.869,
       "audio_locales": [
         "it-IT"
       ],
@@ -193,15 +193,15 @@
       "rating": 8.545,
       "audio_locales": [
         "de",
-        "en-US",
+        "es",
         "fr",
-        "hi",
         "it-IT",
         "ja-JP",
         "pt",
-        "te",
-        "es",
-        "ta"
+        "ta",
+        "en-US",
+        "hi",
+        "te"
       ],
       "subtitle_locales": [
         "de",
@@ -352,24 +352,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "pt",
-        "ta",
-        "th",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
         "it-IT",
-        "ja-JP",
+        "pt",
         "te",
-        "de"
-      ],
-      "subtitle_locales": [
-        "it-IT",
-        "pt",
+        "th",
+        "de",
+        "hi",
+        "ja-JP",
+        "ta",
         "en-US",
         "es",
         "fr"
+      ],
+      "subtitle_locales": [
+        "pt",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -393,68 +393,38 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.345,
+      "rating": 8.3,
       "audio_locales": [
-        "de",
+        "ar",
         "en-US",
         "fr",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "es",
         "hi",
         "id",
+        "it-IT",
+        "ta",
         "te",
-        "ar"
+        "de",
+        "es",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
         "es",
         "fr",
         "hi",
-        "ms",
-        "pt",
         "id",
         "it-IT",
+        "ms",
+        "de",
+        "pt",
         "ru",
         "th",
         "vi",
         "ar",
-        "de",
         "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.516,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+"
     },
     {
@@ -533,7 +503,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.151,
+      "rating": 8.154,
       "audio_locales": [
         "es",
         "hi",
@@ -545,18 +515,18 @@
         "en-US"
       ],
       "subtitle_locales": [
+        "en-US",
+        "pl",
+        "fr",
+        "th",
+        "it-IT",
+        "ru",
         "ar",
         "de",
-        "en-US",
         "es",
-        "it-IT",
-        "pt",
-        "zh",
-        "fr",
         "id",
-        "pl",
-        "ru",
-        "th"
+        "pt",
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -676,6 +646,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+"
     },
     {
       "ag_id": "ts360995",
@@ -810,7 +810,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.885,
+      "rating": 7.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -820,34 +820,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
       "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.507,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts37899",
@@ -923,7 +895,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.767,
+      "rating": 7.765,
       "audio_locales": [
         "it-IT"
       ],
@@ -960,6 +932,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+"
+    },
+    {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.507,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts342987",
@@ -1001,12 +1001,12 @@
       },
       "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
       "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jbxYoxP2CB0X8OAnzydOFDObebq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
       "genres": [
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.09,
+      "rating": 8.1,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1173,13 +1173,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1259,7 +1259,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.468,
+      "rating": 8.5,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1317,8 +1317,8 @@
       ],
       "rating": 8.406,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1353,18 +1353,18 @@
         "pt"
       ],
       "subtitle_locales": [
-        "th",
-        "ar",
         "en-US",
         "es",
+        "fr",
         "id",
+        "th",
+        "vi",
+        "ar",
         "it-IT",
         "ms",
         "pt",
-        "vi",
-        "de",
-        "fr",
-        "ru"
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1395,7 +1395,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T"
     },
     {
@@ -1486,33 +1486,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts485272",
-      "title": "Yugure al crepuscolo della perpetuità",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 294867,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "16+"
-    },
-    {
       "ag_id": "ts24632",
       "title": "Abenobashi - Il quartiere commerciale di magia",
       "year": 2002,
@@ -1539,6 +1512,33 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
       "maturity_rating": "18+"
+    },
+    {
+      "ag_id": "ts485272",
+      "title": "Yugure al crepuscolo della perpetuità",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 294867,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
+      "maturity_rating": "16+"
     },
     {
       "ag_id": "ts476585",
@@ -1692,27 +1692,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "en-US",
+        "es",
+        "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr"
+        "de"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
-        "ms",
-        "ru",
-        "th",
         "vi",
         "ar",
+        "id",
+        "ms",
+        "pt",
+        "ru",
         "de",
         "en-US",
         "es",
         "fr",
-        "id"
+        "it-IT",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2018,7 +2018,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.591,
+      "rating": 6.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -2220,13 +2220,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pl",
-        "pt",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pl",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2477,8 +2477,8 @@
       ],
       "rating": 8.005,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2657,11 +2657,11 @@
         "de",
         "en-US",
         "es",
+        "pt",
+        "vi",
         "fr",
         "it-IT",
-        "pt",
-        "ru",
-        "vi"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2770,7 +2770,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.643,
+      "rating": 5.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3006,34 +3006,6 @@
       "maturity_rating": "T"
     },
     {
-      "ag_id": "ts37954",
-      "title": "Lovely Sara",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 8.173,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "T"
-    },
-    {
       "ag_id": "ts463053",
       "title": "Your Forma",
       "year": 2025,
@@ -3087,6 +3059,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
+      "maturity_rating": "T"
+    },
+    {
+      "ag_id": "ts37954",
+      "title": "Lovely Sara",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 8.173,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
       "maturity_rating": "T"
     },
     {
@@ -3551,7 +3551,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.711,
+      "rating": 6.652,
       "audio_locales": [
         "it-IT"
       ],
@@ -3830,7 +3830,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.476,
+      "rating": 6.39,
       "audio_locales": [
         "it-IT"
       ],
@@ -4437,8 +4437,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4554,8 +4554,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5234,8 +5234,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5662,8 +5662,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5796,8 +5796,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5962,8 +5962,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6192,8 +6192,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6425,8 +6425,8 @@
       ],
       "rating": 7.056,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6595,8 +6595,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6909,7 +6909,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.575,
+      "rating": 7.586,
       "audio_locales": [
         "it-IT"
       ],
@@ -7145,7 +7145,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.662,
+      "rating": 6.569,
       "audio_locales": [
         "it-IT"
       ],
@@ -7748,8 +7748,8 @@
       ],
       "rating": 6.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7777,7 +7777,7 @@
         "Avventura",
         "Crime"
       ],
-      "rating": 6.6,
+      "rating": 6.481,
       "audio_locales": [
         "it-IT"
       ],
@@ -7834,7 +7834,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.5,
+      "rating": 6.32,
       "audio_locales": [
         "it-IT"
       ],
@@ -7865,7 +7865,7 @@
         "Dramma",
         "Crime"
       ],
-      "rating": 6.29,
+      "rating": 6.167,
       "audio_locales": [
         "it-IT"
       ],
@@ -7951,7 +7951,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.843,
+      "rating": 6.75,
       "audio_locales": [
         "it-IT"
       ],
