@@ -509,7 +509,7 @@ class AnimeRepository(
         )
         val metadata = SeriesMetadata(
             seriesId = seriesId,
-            episodeCount = 0,
+            episodeCount = this.episode_count,
             seasonCount = 0,
             seriesLaunchYear = this.year,
             isDubbed = this.audio_locales.any { it.startsWith("it") },
