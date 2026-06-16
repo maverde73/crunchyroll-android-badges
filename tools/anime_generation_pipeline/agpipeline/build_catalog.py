@@ -64,6 +64,7 @@ def build_catalog(
             languages_assumed=assumed,
             deep_link_url=raw.deep_link_url,
             maturity_rating=maturity,
+            episode_count=(meta.episode_count if meta else 0),
         ))
     return Catalog(version=version, generated_at=generated_at, titles=titles)
 
@@ -153,10 +154,11 @@ def main() -> int:  # pragma: no cover - CI integration entrypoint
     matched_cr = sum(1 for t in catalog.titles if t.matched_crunchyroll_id)
     assumed_lang = sum(1 for t in catalog.titles if t.languages_assumed)
     with_age = sum(1 for t in catalog.titles if t.maturity_rating)
+    with_episodes = sum(1 for t in catalog.titles if t.episode_count)
     print(
         f"AG titles found: {matched} | with tmdb: {with_tmdb} | "
         f"matched to CR: {matched_cr} | assumed languages: {assumed_lang} | "
-        f"with age rating: {with_age}"
+        f"with age rating: {with_age} | with episode count: {with_episodes}"
     )
 
     write_if_valid(catalog, out_path, min_titles=min_titles)

@@ -16,6 +16,7 @@ class EnrichedMeta:
     rating: float | None = None
     year: int | None = None
     maturity_rating: str = ""
+    episode_count: int = 0
 
 
 class Enricher:
@@ -54,6 +55,11 @@ class Enricher:
         date = body.get("first_air_date") or body.get("release_date") or ""
         if len(date) >= 4 and date[:4].isdigit():
             meta.year = int(date[:4])
+        # Episode count: TV series report number_of_episodes; a film is a single item.
+        if media_type == "movie":
+            meta.episode_count = 1
+        else:
+            meta.episode_count = int(body.get("number_of_episodes") or 0)
         meta.maturity_rating = self._fetch_certification(tmdb_id, media_type)
 
     def _fetch_certification(self, tmdb_id: int, media_type: str) -> str:
@@ -105,3 +111,5 @@ class Enricher:
             meta.rating = float(body["score"])
         if meta.year is None and body.get("year"):
             meta.year = int(body["year"])
+        if not meta.episode_count and body.get("episodes"):
+            meta.episode_count = int(body["episodes"])

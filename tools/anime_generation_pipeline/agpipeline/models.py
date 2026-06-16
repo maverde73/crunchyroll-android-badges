@@ -20,6 +20,7 @@ class CatalogTitle:
     languages_assumed: bool
     deep_link_url: str
     maturity_rating: str = ""
+    episode_count: int = 0
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -42,6 +43,7 @@ class CatalogTitle:
             languages_assumed=bool(d.get("languages_assumed", False)),
             deep_link_url=d.get("deep_link_url", ""),
             maturity_rating=d.get("maturity_rating", ""),
+            episode_count=int(d.get("episode_count") or 0),
         )
 
 
