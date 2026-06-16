@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T04:00:24Z",
+  "generated_at": "2026-06-16T16:49:51Z",
   "titles": [
     {
       "ag_id": "ts492780",
@@ -20,8 +20,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -48,7 +48,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.364,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -226,29 +226,29 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.546,
+      "rating": 8.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "te",
-        "en-US",
         "es",
         "fr",
+        "hi",
+        "it-IT",
+        "ja-JP",
         "ta",
         "de",
-        "hi"
+        "en-US",
+        "pt",
+        "te"
       ],
       "subtitle_locales": [
         "ar",
-        "de",
-        "es",
-        "id",
-        "it-IT",
-        "pt",
         "en-US",
+        "es",
+        "pt",
+        "ru",
+        "de",
         "fr",
-        "ru"
+        "id",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -281,7 +281,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.983b114e-61c7-4701-ad2c-731b039c3573",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "T",
       "episode_count": 114
     },
@@ -364,24 +364,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "en-US",
         "es",
         "fr",
         "hi",
-        "it-IT",
-        "de",
-        "ja-JP",
         "pt",
-        "ta",
         "te",
+        "de",
+        "en-US",
+        "it-IT",
+        "ja-JP",
+        "ta",
         "th"
       ],
       "subtitle_locales": [
-        "fr",
         "it-IT",
         "pt",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -408,33 +408,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "es",
+        "fr",
         "hi",
         "id",
+        "it-IT",
+        "te",
+        "en-US",
         "ja-JP",
         "pt",
-        "de",
-        "en-US",
-        "fr",
-        "it-IT",
         "ta",
-        "te",
-        "ar"
+        "ar",
+        "de",
+        "es"
       ],
       "subtitle_locales": [
-        "ar",
-        "es",
         "fr",
-        "hi",
-        "id",
         "ms",
         "pt",
         "ru",
         "de",
-        "en-US",
+        "es",
+        "hi",
+        "id",
         "it-IT",
         "th",
-        "vi"
+        "vi",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -460,8 +460,8 @@
       ],
       "rating": 7.678,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -549,28 +549,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "en-US",
         "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
-        "th",
-        "en-US"
+        "th"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pl",
+        "pt",
+        "th",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pl",
-        "pt",
         "ru",
+        "zh",
         "ar",
-        "id",
-        "th",
-        "zh"
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -624,7 +624,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.453,
       "audio_locales": [
         "it-IT"
       ],
@@ -716,7 +716,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.464,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -865,7 +865,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.456,
+      "rating": 8.455,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -981,7 +981,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.507,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1012,8 +1012,8 @@
       ],
       "rating": 7.217,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1212,13 +1212,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1330,7 +1330,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.387,
+      "rating": 7.384,
       "audio_locales": [
         "it-IT"
       ],
@@ -1361,25 +1361,25 @@
       ],
       "rating": 7.818,
       "audio_locales": [
-        "es",
-        "it-IT",
         "ja-JP",
         "pt",
-        "en-US"
+        "en-US",
+        "es",
+        "it-IT"
       ],
       "subtitle_locales": [
+        "th",
+        "vi",
         "ar",
         "de",
         "en-US",
-        "fr",
-        "ms",
-        "pt",
-        "th",
         "es",
+        "fr",
         "id",
         "it-IT",
-        "ru",
-        "vi"
+        "ms",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1405,8 +1405,8 @@
       ],
       "rating": 8.406,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1415,6 +1415,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.634,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts29400",
@@ -1465,8 +1494,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1631,7 +1660,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.295,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -1749,27 +1778,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
         "pt",
         "de",
-        "en-US",
-        "es",
-        "fr"
-      ],
-      "subtitle_locales": [
         "en-US",
         "es",
         "fr",
-        "pt",
-        "ru",
-        "th",
-        "vi",
-        "ar",
-        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "fr",
         "id",
         "it-IT",
-        "ms"
+        "ms",
+        "ru",
+        "ar",
+        "es",
+        "pt",
+        "th",
+        "vi",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1834,6 +1863,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts76736",
+      "title": "I cinque samurai: Message",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75080,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
+      "maturity_rating": "T",
+      "episode_count": 5
+    },
+    {
       "ag_id": "ts452568",
       "title": "WITCH WATCH",
       "year": 2025,
@@ -1861,36 +1920,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
       "maturity_rating": "T",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts76736",
-      "title": "I cinque samurai: Message",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75080,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.333,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
-      "episode_count": 5
     },
     {
       "ag_id": "ts436411",
@@ -1950,35 +1979,6 @@
       "episode_count": 109
     },
     {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 214651,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -2007,6 +2007,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 214651,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts47224",
@@ -2069,6 +2098,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -2097,34 +2154,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
       "maturity_rating": "T",
       "episode_count": 27
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts22705",
@@ -2296,47 +2325,18 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl"
+        "pl",
+        "pt",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.146,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts1781",
@@ -2369,6 +2369,35 @@
       "episode_count": 140
     },
     {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.146,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -2399,6 +2428,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "tm112217",
+      "title": "Ken il guerriero - Il film",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19877,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts329737",
       "title": "Helck",
       "year": 2023,
@@ -2427,35 +2485,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "tm112217",
-      "title": "Ken il guerriero - Il film",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19877,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts55756",
@@ -2561,8 +2590,8 @@
       ],
       "rating": 8.005,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2766,23 +2795,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
+        "de",
         "en-US",
         "id",
         "ja-JP",
         "ru",
-        "th",
-        "de"
+        "th"
       ],
       "subtitle_locales": [
+        "fr",
         "vi",
-        "ar",
         "de",
-        "en-US",
         "es",
         "it-IT",
-        "fr",
+        "pt",
         "ru",
-        "pt"
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2821,34 +2850,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts403298",
       "title": "Blue Miburo - I giovani lupi di Mibu",
       "year": 2024,
@@ -2875,6 +2876,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
+    },
+    {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts13335",
@@ -3540,35 +3569,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "tm136088",
-      "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 83088,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Pegasus, Sirio, Cristal, Andromeda e Phoenix affrontano in questo film il più potente e spietato degli avversari: Lucifero, il Sovrano degli Inferi. Relegato fin dai tempi del mito nelle profonde oscurità dalla dea Atena egli ritorna sulla Terra per brama di vendetta. Dopo aver ucciso i cavalieri d'oro, decapita la statua di Atena ed erge la sua fortezza, il Palazzo degli Intrighi, nei pressi del Grande Tempio. Affiancato dagli spiriti di Nettuno, Discordia e Apollo, le tre malvagie divinità che i cavalieri di Atena avevano faticosamente sconfitto nelle loro precedenti avventure, Lucifero lancia un ultimatum a Lady Isabel: la giovane dovrà sacrificarsi o l'intero pianeta verrà devastato dalla sua furia demoniaca. I Cavalieri dello Zodiaco sono chiamati ad una impresa disperata, contrastare il potente avversario sfidando i terribili demoni infernali per poter salvare la dea della Giustizia e l'intera umanità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2OwPIGtQRDeRlNKJR0fI85iOaFJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.371,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts418967",
       "title": "Haigakura",
       "year": 2024,
@@ -3624,6 +3624,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
       "maturity_rating": "18+",
       "episode_count": 10
+    },
+    {
+      "ag_id": "tm136088",
+      "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 83088,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Pegasus, Sirio, Cristal, Andromeda e Phoenix affrontano in questo film il più potente e spietato degli avversari: Lucifero, il Sovrano degli Inferi. Relegato fin dai tempi del mito nelle profonde oscurità dalla dea Atena egli ritorna sulla Terra per brama di vendetta. Dopo aver ucciso i cavalieri d'oro, decapita la statua di Atena ed erge la sua fortezza, il Palazzo degli Intrighi, nei pressi del Grande Tempio. Affiancato dagli spiriti di Nettuno, Discordia e Apollo, le tre malvagie divinità che i cavalieri di Atena avevano faticosamente sconfitto nelle loro precedenti avventure, Lucifero lancia un ultimatum a Lady Isabel: la giovane dovrà sacrificarsi o l'intero pianeta verrà devastato dalla sua furia demoniaca. I Cavalieri dello Zodiaco sono chiamati ad una impresa disperata, contrastare il potente avversario sfidando i terribili demoni infernali per poter salvare la dea della Giustizia e l'intera umanità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2OwPIGtQRDeRlNKJR0fI85iOaFJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts322046",
@@ -4225,7 +4254,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.723,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -4603,35 +4632,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.634,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts447887",
       "title": "Momentary Lily",
       "year": 2025,
@@ -4718,36 +4718,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts450777",
-      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 273048,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 5.333,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "tm21535",
@@ -4838,6 +4808,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e3345e1-f3bd-46cc-a287-d9e96f92ed6f",
       "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts450777",
+      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 273048,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 5.333,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
+      "maturity_rating": "14+",
       "episode_count": 24
     },
     {
@@ -5046,35 +5046,6 @@
       "episode_count": 7
     },
     {
-      "ag_id": "ts282865",
-      "title": "Re-Main",
-      "year": 2021,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 120013,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia è incentrata su Minato Kiyoumizu, un ragazzo che ha smesso di giocare a pallanuoto dopo un incidente durante l'inverno del suo terzo anno di scuola media. Dopo essere entrato al liceo, fa una promessa e decide di provare di nuovo la pallanuoto, unendosi alla squadra della scuola con i suoi amici. Tuttavia, la nuova squadra incontrerà dei problemi lungo la strada...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qA86K7u72cPtUvI0yZ91TcfFx9Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ODcHQvZ6pkGMK2fsjib03qMq1q.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92b6db8f-f9a3-4307-984e-c67581729e42",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts417931",
       "title": "Whisper Me a Love Song",
       "year": 2024,
@@ -5131,6 +5102,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ab994a0-c97c-64dd-6b1e-5c667a6e4534",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts282865",
+      "title": "Re-Main",
+      "year": 2021,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 120013,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia è incentrata su Minato Kiyoumizu, un ragazzo che ha smesso di giocare a pallanuoto dopo un incidente durante l'inverno del suo terzo anno di scuola media. Dopo essere entrato al liceo, fa una promessa e decide di provare di nuovo la pallanuoto, unendosi alla squadra della scuola con i suoi amici. Tuttavia, la nuova squadra incontrerà dei problemi lungo la strada...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qA86K7u72cPtUvI0yZ91TcfFx9Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ODcHQvZ6pkGMK2fsjib03qMq1q.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92b6db8f-f9a3-4307-984e-c67581729e42",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts342570",
@@ -5772,12 +5772,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
-        "it-IT",
-        "pt",
         "ru",
         "de",
-        "en-US"
+        "en-US",
+        "es",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6028,8 +6028,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6529,8 +6529,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6741,8 +6741,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6825,7 +6825,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.401,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -7180,7 +7180,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.586,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -7299,7 +7299,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.706,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -7485,8 +7485,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7750,8 +7750,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
