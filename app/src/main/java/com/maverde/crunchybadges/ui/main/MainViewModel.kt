@@ -8,22 +8,23 @@ import com.maverde.crunchybadges.data.local.entities.SeriesWithAllData
 import com.maverde.crunchybadges.data.models.FilterState
 import com.maverde.crunchybadges.data.preferences.FilterPreferences
 import com.maverde.crunchybadges.data.repository.AnimeRepository
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
-import kotlinx.coroutines.launch
+import kotlinx.coroutines.flow.flatMapLatest
+import kotlinx.coroutines.flow.stateIn
 
 /**
  * ViewModel for MainActivity
  * Manages series list from database (V2: updated for normalized schema + filters)
  */
+@OptIn(ExperimentalCoroutinesApi::class)
 class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     private val database = AnimeDatabase.getDatabase(application)
     private val repository = AnimeRepository(database.animeDao(), application.applicationContext)
     private val filterPrefs = FilterPreferences(application.applicationContext)
-
-    private val _seriesList = MutableStateFlow<List<SeriesWithAllData>>(emptyList())
-    val seriesList: StateFlow<List<SeriesWithAllData>> = _seriesList
 
     // Platform is fixed by the active tab; it overrides any persisted platform.
     private var forcedPlatform: com.maverde.crunchybadges.data.models.PlatformFilter =
@@ -34,9 +35,27 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     )
     val currentFilter: StateFlow<FilterState> = _currentFilter
 
-    init {
-        loadSeries()
-    }
+    /**
+     * Single reactive pipeline: the list is derived from [_currentFilter].
+     *
+     * `flatMapLatest` CANCELS the previous database query the instant the filter
+     * changes, so exactly one query/ordering is ever active. Previously each tab
+     * switch and filter change launched another collector that was never
+     * cancelled; the leftover collectors kept pushing their own (stale) orderings
+     * into the list, and the grid reshuffled endlessly. See SeriesListPipelineTest.
+     */
+    val seriesList: StateFlow<List<SeriesWithAllData>> =
+        _currentFilter
+            .flatMapLatest { filter ->
+                if (filter.hasActiveFilters() ||
+                    filter.sortBy != com.maverde.crunchybadges.data.models.SortOption.TITLE_ASC
+                ) {
+                    repository.getSeriesFiltered(filter)
+                } else {
+                    repository.getAllSeries()
+                }
+            }
+            .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), emptyList())
 
     /**
      * Set the platform shown by this list (called when a tab is selected).
@@ -45,45 +64,15 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     fun setPlatform(platform: com.maverde.crunchybadges.data.models.PlatformFilter) {
         forcedPlatform = platform
         _currentFilter.value = _currentFilter.value.copy(platform = platform)
-        loadSeries()
     }
 
     /**
-     * Load series from database with current filter
-     */
-    private fun loadSeries() {
-        viewModelScope.launch {
-            val filter = _currentFilter.value
-
-            if (filter.hasActiveFilters() || filter.sortBy != com.maverde.crunchybadges.data.models.SortOption.TITLE_ASC) {
-                // Use filtered query
-                repository.getSeriesFiltered(filter).collect { series ->
-                    _seriesList.value = series
-                }
-            } else {
-                // No filters - use default query
-                repository.getAllSeries().collect { series ->
-                    _seriesList.value = series
-                }
-            }
-        }
-    }
-
-    /**
-     * Update filter and reload series
+     * Update filter (the list re-queries automatically via the flatMapLatest pipeline).
      */
     fun updateFilter(newFilter: FilterState) {
         // The tab owns the platform — keep it regardless of the filter sheet.
         val f = newFilter.copy(platform = forcedPlatform)
         _currentFilter.value = f
         filterPrefs.saveFilter(f)
-        loadSeries()
-    }
-
-    /**
-     * Refresh series list (for future pull-to-refresh)
-     */
-    fun refresh() {
-        loadSeries()
     }
 }
