@@ -57,3 +57,17 @@ def test_falls_back_to_jikan_when_no_tmdb_id():
     assert meta.year == 1998
     # English synopsis is acceptable fallback when no Italian source
     assert meta.description_it == "English synopsis."
+
+
+def test_episode_count_from_tmdb_tv_movie_and_jikan_fallback():
+    # TV series -> number_of_episodes
+    http = FakeHttp({"/tv/100": {"number_of_episodes": 24}})
+    assert Enricher(http, "k").enrich({"tmdb_id": 100, "tmdb_type": "tv"}).episode_count == 24
+
+    # Movie -> a film is a single item
+    http = FakeHttp({"/movie/200": {"title": "Perfect Blue"}})
+    assert Enricher(http, "k").enrich({"tmdb_id": 200, "tmdb_type": "movie"}).episode_count == 1
+
+    # No TMDB id -> Jikan's "episodes" is used as fallback
+    http = FakeHttp({"/anime/1": {"data": {"episodes": 13}}})
+    assert Enricher(http, "k").enrich({"mal_id": 1}).episode_count == 13

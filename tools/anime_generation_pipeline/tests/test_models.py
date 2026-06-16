@@ -29,3 +29,19 @@ def test_catalog_round_trips_to_contract_json():
     assert payload["titles"][0]["languages_assumed"] is False
     # round-trip
     assert Catalog.from_dict(payload).titles[0] == title
+
+
+def test_episode_count_round_trips():
+    title = CatalogTitle(
+        ag_id="ag-2", title="Naruto", year=2002, matched_crunchyroll_id=None,
+        external_ids={"tmdb_id": 46260}, description_it="", poster_tall="",
+        poster_wide="", genres=[], rating=None, audio_locales=["it-IT"],
+        subtitle_locales=["it-IT"], languages_assumed=False,
+        deep_link_url="https://x", maturity_rating="14+", episode_count=220,
+    )
+    payload = title.to_dict()
+    assert payload["episode_count"] == 220
+    assert CatalogTitle.from_dict(payload) == title
+    # Backward compatible: older JSON without the field defaults to 0
+    legacy = {k: v for k, v in payload.items() if k != "episode_count"}
+    assert CatalogTitle.from_dict(legacy).episode_count == 0
