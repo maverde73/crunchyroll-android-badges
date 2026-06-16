@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-15T12:11:19Z",
+  "generated_at": "2026-06-16T02:11:48Z",
   "titles": [
     {
       "ag_id": "ts492780",
@@ -28,7 +28,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts20305",
@@ -57,7 +58,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 220
     },
     {
       "ag_id": "ts10145",
@@ -77,7 +79,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.007,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -86,7 +88,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 1205
     },
     {
       "ag_id": "tm190768",
@@ -113,7 +116,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts27309",
@@ -141,7 +145,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 13
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.501,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts22809",
@@ -170,7 +204,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.983b114e-61c7-4701-ad2c-731b039c3573",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 114
     },
     {
       "ag_id": "ts413191",
@@ -193,30 +228,31 @@
       "rating": 8.546,
       "audio_locales": [
         "hi",
+        "it-IT",
         "ja-JP",
         "pt",
-        "ta",
         "de",
-        "en-US",
+        "es",
         "fr",
-        "it-IT",
+        "ta",
         "te",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
+        "ar",
+        "es",
         "fr",
-        "id",
-        "pt",
-        "de",
-        "en-US",
         "it-IT",
         "ru",
-        "ar",
-        "es"
+        "de",
+        "en-US",
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts14127",
@@ -246,35 +282,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+"
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.502,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+"
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts20112",
@@ -303,7 +312,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 85
     },
     {
       "ag_id": "ts17714",
@@ -331,7 +341,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts21984",
@@ -354,27 +365,28 @@
       "rating": 8.392,
       "audio_locales": [
         "de",
-        "en-US",
+        "es",
         "fr",
         "hi",
+        "ta",
+        "en-US",
         "it-IT",
         "ja-JP",
         "pt",
         "te",
-        "es",
-        "ta",
         "th"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
         "it-IT",
         "pt",
-        "en-US"
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts89550",
@@ -396,37 +408,68 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "te",
+        "es",
+        "pt",
+        "ta",
         "ar",
         "de",
-        "en-US",
+        "fr",
+        "hi",
         "id",
         "it-IT",
         "ja-JP",
-        "pt",
-        "es",
-        "fr",
-        "hi",
-        "ta"
+        "te",
+        "en-US"
       ],
       "subtitle_locales": [
-        "it-IT",
+        "ar",
+        "es",
+        "fr",
+        "id",
         "ms",
         "ru",
         "th",
-        "ar",
-        "hi",
-        "id",
-        "pt",
-        "vi",
         "de",
         "en-US",
-        "es",
-        "fr"
+        "hi",
+        "it-IT",
+        "pt",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 73
+    },
+    {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.678,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts41160",
@@ -455,7 +498,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 218
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "T",
+      "episode_count": 40
     },
     {
       "ag_id": "ts407747",
@@ -487,51 +559,23 @@
         "en-US"
       ],
       "subtitle_locales": [
+        "de",
         "en-US",
-        "pl",
+        "es",
         "fr",
-        "th",
         "it-IT",
+        "pl",
+        "pt",
         "ru",
         "ar",
-        "de",
-        "es",
         "id",
-        "pt",
+        "th",
         "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.678,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts353577",
@@ -552,42 +596,16 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "T"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts28078",
@@ -615,7 +633,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 112
     },
     {
       "ag_id": "ts12311",
@@ -646,7 +665,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts21406",
@@ -676,7 +696,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts360995",
@@ -705,7 +726,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts354570",
@@ -732,7 +754,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 35
     },
     {
       "ag_id": "ts281904",
@@ -762,35 +785,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 32
     },
     {
       "ag_id": "ts35578",
@@ -820,7 +816,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 74
+    },
+    {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts37899",
@@ -841,15 +867,16 @@
       ],
       "rating": 8.456,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 52
     },
     {
       "ag_id": "ts74597",
@@ -876,7 +903,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts20686",
@@ -905,7 +933,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts45104",
@@ -932,7 +961,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts57405",
@@ -960,7 +990,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts342987",
@@ -989,7 +1020,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts369770",
@@ -1016,7 +1048,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts28081",
@@ -1044,7 +1077,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 61
     },
     {
       "ag_id": "ts410723",
@@ -1071,7 +1105,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts34474",
@@ -1099,7 +1134,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts26262",
@@ -1127,7 +1163,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 108
     },
     {
       "ag_id": "tm1542133",
@@ -1148,7 +1185,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+"
+      "maturity_rating": "13+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts475209",
@@ -1174,17 +1212,18 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US"
+        "en-US",
+        "es",
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+"
+      "maturity_rating": "7+",
+      "episode_count": 35
     },
     {
       "ag_id": "ts75698",
@@ -1214,7 +1253,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "ts28832",
@@ -1233,7 +1273,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.471,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1242,7 +1282,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 104
     },
     {
       "ag_id": "ts38826",
@@ -1269,7 +1310,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm19944",
@@ -1297,7 +1339,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts22249",
@@ -1326,7 +1369,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 75
     },
     {
       "ag_id": "ts459654",
@@ -1347,29 +1391,30 @@
       ],
       "rating": 7.818,
       "audio_locales": [
+        "es",
         "it-IT",
         "ja-JP",
         "pt",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
-        "ms",
-        "ru",
-        "th",
-        "it-IT",
-        "pt",
-        "en-US",
-        "fr",
-        "id",
-        "vi",
         "ar",
         "de",
-        "es"
+        "en-US",
+        "fr",
+        "ms",
+        "pt",
+        "th",
+        "es",
+        "id",
+        "it-IT",
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts29400",
@@ -1396,8 +1441,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T"
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts394764",
@@ -1419,15 +1465,16 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts308038",
@@ -1455,7 +1502,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts25996",
@@ -1484,7 +1532,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts485272",
@@ -1511,7 +1560,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts24632",
@@ -1539,7 +1589,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts476585",
@@ -1560,7 +1611,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts24483",
@@ -1588,7 +1640,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts18944",
@@ -1616,7 +1669,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts21278",
@@ -1645,7 +1699,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts52317",
@@ -1672,7 +1727,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 39
     },
     {
       "ag_id": "ts432739",
@@ -1693,31 +1749,32 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de"
-      ],
-      "subtitle_locales": [
-        "vi",
-        "ar",
-        "id",
-        "ms",
-        "pt",
-        "ru",
         "de",
         "en-US",
         "es",
+        "fr"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "es",
         "fr",
+        "pt",
+        "ru",
+        "th",
+        "vi",
+        "ar",
+        "de",
+        "id",
         "it-IT",
-        "th"
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts469760",
@@ -1744,7 +1801,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts448353",
@@ -1772,7 +1830,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts452568",
+      "title": "WITCH WATCH",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 261868,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Morihito Otogi, un liceale che proviene da una stirpe di orchi, si gode la sua vita tranquilla finché la sua amica d'infanzia, Nico, si trasferisce da lui. Nico è una strega in fase di formazione e sceglie Morihito come famiglio. Anche se Nico è emozionata di riunirsi col suo vecchio amico per cui ha una cotta, Morihito riceve il pericoloso incarico di proteggerla da una preannunciata calamità. Nel bel mezzo dell'imprevedibile caos generato dalla magia di Nico, e dal macello scaturito dal vivere insieme, le loro vite diventano un turbinio di stranezze sovrannaturali e minacce.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yTfaG7igCJa324DU0QaxCTzYBXF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.867,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
+      "maturity_rating": "T",
+      "episode_count": 25
     },
     {
       "ag_id": "ts76736",
@@ -1801,35 +1889,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T"
-    },
-    {
-      "ag_id": "ts452568",
-      "title": "WITCH WATCH",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 261868,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Morihito Otogi, un liceale che proviene da una stirpe di orchi, si gode la sua vita tranquilla finché la sua amica d'infanzia, Nico, si trasferisce da lui. Nico è una strega in fase di formazione e sceglie Morihito come famiglio. Anche se Nico è emozionata di riunirsi col suo vecchio amico per cui ha una cotta, Morihito riceve il pericoloso incarico di proteggerla da una preannunciata calamità. Nel bel mezzo dell'imprevedibile caos generato dalla magia di Nico, e dal macello scaturito dal vivere insieme, le loro vite diventano un turbinio di stranezze sovrannaturali e minacce.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wkTfkFeREqsR65wZ4dt1WlYPGTz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yTfaG7igCJa324DU0QaxCTzYBXF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 5
     },
     {
       "ag_id": "ts436411",
@@ -1858,7 +1919,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts64898",
@@ -1884,7 +1946,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts394039",
@@ -1912,7 +1975,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts5328",
@@ -1941,7 +2005,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 41
     },
     {
       "ag_id": "ts47224",
@@ -1969,7 +2034,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 25
     },
     {
       "ag_id": "tm222871",
@@ -1999,7 +2065,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts40524",
@@ -2028,7 +2095,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "ts57729",
@@ -2055,7 +2123,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts22705",
@@ -2083,7 +2152,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts87564",
@@ -2111,7 +2181,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 41
     },
     {
       "ag_id": "ts47136",
@@ -2139,42 +2210,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.704,
-      "audio_locales": [
-        "ja-JP",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T"
+      "maturity_rating": "16+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts311625",
@@ -2195,15 +2232,16 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm141589",
@@ -2222,7 +2260,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.47,
+      "rating": 7.471,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2232,7 +2270,44 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.704,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "pt",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pl"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts1781",
@@ -2261,7 +2336,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 140
     },
     {
       "ag_id": "ts16839",
@@ -2289,7 +2365,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts35975",
@@ -2318,7 +2395,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts329737",
@@ -2347,7 +2425,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm112217",
@@ -2366,7 +2445,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.802,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -2375,7 +2454,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts55756",
@@ -2403,7 +2483,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts52963",
@@ -2430,7 +2511,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts444582",
@@ -2458,7 +2540,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts35329",
@@ -2486,7 +2569,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts52727",
@@ -2514,7 +2598,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts399964",
@@ -2540,7 +2625,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts56262",
@@ -2569,7 +2655,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
-      "maturity_rating": "7+"
+      "maturity_rating": "7+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts68914",
@@ -2597,7 +2684,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 2
     },
     {
       "ag_id": "ts44184",
@@ -2624,7 +2712,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "ts223380",
@@ -2646,27 +2735,28 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "th",
         "de",
         "en-US",
         "id",
         "ja-JP",
-        "ru"
+        "ru",
+        "th"
       ],
       "subtitle_locales": [
-        "pt",
-        "ar",
         "de",
-        "en-US",
-        "ru",
-        "vi",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "ru",
+        "vi",
+        "en-US",
+        "pt",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm1470968",
@@ -2688,15 +2778,16 @@
       ],
       "rating": 7.878,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm1434295",
@@ -2718,42 +2809,16 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts403298",
-      "title": "Blue Miburo - I giovani lupi di Mibu",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234776,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts504283",
@@ -2780,7 +2845,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts403298",
+      "title": "Blue Miburo - I giovani lupi di Mibu",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234776,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
+      "maturity_rating": "14+",
+      "episode_count": 38
     },
     {
       "ag_id": "ts13335",
@@ -2808,7 +2902,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts90818",
@@ -2836,7 +2931,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts412408",
@@ -2865,7 +2961,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts331408",
@@ -2893,7 +2990,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts374187",
@@ -2921,7 +3019,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts31966",
@@ -2949,7 +3048,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts29076",
@@ -2977,7 +3077,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts76735",
@@ -3004,7 +3105,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts463053",
@@ -3032,7 +3134,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts246911",
@@ -3060,7 +3163,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 50
     },
     {
       "ag_id": "tm130037",
@@ -3086,7 +3190,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts37954",
@@ -3114,7 +3219,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 46
     },
     {
       "ag_id": "ts459375",
@@ -3141,7 +3247,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 17
     },
     {
       "ag_id": "tm193065",
@@ -3172,7 +3279,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts518",
@@ -3200,7 +3308,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 60
     },
     {
       "ag_id": "ts72501",
@@ -3229,7 +3338,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 51
     },
     {
       "ag_id": "ts312683",
@@ -3250,7 +3360,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts1152",
@@ -3277,35 +3388,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+"
-    },
-    {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+"
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts341771",
@@ -3333,7 +3417,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts34463",
@@ -3361,7 +3446,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "tm451542",
@@ -3392,7 +3507,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts220153",
@@ -3420,35 +3536,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+"
-    },
-    {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154098,
-        "tmdb_type": "tv"
-      },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.808,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm136088",
@@ -3476,7 +3565,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts418967",
@@ -3503,7 +3593,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts394055",
@@ -3531,7 +3622,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 10
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.808,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm184092",
@@ -3561,7 +3682,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts314452",
@@ -3590,7 +3712,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts55977",
@@ -3619,7 +3742,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 4
     },
     {
       "ag_id": "ts441134",
@@ -3647,7 +3771,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts36530",
@@ -3675,7 +3800,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts56436",
@@ -3704,7 +3830,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 53
     },
     {
       "ag_id": "ts88978",
@@ -3731,7 +3858,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "tm65451",
@@ -3762,7 +3890,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb838b-5891-eedc-39de-f7877a08188c",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts364419",
@@ -3783,7 +3912,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts16785",
@@ -3810,7 +3940,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "tm5128",
@@ -3840,7 +3971,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts488482",
@@ -3867,7 +3999,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "tm136990",
@@ -3897,7 +4030,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts15250",
@@ -3924,7 +4058,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 39
     },
     {
       "ag_id": "ts415273",
@@ -3947,16 +4082,17 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
         "ar",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts345978",
@@ -3983,7 +4119,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "tm128010",
@@ -4012,7 +4149,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts440071",
@@ -4039,7 +4177,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts11218",
@@ -4066,7 +4205,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cfcf8a3d-6bae-41f4-98c9-60deb8293705",
-      "maturity_rating": ""
+      "maturity_rating": "",
+      "episode_count": 23
     },
     {
       "ag_id": "tm41614",
@@ -4094,7 +4234,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52f1b371-1335-431c-a672-cbaa95d743e2",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts365130",
@@ -4122,7 +4263,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts26785",
@@ -4149,7 +4291,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1a26525e-9952-4fe3-b9e2-52c1bc6052db",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 37
     },
     {
       "ag_id": "ts458553",
@@ -4176,7 +4319,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts400911",
@@ -4204,7 +4348,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm187227",
@@ -4233,7 +4378,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e4e286e-0f5f-42f9-a39a-b83fb208f03e",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm220268",
@@ -4262,7 +4408,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6b9977e-cec2-4ef1-4a40-828c0f4ae1c4",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts310025",
@@ -4290,7 +4437,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.94eb75a5-b2ba-4721-a216-1f7fb7ddf929",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts199079",
@@ -4311,7 +4459,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm61092",
@@ -4339,7 +4488,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd58e26c-77d6-464e-80fe-47078102ec71",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts317155",
@@ -4367,28 +4517,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
-      "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts452442",
-      "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
-      "maturity_rating": "T"
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts343493",
@@ -4417,7 +4547,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm29738",
@@ -4446,7 +4577,30 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.726cff97-cf82-4f26-a0a6-b52aeaceff97",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "ts452442",
+      "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts322259",
@@ -4474,7 +4628,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts447887",
@@ -4502,7 +4657,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm96037",
@@ -4523,15 +4679,16 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e41bfbb-84c8-4c64-883c-86fcd1766386",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts272347",
@@ -4563,7 +4720,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e3345e1-f3bd-46cc-a287-d9e96f92ed6f",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts359791",
@@ -4591,7 +4749,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts450777",
@@ -4620,7 +4779,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm21535",
@@ -4648,7 +4808,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm167492",
@@ -4676,7 +4837,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5dc575dc-c7a0-489f-ac5a-33c22a2d8afa",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts21877",
@@ -4703,7 +4865,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 36
     },
     {
       "ag_id": "tm159084",
@@ -4733,7 +4896,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7d90e387-df3f-42b5-95eb-c78c2a655f9c",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts32338",
@@ -4762,7 +4926,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts417105",
@@ -4789,7 +4954,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9692bb83-8006-4610-85ce-82acb25905a6",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm132639",
@@ -4817,7 +4983,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts287662",
@@ -4838,15 +5005,16 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts53271",
@@ -4874,7 +5042,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 7
     },
     {
       "ag_id": "ts282865",
@@ -4902,7 +5071,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92b6db8f-f9a3-4307-984e-c67581729e42",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts417931",
@@ -4930,7 +5100,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm222860",
@@ -4958,7 +5129,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ab994a0-c97c-64dd-6b1e-5c667a6e4534",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts342570",
@@ -4985,7 +5157,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm37256",
@@ -5015,7 +5188,38 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c098f749-a05b-4d48-8fa5-7c8b2fc9ab30",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts377808",
@@ -5044,7 +5248,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cafa6fab-7def-44eb-9cf0-f73ac8ed5082",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm147494",
@@ -5076,7 +5281,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd7a1a63-ddda-47c8-b6ad-eff5afea5732",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts222964",
@@ -5103,7 +5309,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.77416515-803e-435d-8de3-f1865b57f2db",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts79361",
@@ -5131,7 +5338,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2d85dacf-dbc6-4c4b-8784-7d4c8619b90f",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts39882",
@@ -5158,7 +5366,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 47
     },
     {
       "ag_id": "ts29733",
@@ -5186,7 +5395,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 3
     },
     {
       "ag_id": "ts345961",
@@ -5214,7 +5424,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.929aed95-0748-48f1-90d1-6fb69af4f4c5",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm146533",
@@ -5243,7 +5454,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ad88a22b-6be5-4abb-955d-b317853c344a",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts2796",
@@ -5270,7 +5482,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a81ac292-9040-4293-ad4a-e6ae64cd434e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 54
     },
     {
       "ag_id": "ts326987",
@@ -5297,7 +5510,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4d147d80-d6ca-4cb6-b438-e63320226461",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm80059",
@@ -5316,7 +5530,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.413,
+      "rating": 7.415,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5326,7 +5540,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a37a104a-406d-4494-8a11-dfb0e989dd51",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts23284",
@@ -5355,34 +5570,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
-      "maturity_rating": "16+"
-    },
-    {
-      "ag_id": "ts70446",
-      "title": "Guerre fra galassie",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65958,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Guerre fra galassie (Uchu kara no messeji: Ginga taisen) è una serie televisiva giapponese in 27 episodi trasmessi per la prima volta nel corso di una sola stagione dal 1978 al 1979. (parodia di guerre stellari).\n\nÈ una serie fantascientifica incentrata sulle vicende di tre eroi che devono difendere la Terra dall'Impero Gavaniano presieduto dal malefico Roxeya XIII.\n\nLa serie è basata sul film del 1978 Uchu kara no messeji ed è ambientata tre anni dopo il lungometraggio. Diversi episodi furono montati a formare un lungometraggio uscito nel 1978 negli Stati Uniti con il titolo di Message from Space",
-      "poster_tall": "https://image.tmdb.org/t/p/original/i6UDws8x1D2Jk9KkYBuSWkyWi3A.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr9C3dWb4pwm5bvQUs2LwFeKPK9.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.378,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bc1e15-927e-406e-32c3-40824350709b",
-      "maturity_rating": "T"
+      "maturity_rating": "16+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts18639",
@@ -5410,7 +5599,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53335993-a51a-44ff-a9fd-5891f275393b",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 34
     },
     {
       "ag_id": "tm124556",
@@ -5438,7 +5628,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1bc4b659-8b74-4362-8731-37ce7de70474",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts76780",
@@ -5466,7 +5657,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb4893-10d6-27c5-0e61-650179c53cc0",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 13
+    },
+    {
+      "ag_id": "ts70446",
+      "title": "Guerre fra galassie",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65958,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Guerre fra galassie (Uchu kara no messeji: Ginga taisen) è una serie televisiva giapponese in 27 episodi trasmessi per la prima volta nel corso di una sola stagione dal 1978 al 1979. (parodia di guerre stellari).\n\nÈ una serie fantascientifica incentrata sulle vicende di tre eroi che devono difendere la Terra dall'Impero Gavaniano presieduto dal malefico Roxeya XIII.\n\nLa serie è basata sul film del 1978 Uchu kara no messeji ed è ambientata tre anni dopo il lungometraggio. Diversi episodi furono montati a formare un lungometraggio uscito nel 1978 negli Stati Uniti con il titolo di Message from Space",
+      "poster_tall": "https://image.tmdb.org/t/p/original/i6UDws8x1D2Jk9KkYBuSWkyWi3A.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr9C3dWb4pwm5bvQUs2LwFeKPK9.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.421,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bc1e15-927e-406e-32c3-40824350709b",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "tm50298",
@@ -5495,7 +5715,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.289bc251-719a-4463-aff7-3c115aa3bfdf",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts56862",
@@ -5524,7 +5745,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.976d585d-248d-46dc-b8c0-e3310efbe9bb",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts376960",
@@ -5550,16 +5772,17 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts72986",
@@ -5587,7 +5810,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d421c742-7760-4512-8db7-af6cc2e1e703",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 14
     },
     {
       "ag_id": "ts5162",
@@ -5615,7 +5839,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.79b4319f-eea2-4fb7-8573-accb887360bc",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts401994",
@@ -5642,7 +5867,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f9b138ea-25cd-4852-8a78-098aa80429dc",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts32819",
@@ -5671,7 +5897,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ec2a3872-df78-4812-a9a2-9712f92c7f21",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm74741",
@@ -5699,7 +5926,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56e6a521-2188-41da-b3d6-ec95616e9637",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts3367",
@@ -5727,7 +5955,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80f7cda8-a106-4572-9b7a-39469544fe85",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts60492",
@@ -5755,7 +5984,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts529845",
@@ -5776,7 +6006,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm36164",
@@ -5797,15 +6028,16 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f17c4387-76cd-4303-b111-67bbd324d724",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts287917",
@@ -5833,7 +6065,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 3
     },
     {
       "ag_id": "ts975",
@@ -5860,7 +6093,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.684c7e46-bf9e-4e96-84a3-a0e869a0892d",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 30
     },
     {
       "ag_id": "ts58195",
@@ -5887,7 +6121,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts42498",
@@ -5914,7 +6149,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts16879",
@@ -5942,7 +6178,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a19ee0d9-3f32-4911-90c2-f97e8860d797",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 4
     },
     {
       "ag_id": "ts459902",
@@ -5963,15 +6200,16 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.893047a6-9935-47a4-91ff-8aa23d0edd0e",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts24595",
@@ -5999,7 +6237,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2077b51c-336f-40c0-9686-2aac924c1132",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 205
     },
     {
       "ag_id": "ts435424",
@@ -6026,7 +6265,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts237034",
@@ -6057,7 +6297,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c35c3fab-45b9-40e2-bbba-66de92d29171",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 62
     },
     {
       "ag_id": "ts58464",
@@ -6085,7 +6326,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts367163",
@@ -6113,7 +6355,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef74b47e-173c-451f-8e4b-7d3863f1772e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts52195",
@@ -6140,7 +6383,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 44
     },
     {
       "ag_id": "ts64978",
@@ -6161,15 +6405,16 @@
       ],
       "rating": 7.75,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 42
     },
     {
       "ag_id": "tm27612",
@@ -6193,15 +6438,16 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm38037",
@@ -6222,15 +6468,16 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm49444",
@@ -6259,7 +6506,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm59590",
@@ -6289,7 +6537,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts53048",
@@ -6317,7 +6566,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
-      "maturity_rating": "18+"
+      "maturity_rating": "18+",
+      "episode_count": 6
     },
     {
       "ag_id": "ts18589",
@@ -6344,7 +6594,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.295e0af1-19ab-4f74-b61d-5e030169f3de",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts444703",
@@ -6372,7 +6623,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d609bc05-fa72-4129-87b7-564a1eb41406",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm437406",
@@ -6403,7 +6655,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm27495",
@@ -6434,7 +6687,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm134235",
@@ -6463,7 +6717,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm452090",
@@ -6494,7 +6749,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts242641",
@@ -6520,7 +6776,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 20
     },
     {
       "ag_id": "ts314720",
@@ -6547,7 +6804,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm191827",
@@ -6576,7 +6834,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm159116",
@@ -6604,7 +6863,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221701",
@@ -6630,7 +6890,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f31f3fe1-1079-479f-9b0a-e5262aeb6d8d",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts66982",
@@ -6658,7 +6919,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b97ba7c-2045-4901-8c52-686a3e5a3cc8",
-      "maturity_rating": ""
+      "maturity_rating": "",
+      "episode_count": 26
     },
     {
       "ag_id": "tm49446",
@@ -6687,7 +6949,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm65142",
@@ -6710,15 +6973,16 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm184358",
@@ -6740,15 +7004,16 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm117778",
@@ -6777,7 +7042,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts302819",
@@ -6805,7 +7071,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53a278de-9ed5-4ed1-85ed-ac90a8f02a42",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts367118",
@@ -6833,7 +7100,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65dd82ef-a035-4c74-8d83-25b8fb4cb6b6",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts299997",
@@ -6861,7 +7129,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c075971f-4855-44d4-b702-e75ddaa500d3",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm9483",
@@ -6891,7 +7160,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm41504",
@@ -6919,7 +7189,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1061cc6-d013-47d5-bd85-eff82763e5fd",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts351489",
@@ -6949,7 +7220,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7588e543-74de-4a21-be90-b7a1d038986e",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 3
     },
     {
       "ag_id": "ts73018",
@@ -6976,7 +7248,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 51
     },
     {
       "ag_id": "tm99577",
@@ -7007,7 +7280,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ba48cfa-f579-4b7c-9cc2-685bc36c0ca1",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm82213",
@@ -7034,7 +7308,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm34524",
@@ -7064,7 +7339,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a42e3f-7c16-467a-bb79-859974924afe",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm839900",
@@ -7095,7 +7371,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm374743",
@@ -7125,7 +7402,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm20372",
@@ -7155,7 +7433,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm111876",
@@ -7184,7 +7463,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1542319-5ff5-493d-bf0a-fd3eec853234",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm88171",
@@ -7213,7 +7493,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts413183",
@@ -7239,7 +7520,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm651260",
@@ -7267,7 +7549,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts77859",
@@ -7293,7 +7576,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.feac72c5-ee8e-4e83-84bc-0e5da7457053",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 56
     },
     {
       "ag_id": "tm117018",
@@ -7322,7 +7606,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm113059",
@@ -7352,7 +7637,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm253370",
@@ -7382,7 +7668,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm447715",
@@ -7412,7 +7699,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts15516",
@@ -7438,7 +7726,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.27716161-60af-441f-a1a2-4c30492ef0d3",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "tm60126",
@@ -7469,7 +7758,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7738f70-f824-4b7b-bc43-5e9fa83b7581",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts74617",
@@ -7495,7 +7785,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30e3e0ec-0a42-45ad-bcbe-94f83c6a2133",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "tm125368",
@@ -7524,7 +7815,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b74cf4c-0b6e-4c82-a298-bcd4e0c190eb",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm148400",
@@ -7553,7 +7845,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e078eaae-0a37-483c-b80a-b8c2666a39ad",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm19133",
@@ -7584,7 +7877,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deefe577-2963-4e6c-a5d5-0cf93b685d09",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm103515",
@@ -7614,7 +7908,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm55292",
@@ -7643,7 +7938,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28c00a55-ac0e-4d17-aaeb-4520193f1d6e",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts4343",
@@ -7670,7 +7966,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts343530",
@@ -7698,7 +7995,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.873d5aa5-8185-466d-aef9-38fba9acc815",
-      "maturity_rating": "14+"
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm95180",
@@ -7727,7 +8025,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.11130d9d-c018-418d-885a-34cee48ce3e7",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm681872",
@@ -7757,7 +8056,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25043775-276f-4e50-9f8a-28cb41d63d98",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm247578",
@@ -7787,7 +8087,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221676",
@@ -7814,7 +8115,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f58cc067-715b-4eb7-b8c9-2e3f06a69840",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "tm88628",
@@ -7844,7 +8146,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f7fa9d3-81aa-4de3-8391-4d943db7cfba",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm50107",
@@ -7875,7 +8178,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm682308",
@@ -7905,7 +8209,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm102684",
@@ -7931,7 +8236,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.740528dc-ffdb-4018-bbb3-601c7bcdb1b3",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm47223",
@@ -7961,7 +8267,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
-      "maturity_rating": "12+"
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm130056",
@@ -7987,7 +8294,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm118756",
@@ -8013,7 +8321,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts22653",
@@ -8040,7 +8349,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.841d1459-e8b1-4905-9578-5ed2f421571c",
-      "maturity_rating": "16+"
+      "maturity_rating": "16+",
+      "episode_count": 39
     },
     {
       "ag_id": "tm117720",
@@ -8066,7 +8376,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm81714",
@@ -8095,7 +8406,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b2eba0-b552-43fd-bb4f-b7c6aca5d610",
-      "maturity_rating": "T"
+      "maturity_rating": "T",
+      "episode_count": 1
     }
   ]
 }
