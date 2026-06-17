@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T20:49:39Z",
+  "generated_at": "2026-06-17T04:01:54Z",
   "titles": [
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
     {
       "ag_id": "ts20305",
       "title": "Naruto",
@@ -60,6 +31,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
       "maturity_rating": "T",
       "episode_count": 220
+    },
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts10145",
@@ -120,6 +120,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.501,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -149,23 +178,24 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 35935,
+        "tmdb_id": 42444,
         "tmdb_type": "tv"
       },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
       "genres": [
+        "Animazione",
+        "Dramma",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.501,
+      "rating": 8.475,
       "audio_locales": [
         "it-IT"
       ],
@@ -173,9 +203,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
+      "maturity_rating": "T",
+      "episode_count": 114
     },
     {
       "ag_id": "ts14127",
@@ -228,62 +258,32 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
-        "fr",
+        "pt",
+        "ta",
         "te",
+        "de",
         "en-US",
         "es",
         "hi",
-        "it-IT",
         "ja-JP",
-        "pt",
-        "ta"
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
+        "pt",
+        "ar",
         "de",
         "en-US",
-        "fr",
+        "es",
         "id",
         "it-IT",
         "ru",
-        "ar",
-        "es",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42444,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.475,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "T",
-      "episode_count": 114
     },
     {
       "ag_id": "ts20112",
@@ -302,10 +302,10 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.6,
+      "rating": 8.617,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -364,24 +364,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "fr",
         "ta",
+        "th",
         "en-US",
-        "es",
-        "hi",
+        "fr",
         "it-IT",
         "ja-JP",
-        "pt",
         "te",
-        "th",
-        "de"
+        "de",
+        "es",
+        "hi",
+        "pt"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -408,33 +408,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "te",
-        "ar",
         "en-US",
         "es",
+        "fr",
         "hi",
         "id",
-        "ja-JP",
         "pt",
         "ta",
-        "de",
-        "fr",
-        "it-IT"
+        "ar",
+        "it-IT",
+        "ja-JP",
+        "te",
+        "de"
       ],
       "subtitle_locales": [
+        "en-US",
+        "hi",
+        "id",
+        "ru",
+        "th",
+        "ar",
+        "de",
         "es",
         "fr",
-        "id",
+        "it-IT",
         "ms",
         "pt",
-        "ru",
-        "ar",
-        "hi",
-        "it-IT",
-        "th",
-        "vi",
-        "de",
-        "en-US"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -472,6 +472,34 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "T",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -502,34 +530,6 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "T",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -549,28 +549,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "ta",
-        "te",
-        "th",
         "en-US",
         "es",
         "hi",
         "ja-JP",
-        "pt"
+        "pt",
+        "ta",
+        "te",
+        "th"
       ],
       "subtitle_locales": [
+        "pt",
+        "th",
+        "zh",
         "ar",
         "de",
         "en-US",
-        "es",
-        "it-IT",
-        "th",
-        "zh",
         "fr",
         "id",
+        "it-IT",
         "pl",
-        "pt",
-        "ru"
+        "ru",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -777,8 +777,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -867,8 +867,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -905,6 +905,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
       "maturity_rating": "18+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts20686",
@@ -1012,8 +1042,8 @@
       ],
       "rating": 7.217,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1022,6 +1052,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.634,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts369770",
@@ -1138,28 +1197,6 @@
       "episode_count": 108
     },
     {
-      "ag_id": "tm1542133",
-      "title": "One Piece Fan Letter",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1189,6 +1226,28 @@
       "episode_count": 48
     },
     {
+      "ag_id": "tm1542133",
+      "title": "One Piece Fan Letter",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1208,17 +1267,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1286,34 +1345,6 @@
       "episode_count": 104
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "tm19944",
       "title": "Jin-Roh - Uomini e lupi",
       "year": 1999,
@@ -1343,6 +1374,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -1361,25 +1420,25 @@
       ],
       "rating": 7.818,
       "audio_locales": [
-        "ja-JP",
         "pt",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "ar",
         "de",
         "en-US",
-        "id",
-        "it-IT",
-        "th",
-        "es",
         "fr",
-        "ms",
+        "it-IT",
         "pt",
-        "ru",
+        "th",
         "vi",
-        "ar"
+        "es",
+        "id",
+        "ms",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1415,35 +1474,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.634,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts29400",
@@ -1688,7 +1718,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.771,
+      "rating": 6.86,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1760,52 +1790,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "fr",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "de",
-        "en-US",
-        "es"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "id",
-        "it-IT",
-        "ru",
-        "th",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "ms",
-        "pt",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -1832,6 +1816,52 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "it-IT",
+        "ms",
+        "th",
+        "vi",
+        "ar",
+        "es",
+        "fr",
+        "id",
+        "pt",
+        "ru",
+        "de"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts448353",
@@ -2067,67 +2097,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
-      "genres": [
-        "Thriller",
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Guerra"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -2186,6 +2155,37 @@
       "episode_count": 13
     },
     {
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "genres": [
+        "Thriller",
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Guerra"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts22705",
       "title": "Il fantastico mondo di Paul",
       "year": 1976,
@@ -2213,35 +2213,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
       "maturity_rating": "16+",
       "episode_count": 50
-    },
-    {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.421,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
     },
     {
       "ag_id": "ts47136",
@@ -2273,34 +2244,33 @@
       "episode_count": 39
     },
     {
-      "ag_id": "tm141589",
-      "title": "The Last: Naruto the Movie",
-      "year": 2014,
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 317442,
-        "tmdb_type": "movie"
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
       },
-      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
       "genres": [
-        "Azione",
-        "Romance",
-        "Animazione"
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.471,
+      "rating": 8.421,
       "audio_locales": [
-        "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
-      "maturity_rating": "12+",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
+      "maturity_rating": "14+",
+      "episode_count": 41
     },
     {
       "ag_id": "ts311625",
@@ -2333,40 +2303,34 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
+      "ag_id": "tm141589",
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
+        "tmdb_id": 317442,
+        "tmdb_type": "movie"
       },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
       "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
+        "Azione",
+        "Romance",
+        "Animazione"
       ],
-      "rating": 7.704,
+      "rating": 7.471,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl",
-        "pt",
-        "de"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T",
-      "episode_count": 12
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts1781",
@@ -2397,6 +2361,42 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
+    },
+    {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.704,
+      "audio_locales": [
+        "ja-JP",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pl",
+        "pt",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts16839",
@@ -2474,7 +2474,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.8,
+      "rating": 6.803,
       "audio_locales": [
         "it-IT"
       ],
@@ -2534,8 +2534,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2618,10 +2618,10 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.005,
+      "rating": 8.008,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2775,6 +2775,49 @@
       "episode_count": 45
     },
     {
+      "ag_id": "ts223380",
+      "title": "BOFURI",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 96402,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.408,
+      "audio_locales": [
+        "en-US",
+        "id",
+        "ja-JP",
+        "ru",
+        "th",
+        "de"
+      ],
+      "subtitle_locales": [
+        "vi",
+        "es",
+        "fr",
+        "ru",
+        "ar",
+        "de",
+        "en-US",
+        "it-IT",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -2806,49 +2849,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts223380",
-      "title": "BOFURI",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 96402,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.408,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "id",
-        "ja-JP",
-        "ru",
-        "th"
-      ],
-      "subtitle_locales": [
-        "es",
-        "it-IT",
-        "ru",
-        "vi",
-        "ar",
-        "de",
-        "en-US",
-        "fr",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm1434295",
       "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
       "year": 2024,
@@ -2868,8 +2868,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3282,34 +3282,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.198,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "T",
-      "episode_count": 17
-    },
-    {
       "ag_id": "tm193065",
       "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
       "year": 1997,
@@ -3340,6 +3312,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.198,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "T",
+      "episode_count": 17
     },
     {
       "ag_id": "ts518",
@@ -3672,7 +3672,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.381,
       "audio_locales": [
         "it-IT"
       ],
@@ -3821,7 +3821,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.969,
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3953,28 +3953,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts364419",
-      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -4004,6 +3982,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts364419",
+      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts16785",
@@ -4141,12 +4141,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "ar",
-        "en-US",
-        "es"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4626,7 +4626,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.4,
+      "rating": 7.362,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6480,36 +6480,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm49444",
-      "title": "Detective Conan - L'asso di picche",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 21452,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Ran riesce a ricordare, attraverso un sogno, un episodio della sua infanzia nel quale osserva il padre ferire la madre con un colpo di pistola. Mentre Ran tenta di spiegarsi quel gesto, un misterioso individuo pare avere del rancore verso Kogoro, al punto di attentare alla vita delle persone che conosce. Gli unici indizi che riconducono all’assassino sono delle carte da poker lasciate di volta in volta in prossimità delle vittime, con il particolare che il numero indicato sulla carta è contenuto nel nome stesso della vittima. Il numero 1 – l’asso di picche – rappresenta proprio Shinichi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mhfEsq1FciLk9BoSMT7SPXRBdn.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Avventura"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm59590",
       "title": "One Piece Film: Z",
       "year": 2012,
@@ -6709,8 +6679,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6953,6 +6923,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm49444",
+      "title": "Detective Conan - L'asso di picche",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 21452,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Ran riesce a ricordare, attraverso un sogno, un episodio della sua infanzia nel quale osserva il padre ferire la madre con un colpo di pistola. Mentre Ran tenta di spiegarsi quel gesto, un misterioso individuo pare avere del rancore verso Kogoro, al punto di attentare alla vita delle persone che conosce. Gli unici indizi che riconducono all’assassino sono delle carte da poker lasciate di volta in volta in prossimità delle vittime, con il particolare che il numero indicato sulla carta è contenuto nel nome stesso della vittima. Il numero 1 – l’asso di picche – rappresenta proprio Shinichi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mhfEsq1FciLk9BoSMT7SPXRBdn.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Avventura"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm65142",
       "title": "One Piece - Un'amicizia oltre i confini del mare",
       "year": 2007,
@@ -7034,8 +7034,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7180,7 +7180,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.6,
+      "rating": 7.598,
       "audio_locales": [
         "it-IT"
       ],
@@ -7454,7 +7454,7 @@
         "Thriller",
         "Mistero"
       ],
-      "rating": 6.4,
+      "rating": 6.427,
       "audio_locales": [
         "it-IT"
       ],
