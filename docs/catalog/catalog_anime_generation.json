@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T10:54:01Z",
+  "generated_at": "2026-06-17T15:27:45Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,10 +19,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.364,
+      "rating": 8.363,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -136,7 +136,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.498,
       "audio_locales": [
         "it-IT"
       ],
@@ -258,27 +258,27 @@
       ],
       "rating": 8.541,
       "audio_locales": [
-        "es",
-        "it-IT",
-        "ta",
         "en-US",
-        "fr",
-        "hi",
         "ja-JP",
         "pt",
-        "te",
-        "de"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "ar",
-        "en-US",
+        "de",
         "es",
         "fr",
+        "hi",
+        "it-IT",
+        "te",
+        "ta"
+      ],
+      "subtitle_locales": [
+        "en-US",
         "id",
+        "es",
         "ru",
-        "de",
-        "it-IT"
+        "fr",
+        "it-IT",
+        "pt",
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -304,8 +304,8 @@
       ],
       "rating": 8.616,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -364,29 +364,60 @@
       ],
       "rating": 8.392,
       "audio_locales": [
+        "ta",
+        "it-IT",
+        "es",
         "pt",
+        "de",
+        "fr",
         "ja-JP",
         "te",
-        "es",
-        "hi",
-        "it-IT",
         "th",
         "en-US",
-        "fr",
-        "ta",
-        "de"
+        "hi"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
         "it-IT",
         "pt",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts89550",
@@ -408,33 +439,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "es",
-        "ja-JP",
         "en-US",
         "id",
-        "de",
-        "it-IT",
+        "ja-JP",
         "ta",
+        "de",
+        "es",
+        "it-IT",
+        "pt",
+        "ar",
         "fr",
         "hi",
-        "pt",
-        "te",
-        "ar"
+        "te"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "id",
-        "pt",
-        "fr",
         "hi",
+        "it-IT",
+        "es",
+        "fr",
+        "id",
         "th",
+        "de",
+        "pt",
+        "ru",
         "vi",
         "ar",
-        "it-IT",
         "ms",
-        "ru",
-        "de"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -579,28 +610,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "pt",
         "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "de",
         "fr",
-        "id",
         "it-IT",
         "pl",
-        "pt",
         "ru",
-        "zh",
+        "th",
         "ar",
         "en-US",
         "es",
-        "th"
+        "zh",
+        "de",
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -667,37 +698,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "T",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts360995",
@@ -837,8 +837,8 @@
       ],
       "rating": 7.326,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -867,8 +867,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1267,17 +1267,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1420,25 +1420,25 @@
       ],
       "rating": 7.882,
       "audio_locales": [
-        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "vi",
-        "ar",
         "de",
         "en-US",
         "es",
-        "it-IT",
         "fr",
+        "ru",
+        "th",
         "id",
+        "it-IT",
         "ms",
         "pt",
-        "ru",
-        "th"
+        "vi",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1462,7 +1462,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.406,
+      "rating": 8.408,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1524,8 +1524,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1836,27 +1836,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de"
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
         "vi",
         "de",
-        "es",
-        "pt",
-        "ru",
-        "th",
-        "ar",
-        "en-US",
-        "fr",
         "id",
         "it-IT",
-        "ms"
+        "en-US",
+        "es",
+        "ms",
+        "ru",
+        "ar",
+        "fr",
+        "pt",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2385,13 +2385,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pl",
-        "pt"
+        "pt",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2794,22 +2794,22 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "en-US",
-        "id",
-        "ja-JP",
         "ru",
         "th",
-        "de"
+        "de",
+        "en-US",
+        "id",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "de",
-        "ru",
-        "en-US",
         "es",
+        "it-IT",
+        "ru",
+        "vi",
+        "de",
+        "en-US",
         "fr",
         "pt",
-        "vi",
         "ar"
       ],
       "languages_assumed": false,
@@ -3102,8 +3102,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -4628,8 +4628,8 @@
       ],
       "rating": 7.362,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5768,8 +5768,8 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "de",
@@ -6497,7 +6497,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.5,
+      "rating": 7.49,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6649,8 +6649,8 @@
       ],
       "rating": 7.056,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6679,8 +6679,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6973,8 +6973,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7004,8 +7004,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7034,8 +7034,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7331,8 +7331,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7660,8 +7660,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
