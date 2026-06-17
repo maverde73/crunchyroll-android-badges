@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-17T04:01:54Z",
+  "generated_at": "2026-06-17T10:54:01Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -107,7 +107,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.306,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -256,29 +256,29 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.541,
       "audio_locales": [
-        "pt",
-        "ta",
-        "te",
-        "de",
-        "en-US",
         "es",
+        "it-IT",
+        "ta",
+        "en-US",
+        "fr",
         "hi",
         "ja-JP",
-        "fr",
-        "it-IT"
+        "pt",
+        "te",
+        "de"
       ],
       "subtitle_locales": [
         "pt",
         "ar",
-        "de",
         "en-US",
         "es",
+        "fr",
         "id",
-        "it-IT",
         "ru",
-        "fr"
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -302,7 +302,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.617,
+      "rating": 8.616,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -332,7 +332,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.632,
+      "rating": 7.625,
       "audio_locales": [
         "it-IT"
       ],
@@ -364,24 +364,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "ta",
+        "pt",
+        "ja-JP",
+        "te",
+        "es",
+        "hi",
+        "it-IT",
         "th",
         "en-US",
         "fr",
-        "it-IT",
-        "ja-JP",
-        "te",
-        "de",
-        "es",
-        "hi",
-        "pt"
+        "ta",
+        "de"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -408,33 +408,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "en-US",
         "es",
+        "ja-JP",
+        "en-US",
+        "id",
+        "de",
+        "it-IT",
+        "ta",
         "fr",
         "hi",
-        "id",
         "pt",
-        "ta",
-        "ar",
-        "it-IT",
-        "ja-JP",
         "te",
-        "de"
+        "ar"
       ],
       "subtitle_locales": [
         "en-US",
-        "hi",
-        "id",
-        "ru",
-        "th",
-        "ar",
-        "de",
         "es",
+        "id",
+        "pt",
         "fr",
+        "hi",
+        "th",
+        "vi",
+        "ar",
         "it-IT",
         "ms",
-        "pt",
-        "vi"
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -530,54 +530,6 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.154,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "th",
-        "zh",
-        "ar",
-        "de",
-        "en-US",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "ru",
-        "es"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -606,6 +558,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.154,
+      "audio_locales": [
+        "pt",
+        "ta",
+        "te",
+        "th",
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "zh",
+        "ar",
+        "en-US",
+        "es",
+        "th"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts28078",
@@ -777,8 +777,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -867,8 +867,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -954,7 +954,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.765,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -1042,8 +1042,8 @@
       ],
       "rating": 7.217,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1267,17 +1267,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US",
-        "es",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1345,6 +1345,34 @@
       "episode_count": 104
     },
     {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "tm19944",
       "title": "Jin-Roh - Uomini e lupi",
       "year": 1999,
@@ -1374,34 +1402,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -1418,7 +1418,7 @@
         "Dramma",
         "Famiglia"
       ],
-      "rating": 7.818,
+      "rating": 7.882,
       "audio_locales": [
         "pt",
         "en-US",
@@ -1427,18 +1427,18 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "vi",
         "ar",
         "de",
         "en-US",
-        "fr",
-        "it-IT",
-        "pt",
-        "th",
-        "vi",
         "es",
+        "it-IT",
+        "fr",
         "id",
         "ms",
-        "ru"
+        "pt",
+        "ru",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1674,35 +1674,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "18+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1730,6 +1701,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
       "episode_count": 65
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "18+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts21278",
@@ -1836,27 +1836,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de",
-        "en-US"
+        "de"
       ],
       "subtitle_locales": [
-        "en-US",
-        "it-IT",
-        "ms",
-        "th",
         "vi",
-        "ar",
+        "de",
         "es",
-        "fr",
-        "id",
         "pt",
         "ru",
-        "de"
+        "th",
+        "ar",
+        "en-US",
+        "fr",
+        "id",
+        "it-IT",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2215,6 +2215,35 @@
       "episode_count": 50
     },
     {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.421,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
+      "maturity_rating": "14+",
+      "episode_count": 41
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2244,33 +2273,34 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
+      "ag_id": "tm141589",
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
+        "tmdb_id": 317442,
+        "tmdb_type": "movie"
       },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
       "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Azione",
+        "Romance",
+        "Animazione"
       ],
-      "rating": 8.421,
+      "rating": 7.471,
       "audio_locales": [
+        "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts311625",
@@ -2301,36 +2331,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm141589",
-      "title": "The Last: Naruto the Movie",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 317442,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
-      "genres": [
-        "Azione",
-        "Romance",
-        "Animazione"
-      ],
-      "rating": 7.471,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts1781",
@@ -2381,51 +2381,22 @@
       ],
       "rating": 7.704,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pl",
-        "pt",
-        "de",
-        "en-US",
-        "es"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.146,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts35975",
@@ -2456,6 +2427,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.146,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm112217",
@@ -2534,8 +2534,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2620,8 +2620,8 @@
       ],
       "rating": 8.008,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2802,15 +2802,15 @@
         "de"
       ],
       "subtitle_locales": [
-        "vi",
+        "it-IT",
+        "de",
+        "ru",
+        "en-US",
         "es",
         "fr",
-        "ru",
-        "ar",
-        "de",
-        "en-US",
-        "it-IT",
-        "pt"
+        "pt",
+        "vi",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2837,8 +2837,8 @@
       ],
       "rating": 7.878,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3024,35 +3024,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts31966",
       "title": "Calendar Men",
       "year": 1981,
@@ -3080,6 +3051,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
       "maturity_rating": "T",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts374187",
@@ -3111,6 +3111,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
+    },
+    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -3140,22 +3168,23 @@
       "episode_count": 203
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
+      "ag_id": "ts246911",
+      "title": "Cyborg 009",
       "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 75078,
+        "tmdb_id": 131647,
         "tmdb_type": "tv"
       },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
       "genres": [
+        "Animazione",
         "Sci-Fi & Fantasy",
-        "Animazione"
+        "Action & Adventure"
       ],
-      "rating": 6.4,
+      "rating": 10.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -3163,9 +3192,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
-      "episode_count": 73
+      "episode_count": 50
     },
     {
       "ag_id": "ts463053",
@@ -3195,35 +3224,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts246911",
-      "title": "Cyborg 009",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 131647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 10.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
-      "maturity_rating": "T",
-      "episode_count": 50
     },
     {
       "ag_id": "tm130037",
@@ -3480,6 +3480,38 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm451542",
+      "title": "Lupin III - Addio, amico mio",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 572616,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nello special troviamo un Lupin in giacchetta nera alle prese con il \"Tradimento di Jigen\". Jigen infatti sta cercando di far fuori Lupin e Goemon, infuriato, non gli perdona il voltafaccia. Assistiamo a una resa dei conti tra Jigen (considerato \"il più temibile rivale di sempre\"), Lupin e Goemon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/acdqO8EVcO41KGWkAnVROtT9Ycx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lx6wI0HqcSnZ5BVou9mOKhd301s.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Crime",
+        "Commedia",
+        "televisione film"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3536,38 +3568,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
       "maturity_rating": "18+",
       "episode_count": 22
-    },
-    {
-      "ag_id": "tm451542",
-      "title": "Lupin III - Addio, amico mio",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 572616,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nello special troviamo un Lupin in giacchetta nera alle prese con il \"Tradimento di Jigen\". Jigen infatti sta cercando di far fuori Lupin e Goemon, infuriato, non gli perdona il voltafaccia. Assistiamo a una resa dei conti tra Jigen (considerato \"il più temibile rivale di sempre\"), Lupin e Goemon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/acdqO8EVcO41KGWkAnVROtT9Ycx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lx6wI0HqcSnZ5BVou9mOKhd301s.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Crime",
-        "Commedia",
-        "televisione film"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts220153",
@@ -3627,35 +3627,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts394055",
-      "title": "Suicide Squad ISEKAI",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 229926,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
-      "maturity_rating": "18+",
-      "episode_count": 10
-    },
-    {
       "ag_id": "tm136088",
       "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
       "year": 1989,
@@ -3683,6 +3654,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts394055",
+      "title": "Suicide Squad ISEKAI",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 229926,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
+      "maturity_rating": "18+",
+      "episode_count": 10
     },
     {
       "ag_id": "ts322046",
@@ -3805,35 +3805,6 @@
       "episode_count": 4
     },
     {
-      "ag_id": "ts441134",
-      "title": "Tutto solo alla conquista di un altro mondo",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 259558,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -3891,6 +3862,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
       "maturity_rating": "T",
       "episode_count": 53
+    },
+    {
+      "ag_id": "ts441134",
+      "title": "Tutto solo alla conquista di un altro mondo",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 259558,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts88978",
@@ -4141,12 +4141,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
-        "ar"
+        "ar",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4284,7 +4284,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.732,
       "audio_locales": [
         "it-IT"
       ],
@@ -4628,8 +4628,8 @@
       ],
       "rating": 7.362,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5532,8 +5532,8 @@
       ],
       "rating": 7.415,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5768,8 +5768,8 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "de",
@@ -6405,8 +6405,8 @@
       ],
       "rating": 7.75,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6973,8 +6973,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7004,8 +7004,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7299,7 +7299,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.714,
+      "rating": 7.722,
       "audio_locales": [
         "it-IT"
       ],
@@ -7331,8 +7331,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7750,8 +7750,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
