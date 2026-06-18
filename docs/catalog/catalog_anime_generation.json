@@ -1,36 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T15:22:03Z",
+  "generated_at": "2026-06-18T20:24:34Z",
   "titles": [
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
     {
       "ag_id": "ts20305",
       "title": "Naruto",
@@ -120,6 +91,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -136,7 +136,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.498,
+      "rating": 8.499,
       "audio_locales": [
         "it-IT"
       ],
@@ -257,27 +257,27 @@
       ],
       "rating": 8.541,
       "audio_locales": [
-        "te",
-        "de",
-        "ja-JP",
-        "pt",
-        "es",
-        "ta",
         "en-US",
-        "fr",
+        "ja-JP",
+        "es",
         "hi",
-        "it-IT"
+        "pt",
+        "de",
+        "fr",
+        "it-IT",
+        "ta",
+        "te"
       ],
       "subtitle_locales": [
-        "fr",
-        "ar",
-        "de",
-        "es",
-        "it-IT",
-        "ru",
         "en-US",
+        "es",
+        "pt",
+        "de",
+        "ar",
+        "it-IT",
+        "fr",
         "id",
-        "pt"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -303,8 +303,8 @@
       ],
       "rating": 8.616,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -363,33 +363,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "hi",
-        "ja-JP",
         "ta",
+        "ja-JP",
+        "ar",
         "en-US",
         "fr",
         "id",
-        "de",
-        "pt",
+        "es",
+        "hi",
         "te",
+        "de",
         "it-IT",
-        "ar",
-        "es"
+        "pt"
       ],
       "subtitle_locales": [
-        "vi",
-        "en-US",
-        "th",
-        "es",
         "pt",
+        "th",
+        "fr",
+        "vi",
+        "ar",
+        "en-US",
+        "es",
+        "hi",
         "ru",
         "de",
         "id",
-        "it-IT",
         "ms",
-        "ar",
-        "fr",
-        "hi"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -416,17 +416,17 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "ja-JP",
-        "ta",
-        "hi",
-        "pt",
         "de",
-        "fr",
+        "es",
         "it-IT",
-        "te",
+        "fr",
+        "pt",
         "th",
         "en-US",
-        "es"
+        "hi",
+        "ja-JP",
+        "ta",
+        "te"
       ],
       "subtitle_locales": [
         "en-US",
@@ -439,38 +439,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts12311",
-      "title": "Occhi di gatto",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34114,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
-      "maturity_rating": "T",
-      "episode_count": 73
     },
     {
       "ag_id": "ts317669",
@@ -491,8 +459,8 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -531,6 +499,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
+    },
+    {
+      "ag_id": "ts12311",
+      "title": "Occhi di gatto",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34114,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
+      "maturity_rating": "14+",
+      "episode_count": 73
     },
     {
       "ag_id": "ts353577",
@@ -613,28 +613,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "pt",
         "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
         "zh",
-        "de",
-        "en-US",
-        "pl",
-        "id",
-        "ru",
-        "fr",
+        "it-IT",
         "pt",
         "th",
         "ar",
+        "de",
         "es",
-        "it-IT"
+        "id",
+        "pl",
+        "en-US",
+        "fr",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -834,7 +834,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.326,
+      "rating": 7.304,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -866,8 +866,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1011,8 +1011,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1242,13 +1242,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,25 +1331,25 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "pt",
-        "ru",
-        "de",
-        "es",
-        "id",
-        "it-IT",
-        "ms",
         "th",
         "vi",
         "ar",
-        "en-US"
+        "fr",
+        "it-IT",
+        "pt",
+        "de",
+        "en-US",
+        "es",
+        "id",
+        "ms",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1404,8 +1404,8 @@
       ],
       "rating": 8.408,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1493,8 +1493,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1805,27 +1805,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
         "it-IT",
         "ja-JP",
-        "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr"
+        "pt"
       ],
       "subtitle_locales": [
-        "ms",
-        "pt",
-        "ru",
-        "de",
-        "fr",
-        "vi",
-        "ar",
-        "id",
-        "en-US",
         "th",
+        "de",
         "es",
-        "it-IT"
+        "pt",
+        "ar",
+        "en-US",
+        "fr",
+        "ms",
+        "vi",
+        "id",
+        "it-IT",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1951,33 +1951,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -2006,6 +1979,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts47224",
@@ -2112,7 +2112,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.6,
+      "rating": 6.618,
       "audio_locales": [
         "it-IT"
       ],
@@ -2288,7 +2288,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.471,
+      "rating": 7.47,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2320,8 +2320,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2380,17 +2380,17 @@
       ],
       "rating": 7.704,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl",
-        "pt",
-        "de"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2631,6 +2631,33 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts399964",
+      "title": "Shaman King: Flowers",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 232865,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rMViGZqSsj58BEWdGkYWvgKF9Mm.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.81,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts52727",
       "title": "Mazinkaiser",
       "year": 2001,
@@ -2658,33 +2685,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
       "maturity_rating": "16+",
       "episode_count": 8
-    },
-    {
-      "ag_id": "ts399964",
-      "title": "Shaman King: Flowers",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 232865,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rMViGZqSsj58BEWdGkYWvgKF9Mm.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.81,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts56262",
@@ -2793,23 +2793,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "de",
         "en-US",
         "id",
         "ja-JP",
         "ru",
-        "th"
+        "th",
+        "de"
       ],
       "subtitle_locales": [
-        "ru",
-        "en-US",
         "it-IT",
         "de",
-        "es",
+        "pt",
+        "en-US",
         "fr",
-        "vi",
         "ar",
-        "pt"
+        "ru",
+        "vi",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3072,8 +3072,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3138,35 +3138,6 @@
       "episode_count": 203
     },
     {
-      "ag_id": "ts31966",
-      "title": "Calendar Men",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45050,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3223,6 +3194,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts31966",
+      "title": "Calendar Men",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45050,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "tm130037",
@@ -4140,12 +4140,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "ar",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt",
-        "ar"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4679,8 +4679,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4718,35 +4718,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts359791",
-      "title": "HIGHSPEED Etoile",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 206033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lpBudcaP9QSt2OGykcLCCRdulnO.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm21535",
@@ -4838,6 +4809,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9e3345e1-f3bd-46cc-a287-d9e96f92ed6f",
       "maturity_rating": "T",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts359791",
+      "title": "HIGHSPEED Etoile",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 206033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lpBudcaP9QSt2OGykcLCCRdulnO.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts450777",
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5767,16 +5767,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
+        "en-US",
         "es",
         "it-IT",
         "pt",
         "ru",
-        "de",
-        "en-US"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6678,8 +6678,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6710,8 +6710,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7211,8 +7211,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7659,8 +7659,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
