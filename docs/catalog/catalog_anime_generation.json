@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-18T10:19:19Z",
+  "generated_at": "2026-06-18T15:22:03Z",
   "titles": [
     {
       "ag_id": "ts492780",
@@ -20,8 +20,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -58,7 +58,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "T",
+      "maturity_rating": "14+",
       "episode_count": 220
     },
     {
@@ -107,7 +107,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.306,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -118,35 +118,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.869,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "18+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts345",
@@ -176,6 +147,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.869,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts14127",
@@ -257,27 +257,27 @@
       ],
       "rating": 8.541,
       "audio_locales": [
-        "ta",
+        "te",
         "de",
         "ja-JP",
         "pt",
         "es",
+        "ta",
+        "en-US",
         "fr",
         "hi",
-        "it-IT",
-        "te",
-        "en-US"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
-        "ru",
-        "id",
-        "pt",
-        "ar",
-        "es",
         "fr",
+        "ar",
+        "de",
+        "es",
         "it-IT",
-        "de"
+        "ru",
+        "en-US",
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -303,8 +303,8 @@
       ],
       "rating": 8.616,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -363,33 +363,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "it-IT",
-        "es",
         "hi",
-        "fr",
         "ja-JP",
+        "ta",
+        "en-US",
+        "fr",
+        "id",
+        "de",
         "pt",
         "te",
-        "en-US",
-        "id",
-        "ta",
+        "it-IT",
         "ar",
-        "de"
+        "es"
       ],
       "subtitle_locales": [
-        "es",
-        "hi",
-        "id",
-        "pt",
+        "vi",
+        "en-US",
         "th",
-        "ar",
-        "fr",
-        "it-IT",
-        "ms",
+        "es",
+        "pt",
         "ru",
         "de",
-        "vi",
-        "en-US"
+        "id",
+        "it-IT",
+        "ms",
+        "ar",
+        "fr",
+        "hi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -417,23 +417,23 @@
       "rating": 8.392,
       "audio_locales": [
         "ja-JP",
-        "en-US",
-        "es",
         "ta",
-        "th",
-        "it-IT",
-        "de",
         "hi",
         "pt",
+        "de",
+        "fr",
+        "it-IT",
         "te",
-        "fr"
+        "th",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -491,8 +491,8 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -529,7 +529,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "T",
+      "maturity_rating": "14+",
       "episode_count": 218
     },
     {
@@ -563,6 +563,37 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -582,28 +613,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "pt",
+        "ta",
+        "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "zh",
+        "de",
         "en-US",
-        "fr",
+        "pl",
         "id",
+        "ru",
+        "fr",
         "pt",
         "th",
-        "zh",
         "ar",
-        "de",
         "es",
-        "it-IT",
-        "pl",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -635,7 +666,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "T",
+      "maturity_rating": "14+",
       "episode_count": 40
     },
     {
@@ -755,37 +786,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
-    },
-    {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
     },
     {
       "ag_id": "ts320501",
@@ -1009,10 +1009,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.217,
+      "rating": 7.23,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1242,13 +1242,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,25 +1331,25 @@
       ],
       "rating": 7.882,
       "audio_locales": [
-        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
+        "fr",
+        "pt",
+        "ru",
         "de",
-        "en-US",
+        "es",
+        "id",
         "it-IT",
         "ms",
-        "pt",
-        "ar",
-        "es",
-        "fr",
-        "id",
-        "ru",
         "th",
-        "vi"
+        "vi",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1404,8 +1404,8 @@
       ],
       "rating": 8.408,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1493,8 +1493,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1727,7 +1727,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "18+",
+      "maturity_rating": "14+",
       "episode_count": 26
     },
     {
@@ -1805,27 +1805,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "fr",
         "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "subtitle_locales": [
-        "pt",
-        "id",
-        "it-IT",
-        "ar",
-        "de",
-        "es",
         "ms",
+        "pt",
         "ru",
+        "de",
+        "fr",
         "vi",
+        "ar",
+        "id",
         "en-US",
         "th",
-        "fr"
+        "es",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2066,36 +2066,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2153,6 +2123,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts40524",
@@ -2380,8 +2380,8 @@
       ],
       "rating": 7.704,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
         "en-US",
@@ -2619,8 +2619,8 @@
       ],
       "rating": 8.008,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2793,23 +2793,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "ja-JP",
-        "ru",
-        "th",
         "de",
         "en-US",
-        "id"
+        "id",
+        "ja-JP",
+        "ru",
+        "th"
       ],
       "subtitle_locales": [
+        "ru",
+        "en-US",
+        "it-IT",
         "de",
         "es",
         "fr",
-        "it-IT",
         "vi",
         "ar",
-        "en-US",
-        "pt",
-        "ru"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3309,7 +3309,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "T",
+      "maturity_rating": "14+",
       "episode_count": 46
     },
     {
@@ -3879,7 +3879,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.031,
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4627,8 +4627,8 @@
       ],
       "rating": 7.362,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4661,6 +4661,36 @@
       "episode_count": 0
     },
     {
+      "ag_id": "tm96037",
+      "title": "Naruto Shippuden: Il film - La torre perduta",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 50723,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il Ninja malvagio Mukade sta per essere catturato da Naruto e il suo team quando convoca il potere delle Linee Temporali – un antico canale sotterraneo del chakra. Naruto viene imprigionato dal chakra e rispedito indietro nel tempo nella città di Loran, conosciuta per le sue mille torri. Lì incontra il futuro Quarto Hokage, Minato Namikaze, in una missione top-secret e la Regina di Loran, Sara, il cui governo è minacciato da Mukade. Riuscirà Naruto a tornare nel suo tempo e può un incontro casuale nel passato salvare il futuro?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mtyIBwILaTGEqNAtogxXqA1QJlS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a4MrZ711OIObIhSGF8SqcZQTyZo.jpg",
+      "genres": [
+        "Avventura",
+        "Azione",
+        "Animazione"
+      ],
+      "rating": 7.169,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e41bfbb-84c8-4c64-883c-86fcd1766386",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts447887",
       "title": "Momentary Lily",
       "year": 2025,
@@ -4688,36 +4718,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm96037",
-      "title": "Naruto Shippuden: Il film - La torre perduta",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 50723,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il Ninja malvagio Mukade sta per essere catturato da Naruto e il suo team quando convoca il potere delle Linee Temporali – un antico canale sotterraneo del chakra. Naruto viene imprigionato dal chakra e rispedito indietro nel tempo nella città di Loran, conosciuta per le sue mille torri. Lì incontra il futuro Quarto Hokage, Minato Namikaze, in una missione top-secret e la Regina di Loran, Sara, il cui governo è minacciato da Mukade. Riuscirà Naruto a tornare nel suo tempo e può un incontro casuale nel passato salvare il futuro?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mtyIBwILaTGEqNAtogxXqA1QJlS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a4MrZ711OIObIhSGF8SqcZQTyZo.jpg",
-      "genres": [
-        "Avventura",
-        "Azione",
-        "Animazione"
-      ],
-      "rating": 7.169,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e41bfbb-84c8-4c64-883c-86fcd1766386",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts359791",
@@ -5034,8 +5034,8 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5771,12 +5771,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
         "es",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6678,8 +6678,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6710,8 +6710,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6824,8 +6824,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7330,8 +7330,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
