@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T10:25:00Z",
+  "generated_at": "2026-06-19T15:16:41Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -234,7 +234,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "T",
+      "maturity_rating": "14+",
       "episode_count": 114
     },
     {
@@ -257,28 +257,28 @@
       ],
       "rating": 8.535,
       "audio_locales": [
-        "de",
+        "pt",
         "en-US",
-        "es",
-        "hi",
-        "ta",
-        "te",
         "ja-JP",
+        "ta",
+        "de",
+        "te",
+        "es",
         "fr",
-        "it-IT",
-        "pt"
+        "hi",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
-        "it-IT",
-        "ru",
-        "es",
         "id",
+        "it-IT",
+        "en-US",
         "pl",
+        "ru",
+        "de",
         "pt",
         "ar",
-        "de",
-        "fr"
+        "fr",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -336,31 +336,31 @@
       "rating": 8.3,
       "audio_locales": [
         "hi",
-        "ta",
-        "te",
-        "ar",
-        "es",
-        "ja-JP",
-        "en-US",
-        "fr",
-        "id",
         "it-IT",
         "pt",
-        "de"
+        "de",
+        "en-US",
+        "ta",
+        "ja-JP",
+        "ar",
+        "es",
+        "id",
+        "te",
+        "fr"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ar",
-        "en-US",
-        "id",
-        "de",
         "es",
-        "fr",
-        "ms",
+        "id",
+        "it-IT",
+        "de",
         "ru",
         "th",
+        "en-US",
+        "fr",
         "hi",
+        "ms",
+        "pt",
         "vi"
       ],
       "languages_assumed": false,
@@ -448,24 +448,24 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "th",
+        "en-US",
         "es",
-        "de",
-        "fr",
         "hi",
-        "it-IT",
+        "de",
         "ja-JP",
         "pt",
         "ta",
-        "en-US",
-        "te"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
-        "pt"
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -491,8 +491,8 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -501,54 +501,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.154,
-      "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "ru",
-        "zh",
-        "ar",
-        "id",
-        "pl",
-        "fr",
-        "pt",
-        "th",
-        "es",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts12311",
@@ -611,6 +563,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.154,
+      "audio_locales": [
+        "th",
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te"
+      ],
+      "subtitle_locales": [
+        "de",
+        "es",
+        "fr",
+        "it-IT",
+        "pl",
+        "pt",
+        "th",
+        "ar",
+        "en-US",
+        "id",
+        "ru",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts41160",
@@ -777,8 +777,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -847,36 +847,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
       "maturity_rating": "14+",
       "episode_count": 74
-    },
-    {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.455,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
     },
     {
       "ag_id": "ts74597",
@@ -993,6 +963,33 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -1011,8 +1008,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1050,6 +1047,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.455,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
     },
     {
       "ag_id": "ts369770",
@@ -1271,13 +1298,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1332,26 +1359,26 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "it-IT",
         "ja-JP",
         "pt",
         "en-US",
-        "es",
-        "it-IT"
+        "es"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "th",
         "de",
+        "pt",
+        "vi",
         "en-US",
         "es",
-        "zh",
-        "fr",
-        "ru",
-        "vi",
-        "ms",
-        "pt",
-        "th",
-        "ar",
         "id",
-        "it-IT"
+        "ms",
+        "ru",
+        "ar",
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1406,8 +1433,8 @@
       ],
       "rating": 8.408,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1645,64 +1672,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.86,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1818,6 +1787,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.86,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
+    },
+    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -1874,18 +1872,18 @@
         "pt"
       ],
       "subtitle_locales": [
-        "ru",
-        "ms",
-        "th",
-        "vi",
-        "ar",
         "en-US",
-        "fr",
-        "id",
         "it-IT",
+        "pt",
+        "th",
         "de",
         "es",
-        "pt"
+        "ms",
+        "ru",
+        "fr",
+        "id",
+        "vi",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2010,33 +2008,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
     },
     {
       "ag_id": "ts47224",
@@ -2351,8 +2322,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2562,8 +2533,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2650,8 +2621,8 @@
       ],
       "rating": 8.008,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2824,23 +2795,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "id",
-        "ja-JP",
         "ru",
         "th",
         "de",
-        "en-US"
+        "en-US",
+        "id",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
-        "ar",
-        "de",
-        "en-US",
         "es",
         "fr",
+        "ar",
+        "it-IT",
+        "pt",
         "vi",
-        "ru"
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2898,8 +2869,8 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3315,6 +3286,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.198,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
+    },
+    {
       "ag_id": "ts37954",
       "title": "Lovely Sara",
       "year": 1985,
@@ -3342,34 +3341,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
       "maturity_rating": "14+",
       "episode_count": 46
-    },
-    {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.198,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
     },
     {
       "ag_id": "ts518",
@@ -3479,6 +3450,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
       "maturity_rating": "7+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "ts341771",
@@ -3806,36 +3806,6 @@
       "episode_count": 4
     },
     {
-      "ag_id": "ts56436",
-      "title": "I predatori del tempo",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68608,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
-      "maturity_rating": "T",
-      "episode_count": 53
-    },
-    {
       "ag_id": "ts441134",
       "title": "Tutto solo alla conquista di un altro mondo",
       "year": 2024,
@@ -3920,6 +3890,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts56436",
+      "title": "I predatori del tempo",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68608,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
+      "maturity_rating": "T",
+      "episode_count": 53
     },
     {
       "ag_id": "tm65451",
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
         "ar",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -5302,8 +5302,8 @@
       ],
       "rating": 7.379,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6057,8 +6057,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6257,7 +6257,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 4.8,
+      "rating": 4.786,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6712,8 +6712,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7882,6 +7882,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm103515",
+      "title": "Lupin III - Trappola mortale",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31050,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm55292",
       "title": "Capricciosa Orange Road: Il film - Vorrei tornare a quel giorno",
       "year": 1988,
@@ -8237,37 +8268,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm103515",
-      "title": "Lupin III - Trappola mortale",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31050,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
       "maturity_rating": "12+",
       "episode_count": 1
     },
