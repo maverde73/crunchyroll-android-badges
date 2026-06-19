@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-19T04:12:31Z",
+  "generated_at": "2026-06-19T10:25:00Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -50,7 +50,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 8.01,
       "audio_locales": [
         "it-IT"
       ],
@@ -137,8 +137,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -147,35 +147,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.869,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts14127",
@@ -206,6 +177,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.869,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts22809",
@@ -258,26 +258,26 @@
       "rating": 8.535,
       "audio_locales": [
         "de",
+        "en-US",
         "es",
         "hi",
-        "pt",
+        "ta",
         "te",
-        "en-US",
+        "ja-JP",
         "fr",
         "it-IT",
-        "ja-JP",
-        "ta"
+        "pt"
       ],
       "subtitle_locales": [
-        "id",
+        "en-US",
         "it-IT",
-        "pl",
         "ru",
-        "de",
         "es",
+        "id",
+        "pl",
         "pt",
         "ar",
-        "en-US",
+        "de",
         "fr"
       ],
       "languages_assumed": false,
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "pt",
+        "hi",
         "ta",
         "te",
-        "de",
+        "ar",
+        "es",
+        "ja-JP",
         "en-US",
         "fr",
         "id",
         "it-IT",
-        "ja-JP",
-        "es",
-        "ar",
-        "hi"
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
-        "vi",
-        "fr",
-        "ms",
+        "it-IT",
         "pt",
-        "ru",
-        "th",
-        "de",
-        "es",
-        "hi",
-        "id",
         "ar",
         "en-US",
-        "it-IT"
+        "id",
+        "de",
+        "es",
+        "fr",
+        "ms",
+        "ru",
+        "th",
+        "hi",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -448,17 +448,17 @@
       ],
       "rating": 8.392,
       "audio_locales": [
-        "pt",
-        "ta",
-        "te",
         "th",
-        "de",
-        "en-US",
         "es",
+        "de",
         "fr",
         "hi",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt",
+        "ta",
+        "en-US",
+        "te"
       ],
       "subtitle_locales": [
         "en-US",
@@ -522,27 +522,27 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "ru",
+        "zh",
         "ar",
         "id",
         "pl",
-        "th",
         "fr",
-        "ru",
-        "zh",
-        "de",
-        "es",
         "pt",
-        "en-US",
+        "th",
+        "es",
         "it-IT"
       ],
       "languages_assumed": false,
@@ -687,7 +687,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.453,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -718,8 +718,8 @@
       ],
       "rating": 8.471,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -849,6 +849,36 @@
       "episode_count": 74
     },
     {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.455,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
       "ag_id": "ts74597",
       "title": "Ken il guerriero: Le origini del mito",
       "year": 2006,
@@ -875,6 +905,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
       "maturity_rating": "18+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts20686",
@@ -992,36 +1050,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.455,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
     },
     {
       "ag_id": "ts369770",
@@ -1239,17 +1267,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1304,24 +1332,25 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "ja-JP",
         "pt",
         "en-US",
         "es",
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "zh",
+        "fr",
         "ru",
         "vi",
-        "id",
-        "en-US",
-        "pt",
-        "ar",
-        "es",
         "ms",
+        "pt",
         "th",
-        "de",
-        "fr",
+        "ar",
+        "id",
         "it-IT"
       ],
       "languages_assumed": false,
@@ -1357,34 +1386,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
       "maturity_rating": "16+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts22249",
@@ -1494,8 +1495,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1644,6 +1645,35 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
+    },
+    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1671,34 +1701,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
       "episode_count": 65
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts21278",
@@ -1863,27 +1865,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
-        "pt",
-        "de"
+        "pt"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "es",
-        "it-IT",
+        "ru",
         "ms",
-        "pt",
+        "th",
         "vi",
+        "ar",
         "en-US",
         "fr",
         "id",
-        "ru",
-        "th"
+        "it-IT",
+        "de",
+        "es",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2349,8 +2351,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2413,13 +2415,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2822,23 +2824,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "en-US",
         "id",
         "ja-JP",
         "ru",
         "th",
-        "de"
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "pt",
-        "vi",
-        "es",
         "it-IT",
+        "pt",
         "ar",
-        "en-US",
-        "ru",
         "de",
-        "fr"
+        "en-US",
+        "es",
+        "fr",
+        "vi",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2894,7 +2896,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.878,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3479,35 +3481,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3821,8 +3794,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3831,35 +3804,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
-    },
-    {
-      "ag_id": "ts36530",
-      "title": "Mazinger Edition Z: The Impact!",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36249,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.222,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "16+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts56436",
@@ -3919,6 +3863,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts36530",
+      "title": "Mazinger Edition Z: The Impact!",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36249,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.222,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
+      "maturity_rating": "16+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts88978",
@@ -4169,17 +4142,45 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
         "pt",
         "ar",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts345978",
@@ -4440,6 +4441,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts400911",
+      "title": "Protocol: Rain",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 230288,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.273,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm220268",
       "title": "L'impero dei cadaveri",
       "year": 2015,
@@ -4468,35 +4498,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6b9977e-cec2-4ef1-4a40-828c0f4ae1c4",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts400911",
-      "title": "Protocol: Rain",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 230288,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.273,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts310025",
@@ -4828,8 +4829,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5800,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "ru",
         "de",
         "en-US",
         "es",
         "it-IT",
-        "pt",
-        "ru"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6056,8 +6057,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6468,8 +6469,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6679,8 +6680,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7034,8 +7035,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7212,8 +7213,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7660,8 +7661,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
