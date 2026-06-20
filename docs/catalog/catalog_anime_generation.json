@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-20T08:54:33Z",
+  "generated_at": "2026-06-20T14:01:07Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.363,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -107,7 +107,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.306,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -166,7 +166,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.0,
+      "rating": 8.031,
       "audio_locales": [
         "ja-JP"
       ],
@@ -238,6 +238,54 @@
       "episode_count": 114
     },
     {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.535,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "fr",
+        "hi",
+        "pt",
+        "es",
+        "it-IT",
+        "ja-JP",
+        "ta",
+        "te"
+      ],
+      "subtitle_locales": [
+        "ru",
+        "es",
+        "id",
+        "it-IT",
+        "pt",
+        "pl",
+        "de",
+        "ar",
+        "en-US",
+        "fr"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
+      "maturity_rating": "12+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -268,54 +316,6 @@
       "episode_count": 85
     },
     {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240411,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.535,
-      "audio_locales": [
-        "ta",
-        "pt",
-        "te",
-        "de",
-        "fr",
-        "hi",
-        "it-IT",
-        "ja-JP",
-        "es",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "id",
-        "it-IT",
-        "pt",
-        "ru",
-        "pl",
-        "ar",
-        "es",
-        "fr"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
-      "maturity_rating": "12+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts89550",
       "title": "Fire Force",
       "year": 2019,
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "es",
+        "id",
+        "pt",
+        "ar",
         "hi",
         "ja-JP",
-        "ta",
-        "en-US",
-        "fr",
         "te",
-        "ar",
-        "id",
+        "es",
         "it-IT",
-        "pt",
-        "de"
-      ],
-      "subtitle_locales": [
+        "ta",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "hi",
-        "pt",
+        "fr"
+      ],
+      "subtitle_locales": [
         "th",
-        "ar",
-        "id",
+        "en-US",
         "it-IT",
-        "ms",
         "ru",
-        "vi"
+        "ar",
+        "es",
+        "id",
+        "ms",
+        "vi",
+        "de",
+        "fr",
+        "pt",
+        "hi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -417,24 +417,24 @@
       ],
       "rating": 8.393,
       "audio_locales": [
-        "pt",
-        "fr",
-        "th",
-        "hi",
-        "ta",
         "en-US",
-        "it-IT",
-        "te",
-        "de",
         "es",
-        "ja-JP"
+        "ja-JP",
+        "de",
+        "fr",
+        "hi",
+        "it-IT",
+        "ta",
+        "te",
+        "pt",
+        "th"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "fr",
         "it-IT",
-        "pt",
-        "en-US",
-        "es"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -584,28 +584,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "pt",
+        "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP",
-        "pt",
-        "ta"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
+        "pt",
+        "th",
+        "en-US",
+        "fr",
+        "id",
+        "de",
         "it-IT",
+        "ru",
+        "es",
         "zh",
         "ar",
-        "id",
-        "pl",
-        "de",
-        "fr",
-        "pt",
-        "ru",
-        "th",
-        "en-US"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -806,8 +806,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -837,8 +837,8 @@
       ],
       "rating": 7.304,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1039,8 +1039,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1049,34 +1049,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "ts28081",
@@ -1106,6 +1078,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+",
       "episode_count": 61
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "tm1542133",
@@ -1266,17 +1266,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,26 +1331,26 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "es",
-        "ms",
-        "it-IT",
-        "vi",
-        "ar",
-        "de",
         "fr",
-        "ru",
-        "zh",
-        "en-US",
+        "it-IT",
+        "ms",
+        "th",
+        "de",
         "id",
         "pt",
-        "th"
+        "ru",
+        "vi",
+        "zh",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1431,10 +1431,10 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.411,
+      "rating": 8.414,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1863,27 +1863,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "pt",
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
-        "vi",
         "de",
-        "it-IT",
-        "pt",
-        "ms",
-        "ru",
+        "fr",
         "th",
+        "es",
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
         "ar",
         "en-US",
-        "es",
         "id",
-        "fr"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2410,19 +2410,19 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.732,
+      "rating": 7.7,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pl",
-        "pt"
+        "pt",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2621,8 +2621,8 @@
       ],
       "rating": 8.008,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2803,15 +2803,15 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "es",
-        "vi",
+        "pt",
         "ar",
+        "en-US",
+        "ru",
+        "vi",
+        "es",
         "de",
         "it-IT",
-        "fr",
-        "pt",
-        "ru",
-        "en-US"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2897,8 +2897,8 @@
       ],
       "rating": 7.889,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3074,8 +3074,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "de"
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3860,7 +3860,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "16+",
+      "maturity_rating": "14+",
       "episode_count": 26
     },
     {
@@ -5532,8 +5532,8 @@
       ],
       "rating": 7.415,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6057,8 +6057,8 @@
       ],
       "rating": 7.323,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6974,8 +6974,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
