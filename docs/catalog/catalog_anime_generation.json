@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-20T03:34:53Z",
+  "generated_at": "2026-06-20T08:54:33Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -287,28 +287,28 @@
       ],
       "rating": 8.535,
       "audio_locales": [
+        "ta",
+        "pt",
+        "te",
+        "de",
         "fr",
+        "hi",
+        "it-IT",
         "ja-JP",
         "es",
-        "hi",
-        "pt",
-        "ta",
-        "te",
-        "it-IT",
-        "en-US",
-        "de"
+        "en-US"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "pl",
-        "pt",
-        "ru",
+        "de",
         "en-US",
         "id",
         "it-IT",
+        "pt",
+        "ru",
+        "pl",
         "ar",
-        "de"
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "ja-JP",
-        "ar",
-        "pt",
-        "ta",
-        "te",
-        "en-US",
         "es",
         "hi",
-        "de",
+        "ja-JP",
+        "ta",
+        "en-US",
         "fr",
+        "te",
+        "ar",
         "id",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
         "fr",
         "hi",
-        "vi",
-        "de",
+        "pt",
+        "th",
+        "ar",
         "id",
         "it-IT",
         "ms",
-        "pt",
         "ru",
-        "th",
-        "ar",
-        "es",
-        "en-US"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -415,26 +415,26 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.392,
+      "rating": 8.393,
       "audio_locales": [
+        "pt",
+        "fr",
+        "th",
+        "hi",
         "ta",
         "en-US",
         "it-IT",
-        "de",
-        "fr",
         "te",
-        "hi",
-        "th",
+        "de",
         "es",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
         "fr",
         "it-IT",
         "pt",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -491,8 +491,8 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -553,8 +553,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -584,28 +584,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
         "ja-JP",
-        "pt"
+        "pt",
+        "ta"
       ],
       "subtitle_locales": [
+        "es",
         "it-IT",
-        "pt",
-        "de",
         "zh",
+        "ar",
         "id",
         "pl",
-        "en-US",
-        "es",
+        "de",
+        "fr",
+        "pt",
         "ru",
         "th",
-        "ar",
-        "fr"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -758,6 +758,35 @@
       "episode_count": 35
     },
     {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -787,35 +816,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts35578",
@@ -1039,8 +1039,8 @@
       ],
       "rating": 8.455,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1266,17 +1266,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,59 +1331,31 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "en-US",
         "es",
         "it-IT",
         "ja-JP",
-        "pt",
-        "en-US"
+        "pt"
       ],
       "subtitle_locales": [
-        "de",
-        "fr",
-        "id",
-        "it-IT",
-        "pt",
-        "en-US",
         "es",
         "ms",
-        "ru",
-        "th",
+        "it-IT",
         "vi",
+        "ar",
+        "de",
+        "fr",
+        "ru",
         "zh",
-        "ar"
+        "en-US",
+        "id",
+        "pt",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "tm19944",
@@ -1415,6 +1387,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1431,10 +1431,10 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.408,
+      "rating": 8.411,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1863,27 +1863,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "fr",
-        "it-IT",
-        "ja-JP",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "vi",
+        "de",
+        "it-IT",
+        "pt",
         "ms",
         "ru",
-        "vi",
+        "th",
         "ar",
         "en-US",
         "es",
-        "pt",
-        "de",
         "id",
-        "fr",
-        "th",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2290,7 +2290,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.47,
+      "rating": 7.471,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2410,19 +2410,19 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.704,
+      "rating": 7.732,
       "audio_locales": [
         "en-US",
         "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pl",
-        "pt",
-        "de",
-        "en-US",
-        "es"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2533,8 +2533,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2795,23 +2795,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "th",
-        "de",
-        "en-US",
         "id",
         "ja-JP",
-        "ru"
+        "ru",
+        "th",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
         "es",
-        "it-IT",
-        "pt",
         "vi",
+        "ar",
+        "de",
+        "it-IT",
         "fr",
+        "pt",
         "ru",
-        "ar"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2850,37 +2850,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.889,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts403298",
       "title": "Blue Miburo - I giovani lupi di Mibu",
       "year": 2024,
@@ -2907,6 +2876,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
+    },
+    {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.889,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts13335",
@@ -3074,8 +3074,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3424,34 +3424,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts406072",
       "title": "Kinnikuman Perfect Origin Arc",
       "year": 2024,
@@ -3479,6 +3451,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
       "maturity_rating": "18+",
       "episode_count": 22
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts341771",
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pt",
         "ar",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4900,34 +4900,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21877",
-      "title": "Love Making - I principi dell'amore - la serie",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61930,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
-      "genres": [
-        "Commedia",
-        "Animazione"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
-      "maturity_rating": "T",
-      "episode_count": 36
-    },
-    {
       "ag_id": "tm159084",
       "title": "Lupin III vs Detective Conan",
       "year": 2009,
@@ -4989,22 +4961,22 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts417105",
-      "title": "Tonbo!",
-      "year": 2024,
+      "ag_id": "ts21877",
+      "title": "Love Making - I principi dell'amore - la serie",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 243140,
+        "tmdb_id": 61930,
         "tmdb_type": "tv"
       },
-      "description_it": "A causa di un certo \"incidente\", un golfista professionista ha deciso di ritirarsi dalle competizioni sportive per nascondersi su un'isola sperduta dove incontra un prodigio del golf, una giovane ragazza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ccgVEIf4TPmwJTdeTgO0mVqnUbh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ePma3sQVolgMcojxBrhkGgN9u4D.jpg",
+      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
       "genres": [
-        "Animazione",
-        "Dramma"
+        "Commedia",
+        "Animazione"
       ],
-      "rating": 6.8,
+      "rating": 6.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5012,9 +4984,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9692bb83-8006-4610-85ce-82acb25905a6",
-      "maturity_rating": "16+",
-      "episode_count": 26
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
+      "maturity_rating": "T",
+      "episode_count": 36
     },
     {
       "ag_id": "tm132639",
@@ -5074,6 +5046,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts417105",
+      "title": "Tonbo!",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 243140,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un certo \"incidente\", un golfista professionista ha deciso di ritirarsi dalle competizioni sportive per nascondersi su un'isola sperduta dove incontra un prodigio del golf, una giovane ragazza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ccgVEIf4TPmwJTdeTgO0mVqnUbh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ePma3sQVolgMcojxBrhkGgN9u4D.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9692bb83-8006-4610-85ce-82acb25905a6",
+      "maturity_rating": "16+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts53271",
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6057,8 +6057,8 @@
       ],
       "rating": 7.323,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6469,8 +6469,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7486,8 +7486,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7882,37 +7882,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm103515",
-      "title": "Lupin III - Trappola mortale",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31050,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm55292",
       "title": "Capricciosa Orange Road: Il film - Vorrei tornare a quel giorno",
       "year": 1988,
@@ -8049,8 +8018,8 @@
       ],
       "rating": 6.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8118,6 +8087,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f58cc067-715b-4eb7-b8c9-2e3f06a69840",
       "maturity_rating": "T",
       "episode_count": 26
+    },
+    {
+      "ag_id": "tm103515",
+      "title": "Lupin III - Trappola mortale",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31050,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm88628",
