@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-21T09:48:30Z",
+  "generated_at": "2026-06-21T14:08:54Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -137,7 +137,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.031,
+      "rating": 8.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -165,7 +165,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.25,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -177,35 +177,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cc8e509-c1c3-4bf5-88f0-d225d4c063d4",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.869,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts22809",
@@ -238,54 +209,6 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240411,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.535,
-      "audio_locales": [
-        "es",
-        "hi",
-        "it-IT",
-        "ta",
-        "te",
-        "de",
-        "en-US",
-        "fr",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
-        "en-US",
-        "es",
-        "id",
-        "it-IT",
-        "ar",
-        "fr",
-        "pl"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
-      "maturity_rating": "12+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -316,6 +239,83 @@
       "episode_count": 85
     },
     {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.535,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "en-US",
+        "ta",
+        "es",
+        "fr",
+        "hi",
+        "te",
+        "de"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "fr",
+        "it-IT",
+        "pl",
+        "es",
+        "pt",
+        "ru",
+        "id"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
+      "maturity_rating": "12+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.869,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts89550",
       "title": "Fire Force",
       "year": 2019,
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "hi",
-        "te",
-        "ar",
         "en-US",
-        "fr",
+        "es",
+        "pt",
+        "ar",
         "it-IT",
         "ja-JP",
-        "de",
+        "te",
+        "hi",
         "id",
-        "pt",
         "ta",
-        "es"
+        "de",
+        "fr"
       ],
       "subtitle_locales": [
-        "ar",
         "en-US",
-        "fr",
-        "hi",
-        "pt",
-        "id",
-        "ru",
-        "vi",
         "es",
-        "it-IT",
+        "hi",
+        "ms",
         "th",
+        "it-IT",
+        "ru",
         "de",
-        "ms"
+        "fr",
+        "id",
+        "pt",
+        "vi",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -448,24 +448,24 @@
       ],
       "rating": 8.393,
       "audio_locales": [
-        "pt",
+        "hi",
+        "ja-JP",
         "ta",
         "te",
-        "de",
-        "fr",
-        "hi",
-        "it-IT",
         "th",
         "en-US",
         "es",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
+        "de",
         "it-IT",
         "pt",
+        "fr"
+      ],
+      "subtitle_locales": [
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -614,28 +614,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
         "ta",
         "te",
         "th",
-        "en-US"
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "zh",
-        "ru",
-        "th",
+        "fr",
         "id",
+        "zh",
+        "pl",
+        "de",
+        "en-US",
+        "es",
         "it-IT",
         "pt",
-        "ar",
-        "de",
-        "fr",
-        "pl",
-        "en-US",
-        "es"
+        "ru",
+        "th",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -1266,17 +1266,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
         "ru",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,26 +1331,26 @@
       ],
       "rating": 7.882,
       "audio_locales": [
-        "en-US",
         "es",
         "it-IT",
         "ja-JP",
-        "pt"
+        "pt",
+        "en-US"
       ],
       "subtitle_locales": [
-        "ms",
-        "es",
-        "fr",
-        "id",
-        "pt",
-        "ru",
         "th",
         "vi",
+        "id",
+        "it-IT",
+        "pt",
         "zh",
+        "fr",
+        "ms",
+        "ru",
+        "es",
         "ar",
         "de",
-        "en-US",
-        "it-IT"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1433,8 +1433,8 @@
       ],
       "rating": 8.414,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1551,8 +1551,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1892,27 +1892,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "subtitle_locales": [
-        "vi",
+        "de",
+        "pt",
         "es",
-        "ru",
-        "ar",
         "fr",
         "id",
         "it-IT",
+        "ru",
+        "vi",
+        "en-US",
         "ms",
-        "pt",
-        "de",
         "th",
-        "en-US"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2351,8 +2351,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2441,17 +2441,17 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl"
+        "pl",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2650,8 +2650,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2824,23 +2824,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "id",
-        "ja-JP",
-        "ru",
         "th",
         "de",
-        "en-US"
+        "en-US",
+        "id",
+        "ja-JP",
+        "ru"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "ru",
         "ar",
-        "fr",
         "it-IT",
+        "ru",
+        "vi",
+        "en-US",
         "pt",
-        "vi"
+        "de",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3686,35 +3686,6 @@
       "episode_count": 10
     },
     {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154098,
-        "tmdb_type": "tv"
-      },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.808,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3744,6 +3715,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.808,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts314452",
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.169,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5058,7 +5058,7 @@
       },
       "description_it": "A causa di un certo \"incidente\", un golfista professionista ha deciso di ritirarsi dalle competizioni sportive per nascondersi su un'isola sperduta dove incontra un prodigio del golf, una giovane ragazza.",
       "poster_tall": "https://image.tmdb.org/t/p/original/ccgVEIf4TPmwJTdeTgO0mVqnUbh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ePma3sQVolgMcojxBrhkGgN9u4D.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g0xuocr62hAYlwsoaqtyqBEVvhy.jpg",
       "genres": [
         "Animazione",
         "Dramma"
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6469,8 +6469,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6680,8 +6680,8 @@
       ],
       "rating": 7.431,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6712,8 +6712,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7332,8 +7332,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
