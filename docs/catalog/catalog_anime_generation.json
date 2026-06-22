@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T11:51:57Z",
+  "generated_at": "2026-06-22T16:54:52Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -63,35 +63,6 @@
       "episode_count": 1205
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.501,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -107,7 +78,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.1,
+      "rating": 8.136,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -179,6 +150,35 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.501,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -197,8 +197,8 @@
       ],
       "rating": 8.617,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -228,28 +228,28 @@
       ],
       "rating": 8.535,
       "audio_locales": [
-        "de",
-        "fr",
-        "pt",
+        "en-US",
         "hi",
         "ta",
         "te",
-        "en-US",
-        "it-IT",
+        "ja-JP",
+        "fr",
         "es",
-        "ja-JP"
+        "it-IT",
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "ru",
         "ar",
         "es",
-        "de",
-        "id",
         "pl",
+        "id",
+        "it-IT",
+        "de",
         "en-US",
         "fr",
-        "pt"
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -306,33 +306,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "fr",
-        "de",
-        "hi",
-        "te",
         "ar",
-        "en-US",
-        "es",
         "id",
-        "ja-JP",
+        "es",
+        "fr",
+        "pt",
+        "de",
         "ta",
+        "en-US",
+        "hi",
         "it-IT",
-        "pt"
+        "ja-JP",
+        "te"
       ],
       "subtitle_locales": [
-        "id",
-        "th",
-        "ms",
-        "pt",
-        "fr",
-        "it-IT",
+        "hi",
+        "ru",
         "vi",
         "ar",
-        "en-US",
-        "ru",
         "de",
+        "id",
+        "ms",
+        "pt",
         "es",
-        "hi"
+        "it-IT",
+        "fr",
+        "th",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -448,59 +448,29 @@
       ],
       "rating": 8.393,
       "audio_locales": [
+        "de",
+        "es",
+        "te",
         "th",
+        "it-IT",
+        "ta",
+        "ja-JP",
+        "en-US",
+        "fr",
+        "hi",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "pt",
         "en-US",
         "es",
         "fr",
-        "ja-JP",
-        "pt",
-        "hi",
-        "te",
-        "de",
-        "ta",
         "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT",
-        "pt",
-        "en-US",
-        "es",
-        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
-      "maturity_rating": "14+",
-      "episode_count": 218
     },
     {
       "ag_id": "ts317669",
@@ -521,8 +491,8 @@
       ],
       "rating": 7.68,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -595,6 +565,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "maturity_rating": "14+",
+      "episode_count": 218
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -624,18 +624,18 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "fr",
-        "de",
-        "ru",
-        "th",
-        "es",
-        "id",
+        "en-US",
         "it-IT",
         "pl",
-        "pt",
+        "th",
         "zh",
+        "es",
+        "fr",
+        "de",
+        "id",
+        "pt",
         "ar",
-        "en-US"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -804,7 +804,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.029,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -980,8 +980,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1068,8 +1068,8 @@
       ],
       "rating": 8.456,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1266,17 +1266,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1338,19 +1338,19 @@
         "es"
       ],
       "subtitle_locales": [
-        "pt",
         "ru",
-        "en-US",
+        "vi",
+        "id",
+        "pt",
         "zh",
         "ar",
-        "fr",
-        "it-IT",
-        "th",
-        "vi",
-        "de",
+        "en-US",
         "es",
-        "id",
-        "ms"
+        "fr",
+        "ms",
+        "th",
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1503,35 +1503,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.165,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1551,8 +1522,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1701,6 +1672,35 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.165,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
+    },
+    {
       "ag_id": "ts52317",
       "title": "Un oceano di avventure",
       "year": 1994,
@@ -1787,34 +1787,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts469760",
-      "title": "Fermat Kitchen",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 283704,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts24483",
       "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
       "year": 2009,
@@ -1873,6 +1845,34 @@
       "episode_count": 65
     },
     {
+      "ag_id": "ts469760",
+      "title": "Fermat Kitchen",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283704,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -1920,26 +1920,26 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
         "ja-JP",
         "pt",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "de",
-        "es",
-        "id",
-        "pt",
-        "ru",
+        "en-US",
         "th",
         "ar",
+        "ru",
+        "de",
+        "fr",
+        "id",
+        "pt",
+        "es",
         "it-IT",
         "ms",
-        "en-US",
-        "fr",
         "vi"
       ],
       "languages_assumed": false,
@@ -2473,13 +2473,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "es",
+        "fr",
+        "it-IT",
         "pl",
         "pt",
         "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2852,23 +2852,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
-        "en-US",
-        "id",
-        "ja-JP",
         "ru",
         "th",
-        "de"
+        "de",
+        "en-US",
+        "id",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
+        "es",
+        "vi",
         "en-US",
         "fr",
-        "ru",
-        "de",
-        "es",
         "it-IT",
         "pt",
-        "vi"
+        "ru",
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2895,8 +2895,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3023,35 +3023,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 89323,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 9.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T",
-      "episode_count": 60
-    },
-    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3080,6 +3051,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 9.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts331408",
@@ -3452,34 +3452,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm451542",
       "title": "Lupin III - Addio, amico mio",
       "year": 2019,
@@ -3510,6 +3482,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts341771",
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "ar",
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "ar",
-        "en-US"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4716,7 +4716,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e41bfbb-84c8-4c64-883c-86fcd1766386",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a998437d-aa08-4fdb-b6a3-9baa7169fff3",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -5105,35 +5105,6 @@
       "episode_count": 7
     },
     {
-      "ag_id": "ts417931",
-      "title": "Whisper Me a Love Song",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 218291,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xWStcaXFVsu7iyJovp6spxZplWG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zrqnyKPzKhGHRw9GB6F6zL9R1v5.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 5.933,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm222860",
       "title": "Harmony",
       "year": 2015,
@@ -5217,6 +5188,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
       "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts417931",
+      "title": "Whisper Me a Love Song",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 218291,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xWStcaXFVsu7iyJovp6spxZplWG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zrqnyKPzKhGHRw9GB6F6zL9R1v5.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 5.933,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
+      "maturity_rating": "T",
       "episode_count": 12
     },
     {
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
         "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6500,8 +6500,8 @@
       ],
       "rating": 7.495,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6974,8 +6974,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7395,8 +7395,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
