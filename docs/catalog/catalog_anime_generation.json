@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-22T04:07:13Z",
+  "generated_at": "2026-06-22T11:51:57Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -63,6 +63,35 @@
       "episode_count": 1205
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.501,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -80,8 +109,8 @@
       ],
       "rating": 8.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -107,7 +136,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -148,35 +177,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.499,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts20112",
@@ -229,26 +229,26 @@
       "rating": 8.535,
       "audio_locales": [
         "de",
-        "en-US",
-        "ja-JP",
+        "fr",
+        "pt",
+        "hi",
         "ta",
+        "te",
+        "en-US",
         "it-IT",
         "es",
-        "fr",
-        "hi",
-        "pt",
-        "te"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
+        "it-IT",
         "ru",
+        "ar",
+        "es",
+        "de",
+        "id",
+        "pl",
         "en-US",
         "fr",
-        "id",
-        "es",
-        "it-IT",
-        "pl",
-        "de",
         "pt"
       ],
       "languages_assumed": false,
@@ -306,33 +306,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "en-US",
-        "it-IT",
-        "ja-JP",
         "fr",
-        "ta",
-        "es",
+        "de",
         "hi",
-        "id",
-        "pt",
         "te",
         "ar",
-        "de"
+        "en-US",
+        "es",
+        "id",
+        "ja-JP",
+        "ta",
+        "it-IT",
+        "pt"
       ],
       "subtitle_locales": [
-        "de",
-        "es",
-        "fr",
-        "hi",
-        "it-IT",
+        "id",
+        "th",
         "ms",
+        "pt",
+        "fr",
+        "it-IT",
+        "vi",
         "ar",
         "en-US",
-        "vi",
-        "pt",
         "ru",
-        "id",
-        "th"
+        "de",
+        "es",
+        "hi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -448,24 +448,24 @@
       ],
       "rating": 8.393,
       "audio_locales": [
-        "fr",
-        "it-IT",
-        "es",
-        "ja-JP",
-        "te",
-        "ta",
-        "de",
-        "hi",
-        "pt",
         "th",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "pt",
         "en-US",
         "es",
         "fr",
+        "ja-JP",
+        "pt",
+        "hi",
+        "te",
+        "de",
+        "ta",
         "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -614,28 +614,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "subtitle_locales": [
-        "en-US",
-        "id",
-        "ru",
-        "ar",
         "fr",
+        "de",
+        "ru",
+        "th",
+        "es",
+        "id",
+        "it-IT",
         "pl",
         "pt",
-        "th",
         "zh",
-        "de",
-        "es",
-        "it-IT"
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -746,8 +746,8 @@
       ],
       "rating": 8.471,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -980,8 +980,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1021,6 +1021,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts28081",
+      "title": "Un fiocco per sognare, un fiocco per cambiare",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43230,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
+      "maturity_rating": "16+",
+      "episode_count": 61
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -1049,35 +1078,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts28081",
-      "title": "Un fiocco per sognare, un fiocco per cambiare",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43230,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+",
-      "episode_count": 61
     },
     {
       "ag_id": "tm1542133",
@@ -1266,8 +1266,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "de",
@@ -1331,26 +1331,26 @@
       ],
       "rating": 7.882,
       "audio_locales": [
-        "es",
         "it-IT",
         "ja-JP",
         "pt",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
-        "en-US",
-        "id",
-        "de",
-        "ms",
-        "ru",
-        "es",
         "pt",
-        "vi",
+        "ru",
+        "en-US",
+        "zh",
+        "ar",
         "fr",
         "it-IT",
         "th",
-        "zh",
-        "ar"
+        "vi",
+        "de",
+        "es",
+        "id",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1433,8 +1433,8 @@
       ],
       "rating": 8.414,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1469,7 +1469,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1774,7 +1774,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.333,
+      "rating": 6.143,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1785,6 +1785,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
       "maturity_rating": "18+",
       "episode_count": 11
+    },
+    {
+      "ag_id": "ts469760",
+      "title": "Fermat Kitchen",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283704,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts24483",
@@ -1814,34 +1842,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts469760",
-      "title": "Fermat Kitchen",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 283704,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts18944",
@@ -1920,27 +1920,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "en-US",
+        "es",
+        "fr",
         "it-IT",
         "ja-JP",
         "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr"
+        "de"
       ],
       "subtitle_locales": [
-        "ar",
+        "de",
         "es",
-        "fr",
         "id",
         "pt",
         "ru",
         "th",
-        "de",
-        "vi",
-        "en-US",
+        "ar",
         "it-IT",
-        "ms"
+        "ms",
+        "en-US",
+        "fr",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2347,10 +2347,10 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.471,
+      "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2473,13 +2473,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pl",
+        "pt",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pl",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2678,8 +2678,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2852,23 +2852,23 @@
       ],
       "rating": 7.408,
       "audio_locales": [
+        "en-US",
         "id",
         "ja-JP",
         "ru",
         "th",
-        "de",
-        "en-US"
+        "de"
       ],
       "subtitle_locales": [
-        "pt",
-        "it-IT",
         "ar",
         "en-US",
         "fr",
         "ru",
         "de",
-        "vi",
-        "es"
+        "es",
+        "it-IT",
+        "pt",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3169,6 +3169,33 @@
       "episode_count": 50
     },
     {
+      "ag_id": "tm130037",
+      "title": "Holly & Benji: La Grande Sfida Europea",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 171899,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts463053",
       "title": "Your Forma",
       "year": 2025,
@@ -3196,33 +3223,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm130037",
-      "title": "Holly & Benji: La Grande Sfida Europea",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 171899,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "tm193065",
@@ -3541,35 +3541,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.274,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts418967",
       "title": "Haigakura",
       "year": 2024,
@@ -3654,6 +3625,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.274,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts394055",
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4655,7 +4655,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.362,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4701,13 +4701,13 @@
       },
       "description_it": "Il Ninja malvagio Mukade sta per essere catturato da Naruto e il suo team quando convoca il potere delle Linee Temporali – un antico canale sotterraneo del chakra. Naruto viene imprigionato dal chakra e rispedito indietro nel tempo nella città di Loran, conosciuta per le sue mille torri. Lì incontra il futuro Quarto Hokage, Minato Namikaze, in una missione top-secret e la Regina di Loran, Sara, il cui governo è minacciato da Mukade. Riuscirà Naruto a tornare nel suo tempo e può un incontro casuale nel passato salvare il futuro?",
       "poster_tall": "https://image.tmdb.org/t/p/original/mtyIBwILaTGEqNAtogxXqA1QJlS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a4MrZ711OIObIhSGF8SqcZQTyZo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pfmmfFu2bLEwcbWuXNPainWPOkO.jpg",
       "genres": [
         "Avventura",
         "Azione",
         "Animazione"
       ],
-      "rating": 7.169,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5036,8 +5036,8 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5524,16 +5524,16 @@
       },
       "description_it": "Al team di Naruto viene affidata la protezione di Shion, una sacerdotessa del Paese dei Demoni la cui missione è quella di sigillare nuovamente un demone che nel passato aveva quasi distrutto il mondo e che per un motivo misterioso è riuscito a risorgere. Shion possiede due facoltà uniche nel suo genere: la prima è quella di poter sigillare il demone risorto, la seconda quella di poter predire la morte delle persone, un'abilità che non si è mai rivelata fallace. Per salvare il mondo dalla crisi, Naruto partirà insieme a Sakura, Neji e Lee per il Paese dei Demoni dove dovrà sfidare la sua stessa morte.Nel film ci saranno 4 ninja capaci di mutare le forme del loro corpo, ma il vero cattivo è un'altro , gli altri cattivi consistono in: un demone e un esercito di uomini che dalle immagini sembrerebbero non viventi, fatti di ceramica o di un altro materiale a noi per ora sconosciuto.",
       "poster_tall": "https://image.tmdb.org/t/p/original/jtxOtR71UF7xt9GSQ0y5FQtqCm0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p6Yh10E46lXpj45XvG9Mwc4HZNi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fJRbm6m2DDbSSyD8jTeB8evZ3Hq.jpg",
       "genres": [
         "Animazione",
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.415,
+      "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
         "ru",
         "de",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6049,13 +6049,13 @@
       },
       "description_it": "Naruto Shippuden: Il maestro e il discepolo è il quinto film basato sull'anime e manga di Masashi Kishimoto Naruto, ed è il secondo dedicato alla saga di Naruto Shippuden.  Il film è stato proiettato nelle sale cinematografiche il 2 agosto 2008. È stato annunciato dalla rivista Weekly Shonen Jump insieme alla data di uscita del primo film in DVD. Il primo teaser trailer del secondo lungometraggio è stato trasmesso da TV Tokyo durante la trasmissione degli episodi 40-41. In Italia il film è andato in onda su Italia 1 diviso in cinque episodi dal 20 giugno al 26 giugno 2013, mentre è stato distribuito nei cinema dalla Lucky Red solo il 20 luglio 2015 col titolo Naruto Shippuden il film: Il maestro e il discepolo.",
       "poster_tall": "https://image.tmdb.org/t/p/original/22g5G3fKrH0O4402BQWnbnfqU2j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xzIaIFXs14vr5BGoAQ2IJsQ60EB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cF5wvnqcPYwuBj5FRV6RfKhSUAg.jpg",
       "genres": [
         "Fantasy",
         "Animazione",
         "Azione"
       ],
-      "rating": 7.323,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6498,7 +6498,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.49,
+      "rating": 7.495,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6585,7 +6585,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.158,
+      "rating": 7.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6712,8 +6712,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6974,8 +6974,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7300,7 +7300,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.722,
+      "rating": 7.737,
       "audio_locales": [
         "it-IT"
       ],
@@ -7395,8 +7395,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7486,8 +7486,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7751,8 +7751,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
