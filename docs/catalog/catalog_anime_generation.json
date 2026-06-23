@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-23T03:28:37Z",
+  "generated_at": "2026-06-23T09:36:56Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -79,7 +79,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.499,
       "audio_locales": [
         "it-IT"
       ],
@@ -109,8 +109,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -225,7 +225,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.475,
       "audio_locales": [
         "it-IT"
       ],
@@ -254,7 +254,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.617,
+      "rating": 8.618,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -287,28 +287,28 @@
       ],
       "rating": 8.536,
       "audio_locales": [
-        "hi",
+        "es",
         "it-IT",
-        "ta",
         "ja-JP",
         "pt",
         "te",
-        "de",
         "en-US",
-        "es",
-        "fr"
+        "fr",
+        "hi",
+        "ta",
+        "de"
       ],
       "subtitle_locales": [
+        "ar",
+        "en-US",
+        "es",
+        "pl",
+        "pt",
         "de",
+        "fr",
         "id",
         "it-IT",
-        "pt",
-        "es",
-        "fr",
-        "pl",
-        "en-US",
-        "ru",
-        "ar"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -335,33 +335,33 @@
       ],
       "rating": 8.343,
       "audio_locales": [
+        "fr",
         "ja-JP",
+        "ta",
+        "ar",
+        "es",
+        "hi",
+        "id",
+        "it-IT",
+        "pt",
+        "te",
+        "de",
+        "en-US"
+      ],
+      "subtitle_locales": [
         "en-US",
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "ar",
-        "id",
-        "te",
-        "es",
-        "hi",
-        "ta",
-        "de"
-      ],
-      "subtitle_locales": [
         "vi",
         "de",
-        "it-IT",
-        "en-US",
-        "fr",
         "hi",
-        "ru",
         "id",
         "ms",
+        "ru",
         "th",
-        "ar",
-        "es",
-        "pt"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -448,17 +448,17 @@
       ],
       "rating": 8.393,
       "audio_locales": [
-        "th",
-        "es",
         "fr",
-        "de",
-        "it-IT",
         "ta",
-        "en-US",
         "hi",
+        "it-IT",
+        "th",
+        "de",
         "ja-JP",
         "pt",
-        "te"
+        "te",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
         "fr",
@@ -492,8 +492,8 @@
       ],
       "rating": 8.022,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -645,28 +645,28 @@
       ],
       "rating": 8.154,
       "audio_locales": [
+        "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
         "en-US",
         "es",
-        "hi",
-        "ja-JP"
+        "hi"
       ],
       "subtitle_locales": [
-        "th",
-        "pt",
-        "zh",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
         "pl",
-        "ru",
+        "th",
         "ar",
+        "de",
+        "en-US",
+        "pt",
+        "ru",
+        "fr",
+        "zh",
+        "es",
         "id",
-        "de"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -775,7 +775,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.471,
+      "rating": 8.46,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -837,8 +837,8 @@
       ],
       "rating": 7.303,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -962,35 +962,6 @@
       "episode_count": 109
     },
     {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -1019,6 +990,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts28081",
@@ -1090,8 +1090,8 @@
       ],
       "rating": 8.456,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1270,13 +1270,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
         "it-IT",
         "pt",
         "ru",
         "de",
-        "en-US"
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,26 +1331,26 @@
       ],
       "rating": 7.882,
       "audio_locales": [
+        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "en-US",
-        "id",
         "it-IT",
-        "ru",
-        "zh",
-        "es",
         "pt",
+        "ru",
         "th",
-        "vi",
+        "zh",
+        "de",
+        "es",
         "fr",
+        "id",
         "ms",
         "ar",
-        "de"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1373,7 +1373,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.5,
+      "rating": 8.464,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1433,8 +1433,8 @@
       ],
       "rating": 8.414,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1443,6 +1443,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts52963",
+      "title": "Wolf Girl & Black Prince",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68960,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.867,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts29400",
@@ -1922,27 +1950,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "ja-JP",
+        "pt",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "ja-JP",
-        "pt"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "ms",
-        "ar",
-        "es",
         "fr",
         "ru",
         "th",
-        "de",
+        "ms",
+        "pt",
         "en-US",
-        "vi",
+        "es",
         "id",
-        "pt"
+        "vi",
+        "de",
+        "it-IT",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2348,7 +2376,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.421,
+      "rating": 8.42,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2379,8 +2407,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2469,17 +2497,17 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
         "es",
         "fr",
         "it-IT",
         "pl",
-        "pt"
+        "pt",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2514,34 +2542,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts52963",
-      "title": "Wolf Girl & Black Prince",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68960,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.904,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T",
-      "episode_count": 12
     },
     {
       "ag_id": "ts16839",
@@ -2852,23 +2852,23 @@
       ],
       "rating": 7.374,
       "audio_locales": [
-        "th",
-        "de",
-        "en-US",
         "id",
         "ja-JP",
-        "ru"
+        "ru",
+        "th",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "pt",
-        "ru",
-        "en-US",
-        "vi",
         "it-IT",
+        "vi",
+        "pt",
+        "en-US",
+        "es",
+        "ru",
+        "de",
         "ar",
-        "de"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3672,7 +3672,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.233,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "ar",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "ar"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5514,36 +5514,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm80059",
-      "title": "Naruto Shippuden: Il film - L'esercito fantasma",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 20982,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Al team di Naruto viene affidata la protezione di Shion, una sacerdotessa del Paese dei Demoni la cui missione è quella di sigillare nuovamente un demone che nel passato aveva quasi distrutto il mondo e che per un motivo misterioso è riuscito a risorgere. Shion possiede due facoltà uniche nel suo genere: la prima è quella di poter sigillare il demone risorto, la seconda quella di poter predire la morte delle persone, un'abilità che non si è mai rivelata fallace. Per salvare il mondo dalla crisi, Naruto partirà insieme a Sakura, Neji e Lee per il Paese dei Demoni dove dovrà sfidare la sua stessa morte.Nel film ci saranno 4 ninja capaci di mutare le forme del loro corpo, ma il vero cattivo è un'altro , gli altri cattivi consistono in: un demone e un esercito di uomini che dalle immagini sembrerebbero non viventi, fatti di ceramica o di un altro materiale a noi per ora sconosciuto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jtxOtR71UF7xt9GSQ0y5FQtqCm0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fJRbm6m2DDbSSyD8jTeB8evZ3Hq.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a37a104a-406d-4494-8a11-dfb0e989dd51",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts29733",
       "title": "Mazinkaizer SKL",
       "year": 2011,
@@ -5601,6 +5571,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "tm80059",
+      "title": "Naruto Shippuden: Il film - L'esercito fantasma",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 20982,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Al team di Naruto viene affidata la protezione di Shion, una sacerdotessa del Paese dei Demoni la cui missione è quella di sigillare nuovamente un demone che nel passato aveva quasi distrutto il mondo e che per un motivo misterioso è riuscito a risorgere. Shion possiede due facoltà uniche nel suo genere: la prima è quella di poter sigillare il demone risorto, la seconda quella di poter predire la morte delle persone, un'abilità che non si è mai rivelata fallace. Per salvare il mondo dalla crisi, Naruto partirà insieme a Sakura, Neji e Lee per il Paese dei Demoni dove dovrà sfidare la sua stessa morte.Nel film ci saranno 4 ninja capaci di mutare le forme del loro corpo, ma il vero cattivo è un'altro , gli altri cattivi consistono in: un demone e un esercito di uomini che dalle immagini sembrerebbero non viventi, fatti di ceramica o di un altro materiale a noi per ora sconosciuto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jtxOtR71UF7xt9GSQ0y5FQtqCm0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fJRbm6m2DDbSSyD8jTeB8evZ3Hq.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a37a104a-406d-4494-8a11-dfb0e989dd51",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts18639",
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6500,8 +6500,8 @@
       ],
       "rating": 7.495,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6974,8 +6974,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7332,8 +7332,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7395,8 +7395,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7486,8 +7486,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
