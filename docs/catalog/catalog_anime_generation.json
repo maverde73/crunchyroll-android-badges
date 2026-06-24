@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T09:27:17Z",
+  "generated_at": "2026-06-24T14:27:12Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -258,28 +258,28 @@
       ],
       "rating": 8.537,
       "audio_locales": [
-        "de",
-        "en-US",
-        "fr",
         "ja-JP",
         "ta",
+        "de",
         "it-IT",
-        "pt",
         "te",
         "es",
+        "pt",
+        "en-US",
+        "fr",
         "hi"
       ],
       "subtitle_locales": [
-        "pl",
-        "ru",
-        "es",
         "id",
         "de",
-        "en-US",
-        "it-IT",
+        "es",
         "pt",
-        "ar",
-        "fr"
+        "ru",
+        "en-US",
+        "fr",
+        "it-IT",
+        "pl",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -306,32 +306,32 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "de",
         "id",
         "pt",
-        "hi",
+        "ar",
+        "de",
         "ja-JP",
-        "ta",
         "te",
         "en-US",
-        "es",
         "fr",
+        "hi",
         "it-IT",
-        "ar"
+        "ta",
+        "es"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "fr",
-        "id",
         "ms",
-        "ru",
-        "en-US",
-        "vi",
-        "ar",
-        "hi",
-        "pt",
         "th",
         "de",
+        "en-US",
+        "fr",
+        "hi",
+        "id",
+        "vi",
+        "it-IT",
+        "pt",
+        "ar",
+        "ru",
         "es"
       ],
       "languages_assumed": false,
@@ -417,24 +417,24 @@
       ],
       "rating": 8.393,
       "audio_locales": [
-        "hi",
-        "ja-JP",
+        "it-IT",
         "pt",
         "te",
-        "de",
+        "th",
         "en-US",
         "es",
+        "de",
         "fr",
+        "ja-JP",
         "ta",
-        "it-IT",
-        "th"
+        "hi"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pt",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -673,28 +673,28 @@
       ],
       "rating": 8.161,
       "audio_locales": [
-        "es",
-        "hi",
-        "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
-        "en-US"
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ar",
-        "de",
-        "fr",
+        "zh",
         "it-IT",
         "th",
+        "pl",
+        "ar",
+        "de",
         "en-US",
-        "id",
-        "ru",
-        "zh",
         "es",
-        "pl"
+        "ru",
+        "fr",
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -789,6 +789,36 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.458,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
       "ag_id": "ts320501",
       "title": "Mato Seihei no Slave",
       "year": 2024,
@@ -837,8 +867,8 @@
       ],
       "rating": 7.303,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1072,36 +1102,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.458,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts369770",
       "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
       "year": 2023,
@@ -1276,36 +1276,6 @@
       "episode_count": 104
     },
     {
-      "ag_id": "ts329737",
-      "title": "Helck",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 157571,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1329,13 +1299,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "pt",
         "ru",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1359,28 +1329,28 @@
         "Dramma",
         "Famiglia"
       ],
-      "rating": 7.882,
+      "rating": 7.9,
       "audio_locales": [
-        "es",
-        "it-IT",
         "ja-JP",
         "pt",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "ms",
-        "vi",
         "en-US",
         "es",
-        "it-IT",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "id",
+        "ru",
         "th",
+        "en-US",
+        "it-IT",
+        "vi",
         "zh",
         "ar",
-        "de",
         "pt",
-        "ru",
-        "id",
-        "fr"
+        "de",
+        "fr",
+        "ms",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1432,7 +1402,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.387,
+      "rating": 7.392,
       "audio_locales": [
         "it-IT"
       ],
@@ -1463,8 +1433,8 @@
       ],
       "rating": 8.414,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1922,27 +1892,27 @@
       ],
       "rating": 7.511,
       "audio_locales": [
-        "ja-JP",
-        "pt",
-        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
-        "ru",
-        "th",
+        "pt",
         "vi",
-        "ar",
-        "de",
-        "en-US",
         "fr",
         "id",
-        "it-IT",
+        "es",
         "ms",
-        "pt",
-        "es"
+        "ru",
+        "th",
+        "ar",
+        "it-IT",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2096,6 +2066,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts329737",
+      "title": "Helck",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 157571,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts394039",
@@ -2528,17 +2528,17 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
+        "fr",
         "it-IT",
         "pl",
         "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2852,23 +2852,23 @@
       ],
       "rating": 7.378,
       "audio_locales": [
+        "ja-JP",
         "ru",
         "th",
         "de",
         "en-US",
-        "id",
-        "ja-JP"
+        "id"
       ],
       "subtitle_locales": [
-        "vi",
-        "ar",
-        "es",
-        "fr",
         "it-IT",
+        "de",
         "en-US",
-        "pt",
+        "es",
         "ru",
-        "de"
+        "vi",
+        "fr",
+        "pt",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2983,8 +2983,8 @@
       ],
       "rating": 7.889,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3484,34 +3484,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3541,34 +3513,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts418967",
-      "title": "Haigakura",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 244592,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3596,6 +3540,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm136088",
@@ -3654,6 +3626,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts418967",
+      "title": "Haigakura",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 244592,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts394055",
@@ -4142,45 +4142,17 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt"
+        "pt",
+        "ar",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts345978",
-      "title": "Blue Orchestra",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 197368,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
-      "maturity_rating": "T",
-      "episode_count": 45
     },
     {
       "ag_id": "tm128010",
@@ -4211,6 +4183,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts345978",
+      "title": "Blue Orchestra",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 197368,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "ts42498",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4829,8 +4829,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "it-IT",
         "pt",
         "ru",
-        "de",
-        "en-US",
-        "es"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6057,8 +6057,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8018,8 +8018,8 @@
       ],
       "rating": 6.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
