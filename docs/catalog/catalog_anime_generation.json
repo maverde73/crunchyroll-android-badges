@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-24T03:30:25Z",
+  "generated_at": "2026-06-24T09:27:17Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -256,30 +256,30 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.536,
+      "rating": 8.537,
       "audio_locales": [
+        "de",
+        "en-US",
+        "fr",
         "ja-JP",
         "ta",
+        "it-IT",
+        "pt",
         "te",
         "es",
-        "it-IT",
-        "pt",
-        "de",
-        "fr",
-        "hi",
-        "en-US"
+        "hi"
       ],
       "subtitle_locales": [
-        "fr",
+        "pl",
+        "ru",
+        "es",
         "id",
+        "de",
         "en-US",
         "it-IT",
-        "pl",
-        "ar",
         "pt",
-        "ru",
-        "de",
-        "es"
+        "ar",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -306,33 +306,33 @@
       ],
       "rating": 8.343,
       "audio_locales": [
+        "de",
+        "id",
+        "pt",
+        "hi",
+        "ja-JP",
+        "ta",
+        "te",
         "en-US",
         "es",
-        "pt",
-        "te",
-        "de",
         "fr",
-        "hi",
         "it-IT",
-        "ja-JP",
-        "id",
-        "ta",
         "ar"
       ],
       "subtitle_locales": [
-        "pt",
-        "vi",
-        "de",
-        "hi",
-        "ms",
-        "en-US",
-        "ru",
-        "th",
-        "ar",
-        "es",
+        "it-IT",
         "fr",
         "id",
-        "it-IT"
+        "ms",
+        "ru",
+        "en-US",
+        "vi",
+        "ar",
+        "hi",
+        "pt",
+        "th",
+        "de",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -418,23 +418,23 @@
       "rating": 8.393,
       "audio_locales": [
         "hi",
-        "es",
-        "it-IT",
         "ja-JP",
-        "ta",
-        "th",
         "pt",
         "te",
         "de",
         "en-US",
-        "fr"
+        "es",
+        "fr",
+        "ta",
+        "it-IT",
+        "th"
       ],
       "subtitle_locales": [
+        "it-IT",
         "pt",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -626,54 +626,6 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.157,
-      "audio_locales": [
-        "pt",
-        "ta",
-        "te",
-        "th",
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "th",
-        "ar",
-        "de",
-        "en-US",
-        "it-IT",
-        "pt",
-        "ru",
-        "es",
-        "fr",
-        "pl",
-        "zh",
-        "id"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -702,6 +654,54 @@
       "episode_count": 40
     },
     {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.161,
+      "audio_locales": [
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "pt",
+        "ar",
+        "de",
+        "fr",
+        "it-IT",
+        "th",
+        "en-US",
+        "id",
+        "ru",
+        "zh",
+        "es",
+        "pl"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
+    },
+    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -718,7 +718,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.452,
+      "rating": 8.455,
       "audio_locales": [
         "it-IT"
       ],
@@ -837,8 +837,8 @@
       ],
       "rating": 7.303,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1329,13 +1329,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1368,19 +1368,19 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "id",
         "ms",
-        "pt",
-        "zh",
-        "fr",
-        "it-IT",
-        "ru",
-        "th",
-        "ar",
         "vi",
-        "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "th",
+        "zh",
+        "ar",
+        "de",
+        "pt",
+        "ru",
+        "id",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1552,8 +1552,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1922,27 +1922,27 @@
       ],
       "rating": 7.511,
       "audio_locales": [
-        "fr",
-        "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "pt",
-        "th",
-        "ms",
-        "fr",
-        "it-IT",
-        "ar",
         "ru",
+        "th",
         "vi",
+        "ar",
         "de",
         "en-US",
-        "es",
-        "id"
+        "fr",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2409,8 +2409,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2528,17 +2528,17 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "pl",
         "pt",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2805,49 +2805,6 @@
       "episode_count": 2
     },
     {
-      "ag_id": "ts223380",
-      "title": "BOFURI",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 96402,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.378,
-      "audio_locales": [
-        "id",
-        "ja-JP",
-        "ru",
-        "th",
-        "de",
-        "en-US"
-      ],
-      "subtitle_locales": [
-        "ru",
-        "de",
-        "es",
-        "pt",
-        "it-IT",
-        "vi",
-        "ar",
-        "en-US",
-        "fr"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts44184",
       "title": "Georgie",
       "year": 1983,
@@ -2874,6 +2831,49 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts223380",
+      "title": "BOFURI",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 96402,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.378,
+      "audio_locales": [
+        "ru",
+        "th",
+        "de",
+        "en-US",
+        "id",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "vi",
+        "ar",
+        "es",
+        "fr",
+        "it-IT",
+        "en-US",
+        "pt",
+        "ru",
+        "de"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm1434295",
@@ -3314,34 +3314,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts31966",
       "title": "Calendar Men",
       "year": 1981,
@@ -3369,6 +3341,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
       "maturity_rating": "T",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts518",
@@ -3685,35 +3685,6 @@
       "episode_count": 10
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3772,6 +3743,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "ts314452",
@@ -4066,34 +4066,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts16785",
-      "title": "Capeta",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34803,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts15250",
       "title": "Caro fratello",
       "year": 1991,
@@ -4120,6 +4092,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
       "maturity_rating": "T",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts16785",
+      "title": "Capeta",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34803,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts415273",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.2,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6712,8 +6712,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7035,8 +7035,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
