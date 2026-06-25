@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T14:32:31Z",
+  "generated_at": "2026-06-25T19:59:14Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -31,6 +31,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
       "maturity_rating": "14+",
       "episode_count": 220
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.499,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts10145",
@@ -61,35 +90,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
       "episode_count": 1205
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.499,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts492780",
@@ -258,28 +258,28 @@
       ],
       "rating": 8.539,
       "audio_locales": [
-        "en-US",
         "es",
-        "it-IT",
         "fr",
-        "ja-JP",
         "pt",
+        "te",
         "de",
         "hi",
+        "it-IT",
+        "ja-JP",
         "ta",
-        "te"
+        "en-US"
       ],
       "subtitle_locales": [
-        "pt",
-        "it-IT",
-        "ru",
-        "fr",
-        "id",
         "ar",
         "de",
         "en-US",
         "es",
-        "pl"
+        "fr",
+        "id",
+        "pl",
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -306,33 +306,33 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "es",
-        "ta",
-        "ar",
-        "te",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
         "ja-JP",
+        "es",
+        "id",
         "pt",
+        "hi",
+        "ta",
+        "te",
+        "it-IT",
+        "ar",
         "de",
-        "en-US"
+        "en-US",
+        "fr"
       ],
       "subtitle_locales": [
-        "th",
-        "ar",
-        "es",
         "fr",
+        "it-IT",
+        "pt",
         "hi",
         "ms",
-        "pt",
-        "en-US",
-        "id",
-        "it-IT",
+        "th",
         "vi",
+        "ar",
         "de",
-        "ru"
+        "ru",
+        "id",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -417,24 +417,24 @@
       ],
       "rating": 8.394,
       "audio_locales": [
-        "pt",
+        "hi",
+        "it-IT",
+        "th",
+        "de",
+        "es",
         "ta",
         "te",
-        "th",
-        "en-US",
-        "hi",
-        "ja-JP",
-        "es",
-        "it-IT",
         "fr",
-        "de"
+        "ja-JP",
+        "pt",
+        "en-US"
       ],
       "subtitle_locales": [
+        "pt",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -520,10 +520,10 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.029,
+      "rating": 8.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -596,36 +596,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "14+",
-      "episode_count": 218
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -655,23 +625,53 @@
         "th"
       ],
       "subtitle_locales": [
-        "id",
-        "pl",
-        "ru",
+        "pt",
+        "th",
         "zh",
         "ar",
-        "es",
-        "pt",
         "de",
+        "fr",
         "it-IT",
-        "th",
+        "pl",
+        "ru",
         "en-US",
-        "fr"
+        "es",
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
+    },
+    {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "maturity_rating": "14+",
+      "episode_count": 218
     },
     {
       "ag_id": "ts44897",
@@ -787,6 +787,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.458,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
     },
     {
       "ag_id": "ts320501",
@@ -1072,6 +1102,34 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.089,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1101,64 +1159,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.458,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -1185,6 +1185,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "genres": [
+        "Thriller",
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Guerra"
+      ],
+      "rating": 6.618,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts26262",
@@ -1295,17 +1326,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
+        "ru",
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "ru",
-        "de"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1331,26 +1362,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
+        "pt",
         "en-US",
         "es",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "ms",
+        "de",
+        "es",
+        "pt",
+        "ru",
+        "en-US",
+        "vi",
+        "zh",
+        "fr",
         "it-IT",
         "th",
-        "zh",
-        "en-US",
-        "ms",
-        "ru",
         "ar",
-        "vi",
-        "es",
-        "fr",
-        "id",
-        "pt",
-        "de"
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1726,36 +1757,8 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "T",
-      "episode_count": 39
-    },
-    {
-      "ag_id": "ts469760",
-      "title": "Fermat Kitchen",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 283704,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 39
     },
     {
       "ag_id": "ts29076",
@@ -1785,6 +1788,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
       "maturity_rating": "14+",
       "episode_count": 203
+    },
+    {
+      "ag_id": "ts469760",
+      "title": "Fermat Kitchen",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283704,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts448353",
@@ -1892,27 +1923,27 @@
       ],
       "rating": 7.511,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "ru",
-        "es",
-        "ms",
-        "pt",
-        "th",
         "vi",
-        "ar",
-        "de",
         "en-US",
         "fr",
-        "id"
+        "id",
+        "th",
+        "de",
+        "ms",
+        "pt",
+        "ru",
+        "ar",
+        "es",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2155,37 +2186,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
-      "genres": [
-        "Thriller",
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Guerra"
-      ],
-      "rating": 6.618,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -2409,8 +2409,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2532,13 +2532,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pl",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2678,8 +2678,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2852,23 +2852,23 @@
       ],
       "rating": 7.394,
       "audio_locales": [
-        "ja-JP",
-        "ru",
         "th",
         "de",
         "en-US",
-        "id"
+        "id",
+        "ja-JP",
+        "ru"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
+        "vi",
+        "fr",
+        "ar",
         "es",
         "ru",
-        "de",
         "en-US",
-        "ar",
-        "fr",
-        "vi"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3285,35 +3285,6 @@
       "episode_count": 17
     },
     {
-      "ag_id": "ts31966",
-      "title": "Calendar Men",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45050,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts37954",
       "title": "Lovely Sara",
       "year": 1985,
@@ -3369,6 +3340,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
       "maturity_rating": "T",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts31966",
+      "title": "Calendar Men",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45050,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts518",
@@ -3834,35 +3834,6 @@
       "episode_count": 4
     },
     {
-      "ag_id": "ts36530",
-      "title": "Mazinger Edition Z: The Impact!",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36249,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.222,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts441134",
       "title": "Tutto solo alla conquista di un altro mondo",
       "year": 2024,
@@ -3918,6 +3889,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts36530",
+      "title": "Mazinger Edition Z: The Impact!",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36249,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.222,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm65451",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.2,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
+        "en-US",
         "es",
         "it-IT",
         "pt",
         "ru",
-        "de",
-        "en-US"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6113,7 +6113,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.333,
+      "rating": 6.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -6500,8 +6500,8 @@
       ],
       "rating": 7.495,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6539,36 +6539,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
       "maturity_rating": "18+",
       "episode_count": 6
-    },
-    {
-      "ag_id": "tm49446",
-      "title": "Utena la fillette révolutionnaire - The movie: apocalisse adolescenziale",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19738,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Appena arrivata al misterioso istituto scolastico Ohtori, in cui le pareti sono in continuo movimento, Utena Tenjo viene confusa da tutti per un ragazzo. La ragazza ben presto si troverà coinvolta in una serie di duelli per l'ottenimento della \"sposa della rosa\", Anthy Himemiya, e soprattutto del potere che essa possiede. Contemporaneamente Utena si rincontra con Touga Kiryuu, suo ex fidanzato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3KuG6L1XRYyFQ9fX9p8V4vu9IFz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8VRmHiIGbQxIJH8p30niFl78qSC.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts18589",
@@ -6680,8 +6650,8 @@
       ],
       "rating": 7.1,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6742,8 +6712,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6779,6 +6749,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
       "maturity_rating": "T",
       "episode_count": 20
+    },
+    {
+      "ag_id": "tm49446",
+      "title": "Utena la fillette révolutionnaire - The movie: apocalisse adolescenziale",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19738,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Appena arrivata al misterioso istituto scolastico Ohtori, in cui le pareti sono in continuo movimento, Utena Tenjo viene confusa da tutti per un ragazzo. La ragazza ben presto si troverà coinvolta in una serie di duelli per l'ottenimento della \"sposa della rosa\", Anthy Himemiya, e soprattutto del potere che essa possiede. Contemporaneamente Utena si rincontra con Touga Kiryuu, suo ex fidanzato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3KuG6L1XRYyFQ9fX9p8V4vu9IFz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8VRmHiIGbQxIJH8p30niFl78qSC.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts314720",
@@ -7035,8 +7035,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7395,8 +7395,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
