@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-25T09:19:46Z",
+  "generated_at": "2026-06-25T14:32:31Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -31,35 +31,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
       "maturity_rating": "14+",
       "episode_count": 220
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.499,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts10145",
@@ -90,6 +61,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
       "episode_count": 1205
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.499,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts492780",
@@ -258,28 +258,28 @@
       ],
       "rating": 8.539,
       "audio_locales": [
-        "hi",
-        "pt",
-        "ta",
-        "de",
         "en-US",
-        "fr",
-        "te",
-        "it-IT",
         "es",
-        "ja-JP"
+        "it-IT",
+        "fr",
+        "ja-JP",
+        "pt",
+        "de",
+        "hi",
+        "ta",
+        "te"
       ],
       "subtitle_locales": [
-        "ru",
-        "ar",
-        "it-IT",
         "pt",
+        "it-IT",
+        "ru",
+        "fr",
+        "id",
+        "ar",
+        "de",
         "en-US",
         "es",
-        "pl",
-        "de",
-        "fr",
-        "id"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -306,33 +306,33 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "de",
-        "hi",
-        "ja-JP",
-        "ta",
         "es",
-        "fr",
-        "id",
-        "pt",
-        "en-US",
-        "it-IT",
+        "ta",
+        "ar",
         "te",
-        "ar"
+        "fr",
+        "hi",
+        "id",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
+        "th",
+        "ar",
+        "es",
+        "fr",
+        "hi",
+        "ms",
+        "pt",
         "en-US",
         "id",
         "it-IT",
-        "ms",
-        "fr",
-        "pt",
-        "ru",
-        "ar",
-        "hi",
         "vi",
         "de",
-        "es",
-        "th"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -417,24 +417,24 @@
       ],
       "rating": 8.394,
       "audio_locales": [
+        "pt",
+        "ta",
+        "te",
         "th",
-        "de",
         "en-US",
         "hi",
-        "pt",
-        "es",
-        "fr",
-        "it-IT",
         "ja-JP",
-        "ta",
-        "te"
+        "es",
+        "it-IT",
+        "fr",
+        "de"
       ],
       "subtitle_locales": [
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "en-US"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -522,8 +522,8 @@
       ],
       "rating": 8.029,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -645,28 +645,28 @@
       ],
       "rating": 8.161,
       "audio_locales": [
+        "en-US",
+        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
         "te",
-        "th",
-        "en-US",
-        "es"
+        "th"
       ],
       "subtitle_locales": [
-        "pl",
-        "pt",
-        "th",
-        "ar",
-        "ru",
-        "fr",
         "id",
-        "es",
+        "pl",
+        "ru",
         "zh",
+        "ar",
+        "es",
+        "pt",
         "de",
+        "it-IT",
+        "th",
         "en-US",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -777,8 +777,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1119,8 +1119,8 @@
       ],
       "rating": 8.458,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1299,13 +1299,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
+        "fr",
         "it-IT",
         "pt",
         "ru",
-        "de",
-        "en-US",
-        "es",
-        "fr"
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1338,19 +1338,19 @@
         "pt"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
         "it-IT",
-        "ms",
-        "pt",
-        "zh",
-        "ar",
-        "id",
         "th",
+        "zh",
+        "en-US",
+        "ms",
+        "ru",
+        "ar",
+        "vi",
         "es",
         "fr",
-        "ru",
-        "vi"
+        "id",
+        "pt",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1522,8 +1522,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1892,27 +1892,27 @@
       ],
       "rating": 7.511,
       "audio_locales": [
+        "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "subtitle_locales": [
-        "en-US",
-        "id",
         "it-IT",
-        "ms",
-        "es",
-        "th",
-        "de",
-        "fr",
-        "pt",
         "ru",
+        "es",
+        "ms",
+        "pt",
+        "th",
         "vi",
-        "ar"
+        "ar",
+        "de",
+        "en-US",
+        "fr",
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2068,36 +2068,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts329737",
-      "title": "Helck",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 157571,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2153,6 +2123,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts329737",
+      "title": "Helck",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 157571,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm222871",
@@ -2532,13 +2532,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
+        "de",
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pl",
-        "pt",
-        "de",
-        "en-US"
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2747,35 +2747,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.625,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "ts68914",
       "title": "Hurricane Polymar: Holy Blood",
       "year": 1996,
@@ -2803,6 +2774,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
       "maturity_rating": "16+",
       "episode_count": 2
+    },
+    {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.625,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts44184",
@@ -2860,15 +2860,15 @@
         "id"
       ],
       "subtitle_locales": [
-        "en-US",
-        "vi",
-        "fr",
         "it-IT",
-        "de",
+        "pt",
         "es",
         "ru",
+        "de",
+        "en-US",
         "ar",
-        "pt"
+        "fr",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2964,34 +2964,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3021,6 +2993,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts412408",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.2,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6469,8 +6469,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6500,8 +6500,8 @@
       ],
       "rating": 7.495,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6742,8 +6742,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
