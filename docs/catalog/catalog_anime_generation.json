@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-26T09:24:12Z",
+  "generated_at": "2026-06-26T14:22:26Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -79,7 +79,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.502,
       "audio_locales": [
         "it-IT"
       ],
@@ -109,8 +109,8 @@
       ],
       "rating": 8.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -136,7 +136,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -179,36 +179,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.618,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
-    },
-    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -239,6 +209,36 @@
       "episode_count": 114
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.618,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -258,27 +258,27 @@
       ],
       "rating": 8.539,
       "audio_locales": [
+        "fr",
+        "de",
         "hi",
         "it-IT",
-        "pt",
         "te",
-        "en-US",
-        "fr",
-        "ja-JP",
+        "pt",
         "ta",
-        "de",
-        "es"
+        "es",
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "pt",
-        "de",
-        "fr",
-        "it-IT",
         "en-US",
+        "it-IT",
+        "fr",
+        "de",
         "es",
-        "pl",
-        "ar",
         "id",
+        "pt",
+        "ar",
+        "pl",
         "ru"
       ],
       "languages_assumed": false,
@@ -306,32 +306,32 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "id",
-        "te",
-        "de",
-        "en-US",
-        "it-IT",
+        "hi",
         "pt",
         "fr",
-        "hi",
-        "ta",
+        "it-IT",
         "ja-JP",
+        "en-US",
+        "id",
+        "ta",
+        "te",
         "ar",
+        "de",
         "es"
       ],
       "subtitle_locales": [
-        "vi",
-        "fr",
-        "it-IT",
+        "ms",
         "pt",
         "th",
-        "ar",
         "de",
-        "es",
+        "it-IT",
+        "vi",
         "id",
-        "ms",
-        "ru",
+        "ar",
         "en-US",
+        "fr",
+        "ru",
+        "es",
         "hi"
       ],
       "languages_assumed": false,
@@ -417,17 +417,17 @@
       ],
       "rating": 8.394,
       "audio_locales": [
-        "es",
-        "fr",
         "ta",
         "te",
-        "en-US",
-        "it-IT",
-        "de",
+        "fr",
         "hi",
+        "it-IT",
+        "ja-JP",
         "pt",
         "th",
-        "ja-JP"
+        "de",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
         "pt",
@@ -645,28 +645,28 @@
       ],
       "rating": 8.161,
       "audio_locales": [
+        "hi",
+        "ja-JP",
+        "pt",
         "ta",
         "te",
         "th",
         "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt"
+        "es"
       ],
       "subtitle_locales": [
-        "it-IT",
         "ru",
-        "th",
         "zh",
-        "ar",
+        "fr",
+        "it-IT",
+        "th",
         "de",
-        "es",
-        "en-US",
-        "id",
-        "pl",
         "pt",
-        "fr"
+        "ar",
+        "en-US",
+        "es",
+        "id",
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -777,8 +777,8 @@
       ],
       "rating": 8.457,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -927,7 +927,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.8,
+      "rating": 7.766,
       "audio_locales": [
         "it-IT"
       ],
@@ -986,8 +986,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1326,17 +1326,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
         "es",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1362,26 +1362,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "ja-JP",
         "pt",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "ru",
+        "ar",
         "en-US",
-        "es",
         "id",
         "pt",
-        "ru",
-        "th",
-        "ms",
         "vi",
-        "ar",
-        "fr",
-        "it-IT",
         "zh",
-        "de"
+        "de",
+        "es",
+        "it-IT",
+        "ms",
+        "th",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1761,35 +1761,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.165,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
-    },
-    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -1845,6 +1816,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.165,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts24483",
@@ -1921,29 +1921,29 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.511,
+      "rating": 7.5,
       "audio_locales": [
-        "it-IT",
         "ja-JP",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "es",
-        "vi",
-        "de",
-        "en-US",
-        "fr",
-        "id",
-        "ru",
-        "ms",
         "pt",
         "ar",
+        "th",
+        "de",
+        "en-US",
+        "es",
+        "id",
+        "ru",
         "it-IT",
-        "th"
+        "vi",
+        "fr",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2292,8 +2292,8 @@
       ],
       "rating": 7.47,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2532,13 +2532,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
         "pl",
         "pt",
-        "de"
+        "de",
+        "en-US",
+        "es",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2805,49 +2805,6 @@
       "episode_count": 2
     },
     {
-      "ag_id": "ts223380",
-      "title": "BOFURI",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 96402,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.394,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "id",
-        "ja-JP",
-        "ru",
-        "th"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "es",
-        "fr",
-        "vi",
-        "it-IT",
-        "ar",
-        "de",
-        "ru",
-        "en-US"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts44184",
       "title": "Georgie",
       "year": 1983,
@@ -2874,6 +2831,49 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts223380",
+      "title": "BOFURI",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 96402,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.394,
+      "audio_locales": [
+        "id",
+        "ja-JP",
+        "ru",
+        "th",
+        "de",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "de",
+        "es",
+        "fr",
+        "ru",
+        "ar",
+        "it-IT",
+        "vi",
+        "en-US",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm1434295",
@@ -2964,34 +2964,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3021,6 +2993,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts412408",
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.171,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4829,8 +4829,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
         "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -7002,8 +7002,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7033,8 +7033,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
