@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-28T03:41:26Z",
+  "generated_at": "2026-06-28T08:49:55Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -227,8 +227,8 @@
       ],
       "rating": 8.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -258,28 +258,28 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
-        "it-IT",
         "ja-JP",
         "en-US",
-        "fr",
+        "es",
+        "de",
         "hi",
         "pt",
-        "es",
         "ta",
-        "te"
+        "te",
+        "fr",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "en-US",
         "it-IT",
-        "ru",
-        "es",
-        "id",
         "pl",
-        "pt",
+        "ru",
         "de",
+        "en-US",
+        "ar",
+        "es",
         "fr",
-        "ar"
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -335,32 +335,32 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "fr",
-        "hi",
-        "pt",
+        "en-US",
         "ja-JP",
+        "pt",
         "ta",
         "te",
-        "es",
-        "id",
-        "it-IT",
-        "ar",
-        "de",
-        "en-US"
-      ],
-      "subtitle_locales": [
         "de",
         "es",
+        "fr",
         "hi",
         "id",
+        "it-IT",
+        "ar"
+      ],
+      "subtitle_locales": [
         "ar",
+        "es",
+        "fr",
         "en-US",
+        "it-IT",
+        "pt",
+        "de",
+        "hi",
+        "id",
+        "ms",
         "ru",
         "th",
-        "fr",
-        "it-IT",
-        "ms",
-        "pt",
         "vi"
       ],
       "languages_assumed": false,
@@ -419,24 +419,24 @@
       ],
       "rating": 8.394,
       "audio_locales": [
-        "pt",
         "ta",
-        "de",
         "fr",
-        "ja-JP",
         "te",
+        "de",
+        "es",
+        "it-IT",
         "th",
         "en-US",
-        "es",
         "hi",
-        "it-IT"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
+        "pt",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -473,6 +473,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -491,8 +519,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -644,28 +672,28 @@
       ],
       "rating": 8.164,
       "audio_locales": [
+        "te",
+        "th",
         "en-US",
         "es",
         "hi",
         "ja-JP",
         "pt",
-        "ta",
-        "te",
-        "th"
+        "ta"
       ],
       "subtitle_locales": [
-        "es",
         "fr",
-        "id",
-        "en-US",
-        "pl",
-        "zh",
         "it-IT",
-        "ru",
-        "th",
         "pt",
+        "ru",
+        "de",
+        "zh",
+        "id",
+        "pl",
         "ar",
-        "de"
+        "th",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -701,34 +729,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts354570",
@@ -925,8 +925,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1277,36 +1277,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts26262",
       "title": "Yattaman",
       "year": 1977,
@@ -1414,26 +1384,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "ja-JP",
-        "pt",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "ms",
-        "vi",
-        "zh",
         "de",
         "fr",
-        "ar",
-        "es",
-        "en-US",
-        "pt",
-        "ru",
         "th",
+        "en-US",
         "id",
-        "it-IT"
+        "it-IT",
+        "ru",
+        "es",
+        "pt",
+        "zh",
+        "ar",
+        "ms",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1460,17 +1430,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "ru",
-        "de",
-        "en-US",
-        "es"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1563,6 +1533,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts29400",
       "title": "Capricciosa Orange Road",
       "year": 1987,
@@ -1611,8 +1611,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1621,35 +1621,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
       "maturity_rating": "14+",
       "episode_count": 46
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.658,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts308038",
@@ -1681,6 +1652,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.658,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts485272",
       "title": "Yugure al crepuscolo della perpetuità",
       "year": 2025,
@@ -1705,8 +1705,30 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts24632",
@@ -1766,28 +1788,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
-    },
-    {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
     },
     {
       "ag_id": "ts52317",
@@ -1951,8 +1951,8 @@
       ],
       "rating": 6.86,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1961,52 +1961,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
       "episode_count": 65
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr"
-      ],
-      "subtitle_locales": [
-        "de",
-        "fr",
-        "th",
-        "ms",
-        "pt",
-        "vi",
-        "ar",
-        "en-US",
-        "es",
-        "it-IT",
-        "ru",
-        "id"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts76736",
@@ -2037,6 +1991,52 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
       "maturity_rating": "T",
       "episode_count": 5
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US",
+        "es"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "es",
+        "de",
+        "en-US",
+        "fr",
+        "pt",
+        "ru",
+        "th",
+        "id",
+        "ms",
+        "it-IT",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts436411",
@@ -2408,7 +2408,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.421,
+      "rating": 8.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2451,6 +2451,34 @@
       "episode_count": 140
     },
     {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.143,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
+    },
+    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -2479,34 +2507,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.143,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
     },
     {
       "ag_id": "tm112217",
@@ -2583,8 +2583,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2613,17 +2613,17 @@
       ],
       "rating": 7.7,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2677,8 +2677,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2880,23 +2880,23 @@
       ],
       "rating": 7.394,
       "audio_locales": [
+        "id",
         "ja-JP",
         "ru",
         "th",
         "de",
-        "en-US",
-        "id"
+        "en-US"
       ],
       "subtitle_locales": [
-        "es",
+        "ru",
+        "vi",
+        "de",
+        "fr",
         "it-IT",
         "ar",
-        "de",
         "en-US",
-        "fr",
-        "ru",
-        "pt",
-        "vi"
+        "es",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3081,35 +3081,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 89323,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 9.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T",
-      "episode_count": 60
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3137,6 +3108,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 9.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts374187",
@@ -4170,12 +4170,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "ar",
-        "en-US",
-        "es"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.171,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
-        "de",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6442,7 +6442,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
-      "maturity_rating": "",
+      "maturity_rating": "12+",
       "episode_count": 42
     },
     {
@@ -6528,8 +6528,8 @@
       ],
       "rating": 7.496,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7031,8 +7031,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7099,38 +7099,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65dd82ef-a035-4c74-8d83-25b8fb4cb6b6",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm65142",
-      "title": "One Piece - Un'amicizia oltre i confini del mare",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 25278,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts299997",
@@ -7309,6 +7277,38 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ba48cfa-f579-4b7c-9cc2-685bc36c0ca1",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm65142",
+      "title": "One Piece - Un'amicizia oltre i confini del mare",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 25278,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
       "maturity_rating": "T",
       "episode_count": 1
     },
