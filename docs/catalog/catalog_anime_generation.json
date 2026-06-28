@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-27T19:18:56Z",
+  "generated_at": "2026-06-28T03:41:26Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -49,7 +49,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -121,34 +121,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.307,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -177,6 +149,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts22809",
@@ -258,33 +258,62 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "en-US",
         "de",
-        "fr",
         "it-IT",
-        "te",
-        "es"
+        "ja-JP",
+        "en-US",
+        "fr",
+        "hi",
+        "pt",
+        "es",
+        "ta",
+        "te"
       ],
       "subtitle_locales": [
-        "pl",
-        "de",
-        "fr",
-        "id",
-        "ru",
         "en-US",
         "it-IT",
+        "ru",
+        "es",
+        "id",
+        "pl",
         "pt",
-        "ar",
-        "es"
+        "de",
+        "fr",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.875,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts89550",
@@ -306,33 +335,33 @@
       ],
       "rating": 8.343,
       "audio_locales": [
-        "pt",
         "fr",
         "hi",
-        "te",
-        "de",
-        "en-US",
-        "it-IT",
+        "pt",
+        "ja-JP",
         "ta",
-        "ar",
+        "te",
         "es",
         "id",
-        "ja-JP"
+        "it-IT",
+        "ar",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "en-US",
-        "id",
-        "th",
         "de",
         "es",
-        "pt",
-        "vi",
+        "hi",
+        "id",
+        "ar",
+        "en-US",
+        "ru",
+        "th",
+        "fr",
         "it-IT",
         "ms",
-        "fr",
-        "hi",
-        "ru",
-        "ar"
+        "pt",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -371,33 +400,48 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 9343,
+        "tmdb_id": 62110,
         "tmdb_type": "tv"
       },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
       "genres": [
         "Animazione",
-        "Mistero",
+        "Commedia",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.875,
+      "rating": 8.394,
       "audio_locales": [
+        "pt",
+        "ta",
+        "de",
+        "fr",
+        "ja-JP",
+        "te",
+        "th",
+        "en-US",
+        "es",
+        "hi",
         "it-IT"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
-      "episode_count": 13
+      "episode_count": 47
     },
     {
       "ag_id": "ts17714",
@@ -427,78 +471,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.394,
-      "audio_locales": [
-        "ta",
-        "ja-JP",
-        "te",
-        "th",
-        "en-US",
-        "es",
-        "de",
-        "fr",
-        "it-IT",
-        "pt",
-        "hi"
-      ],
-      "subtitle_locales": [
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "en-US"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts353577",
@@ -624,6 +596,35 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.455,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -653,18 +654,18 @@
         "th"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT",
-        "pt",
-        "ru",
-        "ar",
-        "en-US",
+        "es",
         "fr",
         "id",
-        "zh",
-        "es",
+        "en-US",
         "pl",
-        "th"
+        "zh",
+        "it-IT",
+        "ru",
+        "th",
+        "pt",
+        "ar",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -702,23 +703,22 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 30669,
+        "tmdb_id": 32676,
         "tmdb_type": "tv"
       },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Dramma"
       ],
-      "rating": 8.455,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -726,9 +726,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
-      "episode_count": 112
+      "episode_count": 40
     },
     {
       "ag_id": "ts354570",
@@ -759,34 +759,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.815,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts360995",
       "title": "Boku no kokoro no yabai yatsu",
       "year": 2023,
@@ -815,6 +787,124 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.815,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.925,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.457,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.309,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "ts342987",
@@ -875,96 +965,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
-    },
-    {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.457,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.925,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.309,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
     },
     {
       "ag_id": "ts20686",
@@ -1189,6 +1189,34 @@
       "episode_count": 48
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.056,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts24483",
       "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
       "year": 2009,
@@ -1216,34 +1244,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.056,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "tm222871",
@@ -1275,6 +1275,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts26262",
@@ -1384,26 +1414,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "it-IT",
         "ja-JP",
         "pt",
         "en-US",
-        "es"
+        "es",
+        "it-IT"
       ],
       "subtitle_locales": [
+        "ms",
         "vi",
         "zh",
-        "ar",
-        "en-US",
-        "id",
-        "ms",
-        "ru",
-        "es",
-        "fr",
         "de",
-        "it-IT",
+        "fr",
+        "ar",
+        "es",
+        "en-US",
         "pt",
-        "th"
+        "ru",
+        "th",
+        "id",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1430,22 +1460,50 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
       "episode_count": 35
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts38826",
@@ -1534,35 +1592,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.658,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1592,6 +1621,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
       "maturity_rating": "14+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.658,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts308038",
@@ -1647,7 +1705,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 12
     },
     {
@@ -1680,28 +1738,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -1730,6 +1766,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts52317",
@@ -1905,6 +1963,52 @@
       "episode_count": 65
     },
     {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US",
+        "es",
+        "fr"
+      ],
+      "subtitle_locales": [
+        "de",
+        "fr",
+        "th",
+        "ms",
+        "pt",
+        "vi",
+        "ar",
+        "en-US",
+        "es",
+        "it-IT",
+        "ru",
+        "id"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts76736",
       "title": "I cinque samurai: Message",
       "year": 1991,
@@ -1933,52 +2037,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
       "maturity_rating": "T",
       "episode_count": 5
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "id",
-        "it-IT",
-        "ms",
-        "fr",
-        "ru",
-        "ar",
-        "pt",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts436411",
@@ -2363,36 +2421,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -2423,34 +2451,6 @@
       "episode_count": 140
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.143,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -2479,6 +2479,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.143,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "tm112217",
@@ -2538,6 +2566,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts55756",
+      "title": "DanMachi - Sword Oratoria",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 70590,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.846,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -2560,46 +2617,17 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pl",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pl"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts55756",
-      "title": "DanMachi - Sword Oratoria",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 70590,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.846,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -2852,23 +2880,23 @@
       ],
       "rating": 7.394,
       "audio_locales": [
-        "en-US",
-        "id",
         "ja-JP",
         "ru",
         "th",
-        "de"
+        "de",
+        "en-US",
+        "id"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT",
         "es",
-        "fr",
-        "pt",
-        "ru",
-        "vi",
+        "it-IT",
         "ar",
-        "en-US"
+        "de",
+        "en-US",
+        "fr",
+        "ru",
+        "pt",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3010,7 +3038,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.563,
+      "rating": 5.65,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3111,35 +3139,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.528,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts374187",
       "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
       "year": 2024,
@@ -3160,8 +3159,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3194,6 +3193,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.528,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts463053",
@@ -4213,34 +4241,6 @@
       "episode_count": 45
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts440071",
       "title": "Bad Girl",
       "year": 2025,
@@ -4441,35 +4441,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts400911",
-      "title": "Protocol: Rain",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 230288,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.273,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm220268",
       "title": "L'impero dei cadaveri",
       "year": 2015,
@@ -4549,6 +4520,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts400911",
+      "title": "Protocol: Rain",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 230288,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.273,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm61092",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.365,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.171,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6442,7 +6442,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
-      "maturity_rating": "12+",
+      "maturity_rating": "",
       "episode_count": 42
     },
     {
@@ -6497,8 +6497,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6528,8 +6528,8 @@
       ],
       "rating": 7.496,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6740,8 +6740,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6982,38 +6982,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "tm65142",
-      "title": "One Piece - Un'amicizia oltre i confini del mare",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 25278,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm184358",
       "title": "One Piece - L'isola segreta del barone Omatsuri",
       "year": 2005,
@@ -7131,6 +7099,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65dd82ef-a035-4c74-8d83-25b8fb4cb6b6",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm65142",
+      "title": "One Piece - Un'amicizia oltre i confini del mare",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 25278,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts299997",
@@ -7689,8 +7689,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
