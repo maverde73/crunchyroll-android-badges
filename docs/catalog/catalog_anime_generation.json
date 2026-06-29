@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T03:47:15Z",
+  "generated_at": "2026-06-29T10:56:53Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,10 +19,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -49,7 +49,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.502,
       "audio_locales": [
         "it-IT"
       ],
@@ -166,7 +166,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -189,7 +189,7 @@
       },
       "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
       "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
       "genres": [
         "Animazione",
         "Dramma",
@@ -227,8 +227,8 @@
       ],
       "rating": 8.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -258,28 +258,28 @@
       ],
       "rating": 8.5,
       "audio_locales": [
+        "ja-JP",
+        "en-US",
+        "es",
         "pt",
         "ta",
-        "te",
-        "en-US",
-        "fr",
-        "hi",
         "de",
-        "es",
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "fr",
+        "te",
+        "hi"
       ],
       "subtitle_locales": [
-        "ar",
-        "fr",
+        "ru",
+        "en-US",
+        "id",
+        "it-IT",
         "pt",
         "de",
-        "es",
-        "en-US",
-        "it-IT",
-        "ru",
-        "id",
-        "pl"
+        "ar",
+        "fr",
+        "pl",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -316,59 +316,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 88046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP",
-        "en-US",
-        "pt",
-        "id",
-        "ta",
-        "te",
-        "ar",
-        "de",
-        "fr",
-        "hi",
-        "it-IT",
-        "es"
-      ],
-      "subtitle_locales": [
-        "th",
-        "vi",
-        "en-US",
-        "it-IT",
-        "es",
-        "fr",
-        "hi",
-        "ms",
-        "pt",
-        "ar",
-        "de",
-        "id",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -400,6 +347,59 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts89550",
+      "title": "Fire Force",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 88046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ar",
+        "fr",
+        "pt",
+        "es",
+        "ta",
+        "te",
+        "de",
+        "en-US",
+        "hi",
+        "id",
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "ru",
+        "fr",
+        "th",
+        "en-US",
+        "es",
+        "de",
+        "pt",
+        "vi",
+        "ar",
+        "hi",
+        "id",
+        "it-IT",
+        "ms"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+",
+      "episode_count": 73
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -419,24 +419,24 @@
       ],
       "rating": 8.395,
       "audio_locales": [
-        "fr",
-        "hi",
-        "ja-JP",
-        "ta",
-        "en-US",
-        "es",
-        "pt",
-        "te",
         "th",
+        "fr",
+        "it-IT",
         "de",
-        "it-IT"
+        "en-US",
+        "te",
+        "es",
+        "ja-JP",
+        "hi",
+        "pt",
+        "ta"
       ],
       "subtitle_locales": [
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "en-US",
-        "es"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -490,10 +490,10 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.029,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -615,28 +615,28 @@
       ],
       "rating": 8.164,
       "audio_locales": [
-        "th",
-        "en-US",
-        "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
-        "te"
+        "te",
+        "th",
+        "en-US",
+        "es"
       ],
       "subtitle_locales": [
         "fr",
-        "it-IT",
-        "pt",
-        "ar",
         "id",
+        "ru",
+        "es",
+        "pt",
+        "th",
         "zh",
         "de",
-        "es",
+        "en-US",
         "pl",
-        "ru",
-        "th",
-        "en-US"
+        "ar",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -700,36 +700,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
       "episode_count": 40
-    },
-    {
-      "ag_id": "ts20686",
-      "title": "Terror in Resonance",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61421,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.765,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
-      "maturity_rating": "14+",
-      "episode_count": 11
     },
     {
       "ag_id": "ts28078",
@@ -807,8 +777,8 @@
       ],
       "rating": 8.469,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -817,6 +787,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts20686",
+      "title": "Terror in Resonance",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61421,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.765,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
+      "maturity_rating": "14+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts410723",
@@ -847,6 +847,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.925,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -875,35 +904,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.925,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts35578",
@@ -1384,26 +1384,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
+        "en-US",
+        "es",
         "it-IT",
         "ja-JP",
-        "pt",
-        "en-US",
-        "es"
+        "pt"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "de",
-        "pt",
-        "th",
-        "zh",
-        "ar",
-        "id",
-        "it-IT",
-        "ms",
-        "ru",
         "vi",
-        "en-US"
+        "zh",
+        "fr",
+        "id",
+        "th",
+        "ar",
+        "en-US",
+        "es",
+        "it-IT",
+        "de",
+        "ms",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1430,17 +1430,17 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
+        "ru",
         "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "ru"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1523,8 +1523,8 @@
       ],
       "rating": 7.3,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1953,8 +1953,8 @@
       ],
       "rating": 6.86,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1992,18 +1992,18 @@
         "it-IT"
       ],
       "subtitle_locales": [
+        "ar",
+        "de",
+        "fr",
+        "ms",
+        "en-US",
+        "es",
+        "id",
+        "it-IT",
         "pt",
         "ru",
-        "es",
-        "fr",
-        "id",
-        "en-US",
-        "vi",
-        "de",
-        "it-IT",
-        "ms",
         "th",
-        "ar"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2157,34 +2157,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts394039",
       "title": "Il giovane sognatore è un realista",
       "year": 2023,
@@ -2212,6 +2184,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts329737",
@@ -2350,8 +2350,8 @@
       ],
       "rating": 7.47,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2588,13 +2588,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2860,15 +2860,15 @@
         "id"
       ],
       "subtitle_locales": [
-        "vi",
-        "en-US",
-        "es",
-        "it-IT",
-        "pt",
-        "de",
         "fr",
+        "it-IT",
+        "es",
+        "ru",
+        "vi",
+        "de",
+        "pt",
         "ar",
-        "ru"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3341,35 +3341,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts37954",
-      "title": "Lovely Sara",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 8.173,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "14+",
-      "episode_count": 46
-    },
-    {
       "ag_id": "ts518",
       "title": "Beelzebub",
       "year": 2011,
@@ -3397,6 +3368,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
       "maturity_rating": "14+",
       "episode_count": 60
+    },
+    {
+      "ag_id": "ts37954",
+      "title": "Lovely Sara",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 8.173,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts31966",
@@ -3833,35 +3833,6 @@
       "episode_count": 4
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
       "ag_id": "ts441134",
       "title": "Tutto solo alla conquista di un altro mondo",
       "year": 2024,
@@ -3946,6 +3917,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "tm65451",
@@ -4170,12 +4170,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pt",
         "ar",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.365,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4709,8 +4709,8 @@
       ],
       "rating": 7.171,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5006,8 +5006,8 @@
       ],
       "rating": 5.7,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -5918,8 +5918,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6229,7 +6229,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.441,
+      "rating": 8.426,
       "audio_locales": [
         "it-IT"
       ],
@@ -6528,8 +6528,8 @@
       ],
       "rating": 7.496,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6556,7 +6556,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.7,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -6708,8 +6708,8 @@
       ],
       "rating": 7.432,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6740,8 +6740,8 @@
       ],
       "rating": 7.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6884,8 +6884,8 @@
       ],
       "rating": 6.731,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7001,8 +7001,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7301,8 +7301,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7514,8 +7514,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7779,8 +7779,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
