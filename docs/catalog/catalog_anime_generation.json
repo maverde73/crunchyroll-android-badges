@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-29T19:56:05Z",
+  "generated_at": "2026-06-30T03:33:53Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -49,7 +49,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -79,8 +79,8 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -256,30 +256,30 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.538,
       "audio_locales": [
-        "fr",
-        "de",
-        "en-US",
-        "hi",
         "it-IT",
-        "ja-JP",
-        "pt",
+        "fr",
+        "hi",
+        "ta",
         "te",
         "es",
-        "ta"
+        "ja-JP",
+        "pt",
+        "de",
+        "en-US"
       ],
       "subtitle_locales": [
-        "pl",
-        "ru",
-        "es",
         "en-US",
         "fr",
+        "pl",
+        "ar",
         "id",
+        "ru",
+        "de",
         "it-IT",
         "pt",
-        "ar",
-        "de"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -316,6 +316,103 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts89550",
+      "title": "Fire Force",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 88046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "es",
+        "ta",
+        "ar",
+        "id",
+        "pt",
+        "hi",
+        "it-IT",
+        "ja-JP",
+        "fr",
+        "te",
+        "de",
+        "en-US"
+      ],
+      "subtitle_locales": [
+        "hi",
+        "th",
+        "es",
+        "it-IT",
+        "ms",
+        "pt",
+        "vi",
+        "de",
+        "fr",
+        "ru",
+        "en-US",
+        "id",
+        "ar"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+",
+      "episode_count": 73
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.395,
+      "audio_locales": [
+        "te",
+        "pt",
+        "es",
+        "fr",
+        "hi",
+        "ta",
+        "de",
+        "it-IT",
+        "th",
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "en-US",
+        "es",
+        "fr"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -347,101 +444,34 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 88046,
+        "tmdb_id": 34163,
         "tmdb_type": "tv"
       },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT",
-        "de",
-        "hi",
-        "te",
-        "ar",
-        "en-US",
-        "es",
-        "ja-JP",
-        "pt",
-        "ta",
-        "fr",
-        "id"
-      ],
-      "subtitle_locales": [
-        "pt",
-        "th",
-        "ar",
-        "es",
-        "fr",
-        "id",
-        "ru",
-        "de",
-        "en-US",
-        "vi",
-        "hi",
-        "it-IT",
-        "ms"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
       "genres": [
         "Animazione",
         "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Dramma"
       ],
-      "rating": 8.395,
+      "rating": 7.3,
       "audio_locales": [
-        "ta",
-        "de",
-        "es",
-        "hi",
-        "ja-JP",
-        "it-IT",
-        "pt",
-        "te",
-        "th",
-        "en-US",
-        "fr"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "en-US"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
-      "episode_count": 47
+      "episode_count": 218
     },
     {
       "ag_id": "ts17714",
@@ -491,8 +521,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -596,84 +626,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.162,
-      "audio_locales": [
-        "te",
-        "th",
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta"
-      ],
-      "subtitle_locales": [
-        "pl",
-        "pt",
-        "id",
-        "ru",
-        "zh",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "th",
-        "ar"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
-      "maturity_rating": "14+",
-      "episode_count": 218
-    },
-    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -700,6 +652,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
       "episode_count": 40
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.162,
+      "audio_locales": [
+        "th",
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te"
+      ],
+      "subtitle_locales": [
+        "zh",
+        "de",
+        "es",
+        "it-IT",
+        "pt",
+        "en-US",
+        "fr",
+        "id",
+        "pl",
+        "th",
+        "ar",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts28078",
@@ -759,36 +759,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.469,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts20686",
       "title": "Terror in Resonance",
       "year": 2014,
@@ -806,7 +776,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.765,
+      "rating": 7.771,
       "audio_locales": [
         "it-IT"
       ],
@@ -817,6 +787,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
       "maturity_rating": "14+",
       "episode_count": 11
+    },
+    {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.475,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts410723",
@@ -876,6 +876,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts52963",
+      "title": "Wolf Girl & Black Prince",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68960,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.867,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -904,37 +932,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.309,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
     },
     {
       "ag_id": "ts342987",
@@ -995,6 +992,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.309,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "ts45104",
@@ -1131,35 +1159,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1187,6 +1186,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts369770",
@@ -1384,26 +1412,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "ja-JP",
-        "pt",
         "en-US",
         "es",
-        "it-IT"
+        "it-IT",
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "ms",
-        "ru",
-        "vi",
-        "de",
+        "en-US",
         "id",
-        "pt",
-        "th",
+        "vi",
         "zh",
         "ar",
-        "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1434,13 +1462,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1732,6 +1760,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts52317",
+      "title": "Un oceano di avventure",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34160,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/e4uea3FDn8ORIjjUjlzwdZIfmPM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.417,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -1762,34 +1818,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts52317",
-      "title": "Un oceano di avventure",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34160,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/e4uea3FDn8ORIjjUjlzwdZIfmPM.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.417,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1807,7 +1835,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.1,
+      "rating": 8.107,
       "audio_locales": [
         "it-IT"
       ],
@@ -1936,6 +1964,52 @@
       "episode_count": 65
     },
     {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "it-IT",
+        "ms",
+        "pt",
+        "de",
+        "es",
+        "fr",
+        "id",
+        "ru",
+        "th",
+        "vi",
+        "ar"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -1963,52 +2037,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
       "maturity_rating": "14+",
       "episode_count": 203
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP",
-        "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "th",
-        "en-US",
-        "fr",
-        "de",
-        "ru",
-        "vi",
-        "ar",
-        "es",
-        "id",
-        "it-IT",
-        "ms",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts436411",
@@ -2157,35 +2185,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 214651,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2214,22 +2213,21 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts329737",
-      "title": "Helck",
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
       "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 157571,
+        "tmdb_id": 214651,
         "tmdb_type": "tv"
       },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Dramma",
+        "Commedia"
       ],
       "rating": 7.0,
       "audio_locales": [
@@ -2239,9 +2237,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 12
     },
     {
       "ag_id": "ts40524",
@@ -2272,6 +2270,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
       "maturity_rating": "T",
       "episode_count": 27
+    },
+    {
+      "ag_id": "ts329737",
+      "title": "Helck",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 157571,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22705",
@@ -2391,36 +2419,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -2449,6 +2447,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
+    },
+    {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts35975",
@@ -2538,34 +2566,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts52963",
-      "title": "Wolf Girl & Black Prince",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68960,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.867,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -2582,52 +2582,23 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.726,
       "audio_locales": [
-        "en-US",
-        "ja-JP"
+        "ja-JP",
+        "en-US"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts55756",
-      "title": "DanMachi - Sword Oratoria",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 70590,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.846,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -2656,6 +2627,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts55756",
+      "title": "DanMachi - Sword Oratoria",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 70590,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.846,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
       "maturity_rating": "14+",
       "episode_count": 12
     },
@@ -2852,22 +2852,22 @@
       ],
       "rating": 7.394,
       "audio_locales": [
-        "ru",
         "th",
         "de",
         "en-US",
         "id",
-        "ja-JP"
+        "ja-JP",
+        "ru"
       ],
       "subtitle_locales": [
-        "fr",
-        "vi",
-        "en-US",
         "it-IT",
+        "vi",
+        "fr",
+        "en-US",
+        "de",
         "pt",
         "ru",
         "ar",
-        "de",
         "es"
       ],
       "languages_assumed": false,
@@ -2895,8 +2895,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3011,8 +3011,8 @@
       ],
       "rating": 7.901,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3038,7 +3038,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.7,
+      "rating": 5.864,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3186,8 +3186,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "de"
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3557,7 +3557,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.112,
+      "rating": 7.139,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3821,8 +3821,8 @@
       ],
       "rating": 6.8,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4170,12 +4170,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
+        "pt",
         "ar",
         "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -5272,8 +5272,8 @@
       ],
       "rating": 7.381,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5797,16 +5797,16 @@
       ],
       "rating": 6.767,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ru",
-        "de",
-        "en-US",
         "es",
         "it-IT",
-        "pt"
+        "pt",
+        "ru",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6678,8 +6678,8 @@
       ],
       "rating": 7.061,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6706,10 +6706,10 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.432,
+      "rating": 7.433,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6796,7 +6796,7 @@
         "Fantasy",
         "Romance"
       ],
-      "rating": 7.4,
+      "rating": 7.369,
       "audio_locales": [
         "it-IT"
       ],
@@ -7002,8 +7002,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7241,8 +7241,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8199,8 +8199,8 @@
       ],
       "rating": 5.833,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
