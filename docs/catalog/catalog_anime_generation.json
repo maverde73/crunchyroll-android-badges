@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T09:33:02Z",
+  "generated_at": "2026-06-30T14:16:19Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -196,7 +196,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.477,
       "audio_locales": [
         "it-IT"
       ],
@@ -227,8 +227,8 @@
       ],
       "rating": 8.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -256,30 +256,30 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.538,
+      "rating": 8.54,
       "audio_locales": [
-        "en-US",
-        "fr",
-        "ja-JP",
-        "ta",
-        "de",
         "it-IT",
+        "te",
+        "fr",
+        "hi",
+        "de",
+        "ja-JP",
         "pt",
         "es",
-        "hi",
-        "te"
+        "ta",
+        "en-US"
       ],
       "subtitle_locales": [
+        "ar",
         "de",
-        "id",
+        "en-US",
         "es",
         "pt",
-        "pl",
-        "en-US",
         "fr",
+        "id",
+        "pl",
         "it-IT",
-        "ru",
-        "ar"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -366,33 +366,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
+        "ta",
+        "te",
         "pt",
-        "ar",
         "de",
         "id",
-        "te",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "ta",
         "en-US",
+        "es",
+        "hi",
+        "ar",
         "fr",
-        "hi"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ms",
-        "de",
-        "en-US",
-        "es",
-        "pt",
         "ru",
-        "id",
         "vi",
         "ar",
         "fr",
-        "th",
+        "it-IT",
+        "ms",
+        "pt",
+        "es",
         "hi",
-        "it-IT"
+        "id",
+        "th",
+        "de",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -419,24 +419,24 @@
       ],
       "rating": 8.395,
       "audio_locales": [
-        "pt",
         "te",
+        "hi",
+        "ja-JP",
+        "pt",
+        "es",
+        "fr",
+        "ta",
         "th",
         "de",
-        "fr",
-        "it-IT",
-        "ta",
         "en-US",
-        "ja-JP",
-        "es",
-        "hi"
+        "it-IT"
       ],
       "subtitle_locales": [
+        "en-US",
+        "es",
         "fr",
         "it-IT",
-        "pt",
-        "en-US",
-        "es"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -683,18 +683,18 @@
         "te"
       ],
       "subtitle_locales": [
-        "es",
-        "pt",
-        "de",
-        "fr",
-        "it-IT",
-        "ru",
-        "zh",
-        "ar",
-        "pl",
         "en-US",
+        "pl",
+        "ru",
+        "th",
+        "zh",
+        "de",
+        "es",
+        "fr",
         "id",
-        "th"
+        "pt",
+        "ar",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -746,7 +746,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.291,
+      "rating": 8.288,
       "audio_locales": [
         "ja-JP"
       ],
@@ -777,8 +777,8 @@
       ],
       "rating": 8.475,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -962,6 +962,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts394764",
+      "title": "Lamù e i casinisti planetari",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154524,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.848,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts22249",
@@ -1412,25 +1443,25 @@
       ],
       "rating": 7.9,
       "audio_locales": [
+        "it-IT",
         "ja-JP",
         "pt",
         "en-US",
-        "es",
-        "it-IT"
+        "es"
       ],
       "subtitle_locales": [
+        "vi",
+        "zh",
+        "en-US",
         "fr",
         "id",
-        "it-IT",
-        "vi",
-        "en-US",
-        "es",
         "ms",
         "ru",
-        "zh",
-        "de",
         "th",
         "ar",
+        "de",
+        "es",
+        "it-IT",
         "pt"
       ],
       "languages_assumed": false,
@@ -1458,8 +1489,8 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "de",
@@ -1590,37 +1621,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts394764",
-      "title": "Lamù e i casinisti planetari",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154524,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.848,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
-      "maturity_rating": "14+",
-      "episode_count": 46
     },
     {
       "ag_id": "ts308038",
@@ -1982,27 +1982,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
         "ja-JP",
         "pt",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT"
+        "de"
       ],
       "subtitle_locales": [
-        "th",
+        "ms",
         "es",
+        "fr",
+        "pt",
+        "ru",
         "vi",
         "en-US",
-        "id",
-        "it-IT",
-        "fr",
-        "ms",
+        "th",
         "ar",
         "de",
-        "pt",
-        "ru"
+        "id",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2612,8 +2612,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2677,8 +2677,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2860,15 +2860,15 @@
         "ru"
       ],
       "subtitle_locales": [
-        "vi",
-        "ar",
         "en-US",
-        "de",
-        "pt",
-        "ru",
-        "es",
         "fr",
-        "it-IT"
+        "pt",
+        "ar",
+        "de",
+        "es",
+        "it-IT",
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2923,8 +2923,8 @@
       ],
       "rating": 7.196,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3037,7 +3037,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.901,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3774,35 +3774,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154098,
-        "tmdb_type": "tv"
-      },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.808,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3831,6 +3802,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.808,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts441134",
@@ -4170,12 +4170,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "es",
         "fr",
         "it-IT",
         "pt",
         "ar",
-        "en-US"
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4870,36 +4870,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts450777",
-      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 273048,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 5.333,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm159084",
       "title": "Lupin III vs Detective Conan",
       "year": 2009,
@@ -4929,6 +4899,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7d90e387-df3f-42b5-95eb-c78c2a655f9c",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts450777",
+      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 273048,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 5.333,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts21877",
@@ -6497,8 +6497,8 @@
       ],
       "rating": 6.881,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6528,8 +6528,8 @@
       ],
       "rating": 7.496,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6678,8 +6678,8 @@
       ],
       "rating": 7.061,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7033,8 +7033,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8015,8 +8015,8 @@
       ],
       "rating": 6.6,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
