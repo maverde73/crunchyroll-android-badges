@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T09:42:59Z",
+  "generated_at": "2026-07-01T14:32:48Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -166,7 +166,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -258,27 +258,27 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "ja-JP",
-        "hi",
-        "ta",
-        "it-IT",
-        "pt",
         "te",
         "de",
-        "fr",
+        "it-IT",
+        "ja-JP",
+        "ta",
+        "hi",
+        "pt",
         "en-US",
-        "es"
+        "es",
+        "fr"
       ],
       "subtitle_locales": [
-        "ar",
+        "ru",
+        "fr",
+        "de",
         "en-US",
         "id",
-        "ru",
-        "de",
         "pl",
         "pt",
+        "ar",
         "es",
-        "fr",
         "it-IT"
       ],
       "languages_assumed": false,
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "ja-JP",
-        "de",
-        "es",
-        "fr",
-        "ta",
+        "pt",
         "te",
-        "ar",
+        "de",
+        "fr",
+        "ja-JP",
+        "ta",
+        "es",
         "hi",
-        "it-IT",
-        "en-US",
         "id",
-        "pt"
+        "ar",
+        "en-US",
+        "it-IT"
       ],
       "subtitle_locales": [
-        "pt",
+        "hi",
         "th",
         "de",
         "id",
-        "ru",
-        "ar",
-        "en-US",
-        "fr",
         "it-IT",
-        "ms",
-        "es",
+        "pt",
+        "ru",
         "vi",
-        "hi"
+        "fr",
+        "ms",
+        "en-US",
+        "es",
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -419,24 +419,24 @@
       ],
       "rating": 8.396,
       "audio_locales": [
-        "ja-JP",
+        "es",
+        "ta",
+        "de",
         "en-US",
+        "fr",
+        "hi",
+        "it-IT",
+        "pt",
+        "th",
+        "ja-JP",
+        "te"
+      ],
+      "subtitle_locales": [
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "te",
-        "th",
-        "de",
-        "es",
-        "hi",
-        "ta"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -675,28 +675,28 @@
       ],
       "rating": 8.162,
       "audio_locales": [
+        "pt",
+        "ta",
+        "te",
         "th",
         "en-US",
         "es",
         "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ar",
+        "th",
+        "zh",
+        "en-US",
         "id",
         "pl",
-        "th",
-        "ar",
-        "en-US",
-        "ru",
-        "de",
-        "pt",
-        "es",
-        "it-IT",
-        "zh",
-        "fr"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -923,10 +923,10 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.459,
+      "rating": 8.46,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1013,8 +1013,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1471,26 +1471,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "en-US",
         "es",
         "it-IT",
         "ja-JP",
-        "pt"
+        "pt",
+        "en-US"
       ],
       "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "ms",
+        "ru",
+        "vi",
         "ar",
-        "en-US",
+        "pt",
         "th",
         "de",
         "es",
         "id",
-        "ms",
         "zh",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru",
-        "vi"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1521,13 +1521,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
         "fr",
         "it-IT",
         "pt",
-        "ru",
-        "de",
-        "en-US",
-        "es"
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -2012,27 +2012,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
-        "pt"
+        "pt",
+        "de"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
-        "vi",
-        "ar",
-        "de",
         "id",
         "th",
-        "fr",
+        "ar",
         "en-US",
-        "it-IT",
         "es",
-        "ms"
+        "it-IT",
+        "ms",
+        "vi",
+        "ru",
+        "pt",
+        "de",
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2612,8 +2612,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2642,17 +2642,17 @@
       ],
       "rating": 7.726,
       "audio_locales": [
-        "ja-JP",
-        "en-US"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "pl",
         "pt",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT",
-        "pl"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2677,8 +2677,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2880,23 +2880,23 @@
       ],
       "rating": 7.394,
       "audio_locales": [
-        "de",
-        "en-US",
-        "id",
         "ja-JP",
         "ru",
-        "th"
+        "th",
+        "de",
+        "en-US",
+        "id"
       ],
       "subtitle_locales": [
-        "pt",
-        "vi",
-        "ar",
-        "fr",
-        "it-IT",
         "es",
+        "it-IT",
+        "pt",
+        "ar",
         "en-US",
+        "de",
+        "fr",
         "ru",
-        "de"
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -2992,37 +2992,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.907,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts504283",
       "title": "Yowayowa Sensei - La prof timorosa",
       "year": 2026,
@@ -3049,6 +3018,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.918,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts412408",
@@ -3215,8 +3215,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "de"
+        "de",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -4122,6 +4122,39 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts415273",
+      "title": "Ramen Akaneko",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 241628,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fnsH3q7ciHITgHJaGioIZaIqK0n.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "ar",
+        "en-US",
+        "es",
+        "fr"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts16785",
       "title": "Capeta",
       "year": 2005,
@@ -4148,39 +4181,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
       "maturity_rating": "T",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts415273",
-      "title": "Ramen Akaneko",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 241628,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fnsH3q7ciHITgHJaGioIZaIqK0n.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm128010",
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
         "pt",
         "ru",
         "de",
         "en-US",
-        "es",
-        "it-IT"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6467,8 +6467,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7063,8 +7063,8 @@
       ],
       "rating": 6.736,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8015,8 +8015,8 @@
       ],
       "rating": 6.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
