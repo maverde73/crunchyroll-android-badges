@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-30T19:55:14Z",
+  "generated_at": "2026-07-01T03:42:53Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -21,8 +21,8 @@
       ],
       "rating": 8.364,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -49,7 +49,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.501,
       "audio_locales": [
         "it-IT"
       ],
@@ -79,7 +79,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.01,
+      "rating": 8.012,
       "audio_locales": [
         "it-IT"
       ],
@@ -179,36 +179,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42444,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.477,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "14+",
-      "episode_count": 114
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -227,8 +197,8 @@
       ],
       "rating": 8.6,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -237,6 +207,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
+    },
+    {
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42444,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.478,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
+      "maturity_rating": "14+",
+      "episode_count": 114
     },
     {
       "ag_id": "ts413191",
@@ -258,28 +258,28 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
+        "pt",
         "ta",
         "te",
+        "en-US",
+        "it-IT",
         "es",
+        "de",
         "fr",
         "hi",
-        "ja-JP",
-        "pt",
-        "en-US",
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "pl",
-        "ru",
-        "ar",
-        "id",
         "es",
+        "id",
+        "pl",
+        "pt",
+        "ru",
+        "de",
+        "en-US",
         "fr",
         "it-IT",
-        "pt",
-        "en-US"
+        "ar"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -335,33 +335,33 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "pt",
+        "en-US",
+        "ja-JP",
+        "it-IT",
         "ta",
         "te",
-        "ar",
-        "de",
-        "en-US",
-        "fr",
-        "id",
-        "it-IT",
         "es",
+        "fr",
         "hi",
-        "ja-JP"
+        "pt",
+        "id",
+        "ar",
+        "de"
       ],
       "subtitle_locales": [
-        "en-US",
-        "fr",
-        "hi",
-        "id",
-        "ru",
-        "ar",
+        "it-IT",
         "ms",
-        "pt",
+        "ru",
+        "vi",
         "de",
         "es",
-        "it-IT",
+        "fr",
+        "hi",
+        "en-US",
+        "id",
         "th",
-        "vi"
+        "ar",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
@@ -419,24 +419,24 @@
       ],
       "rating": 8.396,
       "audio_locales": [
-        "es",
         "it-IT",
-        "pt",
-        "en-US",
         "ja-JP",
         "ta",
         "de",
-        "fr",
         "hi",
+        "pt",
+        "en-US",
+        "te",
         "th",
-        "te"
+        "es",
+        "fr"
       ],
       "subtitle_locales": [
-        "it-IT",
         "pt",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -582,8 +582,8 @@
       ],
       "rating": 7.692,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -626,6 +626,36 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.475,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -645,28 +675,28 @@
       ],
       "rating": 8.162,
       "audio_locales": [
-        "th",
-        "en-US",
         "es",
         "hi",
         "ja-JP",
         "pt",
         "ta",
-        "te"
+        "te",
+        "th",
+        "en-US"
       ],
       "subtitle_locales": [
+        "ru",
         "zh",
         "it-IT",
-        "pl",
         "ar",
+        "pl",
+        "th",
         "de",
-        "fr",
-        "id",
-        "pt",
         "en-US",
         "es",
-        "ru",
-        "th"
+        "fr",
+        "id",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -759,36 +789,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.475,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts20686",
       "title": "Terror in Resonance",
       "year": 2014,
@@ -876,32 +876,35 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts52963",
-      "title": "Wolf Girl & Black Prince",
-      "year": 2014,
+      "ag_id": "ts394764",
+      "title": "Lamù e i casinisti planetari",
+      "year": 2022,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 68960,
+        "tmdb_id": 154524,
         "tmdb_type": "tv"
       },
-      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
+      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
       "genres": [
         "Animazione",
-        "Commedia"
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 6.867,
+      "rating": 6.848,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T",
-      "episode_count": 12
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts37899",
@@ -964,35 +967,32 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts394764",
-      "title": "Lamù e i casinisti planetari",
-      "year": 2022,
+      "ag_id": "ts52963",
+      "title": "Wolf Girl & Black Prince",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 154524,
+        "tmdb_id": 68960,
         "tmdb_type": "tv"
       },
-      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
+      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Commedia"
       ],
-      "rating": 6.848,
+      "rating": 6.867,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
-      "maturity_rating": "14+",
-      "episode_count": 46
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts22249",
@@ -1025,6 +1025,34 @@
       "episode_count": 75
     },
     {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.774,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -1054,34 +1082,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
       "maturity_rating": "14+",
       "episode_count": 74
-    },
-    {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts64898",
@@ -1450,19 +1450,19 @@
         "en-US"
       ],
       "subtitle_locales": [
-        "pt",
-        "ms",
-        "th",
         "ar",
-        "de",
-        "en-US",
-        "ru",
-        "vi",
-        "zh",
         "es",
+        "th",
+        "zh",
+        "de",
+        "ms",
+        "vi",
+        "en-US",
         "fr",
         "id",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1493,13 +1493,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "pt",
-        "ru",
         "de",
         "en-US",
         "es",
         "fr",
-        "it-IT"
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1551,7 +1551,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.389,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -1788,36 +1788,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.399,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1846,6 +1816,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.399,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts469760",
@@ -1982,61 +1982,32 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
         "ja-JP",
-        "pt",
-        "de"
+        "pt"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "ms",
-        "pt",
-        "th",
-        "en-US",
+        "ar",
         "es",
         "fr",
-        "id",
+        "ms",
         "ru",
-        "ar",
-        "vi",
-        "de"
+        "de",
+        "th",
+        "id",
+        "it-IT",
+        "pt",
+        "en-US",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.165,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
     },
     {
       "ag_id": "ts436411",
@@ -2067,6 +2038,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.165,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts5328",
@@ -2378,8 +2378,8 @@
       ],
       "rating": 7.47,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2388,35 +2388,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
     },
     {
       "ag_id": "ts1781",
@@ -2447,6 +2418,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
+    },
+    {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
+      "maturity_rating": "14+",
+      "episode_count": 41
     },
     {
       "ag_id": "ts35960",
@@ -2612,8 +2612,8 @@
       ],
       "rating": 6.846,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2646,13 +2646,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pl",
         "pt",
-        "de"
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2833,49 +2833,6 @@
       "episode_count": 8
     },
     {
-      "ag_id": "ts223380",
-      "title": "BOFURI",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 96402,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.394,
-      "audio_locales": [
-        "ru",
-        "th",
-        "de",
-        "en-US",
-        "id",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT",
-        "vi",
-        "ar",
-        "de",
-        "fr",
-        "en-US",
-        "pt",
-        "ru",
-        "es"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts44184",
       "title": "Georgie",
       "year": 1983,
@@ -2902,6 +2859,49 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts223380",
+      "title": "BOFURI",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 96402,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Honjou Kaede è invitata dalla sua amica Shiramine Risa a giocare con lei a un gioco MMO di realtà virtuale. Anche se a Kaede non piacciono i giochi, ciò che davvero non le piace è provare dolore. Crea un personaggio chiamato Maple e decide di mettere tutti i suoi punti in VIT per ridurre al minimo il dolore. Di conseguenza, si muove lentamente, non può usare la magia e persino un coniglio può ottenere il meglio di lei. Ma a quanto pare, acquisisce un'abilità nota come \"Difesa assoluta\" come risultato dei suoi punti di pompaggio in VIT, così come una \"Contro abilità\" che funziona contro mosse speciali. Ora, con la sua capacità di annullare tutti i danni, va all'avventura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.394,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "id",
+        "ja-JP",
+        "ru",
+        "th"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "pt",
+        "ru",
+        "de",
+        "fr",
+        "es",
+        "vi",
+        "ar",
+        "en-US"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm1434295",
@@ -3037,10 +3037,10 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.9,
+      "rating": 7.907,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -3137,35 +3137,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts374187",
-      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 216074,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.156,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts463053",
       "title": "Your Forma",
       "year": 2025,
@@ -3182,7 +3153,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.308,
+      "rating": 6.286,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3193,35 +3164,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.528,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts90818",
@@ -3251,6 +3193,64 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
       "maturity_rating": "T",
       "episode_count": 60
+    },
+    {
+      "ag_id": "ts374187",
+      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 216074,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.156,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT",
+        "de"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.528,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm193065",
@@ -3598,35 +3598,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.118,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -3654,6 +3625,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.118,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts394055",
@@ -4500,28 +4500,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts199079",
-      "title": "L'uomo tigre II",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts400911",
       "title": "Protocol: Rain",
       "year": 2023,
@@ -4609,6 +4587,28 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts199079",
+      "title": "L'uomo tigre II",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts343493",
       "title": "Love Flops",
       "year": 2022,
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.365,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4750,35 +4750,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "tm21535",
-      "title": "I Cavalieri dello zodiaco - La dea della discordia",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 83090,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.091,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm167492",
       "title": "Lupin Terzo vs. Detective Conan: Il film",
       "year": 2013,
@@ -4868,6 +4839,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm21535",
+      "title": "I Cavalieri dello zodiaco - La dea della discordia",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 83090,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.091,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm159084",
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "pt",
         "ru",
         "de",
         "en-US",
         "es",
-        "it-IT",
-        "pt"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6678,8 +6678,8 @@
       ],
       "rating": 7.061,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7002,8 +7002,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7748,8 +7748,8 @@
       ],
       "rating": 7.0,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
