@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-01T14:32:48Z",
+  "generated_at": "2026-07-01T19:53:02Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -258,33 +258,86 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "te",
-        "de",
-        "it-IT",
-        "ja-JP",
-        "ta",
-        "hi",
-        "pt",
-        "en-US",
         "es",
-        "fr"
+        "pt",
+        "ta",
+        "de",
+        "en-US",
+        "fr",
+        "hi",
+        "ja-JP",
+        "it-IT",
+        "te"
       ],
       "subtitle_locales": [
-        "ru",
-        "fr",
-        "de",
-        "en-US",
         "id",
         "pl",
-        "pt",
         "ar",
+        "pt",
+        "ru",
+        "de",
         "es",
-        "it-IT"
+        "fr",
+        "it-IT",
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts89550",
+      "title": "Fire Force",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 88046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "de",
+        "ta",
+        "ar",
+        "en-US",
+        "hi",
+        "id",
+        "it-IT",
+        "fr",
+        "ja-JP",
+        "pt",
+        "te",
+        "es"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "es",
+        "fr",
+        "pt",
+        "ru",
+        "en-US",
+        "ms",
+        "de",
+        "id",
+        "it-IT",
+        "hi",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+",
+      "episode_count": 73
     },
     {
       "ag_id": "ts27309",
@@ -314,59 +367,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 88046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "pt",
-        "te",
-        "de",
-        "fr",
-        "ja-JP",
-        "ta",
-        "es",
-        "hi",
-        "id",
-        "ar",
-        "en-US",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "hi",
-        "th",
-        "de",
-        "id",
-        "it-IT",
-        "pt",
-        "ru",
-        "vi",
-        "fr",
-        "ms",
-        "en-US",
-        "es",
-        "ar"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
     },
     {
       "ag_id": "ts21406",
@@ -419,24 +419,24 @@
       ],
       "rating": 8.396,
       "audio_locales": [
-        "es",
-        "ta",
         "de",
-        "en-US",
+        "th",
+        "es",
         "fr",
         "hi",
         "it-IT",
         "pt",
-        "th",
-        "ja-JP",
-        "te"
+        "te",
+        "ta",
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
         "es",
         "fr",
         "it-IT",
-        "pt",
-        "en-US"
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -626,36 +626,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.475,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -675,28 +645,28 @@
       ],
       "rating": 8.162,
       "audio_locales": [
+        "hi",
+        "ja-JP",
         "pt",
         "ta",
         "te",
         "th",
         "en-US",
-        "es",
-        "hi",
-        "ja-JP"
+        "es"
       ],
       "subtitle_locales": [
-        "de",
+        "pl",
+        "zh",
         "es",
-        "fr",
         "it-IT",
         "pt",
+        "ru",
         "ar",
+        "de",
         "th",
-        "zh",
         "en-US",
-        "id",
-        "pl",
-        "ru"
+        "fr",
+        "id"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -789,6 +759,36 @@
       "episode_count": 35
     },
     {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.475,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts20686",
       "title": "Terror in Resonance",
       "year": 2014,
@@ -863,7 +863,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.925,
+      "rating": 7.944,
       "audio_locales": [
         "ja-JP"
       ],
@@ -874,37 +874,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts394764",
-      "title": "Lamù e i casinisti planetari",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154524,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.848,
-      "audio_locales": [
-        "ja-JP",
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
-      "maturity_rating": "14+",
-      "episode_count": 46
     },
     {
       "ag_id": "ts37899",
@@ -955,8 +924,8 @@
       ],
       "rating": 7.23,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -965,6 +934,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts394764",
+      "title": "Lamù e i casinisti planetari",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154524,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.848,
+      "audio_locales": [
+        "ja-JP",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts52963",
@@ -1013,8 +1013,8 @@
       ],
       "rating": 8.4,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1471,26 +1471,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
+        "pt",
+        "en-US",
         "es",
         "it-IT",
-        "ja-JP",
-        "pt",
-        "en-US"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "ms",
-        "ru",
-        "vi",
-        "ar",
-        "pt",
-        "th",
-        "de",
         "es",
         "id",
-        "zh",
-        "en-US"
+        "ar",
+        "ms",
+        "en-US",
+        "it-IT",
+        "pt",
+        "de",
+        "fr",
+        "ru",
+        "th",
+        "vi",
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1521,13 +1521,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "pt",
-        "ru"
+        "ru",
+        "de",
+        "en-US",
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
@@ -1696,7 +1696,7 @@
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.446,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2012,27 +2012,27 @@
       ],
       "rating": 7.5,
       "audio_locales": [
+        "pt",
+        "de",
         "en-US",
         "es",
         "fr",
         "it-IT",
-        "ja-JP",
-        "pt",
-        "de"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "id",
-        "th",
-        "ar",
-        "en-US",
-        "es",
-        "it-IT",
+        "fr",
         "ms",
-        "vi",
         "ru",
-        "pt",
         "de",
-        "fr"
+        "pt",
+        "en-US",
+        "it-IT",
+        "vi",
+        "ar",
+        "es",
+        "id",
+        "th"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -2185,6 +2185,34 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts394039",
       "title": "Il giovane sognatore è un realista",
       "year": 2023,
@@ -2212,34 +2240,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts40524",
@@ -2378,8 +2378,8 @@
       ],
       "rating": 7.47,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2538,34 +2538,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts444582",
       "title": "Da burocrate a villainess: papà si è reincarnato!",
       "year": 2025,
@@ -2624,6 +2596,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -2646,13 +2646,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
         "es",
-        "fr",
-        "it-IT"
+        "fr"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2888,15 +2888,15 @@
         "id"
       ],
       "subtitle_locales": [
-        "es",
-        "it-IT",
-        "pt",
         "ar",
-        "en-US",
         "de",
-        "fr",
+        "es",
         "ru",
-        "vi"
+        "pt",
+        "fr",
+        "vi",
+        "en-US",
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3215,8 +3215,8 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "it-IT"
+        "it-IT",
+        "de"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
@@ -3906,7 +3906,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.222,
+      "rating": 8.25,
       "audio_locales": [
         "it-IT"
       ],
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ar",
         "en-US",
         "es",
-        "fr"
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4241,34 +4241,6 @@
       "episode_count": 45
     },
     {
-      "ag_id": "ts440071",
-      "title": "Bad Girl",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohMsI1lElhVEWL481s8QMggc6ON.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts11218",
       "title": "Mimì e le ragazze della pallavolo",
       "year": 1977,
@@ -4324,6 +4296,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
       "maturity_rating": "18+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts440071",
+      "title": "Bad Girl",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohMsI1lElhVEWL481s8QMggc6ON.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm41614",
@@ -5678,8 +5678,8 @@
       ],
       "rating": 7.416,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6201,8 +6201,8 @@
       ],
       "rating": 8.467,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6528,8 +6528,8 @@
       ],
       "rating": 7.496,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6708,8 +6708,8 @@
       ],
       "rating": 7.433,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -8257,8 +8257,8 @@
       ],
       "rating": 6.5,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
