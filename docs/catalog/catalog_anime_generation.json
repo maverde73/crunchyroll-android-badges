@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T13:57:42Z",
+  "generated_at": "2026-07-02T19:22:40Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -49,7 +49,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.502,
       "audio_locales": [
         "it-IT"
       ],
@@ -239,59 +239,6 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 88046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -309,7 +256,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.54,
       "audio_locales": [
         "de",
         "en-US",
@@ -367,6 +314,59 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts89550",
+      "title": "Fire Force",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 88046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+",
+      "episode_count": 73
     },
     {
       "ag_id": "ts21406",
@@ -746,7 +746,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.288,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2070,34 +2070,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -2114,7 +2086,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 8.165,
+      "rating": 8.175,
       "audio_locales": [
         "it-IT"
       ],
@@ -2154,6 +2126,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts47224",
@@ -3007,7 +3007,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.864,
+      "rating": 5.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3081,6 +3081,33 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm130037",
+      "title": "Holly & Benji: La Grande Sfida Europea",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 171899,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3108,33 +3135,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
-    },
-    {
-      "ag_id": "tm130037",
-      "title": "Holly & Benji: La Grande Sfida Europea",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 171899,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts463053",
@@ -7002,8 +7002,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
