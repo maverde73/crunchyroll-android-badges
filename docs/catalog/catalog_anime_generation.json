@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-02T03:28:56Z",
+  "generated_at": "2026-07-02T08:54:12Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,10 +19,10 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.364,
+      "rating": 8.365,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -258,28 +258,28 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "hi",
+        "fr",
         "pt",
-        "de",
-        "ja-JP",
         "ta",
-        "es",
+        "de",
         "en-US",
-        "it-IT",
         "te",
-        "fr"
+        "hi",
+        "it-IT",
+        "ja-JP",
+        "es"
       ],
       "subtitle_locales": [
-        "en-US",
         "es",
-        "fr",
-        "it-IT",
-        "ru",
         "id",
+        "it-IT",
         "pt",
+        "ru",
         "ar",
+        "fr",
+        "pl",
         "de",
-        "pl"
+        "en-US"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -335,82 +335,38 @@
       ],
       "rating": 8.3,
       "audio_locales": [
-        "de",
-        "te",
-        "ar",
-        "en-US",
-        "ja-JP",
-        "ta",
-        "es",
-        "id",
-        "fr",
-        "hi",
         "it-IT",
-        "pt"
+        "ja-JP",
+        "de",
+        "hi",
+        "te",
+        "en-US",
+        "es",
+        "pt",
+        "ta",
+        "fr",
+        "ar",
+        "id"
       ],
       "subtitle_locales": [
-        "ms",
-        "fr",
+        "id",
         "pt",
         "th",
         "ar",
-        "en-US",
-        "es",
-        "ru",
-        "hi",
-        "vi",
         "de",
-        "id",
-        "it-IT"
+        "en-US",
+        "vi",
+        "es",
+        "fr",
+        "hi",
+        "ru",
+        "it-IT",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.396,
-      "audio_locales": [
-        "ta",
-        "es",
-        "te",
-        "en-US",
-        "it-IT",
-        "ja-JP",
-        "th",
-        "fr",
-        "hi",
-        "pt",
-        "de"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts21406",
@@ -442,6 +398,50 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.396,
+      "audio_locales": [
+        "te",
+        "ta",
+        "es",
+        "it-IT",
+        "th",
+        "en-US",
+        "fr",
+        "hi",
+        "pt",
+        "de",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "pt",
+        "en-US",
+        "es"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts17714",
@@ -492,28 +492,28 @@
       ],
       "rating": 8.165,
       "audio_locales": [
-        "ta",
         "te",
         "th",
         "en-US",
         "es",
         "hi",
         "ja-JP",
-        "pt"
+        "pt",
+        "ta"
       ],
       "subtitle_locales": [
-        "ar",
-        "fr",
-        "zh",
-        "id",
-        "pl",
-        "th",
+        "pt",
         "de",
         "en-US",
-        "es",
         "it-IT",
-        "pt",
-        "ru"
+        "zh",
+        "id",
+        "ru",
+        "th",
+        "ar",
+        "es",
+        "fr",
+        "pl"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
@@ -539,8 +539,8 @@
       ],
       "rating": 7.537,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -581,36 +581,6 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.692,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -640,6 +610,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
+    },
+    {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.692,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts12311",
@@ -802,7 +802,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.475,
+      "rating": 8.482,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -982,8 +982,8 @@
       ],
       "rating": 6.848,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -1263,7 +1263,7 @@
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.056,
+      "rating": 8.023,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1414,26 +1414,26 @@
       ],
       "rating": 7.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP",
         "pt",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "en-US",
-        "id",
+        "pt",
+        "th",
         "it-IT",
         "ms",
-        "th",
-        "fr",
-        "vi",
-        "pt",
-        "ru",
-        "de",
+        "ar",
+        "en-US",
         "es",
-        "zh"
+        "zh",
+        "de",
+        "fr",
+        "id",
+        "ru",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
@@ -1504,7 +1504,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
-      "episode_count": 35
+      "episode_count": 39
     },
     {
       "ag_id": "ts38826",
@@ -2012,61 +2012,32 @@
       ],
       "rating": 7.5,
       "audio_locales": [
-        "de",
-        "en-US",
-        "es",
         "fr",
         "it-IT",
         "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
         "pt",
-        "es",
-        "it-IT",
-        "th",
-        "vi",
         "de",
         "en-US",
-        "id",
-        "ms",
+        "es"
+      ],
+      "subtitle_locales": [
+        "vi",
+        "de",
+        "es",
+        "en-US",
+        "pt",
         "ru",
+        "th",
         "ar",
-        "fr"
+        "fr",
+        "id",
+        "it-IT",
+        "ms"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.165,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
     },
     {
       "ag_id": "ts5328",
@@ -2125,6 +2096,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
       "maturity_rating": "T",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.165,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts452568",
@@ -2646,13 +2646,13 @@
         "ja-JP"
       ],
       "subtitle_locales": [
+        "fr",
         "it-IT",
         "pl",
         "pt",
         "de",
         "en-US",
-        "es",
-        "fr"
+        "es"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
@@ -2677,8 +2677,8 @@
       ],
       "rating": 8.01,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -2880,23 +2880,23 @@
       ],
       "rating": 7.394,
       "audio_locales": [
+        "de",
         "en-US",
         "id",
         "ja-JP",
         "ru",
-        "th",
-        "de"
+        "th"
       ],
       "subtitle_locales": [
-        "de",
-        "fr",
-        "ru",
-        "vi",
-        "ar",
-        "en-US",
         "pt",
+        "ru",
+        "ar",
+        "fr",
         "it-IT",
-        "es"
+        "de",
+        "en-US",
+        "es",
+        "vi"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
@@ -3833,6 +3833,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts88978",
+      "title": "Mix: Meisei Story",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 87456,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kowCQlJZ7rwamUUtRcpmdbjgE9w.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.615,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
+      "maturity_rating": "T",
+      "episode_count": 48
+    },
+    {
       "ag_id": "ts441134",
       "title": "Tutto solo alla conquista di un altro mondo",
       "year": 2024,
@@ -3860,34 +3888,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts88978",
-      "title": "Mix: Meisei Story",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 87456,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kowCQlJZ7rwamUUtRcpmdbjgE9w.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.615,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
-      "maturity_rating": "T",
-      "episode_count": 48
     },
     {
       "ag_id": "ts36530",
@@ -4142,12 +4142,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "pt",
         "ar",
         "en-US",
-        "es"
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
@@ -4657,8 +4657,8 @@
       ],
       "rating": 7.365,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -4691,35 +4691,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts447887",
-      "title": "Momentary Lily",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258228,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4hrpiVt6m5ZGVzVjqESfoDHwFoJ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "tm96037",
       "title": "Naruto Shippuden: Il film - La torre perduta",
       "year": 2010,
@@ -4748,6 +4719,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a998437d-aa08-4fdb-b6a3-9baa7169fff3",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts447887",
+      "title": "Momentary Lily",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258228,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4hrpiVt6m5ZGVzVjqESfoDHwFoJ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "tm167492",
@@ -5418,8 +5418,8 @@
       ],
       "rating": 7.002,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -5801,12 +5801,12 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT",
-        "pt",
         "ru",
         "de",
         "en-US",
-        "es"
+        "es",
+        "it-IT",
+        "pt"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
@@ -6467,8 +6467,8 @@
       ],
       "rating": 6.937,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -6706,7 +6706,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.433,
+      "rating": 7.44,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7033,8 +7033,8 @@
       ],
       "rating": 7.181,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7241,8 +7241,8 @@
       ],
       "rating": 6.7,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7483,8 +7483,8 @@
       ],
       "rating": 6.868,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
@@ -7658,8 +7658,8 @@
       ],
       "rating": 6.9,
       "audio_locales": [
-        "ja-JP",
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
