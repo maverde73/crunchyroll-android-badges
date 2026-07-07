@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T14:30:31Z",
+  "generated_at": "2026-07-07T19:53:26Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -78,7 +78,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.088,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -108,7 +108,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -461,7 +461,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.037,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -581,7 +581,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.163,
+      "rating": 8.2,
       "audio_locales": [
         "en-US",
         "es",
@@ -864,7 +864,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.815,
+      "rating": 7.8,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1011,7 +1011,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.848,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1115,8 +1115,11 @@
       "title": "One Piece Fan Letter",
       "year": 2024,
       "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
+      "external_ids": {
+        "tmdb_id": 1727694,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Ispirata da Nami, una giovane ragazza intraprende un'avventura.",
       "poster_tall": "",
       "poster_wide": "",
       "genres": [],
@@ -1130,7 +1133,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
       "maturity_rating": "13+",
-      "episode_count": 0
+      "episode_count": 1
     },
     {
       "ag_id": "ts28081",
@@ -1639,7 +1642,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.345,
+      "rating": 7.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1982,7 +1985,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.204,
+      "rating": 6.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2611,7 +2614,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.01,
+      "rating": 8.011,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2671,7 +2674,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.705,
+      "rating": 7.7,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -4487,7 +4490,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 5.929,
+      "rating": 5.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4678,7 +4681,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.757,
+      "rating": 6.8,
       "audio_locales": [
         "ja-JP"
       ],
