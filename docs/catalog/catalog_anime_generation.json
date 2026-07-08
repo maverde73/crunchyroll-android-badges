@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-07T19:53:26Z",
+  "generated_at": "2026-07-08T02:34:19Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.364,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -138,7 +138,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.541,
       "audio_locales": [
         "de",
         "en-US",
@@ -199,6 +199,63 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.875,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.306,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -229,34 +286,6 @@
       "episode_count": 85
     },
     {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.307,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -274,7 +303,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.483,
+      "rating": 8.484,
       "audio_locales": [
         "it-IT"
       ],
@@ -285,35 +314,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.875,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts89550",
@@ -386,7 +386,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.394,
+      "rating": 8.393,
       "audio_locales": [
         "de",
         "en-US",
@@ -461,7 +461,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.043,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -491,7 +491,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.6,
+      "rating": 7.635,
       "audio_locales": [
         "it-IT"
       ],
@@ -504,24 +504,21 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 34163,
+        "tmdb_id": 44033,
         "tmdb_type": "tv"
       },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
       "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
+        "Animazione"
       ],
-      "rating": 7.3,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -529,9 +526,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
-      "maturity_rating": "14+",
-      "episode_count": 218
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts353577",
@@ -562,6 +559,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "maturity_rating": "14+",
+      "episode_count": 218
     },
     {
       "ag_id": "ts407747",
@@ -777,7 +804,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.455,
+      "rating": 8.458,
       "audio_locales": [
         "it-IT"
       ],
@@ -819,36 +846,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts20686",
-      "title": "Terror in Resonance - L’eco del terrore",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61421,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.769,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
-      "maturity_rating": "14+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -864,7 +861,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.8,
+      "rating": 7.815,
       "audio_locales": [
         "ja-JP"
       ],
@@ -893,7 +890,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.488,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -907,21 +904,24 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
+      "ag_id": "ts20686",
+      "title": "Terror in Resonance - L’eco del terrore",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 44033,
+        "tmdb_id": 61421,
         "tmdb_type": "tv"
       },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
       "genres": [
-        "Animazione"
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Crime"
       ],
-      "rating": 7.8,
+      "rating": 7.769,
       "audio_locales": [
         "it-IT"
       ],
@@ -929,9 +929,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
+      "maturity_rating": "14+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts37899",
@@ -980,7 +980,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.274,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1098,7 +1098,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.774,
+      "rating": 7.75,
       "audio_locales": [
         "it-IT"
       ],
@@ -1400,7 +1400,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -1583,7 +1583,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.319,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1998,35 +1998,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.923,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -2071,6 +2042,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.923,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts452568",
@@ -2118,7 +2118,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 8.175,
+      "rating": 8.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -2393,6 +2393,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "tm112217",
+      "title": "Ken il guerriero - Il film",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19877,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+      ],
+      "rating": 6.798,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -2421,35 +2450,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
-    },
-    {
-      "ag_id": "tm112217",
-      "title": "Ken il guerriero - Il film",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19877,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-      ],
-      "rating": 6.798,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts35975",
@@ -2614,7 +2614,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.011,
+      "rating": 8.014,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2736,7 +2736,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.375,
+      "rating": 6.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3040,7 +3040,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.918,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4628,7 +4628,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.365,
+      "rating": 7.366,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5273,7 +5273,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.381,
+      "rating": 7.382,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6321,7 +6321,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.7,
+      "rating": 7.765,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6391,6 +6391,38 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm184358",
+      "title": "One Piece - L'isola segreta del barone Omatsuri",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44729,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo averne trovato la mappa, Rufy e la sua ciurma decidono di visitare l'isola di Omatsuri, dove tutti gli abitanti hanno una strana piantina sulla testa. Il capo di quest'isola è il barone Omatsuri, che li sfida ad affrontare dure prove in cambio dell'accesso a luoghi per rilassarsi e questi accettano. In realtà il barone molti anni prima era il capitano di una ciurma pirata ma un giorno tutti i suoi compagni erano stati uccisi; ha iniziato così ad odiare tutti i pirati fra i quali c'era un forte legame e, cercando di separarli, li attira sulla sua isola e li fa tutti mangiare a parte il capitano dal Giglio Garofano, una grossa e mostruosa pianta situata sulla sommità di un monte. Grazie all'energia assorbita dalla pianta, il barone riesce a mantenere in vita i suoi compagni uccisi tempo fa. Dopo aver affrontato e vinto le prime due prove, il rapporto di amicizia fra i protagonisti inizia ad affievolirsi e iniziano quindi a scomparire.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gD5YcvGbsBmhSG4aHk7dFo4rgwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts52195",
       "title": "General Daimos",
       "year": 1978,
@@ -6447,38 +6479,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
       "maturity_rating": "12+",
       "episode_count": 42
-    },
-    {
-      "ag_id": "tm184358",
-      "title": "One Piece - L'isola segreta del barone Omatsuri",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44729,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo averne trovato la mappa, Rufy e la sua ciurma decidono di visitare l'isola di Omatsuri, dove tutti gli abitanti hanno una strana piantina sulla testa. Il capo di quest'isola è il barone Omatsuri, che li sfida ad affrontare dure prove in cambio dell'accesso a luoghi per rilassarsi e questi accettano. In realtà il barone molti anni prima era il capitano di una ciurma pirata ma un giorno tutti i suoi compagni erano stati uccisi; ha iniziato così ad odiare tutti i pirati fra i quali c'era un forte legame e, cercando di separarli, li attira sulla sua isola e li fa tutti mangiare a parte il capitano dal Giglio Garofano, una grossa e mostruosa pianta situata sulla sommità di un monte. Grazie all'energia assorbita dalla pianta, il barone riesce a mantenere in vita i suoi compagni uccisi tempo fa. Dopo aver affrontato e vinto le prime due prove, il rapporto di amicizia fra i protagonisti inizia ad affievolirsi e iniziano quindi a scomparire.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gD5YcvGbsBmhSG4aHk7dFo4rgwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm27612",
@@ -6693,38 +6693,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts15516",
       "title": "Il prode Raideen",
       "year": 1975,
@@ -6897,6 +6865,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm191827",
@@ -7496,36 +7496,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm88171",
-      "title": "One Piece - La spada delle sette stelle",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44728,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione"
-      ],
-      "rating": 6.868,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts413183",
       "title": "Rinkai!",
       "year": 2024,
@@ -7698,6 +7668,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm88171",
+      "title": "One Piece - La spada delle sette stelle",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44728,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione"
+      ],
+      "rating": 6.868,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
