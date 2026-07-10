@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-09T19:44:08Z",
+  "generated_at": "2026-07-10T02:54:57Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -63,6 +63,35 @@
       "episode_count": 1206
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.498,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -92,33 +121,34 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 35935,
+        "tmdb_id": 60863,
         "tmdb_type": "tv"
       },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Animazione",
+        "Commedia",
+        "Dramma"
       ],
-      "rating": 8.502,
+      "rating": 8.6,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 85
     },
     {
       "ag_id": "ts413191",
@@ -169,36 +199,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.62,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
-    },
-    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -246,7 +246,7 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.338,
+      "rating": 8.335,
       "audio_locales": [
         "ar",
         "de",
@@ -291,13 +291,13 @@
         "tmdb_type": "movie"
       },
       "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVkBjkEB8RwwAetZ1qmt4LeSjac.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
       "genres": [
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -327,7 +327,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.484,
+      "rating": 8.485,
       "audio_locales": [
         "it-IT"
       ],
@@ -356,7 +356,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.881,
+      "rating": 7.882,
       "audio_locales": [
         "it-IT"
       ],
@@ -386,7 +386,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.391,
+      "rating": 8.389,
       "audio_locales": [
         "de",
         "en-US",
@@ -509,7 +509,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.043,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -774,7 +774,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.311,
+      "rating": 7.314,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -817,35 +817,6 @@
       "episode_count": 112
     },
     {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
-    },
-    {
       "ag_id": "ts320501",
       "title": "Mato Seihei no Slave",
       "year": 2024,
@@ -875,36 +846,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts1781",
-      "title": "City Hunter",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Mistero"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
-      "maturity_rating": "14+",
-      "episode_count": 140
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -920,7 +861,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.815,
+      "rating": 7.807,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1179,7 +1120,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Ispirata da Nami, una giovane ragazza intraprende un'avventura.",
-      "poster_tall": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zjsH5XZhjRZWUobOdS6yhM5oXgr.jpg",
       "poster_wide": "",
       "genres": [],
       "rating": null,
@@ -1430,7 +1371,7 @@
         "Sci-Fi & Fantasy",
         "War & Politics"
       ],
-      "rating": 7.7,
+      "rating": 7.72,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1470,6 +1411,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
     },
     {
       "ag_id": "tm222871",
@@ -2073,7 +2043,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.5,
+      "rating": 7.49,
       "audio_locales": [
         "de",
         "en-US",
@@ -2218,36 +2188,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "ts394039",
       "title": "Il giovane sognatore è un realista",
       "year": 2023,
@@ -2364,6 +2304,36 @@
       "episode_count": 50
     },
     {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2402,14 +2372,14 @@
         "tmdb_type": "movie"
       },
       "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/phGPx0Y3zH7FL0Tf7wH4fqZkmU7.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1FwSKpiqtLWO2yAEdStuh7W6qiQ.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
       "genres": [
         "Animazione",
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.798,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -2422,34 +2392,34 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts329737",
-      "title": "Helck",
-      "year": 2023,
+      "ag_id": "ts1781",
+      "title": "City Hunter",
+      "year": 1987,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 157571,
+        "tmdb_id": 36046,
         "tmdb_type": "tv"
       },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
       "genres": [
+        "Action & Adventure",
         "Animazione",
         "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Mistero"
       ],
-      "rating": 7.0,
+      "rating": 7.9,
       "audio_locales": [
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 140
     },
     {
       "ag_id": "ts35975",
@@ -2480,6 +2450,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts329737",
+      "title": "Helck",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 157571,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts87564",
@@ -3601,35 +3601,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts31966",
-      "title": "Calendar Men",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45050,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.25,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3677,7 +3648,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.274,
+      "rating": 8.272,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3706,7 +3677,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.215,
+      "rating": 7.241,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3719,22 +3690,23 @@
       "episode_count": 10
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
+      "ag_id": "ts31966",
+      "title": "Calendar Men",
+      "year": 1981,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 29310,
+        "tmdb_id": 45050,
         "tmdb_type": "tv"
       },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
       "genres": [
         "Animazione",
-        "Dramma"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 5.9,
+      "rating": 7.25,
       "audio_locales": [
         "it-IT"
       ],
@@ -3742,9 +3714,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts55977",
@@ -3775,6 +3747,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts314452",
@@ -5031,7 +5031,7 @@
       },
       "description_it": "A causa di un certo \"incidente\", un golfista professionista ha deciso di ritirarsi dalle competizioni sportive per nascondersi su un'isola sperduta dove incontra un prodigio del golf, una giovane ragazza.",
       "poster_tall": "https://image.tmdb.org/t/p/original/ccgVEIf4TPmwJTdeTgO0mVqnUbh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g0xuocr62hAYlwsoaqtyqBEVvhy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ePma3sQVolgMcojxBrhkGgN9u4D.jpg",
       "genres": [
         "Animazione",
         "Dramma"
@@ -5077,35 +5077,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts53271",
-      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 69212,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 9.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
-      "maturity_rating": "16+",
-      "episode_count": 7
     },
     {
       "ag_id": "tm222860",
@@ -5193,6 +5164,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts53271",
+      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 69212,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 9.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
+      "maturity_rating": "16+",
+      "episode_count": 7
     },
     {
       "ag_id": "tm37256",
@@ -5861,7 +5861,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.0,
+      "rating": 6.444,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6778,6 +6778,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.27716161-60af-441f-a1a2-4c30492ef0d3",
       "maturity_rating": "16+",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts473665",
+      "title": "Lulu&Lilly - Le sorelle della magia",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286361,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Due sorelle, che vivono lo stesso periodo di lontananza, acquisiscono poteri segreti per un anno, trasformandosi in idoli mentre inseguono i loro sogni, ignare di condividere lo stesso destino nascosto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1lziKy50ykj6T5blCMnrQweB7HW.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8z6AOYD2nofxafAZDhuzkQQFdnC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ee59841-948c-4f2f-8591-698b31240754",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm134235",
@@ -8252,7 +8281,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rRTatqGpv0age68k6D0lgGzKCgG.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/lzqceOAksgnxTbTIe355DYdwdS.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
       "genres": [
         "Animazione",
