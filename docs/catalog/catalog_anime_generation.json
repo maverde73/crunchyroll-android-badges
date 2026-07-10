@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-10T02:54:57Z",
+  "generated_at": "2026-07-10T09:32:40Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -63,35 +63,6 @@
       "episode_count": 1206
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.498,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -119,6 +90,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts20112",
@@ -168,7 +168,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.541,
+      "rating": 8.539,
       "audio_locales": [
         "de",
         "en-US",
@@ -229,6 +229,34 @@
       "episode_count": 152
     },
     {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts89550",
       "title": "Fire Force",
       "year": 2019,
@@ -246,7 +274,7 @@
         "Sci-Fi & Fantasy",
         "Commedia"
       ],
-      "rating": 8.335,
+      "rating": 8.3,
       "audio_locales": [
         "ar",
         "de",
@@ -280,34 +308,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts22809",
@@ -509,7 +509,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.05,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -579,36 +579,6 @@
       "episode_count": 109
     },
     {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
-      "maturity_rating": "14+",
-      "episode_count": 218
-    },
-    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -637,6 +607,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "maturity_rating": "14+",
+      "episode_count": 218
     },
     {
       "ag_id": "ts317669",
@@ -980,7 +980,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.286,
+      "rating": 7.266,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1820,35 +1820,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts24632",
-      "title": "Abenobashi - Il quartiere commerciale di magia",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 12144,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sasshi e Arumi sono due bambini che, dopo uno spaventoso incidente, si ritrovano in un universo parallelo rappresentante realtà alternative del quartiere dove sono cresciuti e in cui tuttora abitano: Abenobashi, a Osaka (Giappone). Nel tentativo di fare ritorno a casa vivranno numerose avventure il cui scopo sarà, almeno inizialmente, cercare il piccolo demone che, tramite un rito magico, è in grado di riportarli a casa. Ma il funzionamento di questa magia è strettamente legato alla volontà dei due ragazzi: solo se volessero tornare realmente a casa potrebbero farlo. Sasshi, contrariamente ad Arumi, vuole continuare a divertirsi nei mondi paralleli di Abenobashi e per questo ritarderà continuamente il ritorno ad Osaka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fcnXhThqdIEsXNkwQuLwc56FtFJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oO1ZOYYkc5BM6LatmXY62vAxjSc.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
-      "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -1876,6 +1847,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts24632",
+      "title": "Abenobashi - Il quartiere commerciale di magia",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 12144,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sasshi e Arumi sono due bambini che, dopo uno spaventoso incidente, si ritrovano in un universo parallelo rappresentante realtà alternative del quartiere dove sono cresciuti e in cui tuttora abitano: Abenobashi, a Osaka (Giappone). Nel tentativo di fare ritorno a casa vivranno numerose avventure il cui scopo sarà, almeno inizialmente, cercare il piccolo demone che, tramite un rito magico, è in grado di riportarli a casa. Ma il funzionamento di questa magia è strettamente legato alla volontà dei due ragazzi: solo se volessero tornare realmente a casa potrebbero farlo. Sasshi, contrariamente ad Arumi, vuole continuare a divertirsi nei mondi paralleli di Abenobashi e per questo ritarderà continuamente il ritorno ad Osaka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fcnXhThqdIEsXNkwQuLwc56FtFJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oO1ZOYYkc5BM6LatmXY62vAxjSc.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts25996",
@@ -2043,7 +2043,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.49,
+      "rating": 7.5,
       "audio_locales": [
         "de",
         "en-US",
@@ -2275,35 +2275,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts22705",
-      "title": "Il fantastico mondo di Paul",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42955,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
-      "episode_count": 50
-    },
-    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -2361,6 +2332,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
       "maturity_rating": "16+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts22705",
+      "title": "Il fantastico mondo di Paul",
+      "year": 1976,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42955,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "tm112217",
@@ -2778,35 +2778,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.625,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "tm1434295",
       "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
       "year": 2024,
@@ -2836,6 +2807,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.625,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts223380",
@@ -3010,7 +3010,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.042,
+      "rating": 6.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3127,7 +3127,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.3,
+      "rating": 6.271,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3807,35 +3807,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts441134",
-      "title": "Tutto solo alla conquista di un altro mondo",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 259558,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.03,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts88978",
       "title": "Mix: Meisei Story",
       "year": 2019,
@@ -3864,23 +3835,23 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
+      "ag_id": "ts441134",
+      "title": "Tutto solo alla conquista di un altro mondo",
+      "year": 2024,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 154098,
+        "tmdb_id": 259558,
         "tmdb_type": "tv"
       },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.808,
+      "rating": 7.03,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3888,7 +3859,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
     },
@@ -3920,6 +3891,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.808,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm65451",
@@ -4532,35 +4532,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts317155",
-      "title": "HEN - Bizzarro",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 179023,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Chizuru Yoshida è una normalissima ragazza che frequenta il liceo, dalla spiccata sensualità ed enorme popolarità fra gli studenti della sua età (data anche dall'estrema generosità del suo seno), che tuttavia si ritrova innamorata in maniera del tutto inattesa e non preventivata di una ragazzina appena trasferitasi con la madre da Fukuoka: l’innocente Azumi Yamada.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRSXRkGL2qZfE0zTOewaJPSUMVc.jpg",
-      "poster_wide": "",
-      "genres": [
-        "Commedia",
-        "Animazione",
-        "Romance"
-      ],
-      "rating": 3.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts199079",
       "title": "L'uomo tigre II",
       "year": 1969,
@@ -4610,6 +4581,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts317155",
+      "title": "HEN - Bizzarro",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 179023,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Chizuru Yoshida è una normalissima ragazza che frequenta il liceo, dalla spiccata sensualità ed enorme popolarità fra gli studenti della sua età (data anche dall'estrema generosità del suo seno), che tuttavia si ritrova innamorata in maniera del tutto inattesa e non preventivata di una ragazzina appena trasferitasi con la madre da Fukuoka: l’innocente Azumi Yamada.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRSXRkGL2qZfE0zTOewaJPSUMVc.jpg",
+      "poster_wide": "",
+      "genres": [
+        "Commedia",
+        "Animazione",
+        "Romance"
+      ],
+      "rating": 3.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm29738",
@@ -7359,7 +7359,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.745,
+      "rating": 7.757,
       "audio_locales": [
         "it-IT"
       ],
@@ -8272,37 +8272,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm374743",
-      "title": "Hello! Spank: Il film - Le pene d'amore di Spank",
-      "year": 1982,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 507477,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/lzqceOAksgnxTbTIe355DYdwdS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Romance",
-        "Dramma"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm47223",
       "title": "Lupin III: La lampada di Aladino",
       "year": 2008,
@@ -8384,6 +8353,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm374743",
+      "title": "Hello! Spank: Il film - Le pene d'amore di Spank",
+      "year": 1982,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 507477,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L'imbranato cagnolino amico di Aiko, si innamora a prima vista della cagnetta Anna. Sho Shimada, il padrone di Anna, si trasferisce nella classe di Aiko. Complici una serie di battibecchi e la malattia di Anna, i due si avvicinano l'un l'altra. Tuttavia, all'improvviso, Sho deve trasferirsi in America per studiare violino e si preoccupa perché non riesce a dirlo ad Aiko. La ragazza, che ha sentito parlare di questo fatto dalla madre di lui, vorrebbe costruire insieme a Sho dei bei ricordi nel tempo che resta loro da passare insieme prima della partenza…",
+      "poster_tall": "https://image.tmdb.org/t/p/original/lzqceOAksgnxTbTIe355DYdwdS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3tXCbPSkNryTr8q1ph0whkCBF7Z.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Romance",
+        "Dramma"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
       "maturity_rating": "T",
       "episode_count": 1
     },
