@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-14T13:40:08Z",
+  "generated_at": "2026-07-14T19:17:27Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.364,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -50,7 +50,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.016,
+      "rating": 8.015,
       "audio_locales": [
         "it-IT"
       ],
@@ -109,7 +109,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.54,
+      "rating": 8.5,
       "audio_locales": [
         "de",
         "en-US",
@@ -610,36 +610,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "14+",
-      "episode_count": 218
-    },
-    {
       "ag_id": "ts353577",
       "title": "Isekai Farming - Vita contadina in un altro mondo",
       "year": 2023,
@@ -670,37 +640,34 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 62745,
+        "tmdb_id": 34163,
         "tmdb_type": "tv"
       },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
       "genres": [
         "Animazione",
-        "Sci-Fi & Fantasy",
         "Commedia",
-        "Action & Adventure"
+        "Sci-Fi & Fantasy",
+        "Dramma"
       ],
       "rating": 7.3,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "fr",
-        "it-IT",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
-      "episode_count": 74
+      "episode_count": 218
     },
     {
       "ag_id": "ts317669",
@@ -792,6 +759,39 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "fr",
+        "it-IT",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "ts354570",
@@ -1039,7 +1039,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.46,
+      "rating": 8.459,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1164,34 +1164,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts52963",
-      "title": "Wolf Girl & Black Prince",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68960,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.906,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1996,
@@ -1219,6 +1191,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+",
       "episode_count": 61
+    },
+    {
+      "ag_id": "ts52963",
+      "title": "Wolf Girl & Black Prince",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68960,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.906,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts22249",
@@ -1640,7 +1640,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.402,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -2100,7 +2100,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.485,
+      "rating": 7.5,
       "audio_locales": [
         "de",
         "en-US",
@@ -3055,6 +3055,33 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm130037",
+      "title": "Holly & Benji: La Grande Sfida Europea",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 171899,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.586,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3082,33 +3109,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
-    },
-    {
-      "ag_id": "tm130037",
-      "title": "Holly & Benji: La Grande Sfida Europea",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 171899,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.586,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts412408",
@@ -3575,35 +3575,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts341771",
-      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 194774,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.165,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3631,6 +3602,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts341771",
+      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 194774,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.192,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm184092",
@@ -3680,7 +3680,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.272,
+      "rating": 8.268,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6562,7 +6562,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.937,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8362,6 +8362,33 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm102684",
+      "title": "Cyborg 009: La leggenda della supergalassia",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 187695,
+        "tmdb_type": "movie"
+      },
+      "description_it": "All'inizio della storia, i nove Cyborg non fanno più parte dello squadrone da combattimento coordinato dal Dottor Gilmore, ma sono ciascuno dediti a differenti attività (Joe -009- è un pilota di formula uno, Francoise -003- è una ballerina, e così via). Il citato Prof. Gilmore, ormai in pensione, trascorre i suoi giorni in un istituto di ricerche scientifiche, accudendo Iwan -001-. Ma è proprio quest'ultimo, grazie ai suoi poteri telepatici a scoprire la presenza di una grave minaccia per il genere umano, che si concretizzerà in un'invasione aliena. Per fronteggiare tele eventualità, il dottor Gilmore è costretto, seppur a malincuore a riunire i cyborg, i quali assieme ad un alieno giunto presso il laboratorio a bordo di una misteriosa astronave, partono per quella che sarà, probabilmente, la loro ultima missione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eA7sprAMJMzoY5L6uKDjk89QKan.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ktvKQdwWfdlZTwLOqh0D0y6ZkVp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.740528dc-ffdb-4018-bbb3-601c7bcdb1b3",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm374743",
       "title": "Hello! Spank: Il film - Le pene d'amore di Spank",
       "year": 1982,
@@ -8419,33 +8446,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.841d1459-e8b1-4905-9578-5ed2f421571c",
       "maturity_rating": "16+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "tm102684",
-      "title": "Cyborg 009: La leggenda della supergalassia",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 187695,
-        "tmdb_type": "movie"
-      },
-      "description_it": "All'inizio della storia, i nove Cyborg non fanno più parte dello squadrone da combattimento coordinato dal Dottor Gilmore, ma sono ciascuno dediti a differenti attività (Joe -009- è un pilota di formula uno, Francoise -003- è una ballerina, e così via). Il citato Prof. Gilmore, ormai in pensione, trascorre i suoi giorni in un istituto di ricerche scientifiche, accudendo Iwan -001-. Ma è proprio quest'ultimo, grazie ai suoi poteri telepatici a scoprire la presenza di una grave minaccia per il genere umano, che si concretizzerà in un'invasione aliena. Per fronteggiare tele eventualità, il dottor Gilmore è costretto, seppur a malincuore a riunire i cyborg, i quali assieme ad un alieno giunto presso il laboratorio a bordo di una misteriosa astronave, partono per quella che sarà, probabilmente, la loro ultima missione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eA7sprAMJMzoY5L6uKDjk89QKan.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ktvKQdwWfdlZTwLOqh0D0y6ZkVp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.740528dc-ffdb-4018-bbb3-601c7bcdb1b3",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "tm117720",
