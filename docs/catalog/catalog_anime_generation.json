@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T13:47:04Z",
+  "generated_at": "2026-07-16T19:07:23Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -109,7 +109,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.535,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -396,7 +396,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.413,
       "audio_locales": [
         "ja-JP"
       ],
@@ -451,6 +451,66 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
+      "ag_id": "tm2859972",
+      "title": "ONE PIECE HEROINES",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1659389,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nami ha acquistato un nuovo paio di scarpe dal negozio Lebno Listchaque, ma dato che le fanno male ai piedi torna a restituirle. Quando la giovane calzolaia Miucha le dice che purtroppo il negozio non accetta restituzioni, arriva il proprietario Lebno che offre a Nami di metterle a posto le scarpe in cambio della sua partecipazione nella sfilata di moda per presentare i nuovi modelli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia"
+      ],
+      "rating": 6.227,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98dcae4c-2c08-42f2-aa7c-5d358727fedc",
+      "maturity_rating": "13+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts407747",
@@ -532,66 +592,6 @@
       "episode_count": 32
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
-      "ag_id": "tm2859972",
-      "title": "ONE PIECE HEROINES",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1659389,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nami ha acquistato un nuovo paio di scarpe dal negozio Lebno Listchaque, ma dato che le fanno male ai piedi torna a restituirle. Quando la giovane calzolaia Miucha le dice che purtroppo il negozio non accetta restituzioni, arriva il proprietario Lebno che offre a Nami di metterle a posto le scarpe in cambio della sua partecipazione nella sfilata di moda per presentare i nuovi modelli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hUkFUI5wKYAihLOks7RVU0TfzUS.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia"
-      ],
-      "rating": 6.227,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98dcae4c-2c08-42f2-aa7c-5d358727fedc",
-      "maturity_rating": "13+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -668,7 +668,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.305,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5930,7 +5930,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Oscar Francois De Jarjayes è una fanciulla bionda, allevata dal padre come se fosse un maschio. A 25 anni entra, in abiti maschili, nel servizio della regina, assistendo agli intrighi di corte e facendo la conoscenza del conte Hans Axel Von Fersen di cui si innamora.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r170KC3yo2wgdmjhVN0d17vQJ2C.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kqEjaCU83RLwoNLqJPymExTGomZ.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/dcUl5dl0cexrK3QsHyR9F5adxco.jpg",
       "genres": [
         "Storia",
@@ -6945,7 +6945,7 @@
     {
       "ag_id": "tm27495",
       "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
+      "year": 2026,
       "matched_crunchyroll_id": null,
       "external_ids": {
         "tmdb_id": 19576,
@@ -6961,7 +6961,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.1,
+      "rating": null,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7612,7 +7612,7 @@
         "Avventura",
         "Crime"
       ],
-      "rating": 6.5,
+      "rating": 6.453,
       "audio_locales": [
         "it-IT"
       ],
