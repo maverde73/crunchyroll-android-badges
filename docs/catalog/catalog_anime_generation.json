@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-16T02:29:17Z",
+  "generated_at": "2026-07-16T13:47:04Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -50,7 +50,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.015,
+      "rating": 8.012,
       "audio_locales": [
         "it-IT"
       ],
@@ -111,28 +111,11 @@
       ],
       "rating": 8.5,
       "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
         "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
@@ -167,6 +150,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.619,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
     },
     {
       "ag_id": "ts89550",
@@ -220,66 +233,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.62,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
-    },
-    {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.039,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
     },
     {
       "ag_id": "ts22809",
@@ -367,6 +320,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pyKoDDO1guppjmGmcg7iFAJc3Oa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.039,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts44897",
@@ -535,7 +518,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.075,
+      "rating": 8.071,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -547,38 +530,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
-    },
-    {
-      "ag_id": "ts12311",
-      "title": "Occhi di gatto",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34114,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
-      "maturity_rating": "14+",
-      "episode_count": 73
     },
     {
       "ag_id": "ts21406",
@@ -628,7 +579,7 @@
         "Azione",
         "Commedia"
       ],
-      "rating": 6.65,
+      "rating": 6.227,
       "audio_locales": [
         "ja-JP"
       ],
@@ -670,6 +621,38 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts12311",
+      "title": "Occhi di gatto",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34114,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
+      "maturity_rating": "14+",
+      "episode_count": 73
+    },
+    {
       "ag_id": "ts354570",
       "title": "Oshi no ko - My Star",
       "year": 2023,
@@ -685,7 +668,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.305,
       "audio_locales": [
         "ja-JP"
       ],
@@ -696,36 +679,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
-    },
-    {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
-      "maturity_rating": "14+",
-      "episode_count": 218
     },
     {
       "ag_id": "ts353577",
@@ -756,6 +709,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "maturity_rating": "14+",
+      "episode_count": 218
     },
     {
       "ag_id": "ts317669",
@@ -866,10 +849,12 @@
       ],
       "rating": 7.3,
       "audio_locales": [
+        "de",
         "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
         "fr",
         "it-IT",
         "ru"
@@ -993,36 +978,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.482,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts20686",
       "title": "Terror in Resonance - L’eco del terrore",
       "year": 2014,
@@ -1053,6 +1008,36 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.482,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -1081,37 +1066,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts394764",
-      "title": "Lamù e i casinisti planetari",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154524,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1895ccc-20b4-4b19-94bc-9f8db9ddfc5f",
-      "maturity_rating": "14+",
-      "episode_count": 46
     },
     {
       "ag_id": "ts45104",
@@ -1164,33 +1118,35 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts28081",
-      "title": "Un fiocco per sognare, un fiocco per cambiare",
-      "year": 1996,
+      "ag_id": "ts394764",
+      "title": "Lamù e i casinisti planetari",
+      "year": 2022,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 43230,
+        "tmdb_id": 154524,
         "tmdb_type": "tv"
       },
-      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
+      "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
       "genres": [
         "Animazione",
         "Commedia",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.6,
+      "rating": 6.8,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+",
-      "episode_count": 61
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3405b7b-d35a-43bd-a17d-6e5bab369ae9",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts52963",
@@ -1237,7 +1193,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.418,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1249,6 +1205,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts28081",
+      "title": "Un fiocco per sognare, un fiocco per cambiare",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43230,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
+      "maturity_rating": "16+",
+      "episode_count": 61
     },
     {
       "ag_id": "ts34474",
@@ -1309,34 +1294,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.992,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts74597",
       "title": "Ken il guerriero: Le origini del mito",
       "year": 2006,
@@ -1363,6 +1320,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
       "maturity_rating": "18+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.992,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts26262",
@@ -1755,7 +1740,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.315,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1849,34 +1834,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts469760",
-      "title": "Fermat Kitchen",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 283704,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -1903,6 +1860,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts469760",
+      "title": "Fermat Kitchen",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283704,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -1965,36 +1950,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts76736",
-      "title": "I cinque samurai: Message",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75080,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
-      "episode_count": 5
-    },
-    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -2023,6 +1978,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts76736",
+      "title": "I cinque samurai: Message",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75080,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
+      "maturity_rating": "T",
+      "episode_count": 5
     },
     {
       "ag_id": "ts436411",
@@ -2880,7 +2865,7 @@
         "zh"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.881b03f9-9943-45c4-8b32-d67beffc9875",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65e6682d-4960-453a-a884-69f3e338dbe1",
       "maturity_rating": "14+",
       "episode_count": 24
     },
@@ -3077,7 +3062,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.732427bb-cda8-4e65-a9de-f65abf446a3e",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
       "maturity_rating": "18+",
       "episode_count": 12
     },
@@ -3173,6 +3158,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts463053",
+      "title": "Your Forma",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3202,35 +3216,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts463053",
-      "title": "Your Forma",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts374187",
@@ -3575,35 +3560,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.118,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3631,6 +3587,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.118,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm184092",
@@ -3709,7 +3694,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.248,
+      "rating": 7.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4306,34 +4291,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts16785",
-      "title": "Capeta",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34803,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts440071",
       "title": "Bad Girl",
       "year": 2025,
@@ -4388,6 +4345,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
       "maturity_rating": "T",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts16785",
+      "title": "Capeta",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34803,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts26785",
@@ -4936,36 +4921,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts450777",
-      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 273048,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 5.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts21877",
       "title": "Love Making - I principi dell'amore - la serie",
       "year": 2015,
@@ -5079,6 +5034,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9692bb83-8006-4610-85ce-82acb25905a6",
       "maturity_rating": "16+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts450777",
+      "title": "Mi sono ritrovato a convivere con una kunoichi NEET",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 273048,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukasa viene assalito da uno yoma al ritorno dal lavoro quando una kunoichi di nome Shizuru lo salva proponendogli di mettersi al suo servizio per proteggerlo da ulteriori attacchi, in cambio di vitto e alloggio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/knHI7kIy7TOMCSjNQaJBiPQXtQU.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/532ZdugTqAT9XH38oA318Eh0gzG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 5.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts287662",
@@ -5493,34 +5478,6 @@
       "episode_count": 54
     },
     {
-      "ag_id": "ts39882",
-      "title": "Daltanious, il robot del futuro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16820,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
-      "maturity_rating": "T",
-      "episode_count": 47
-    },
-    {
       "ag_id": "ts326987",
       "title": "La principessa bibliofila",
       "year": 2022,
@@ -5635,6 +5592,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53335993-a51a-44ff-a9fd-5891f275393b",
       "maturity_rating": "T",
       "episode_count": 34
+    },
+    {
+      "ag_id": "ts39882",
+      "title": "Daltanious, il robot del futuro",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 16820,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
+      "maturity_rating": "T",
+      "episode_count": 47
     },
     {
       "ag_id": "tm124556",
