@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-17T13:24:47Z",
+  "generated_at": "2026-07-17T19:05:36Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -484,6 +484,37 @@
       "episode_count": 47
     },
     {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.071,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -530,37 +561,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
-    },
-    {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.071,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
     },
     {
       "ag_id": "ts410723",
@@ -741,6 +741,41 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.311,
+      "audio_locales": [
+        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "fr",
+        "it-IT",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
+    },
+    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -886,41 +921,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xCmdeEvJNxptR30bEVXXWLrt4iI.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.311,
-      "audio_locales": [
-        "de",
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "fr",
-        "it-IT",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
     },
     {
       "ag_id": "ts320501",
@@ -2898,34 +2898,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
-    },
-    {
       "ag_id": "ts13335",
       "title": "DNA²",
       "year": 1994,
@@ -2953,6 +2925,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
     },
     {
       "ag_id": "ts488482",
@@ -3532,34 +3532,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3587,6 +3559,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts34463",
@@ -4520,35 +4520,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts400911",
-      "title": "Protocol: Rain",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 230288,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.273,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm61092",
       "title": "Card Captor Sakura - The Movie",
       "year": 1999,
@@ -4627,6 +4598,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts400911",
+      "title": "Protocol: Rain",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 230288,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.273,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm29738",
@@ -6453,7 +6453,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.145,
+      "rating": 7.153,
       "audio_locales": [
         "it-IT"
       ],
@@ -6695,7 +6695,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.391,
+      "rating": 7.397,
       "audio_locales": [
         "it-IT"
       ],
