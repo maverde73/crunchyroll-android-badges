@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-18T02:22:45Z",
+  "generated_at": "2026-07-18T07:47:14Z",
   "titles": [
     {
       "ag_id": "ts20305",
@@ -33,6 +33,37 @@
       "episode_count": 220
     },
     {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
+      "maturity_rating": "12+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts10145",
       "title": "Detective Conan",
       "year": 1996,
@@ -63,35 +94,33 @@
       "episode_count": 1206
     },
     {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 240411,
+        "tmdb_id": 35935,
         "tmdb_type": "tv"
       },
-      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Animazione"
       ],
-      "rating": 8.535,
+      "rating": 8.497,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
-      "maturity_rating": "12+",
-      "episode_count": 24
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts492780",
@@ -121,35 +150,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7sRUwoaZnnXZFCZwu3DIoznpImg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.497,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts89550",
@@ -280,7 +280,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.615,
+      "rating": 8.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -292,34 +292,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
-    },
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts14127",
@@ -350,6 +322,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts44897",
@@ -440,6 +440,95 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts342987",
+      "title": "Ragna Crimson",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195459,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.071,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
+    },
+    {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.86,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -482,37 +571,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.071,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
     },
     {
       "ag_id": "ts407747",
@@ -598,51 +656,49 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 238892,
+        "tmdb_id": 44033,
         "tmdb_type": "tv"
       },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
       "genres": [
-        "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.86,
+      "rating": 7.8,
       "audio_locales": [
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+",
-      "episode_count": 13
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
-      "ag_id": "ts342987",
-      "title": "Ragna Crimson",
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
       "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 195459,
+        "tmdb_id": 207250,
         "tmdb_type": "tv"
       },
-      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Commedia"
       ],
-      "rating": 7.3,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -651,9 +707,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 25
     },
     {
       "ag_id": "tm2859972",
@@ -746,35 +802,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -835,34 +862,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.307,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -893,6 +892,34 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.307,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
+    },
+    {
       "ag_id": "ts322259",
       "title": "Insomniacs After School",
       "year": 2023,
@@ -909,7 +936,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.695,
+      "rating": 7.717,
       "audio_locales": [
         "ja-JP"
       ],
@@ -980,31 +1007,32 @@
       "episode_count": 112
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 44033,
+        "tmdb_id": 284447,
         "tmdb_type": "tv"
       },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
       "genres": [
-        "Animazione"
+        "Animazione",
+        "Commedia"
       ],
-      "rating": 7.8,
+      "rating": 6.0,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts20686",
@@ -1323,34 +1351,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts57405",
       "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
       "year": 1990,
@@ -1408,34 +1408,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.992,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts26262",
       "title": "Yattaman",
       "year": 1977,
@@ -1463,6 +1435,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "14+",
       "episode_count": 108
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.992,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts75698",
@@ -2850,6 +2850,35 @@
       "episode_count": 8
     },
     {
+      "ag_id": "ts13335",
+      "title": "DNA²",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43384,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.851,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2895,35 +2924,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65e6682d-4960-453a-a884-69f3e338dbe1",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts13335",
-      "title": "DNA²",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43384,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.851,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts44184",
@@ -3461,7 +3461,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.406,
+      "rating": 7.41,
       "audio_locales": [
         "it-IT"
       ],
@@ -3765,6 +3765,34 @@
       "episode_count": 4
     },
     {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts314452",
       "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
       "year": 2023,
@@ -3793,34 +3821,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts88978",
@@ -4248,7 +4248,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.788,
+      "rating": 7.791,
       "audio_locales": [
         "it-IT"
       ],
@@ -4439,7 +4439,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Durante le vacanze estive, Yusuke e Kuwabara stanno trascorrendo il proprio tempo libero allenandosi combattendo contro alcune gang rivali. Tuttavia le loro vacanze vengono interrotte dall'arrivo di Botan, che comunica loro che il Piccolo Enma, principe del Regno degli Spiriti, è stato rapito. I rapitori hanno chiesto come riscatto il \"sigillo d'oro\", un oggetto talmente potente da essere in grado di portare il proprio possessore sul trono del Regno degli Spiriti. Yusuke, Kuwabara e Botan, insieme ai loro amici, hanno pochissimo tempo per salvare il Piccolo Enma, prima che egli venga ucciso, ed ovviamente non possono concedere ai nemici il prezioso sigillo d'oro. Il gruppo dovrà studiare un modo per venire ugualmente a capo della crisi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9A1DqaowMeaE1PSMeU9msO1ijbJ.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/lpzEl3L5sC11dwRW3XcUO6guV9A.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/EeMTDu5KxYHA53iFnaLPEHjN34.jpg",
       "genres": [
         "Animazione",
@@ -4876,7 +4876,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.11,
+      "rating": 7.113,
       "audio_locales": [
         "it-IT"
       ],
@@ -4948,35 +4948,6 @@
       "episode_count": 36
     },
     {
-      "ag_id": "tm132639",
-      "title": "Venus Wars",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31769,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Terra, anno 2017: il pianeta è investito da mutamenti climatici tali da renderlo incompatibile con la vita umana. I primi coloni terrestri vengono trasferiti sul pianeta Venere dove fondano le due grandi nazioni di Aphrodia e Ishtal. 72 anni sono tuttavia sufficienti a far vacillare gli equilibri su cui si fonda la civile convivenza sul pianeta: Aphrodia e Ishtal entrano in guerra. Il conflitto si combatte sulla superficie del pianeta dove Ishtal schiera tank ultramoderni. Per fronteggiarne l'avanzata l'esercito di Aphrodia non ha altra scelta che contrapporvi ben più agili e veloci motociclette. A pilotarle saranno chiamati i giocatori del Rolling Game, fra cui Hiraki Senoo della squadra dei Killer Commandos...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kaGEDixeTPUbLIQSCxBsPRJ045s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eEyCiluDMwk61LsH9aZvnsNvYDj.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantascienza"
-      ],
-      "rating": 6.731,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts417105",
       "title": "Tonbo!",
       "year": 2024,
@@ -5033,6 +5004,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm132639",
+      "title": "Venus Wars",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31769,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Terra, anno 2017: il pianeta è investito da mutamenti climatici tali da renderlo incompatibile con la vita umana. I primi coloni terrestri vengono trasferiti sul pianeta Venere dove fondano le due grandi nazioni di Aphrodia e Ishtal. 72 anni sono tuttavia sufficienti a far vacillare gli equilibri su cui si fonda la civile convivenza sul pianeta: Aphrodia e Ishtal entrano in guerra. Il conflitto si combatte sulla superficie del pianeta dove Ishtal schiera tank ultramoderni. Per fronteggiarne l'avanzata l'esercito di Aphrodia non ha altra scelta che contrapporvi ben più agili e veloci motociclette. A pilotarle saranno chiamati i giocatori del Rolling Game, fra cui Hiraki Senoo della squadra dei Killer Commandos...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kaGEDixeTPUbLIQSCxBsPRJ045s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eEyCiluDMwk61LsH9aZvnsNvYDj.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantascienza"
+      ],
+      "rating": 6.731,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts287662",
@@ -5724,7 +5724,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.571,
+      "rating": 8.605,
       "audio_locales": [
         "it-IT"
       ],
@@ -7196,7 +7196,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.62,
+      "rating": 7.622,
       "audio_locales": [
         "it-IT"
       ],
