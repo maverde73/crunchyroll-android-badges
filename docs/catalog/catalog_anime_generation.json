@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T14:02:48Z",
+  "generated_at": "2026-07-20T19:41:59Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -50,7 +50,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -81,7 +81,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.017,
+      "rating": 8.015,
       "audio_locales": [
         "it-IT"
       ],
@@ -121,6 +121,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts345",
@@ -180,88 +209,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
-    },
-    {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 88046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.329,
-      "audio_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts44897",
@@ -504,7 +451,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.385,
+      "rating": 8.384,
       "audio_locales": [
         "de",
         "en-US",
@@ -664,7 +611,7 @@
         "Azione",
         "Commedia"
       ],
-      "rating": 6.7,
+      "rating": 6.867,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2066,36 +2013,6 @@
       "episode_count": 5
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.395,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
       "ag_id": "ts436411",
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "year": 2025,
@@ -2124,6 +2041,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.395,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts18944",
@@ -3620,35 +3567,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts394055",
-      "title": "Suicide Squad ISEKAI",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 229926,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uYvYqZhTtpOlooItJRlUj03DU1r.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.257,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
-      "maturity_rating": "18+",
-      "episode_count": 10
-    },
-    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -3676,6 +3594,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts394055",
+      "title": "Suicide Squad ISEKAI",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 229926,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nella città di Gotham, dominata dalla criminalità, Amanda Waller, capo dell'ARGUS, ha riunito un gruppo di famigerati criminali per una missione: Harley Quinn, Deadshot, Peacemaker, Clayface e King Shark. Questi supercriminali vengono inviati in un regno ultraterreno collegato a questo mondo attraverso un cancello. È un mondo di spade e magia in cui gli orchi si scatenano e i draghi governano i cieli: un \"ISEKAI\"! Con esplosivi letali piantati nel collo, non c'è modo di scappare o nascondersi, e fallire la missione significa avere un biglietto di sola andata per l'aldilà! Riusciranno Harley Quinn e il suo equipaggio a conquistare il pericoloso regno ISEKAI?!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uYvYqZhTtpOlooItJRlUj03DU1r.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gMk4uyWJnsgauRIjJyE63ECDTNa.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.257,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
+      "maturity_rating": "18+",
+      "episode_count": 10
     },
     {
       "ag_id": "ts31966",
@@ -3765,34 +3712,6 @@
       "episode_count": 4
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts314452",
       "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
       "year": 2023,
@@ -3878,6 +3797,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm65451",
@@ -6379,29 +6326,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts539",
       "title": "Black Jack: Dieci indagini nel buio",
       "year": 1993,
@@ -7019,6 +6943,29 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b97ba7c-2045-4901-8c52-686a3e5a3cc8",
       "maturity_rating": "",
       "episode_count": 26
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm65142",
