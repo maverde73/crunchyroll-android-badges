@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-20T02:49:46Z",
+  "generated_at": "2026-07-20T08:55:17Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -50,7 +50,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -152,6 +152,59 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts89550",
+      "title": "Fire Force",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 88046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Commedia"
+      ],
+      "rating": 8.329,
+      "audio_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
+      "maturity_rating": "14+",
+      "episode_count": 73
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -210,59 +263,6 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts89550",
-      "title": "Fire Force",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 88046,
-        "tmdb_type": "tv"
-      },
-      "description_it": "A causa di un inspiegabile fenomeno che assale l'umanità, le persone iniziano a prendere fuoco spontaneamente. Solamente delle speciali squadre di vigili del fuoco possono estinguere quelle misteriose fiamme, grazie ad un'abilità speciale che gli permette di manipolare il fuoco senza che questo abbia delle terribili conseguenze sul loro corpo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xDOSdE5NbXR0m82zfSVD8K3fRhg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xkNnQ3IGGRQcXnl1zTb5H6Vb3SP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.329,
-      "audio_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "id",
-        "it-IT",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9ff2bb-c46a-48c7-b10d-98da28eb286c",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -308,7 +308,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.616,
+      "rating": 8.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -396,7 +396,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.415,
       "audio_locales": [
         "ja-JP"
       ],
@@ -608,7 +608,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.851,
+      "rating": 7.899,
       "audio_locales": [
         "ja-JP"
       ],
@@ -753,7 +753,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.52,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -878,7 +878,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.708,
+      "rating": 7.722,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1146,35 +1146,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts28081",
-      "title": "Un fiocco per sognare, un fiocco per cambiare",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43230,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+",
-      "episode_count": 61
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1232,6 +1203,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts28081",
+      "title": "Un fiocco per sognare, un fiocco per cambiare",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43230,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Erika, la principessa del regno della magia, per diventare regina e succedere a suo padre, deve creare un oggetto magico da far collaudare ad un terrestre per un anno. Ogni abitante del regno della magia ha un sosia corrispondente nel mondo terrestre e colei che dovrà utilizzare l'oggetto magico dovrà essere la sosia di Erika. Per adempiere al suo compito Erika crea il \"fiocco magico\", uno speciale fiocco per capelli che consente a chi lo indossa di trasformarsi nella persona che desidera. La trasformazione dovrà però durare al massimo un'ora, altrimenti diventerebbe irreversibile. Erika, quindi, va sulla Terra a cercare la sua sosia, che si rivela essere Himi Nonohara. Himi dopo una prima fase di incredulità accetta volentieri il compito ed indossa il fiocco magico. Tra lei ed Erika si forma una forte amicizia nonostante la diversità di carattere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/anvgJfki9t5pc6yUAjyHNP7Mvwi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/txvT8p6snnByj9v0Eoe8I0iFcOk.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
+      "maturity_rating": "16+",
+      "episode_count": 61
     },
     {
       "ag_id": "ts22249",
@@ -2083,7 +2083,7 @@
         "Action & Adventure",
         "Commedia"
       ],
-      "rating": 8.4,
+      "rating": 8.395,
       "audio_locales": [
         "it-IT"
       ],
@@ -2449,7 +2449,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.8,
+      "rating": 6.81,
       "audio_locales": [
         "it-IT"
       ],
@@ -3232,7 +3232,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.097,
+      "rating": 7.993,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3304,34 +3304,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.287,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
-    },
-    {
       "ag_id": "ts518",
       "title": "Beelzebub",
       "year": 2011,
@@ -3359,6 +3331,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
       "maturity_rating": "14+",
       "episode_count": 60
+    },
+    {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.287,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
     },
     {
       "ag_id": "ts312683",
@@ -4090,28 +4090,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts364419",
-      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts56436",
       "title": "I predatori del tempo",
       "year": 1980,
@@ -4173,6 +4151,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts364419",
+      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts406072",
@@ -5724,7 +5724,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.605,
+      "rating": 8.636,
       "audio_locales": [
         "it-IT"
       ],
@@ -6383,20 +6383,11 @@
       "title": "One Piece - Per tutto l'oro del mondo",
       "year": 2026,
       "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
       "rating": null,
       "audio_locales": [
         "it-IT",
@@ -6408,7 +6399,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
       "maturity_rating": "T",
-      "episode_count": 1
+      "episode_count": 0
     },
     {
       "ag_id": "ts539",
