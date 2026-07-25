@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-25T13:22:19Z",
+  "generated_at": "2026-07-25T19:05:02Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -20,7 +20,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.538,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -955,6 +955,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.717,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -983,35 +1012,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.717,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
       "episode_count": 13
     },
     {
@@ -1272,34 +1272,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts52963",
-      "title": "Wolf Girl & Black Prince",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68960,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.906,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1328,6 +1300,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts52963",
+      "title": "Wolf Girl & Black Prince",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68960,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia ruota intorno ad Erika Shinohara, una ragazza vanitosa di sedici anni che racconta alle sue amiche le sue gesta romantiche, ma che in realtà non ha un fidanzato. Erika dichiara infatti di stare insieme a un bellissimo ragazzo ritratto in una foto, ma la sfortuna vuole che proprio quel ragazzo si riveli essere un suo compagno di scuola piuttosto popolare di nome Kyōya Sata. Incastrata in questa situazione imbarazzante, Erika decide quindi di tentare il tutto per tutto facendo diventare Kyōya il suo finto fidanzato, cosa che disgraziatamente non fa altro che peggiorare le sue condizioni: Kyōya infatti, all'apparenza un ragazzo dolce, è in realtà un tipo ultra sadico senza cuore che, subito dopo aver scoperto ogni cosa, sfrutta le debolezze di Erika per trattarla letteralmente come un cane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Ivu5cl4B61BaF8wmjgmirOh3I7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bAyDxKRv10DeLIvkA07g0MVYquU.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.906,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts34474",
@@ -1504,6 +1504,34 @@
       "episode_count": 48
     },
     {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts28832",
       "title": "Slayers",
       "year": 1995,
@@ -1531,34 +1559,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T",
       "episode_count": 104
-    },
-    {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts24483",
@@ -1951,7 +1951,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 0
     },
     {
@@ -2500,35 +2500,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts22705",
-      "title": "Il fantastico mondo di Paul",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42955,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
-      "episode_count": 50
-    },
-    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -2557,6 +2528,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
+    },
+    {
+      "ag_id": "ts22705",
+      "title": "Il fantastico mondo di Paul",
+      "year": 1976,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42955,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts444582",
@@ -2933,6 +2933,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
+    },
+    {
       "ag_id": "ts35960",
       "title": "Inferno e paradiso",
       "year": 2004,
@@ -2961,34 +2989,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
     },
     {
       "ag_id": "ts403298",
@@ -3967,7 +3967,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.39,
+      "rating": 6.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -4585,28 +4585,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts199079",
-      "title": "L'uomo tigre II",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts400911",
       "title": "Protocol: Rain",
       "year": 2023,
@@ -4664,6 +4642,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.726cff97-cf82-4f26-a0a6-b52aeaceff97",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts199079",
+      "title": "L'uomo tigre II",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts452442",
@@ -6482,7 +6482,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.165,
+      "rating": 7.168,
       "audio_locales": [
         "it-IT"
       ],
@@ -6723,7 +6723,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.409,
       "audio_locales": [
         "it-IT"
       ],
@@ -7386,6 +7386,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts351489",
+      "title": "Cyborg 009 vs. Devilman",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 220519,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver scoperto l'esistenza di demoni a Tokyo, l'equipaggio originale degli 00 Cyborg guidato dal Dr. Gilmore si ritrova in conflitto con Devilman, un demone potente che si ritiene sia in combutta con l'organizzazione terroristica Black Ghost, che trae profitto dalla guerra. Nel frattempo, emerge una minaccia più grande quando il Dr. Adams, uno scienziato dei Black Ghost, scatena la sua nuova linea di modelli di 00 Cyborg da ragazzini contro 009 e i suoi amici.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1aMlu3dckgl7is58jB2OaO54sIW.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/psb0vcI5lSCFdssarn6FBpIEmCj.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7588e543-74de-4a21-be90-b7a1d038986e",
+      "maturity_rating": "14+",
+      "episode_count": 3
+    },
+    {
       "ag_id": "tm111876",
       "title": "Black Jack - La sindrome di Moira",
       "year": 1996,
@@ -7951,6 +7982,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm47223",
+      "title": "Lupin III: La lampada di Aladino",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 59719,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin va alla ricerca della lampada magica di Aladino per donarla a Fujiko. Quando riesce a trovarla, evoca il Genio della lampada, una giovane e avvenente ragazza, che gli chiede di esprimere un desiderio, pena però il rimuovere i ricordi di metà vita, dalle 7.00 di sera alle 7.00 di mattina. Lupin va a fondo della questione nelle ore diurne, capendo che il genio non è altro che una ragazza normale, Drew che, come lui, ha i ricordi frammentari ed è manipolata dal dr. Eichmann, il quale vorrebbe distruggere ogni uomo non onesto. Alla fine, Lupin riuscirà comunque a recuperare la sua memoria e quella di Drew.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bG4lKVV7CKUgD97owUkZzkaHupP.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tcmDYkIz15ebcZbOC1kJBWwQlmx.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.75,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm681872",
       "title": "One Piece - Un tesoro grande un sogno",
       "year": 2003,
@@ -8198,37 +8260,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm47223",
-      "title": "Lupin III: La lampada di Aladino",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 59719,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin va alla ricerca della lampada magica di Aladino per donarla a Fujiko. Quando riesce a trovarla, evoca il Genio della lampada, una giovane e avvenente ragazza, che gli chiede di esprimere un desiderio, pena però il rimuovere i ricordi di metà vita, dalle 7.00 di sera alle 7.00 di mattina. Lupin va a fondo della questione nelle ore diurne, capendo che il genio non è altro che una ragazza normale, Drew che, come lui, ha i ricordi frammentari ed è manipolata dal dr. Eichmann, il quale vorrebbe distruggere ogni uomo non onesto. Alla fine, Lupin riuscirà comunque a recuperare la sua memoria e quella di Drew.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bG4lKVV7CKUgD97owUkZzkaHupP.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tcmDYkIz15ebcZbOC1kJBWwQlmx.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.75,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm99577",
       "title": "Corazzata spaziale Yamato",
       "year": 1977,
@@ -8429,37 +8460,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.841d1459-e8b1-4905-9578-5ed2f421571c",
       "maturity_rating": "16+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts351489",
-      "title": "Cyborg 009 vs. Devilman",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 220519,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver scoperto l'esistenza di demoni a Tokyo, l'equipaggio originale degli 00 Cyborg guidato dal Dr. Gilmore si ritrova in conflitto con Devilman, un demone potente che si ritiene sia in combutta con l'organizzazione terroristica Black Ghost, che trae profitto dalla guerra. Nel frattempo, emerge una minaccia più grande quando il Dr. Adams, uno scienziato dei Black Ghost, scatena la sua nuova linea di modelli di 00 Cyborg da ragazzini contro 009 e i suoi amici.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1aMlu3dckgl7is58jB2OaO54sIW.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/psb0vcI5lSCFdssarn6FBpIEmCj.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7588e543-74de-4a21-be90-b7a1d038986e",
-      "maturity_rating": "14+",
-      "episode_count": 3
     },
     {
       "ag_id": "tm117720",
