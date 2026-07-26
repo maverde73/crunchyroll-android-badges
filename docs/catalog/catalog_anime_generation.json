@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-26T08:24:14Z",
+  "generated_at": "2026-07-26T13:18:12Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -138,7 +138,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.929,
+      "rating": 7.932,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -508,7 +508,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.077,
+      "rating": 8.083,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -942,7 +942,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.994,
+      "rating": 7.981,
       "audio_locales": [
         "it-IT"
       ],
@@ -1387,34 +1387,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts74597",
-      "title": "Ken il guerriero: Le origini del mito",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68203,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
-      "maturity_rating": "18+",
-      "episode_count": 46
-    },
-    {
       "ag_id": "ts26262",
       "title": "Yattaman",
       "year": 1977,
@@ -1587,6 +1559,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T",
       "episode_count": 104
+    },
+    {
+      "ag_id": "ts74597",
+      "title": "Ken il guerriero: Le origini del mito",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68203,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
+      "maturity_rating": "18+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts24483",
@@ -1845,6 +1845,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts52317",
+      "title": "Un oceano di avventure",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34160,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts29400",
       "title": "Capricciosa Orange Road",
       "year": 1987,
@@ -1872,34 +1900,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts52317",
-      "title": "Un oceano di avventure",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34160,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts21278",
@@ -3847,7 +3847,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.912,
+      "rating": 6.971,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4183,35 +4183,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "tm41614",
-      "title": "I Cavalieri dello zodiaco - La leggenda dei guerrieri scarlatti",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 66105,
-        "tmdb_type": "movie"
-      },
-      "description_it": "In questa avventura i Cavalieri dovranno vedersela contro Abel, reincarnazione di Febo, dio del Sole e delle Arti, figlio di Zeus e quindi fratello di Atena, e i Cavalieri della Corona a lui sottoposti. Dopo essersi reincarnato il Dio raggiunge Atena, che apprende del suo proposito di punire l'umanità per la corruzione sterminandola come al tempo del diluvio universale. Per ottenere ciò dona nuova vita ai cavalieri d'oro periti durante la corsa alle dodici case che gli giurano fedeltà e congeda i cavalieri di bronzo con l'appoggio di lady Isabel.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ijOxNDZWUoSYvfSiva1S0g3787R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l4oOfCiMqIaaL0Vyx8dnu4FENra.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.791,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52f1b371-1335-431c-a672-cbaa95d743e2",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts365130",
       "title": "Dark Gathering",
       "year": 2023,
@@ -4239,6 +4210,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
       "maturity_rating": "18+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "tm41614",
+      "title": "I Cavalieri dello zodiaco - La leggenda dei guerrieri scarlatti",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 66105,
+        "tmdb_type": "movie"
+      },
+      "description_it": "In questa avventura i Cavalieri dovranno vedersela contro Abel, reincarnazione di Febo, dio del Sole e delle Arti, figlio di Zeus e quindi fratello di Atena, e i Cavalieri della Corona a lui sottoposti. Dopo essersi reincarnato il Dio raggiunge Atena, che apprende del suo proposito di punire l'umanità per la corruzione sterminandola come al tempo del diluvio universale. Per ottenere ciò dona nuova vita ai cavalieri d'oro periti durante la corsa alle dodici case che gli giurano fedeltà e congeda i cavalieri di bronzo con l'appoggio di lady Isabel.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ijOxNDZWUoSYvfSiva1S0g3787R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l4oOfCiMqIaaL0Vyx8dnu4FENra.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.791,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52f1b371-1335-431c-a672-cbaa95d743e2",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts11218",
@@ -7132,7 +7132,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 5.556,
+      "rating": 5.6,
       "audio_locales": [
         "ja-JP"
       ],
