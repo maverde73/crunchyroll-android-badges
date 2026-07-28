@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-28T14:03:08Z",
+  "generated_at": "2026-07-28T19:21:08Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -123,6 +123,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.31,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -211,34 +239,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.31,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -255,7 +255,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.495,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -266,6 +266,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.163,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "tm190768",
@@ -416,7 +464,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.41,
       "audio_locales": [
         "ja-JP"
       ],
@@ -427,54 +475,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.163,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts342987",
@@ -953,6 +953,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts20686",
+      "title": "Terror in Resonance - L’eco del terrore",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61421,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.768,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
+      "maturity_rating": "14+",
+      "episode_count": 11
+    },
+    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -1072,36 +1102,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts20686",
-      "title": "Terror in Resonance - L’eco del terrore",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61421,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lo slogan è \"Pull the trigger on this world\", ossia \"premi il grilletto contro questo mondo\". Un giorno d'estate improvvisamente un attacco bomba sconquassò Tokyo. Questo atto terroristico svegliò dal suo letargo una nazione impigrita, gli artefici non erano altro che due ragazzi. Ora i bombaroli - conosciuti come \"Sphinx\" - iniziano un gioco su larga scala, viene coinvolto tutto il Giappone.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.768,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
-      "maturity_rating": "14+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -1169,7 +1169,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.458,
+      "rating": 8.454,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1520,7 +1520,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.7,
+      "rating": 5.964,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1922,7 +1922,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -1999,7 +1999,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.297,
+      "rating": 7.282,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2042,35 +2042,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts24632",
-      "title": "Abenobashi - Il quartiere commerciale di magia",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 12144,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sasshi e Arumi sono due bambini che, dopo uno spaventoso incidente, si ritrovano in un universo parallelo rappresentante realtà alternative del quartiere dove sono cresciuti e in cui tuttora abitano: Abenobashi, a Osaka (Giappone). Nel tentativo di fare ritorno a casa vivranno numerose avventure il cui scopo sarà, almeno inizialmente, cercare il piccolo demone che, tramite un rito magico, è in grado di riportarli a casa. Ma il funzionamento di questa magia è strettamente legato alla volontà dei due ragazzi: solo se volessero tornare realmente a casa potrebbero farlo. Sasshi, contrariamente ad Arumi, vuole continuare a divertirsi nei mondi paralleli di Abenobashi e per questo ritarderà continuamente il ritorno ad Osaka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fcnXhThqdIEsXNkwQuLwc56FtFJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oO1ZOYYkc5BM6LatmXY62vAxjSc.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
-      "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -2099,6 +2070,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts24632",
+      "title": "Abenobashi - Il quartiere commerciale di magia",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 12144,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sasshi e Arumi sono due bambini che, dopo uno spaventoso incidente, si ritrovano in un universo parallelo rappresentante realtà alternative del quartiere dove sono cresciuti e in cui tuttora abitano: Abenobashi, a Osaka (Giappone). Nel tentativo di fare ritorno a casa vivranno numerose avventure il cui scopo sarà, almeno inizialmente, cercare il piccolo demone che, tramite un rito magico, è in grado di riportarli a casa. Ma il funzionamento di questa magia è strettamente legato alla volontà dei due ragazzi: solo se volessero tornare realmente a casa potrebbero farlo. Sasshi, contrariamente ad Arumi, vuole continuare a divertirsi nei mondi paralleli di Abenobashi e per questo ritarderà continuamente il ritorno ad Osaka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fcnXhThqdIEsXNkwQuLwc56FtFJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oO1ZOYYkc5BM6LatmXY62vAxjSc.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a24a0a03-ed61-4398-a7c7-65b876374285",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts76736",
@@ -2499,6 +2499,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.765,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2865,7 +2894,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.641,
+      "rating": 7.634,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3164,6 +3193,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts463053",
+      "title": "Your Forma",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3192,35 +3250,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts463053",
-      "title": "Your Forma",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts374187",
@@ -3570,35 +3599,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.063,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3628,6 +3628,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.063,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts394055",
       "title": "Suicide Squad ISEKAI",
       "year": 2024,
@@ -3644,7 +3673,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.259,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5696,7 +5725,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.416,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6349,35 +6378,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c35c3fab-45b9-40e2-bbba-66de92d29171",
       "maturity_rating": "T",
       "episode_count": 62
-    },
-    {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.765,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
     },
     {
       "ag_id": "ts367163",
