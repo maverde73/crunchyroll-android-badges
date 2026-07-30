@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-07-30T08:23:59Z",
+  "generated_at": "2026-07-30T13:56:39Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -50,7 +50,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -255,7 +255,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.49,
       "audio_locales": [
         "it-IT"
       ],
@@ -283,7 +283,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.303,
+      "rating": 8.302,
       "audio_locales": [
         "it-IT"
       ],
@@ -851,7 +851,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.282,
       "audio_locales": [
         "ja-JP"
       ],
@@ -939,7 +939,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.522,
+      "rating": 8.528,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1561,35 +1561,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.765,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts24483",
       "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
       "year": 2009,
@@ -1617,37 +1588,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
-      "genres": [
-        "Thriller",
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Guerra"
-      ],
-      "rating": 6.633,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -1730,6 +1670,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
       "episode_count": 40
+    },
+    {
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "genres": [
+        "Thriller",
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Guerra"
+      ],
+      "rating": 6.633,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts38826",
@@ -2525,6 +2496,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
       "maturity_rating": "16+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.765,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts444582",
@@ -3782,13 +3782,13 @@
         "tmdb_type": "tv"
       },
       "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kowCQlJZ7rwamUUtRcpmdbjgE9w.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gKnDzAgcaKoKeY9rz6NeLMhzSJl.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
       "genres": [
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.615,
+      "rating": 6.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6111,7 +6111,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.3,
+      "rating": 7.319,
       "audio_locales": [
         "it-IT",
         "ja-JP"
