@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T13:16:59Z",
+  "generated_at": "2026-08-01T19:05:37Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -167,7 +167,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.31,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -313,7 +313,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.301,
       "audio_locales": [
         "it-IT"
       ],
@@ -354,50 +354,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.384,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "hi",
-        "it-IT",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts87564",
@@ -508,6 +464,35 @@
       "episode_count": 32
     },
     {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.461,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -564,35 +549,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.461,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
     },
     {
       "ag_id": "ts21406",
@@ -654,6 +610,50 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.384,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
+        "it-IT",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts64898",
@@ -940,7 +940,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.534,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1298,6 +1298,35 @@
       "episode_count": 61
     },
     {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/javXvHa9sBIZhv1gVMjCPT0mVbo.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1374,7 +1403,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.419,
+      "rating": 8.422,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1608,7 +1637,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.633,
+      "rating": 6.67,
       "audio_locales": [
         "it-IT"
       ],
@@ -2645,35 +2674,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/javXvHa9sBIZhv1gVMjCPT0mVbo.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts399964",
       "title": "Shaman King: Flowers",
       "year": 2024,
@@ -3193,6 +3193,35 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts463053",
+      "title": "Your Forma",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3221,35 +3250,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts463053",
-      "title": "Your Forma",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts374187",
@@ -3357,7 +3357,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.513,
+      "rating": 6.475,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6125,35 +6125,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts287917",
-      "title": "Tecno Ninja Gatchaman",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 126065,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La squadra di Gachaman si ritrova affrontare una razza aliena di nome Galactor, intenzionata a distruggere un progetto che prevede l'unificazione delle risorse energetiche del mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/spkxdKAVpY2QEW5u0VzZlUlAIyf.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
-      "maturity_rating": "14+",
-      "episode_count": 3
-    },
-    {
       "ag_id": "ts529845",
       "title": "È quasi magia Johnny OAV",
       "year": 1989,
@@ -6230,6 +6201,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
       "maturity_rating": "T",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts287917",
+      "title": "Tecno Ninja Gatchaman",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 126065,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La squadra di Gachaman si ritrova affrontare una razza aliena di nome Galactor, intenzionata a distruggere un progetto che prevede l'unificazione delle risorse energetiche del mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/spkxdKAVpY2QEW5u0VzZlUlAIyf.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
+      "maturity_rating": "14+",
+      "episode_count": 3
     },
     {
       "ag_id": "ts16879",
