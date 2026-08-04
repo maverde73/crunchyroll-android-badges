@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-04T02:24:27Z",
+  "generated_at": "2026-08-04T08:33:46Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -34,36 +34,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.363,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "14+",
-      "episode_count": 220
-    },
-    {
       "ag_id": "ts10145",
       "title": "Detective Conan",
       "year": 1996,
@@ -92,6 +62,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
       "episode_count": 1209
+    },
+    {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.363,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
+      "maturity_rating": "14+",
+      "episode_count": 220
     },
     {
       "ag_id": "ts27309",
@@ -356,37 +356,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.044,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -508,7 +477,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.165,
+      "rating": 8.168,
       "audio_locales": [
         "en-US",
         "es",
@@ -537,6 +506,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
+    },
+    {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.038,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
     },
     {
       "ag_id": "ts28078",
@@ -865,35 +865,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts29400",
-      "title": "Capricciosa Orange Road",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9103,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.641,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T",
-      "episode_count": 48
-    },
-    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -922,6 +893,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
+    },
+    {
+      "ag_id": "ts29400",
+      "title": "Capricciosa Orange Road",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9103,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts353577",
@@ -1530,7 +1530,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 24
     },
     {
@@ -1648,6 +1648,43 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286791,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
+      "maturity_rating": "7+",
+      "episode_count": 41
+    },
+    {
       "ag_id": "tm222871",
       "title": "L'organo genocida",
       "year": 2017,
@@ -1724,43 +1761,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 286791,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+",
-      "episode_count": 41
-    },
-    {
       "ag_id": "ts38826",
       "title": "Maid-sama! - La doppia vita di Misaki",
       "year": 2010,
@@ -1818,6 +1818,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts485272",
+      "title": "Yugure al crepuscolo della perpetuità",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 294867,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.35,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
+      "maturity_rating": "",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm19944",
       "title": "Jin-Roh - Uomini e lupi",
       "year": 1999,
@@ -1845,34 +1873,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
       "maturity_rating": "16+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts485272",
-      "title": "Yugure al crepuscolo della perpetuità",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 294867,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "",
-      "episode_count": 12
     },
     {
       "ag_id": "ts52317",
@@ -1962,28 +1962,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -2010,6 +1988,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "",
+      "episode_count": 0
     },
     {
       "ag_id": "ts5328",
@@ -2205,7 +2205,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.923,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2731,33 +2731,35 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts68914",
-      "title": "Hurricane Polymar: Holy Blood",
-      "year": 1996,
+      "ag_id": "tm1434295",
+      "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
+      "year": 2024,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 43786,
-        "tmdb_type": "tv"
+        "tmdb_id": 1230393,
+        "tmdb_type": "movie"
       },
-      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
+      "description_it": "Nel suo vagare, un samurai trova una giovane cameriera la cui città è stata distrutta da un drago. Anche se il samurai non vuole avere guai, li trova comunque.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zf32YfXlDeSiiOfamVES8AP5oj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Azione",
+        "Fantasy",
+        "Avventura"
       ],
-      "rating": 7.2,
+      "rating": 7.171,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
-      "maturity_rating": "16+",
-      "episode_count": 2
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts42498",
@@ -2788,35 +2790,33 @@
       "episode_count": 26
     },
     {
-      "ag_id": "tm1434295",
-      "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
-      "year": 2024,
+      "ag_id": "ts68914",
+      "title": "Hurricane Polymar: Holy Blood",
+      "year": 1996,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 1230393,
-        "tmdb_type": "movie"
+        "tmdb_id": 43786,
+        "tmdb_type": "tv"
       },
-      "description_it": "Nel suo vagare, un samurai trova una giovane cameriera la cui città è stata distrutta da un drago. Anche se il samurai non vuole avere guai, li trova comunque.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zf32YfXlDeSiiOfamVES8AP5oj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg",
+      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
       "genres": [
         "Animazione",
-        "Azione",
-        "Fantasy",
-        "Avventura"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.171,
+      "rating": 7.2,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
-      "maturity_rating": "14+",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
+      "maturity_rating": "16+",
+      "episode_count": 2
     },
     {
       "ag_id": "ts13335",
@@ -3193,35 +3193,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.143,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3250,6 +3221,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.143,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts374187",
@@ -3599,35 +3599,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.063,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3684,6 +3655,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
       "maturity_rating": "18+",
       "episode_count": 10
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.063,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts37954",
@@ -6008,35 +6008,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts3367",
-      "title": "Angel Heart",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42999,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In questo spin-off di \"City Hunter\" (settato in una sorta di futuro parallelo) il cuore Kreta Mancinelli è stato trapiantato in una ragazza, un'assassina professionista di nome Glass Heart, la quale aveva cercato di suicidarsi perché inorridita e provata dalla sua vita criminale. Guidata da sogni premonitori e da Kreta, la ragazza si ritrova a Tokyo, dove incontra un Ryo Saeba, più maturo, sulla quarantina e meno sessuomane ma sempre alla ricerca dell'alzabandiera.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5o0fpeaB5wnq8HDNMendjlJ3pzX.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xWP6CQszpcZ1uVoua2PHhewSBZA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 6.083,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80f7cda8-a106-4572-9b7a-39469544fe85",
-      "maturity_rating": "14+",
-      "episode_count": 50
-    },
-    {
       "ag_id": "ts5162",
       "title": "Le nuove avventure di Pinocchio",
       "year": 1972,
@@ -6064,6 +6035,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.79b4319f-eea2-4fb7-8573-accb887360bc",
       "maturity_rating": "14+",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts3367",
+      "title": "Angel Heart",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42999,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In questo spin-off di \"City Hunter\" (settato in una sorta di futuro parallelo) il cuore Kreta Mancinelli è stato trapiantato in una ragazza, un'assassina professionista di nome Glass Heart, la quale aveva cercato di suicidarsi perché inorridita e provata dalla sua vita criminale. Guidata da sogni premonitori e da Kreta, la ragazza si ritrova a Tokyo, dove incontra un Ryo Saeba, più maturo, sulla quarantina e meno sessuomane ma sempre alla ricerca dell'alzabandiera.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5o0fpeaB5wnq8HDNMendjlJ3pzX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xWP6CQszpcZ1uVoua2PHhewSBZA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 6.083,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80f7cda8-a106-4572-9b7a-39469544fe85",
+      "maturity_rating": "14+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts60492",
