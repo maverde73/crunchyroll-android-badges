@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-05T19:27:03Z",
+  "generated_at": "2026-08-06T02:26:33Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -343,7 +343,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.038,
+      "rating": 8.044,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -477,7 +477,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.168,
+      "rating": 8.166,
       "audio_locales": [
         "en-US",
         "es",
@@ -555,7 +555,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.461,
+      "rating": 8.462,
       "audio_locales": [
         "it-IT"
       ],
@@ -766,7 +766,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.637,
+      "rating": 7.627,
       "audio_locales": [
         "it-IT"
       ],
@@ -852,7 +852,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.28,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -969,7 +969,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.5,
+      "rating": 8.54,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1358,35 +1358,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 214651,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 6.956,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -1444,6 +1415,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
+    },
+    {
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 214651,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 6.956,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts26262",
@@ -1530,7 +1530,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1579,7 +1579,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.5,
+      "rating": 7.481,
       "audio_locales": [
         "it-IT"
       ],
@@ -1677,37 +1677,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
-      "genres": [
-        "Thriller",
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Guerra"
-      ],
-      "rating": 6.67,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1743,6 +1712,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
       "episode_count": 41
+    },
+    {
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "genres": [
+        "Thriller",
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Guerra"
+      ],
+      "rating": 6.67,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -1891,7 +1891,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.4,
+      "rating": 7.401,
       "audio_locales": [
         "it-IT"
       ],
@@ -1991,6 +1991,28 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -2017,28 +2039,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
     },
     {
       "ag_id": "ts5328",
@@ -2130,36 +2130,6 @@
       "episode_count": 5
     },
     {
-      "ag_id": "ts436411",
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236565,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYxTx3iPYjLMsOirDNo5bnz13OZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts311625",
       "title": "Tenken - Reincarnato in una spada",
       "year": 2022,
@@ -2188,6 +2158,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0d679c5-a287-4e62-9a26-525cf2aaf95d",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts436411",
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236565,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYxTx3iPYjLMsOirDNo5bnz13OZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts18944",
@@ -2498,35 +2498,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts47136",
-      "title": "Il tulipano nero",
-      "year": 1975,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19869,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts444582",
       "title": "Da burocrate a villainess: papà si è reincarnato!",
       "year": 2025,
@@ -2556,36 +2527,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -2602,7 +2543,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 8.181,
+      "rating": 8.159,
       "audio_locales": [
         "it-IT"
       ],
@@ -2643,6 +2584,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
       "episode_count": 140
+    },
+    {
+      "ag_id": "ts47136",
+      "title": "Il tulipano nero",
+      "year": 1975,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19869,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "maturity_rating": "16+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts22705",
@@ -2699,6 +2669,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "ts56262",
@@ -2777,7 +2777,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.171,
+      "rating": 7.17,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2789,34 +2789,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts68914",
@@ -2846,6 +2818,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
       "maturity_rating": "16+",
       "episode_count": 2
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts13335",
@@ -3194,34 +3194,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3268,7 +3240,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.143,
+      "rating": 7.093,
       "audio_locales": [
         "it-IT"
       ],
@@ -3279,6 +3251,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts374187",
@@ -3715,35 +3715,6 @@
       "episode_count": 10
     },
     {
-      "ag_id": "ts37954",
-      "title": "Lovely Sara",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 8.173,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
-      "maturity_rating": "14+",
-      "episode_count": 46
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3772,6 +3743,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "ts37954",
+      "title": "Lovely Sara",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sara è una bambina di 10 anni che viene iscritta ad un collegio femminile dal padre. La sua eccessiva bellezza e gentilezza la renderanno però spesso vittima di invidie ed angherie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rrPPTIrzgeXIAjUWJIOiDmehPnr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tO5S51guxvWG2tgUQ5AZPmRULQQ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 8.173,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.868cb30c-46cc-4b37-b1b2-2f9fa2973b06",
+      "maturity_rating": "14+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts88978",
@@ -4201,7 +4201,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.857,
+      "rating": 6.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4513,7 +4513,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 5.333,
+      "rating": 5.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5427,35 +5427,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts345961",
-      "title": "Lv1 Maou to One Room Yuusha",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 196220,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1C6KNv2x346K9Dey0Lxi2Gul50x.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qLnua7YvZuw0Dr6xpF9ZlCxSSVk.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.875,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.929aed95-0748-48f1-90d1-6fb69af4f4c5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts79361",
       "title": "Cutie Honey Universe",
       "year": 2018,
@@ -5563,6 +5534,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts345961",
+      "title": "Lv1 Maou to One Room Yuusha",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 196220,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1C6KNv2x346K9Dey0Lxi2Gul50x.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qLnua7YvZuw0Dr6xpF9ZlCxSSVk.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.875,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.929aed95-0748-48f1-90d1-6fb69af4f4c5",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts29733",
       "title": "Mazinkaizer SKL",
       "year": 2011,
@@ -5666,7 +5666,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 7.002,
+      "rating": 6.998,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5754,7 +5754,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.417,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6409,6 +6409,36 @@
       "episode_count": 62
     },
     {
+      "ag_id": "tm134235",
+      "title": "One Piece - Avventura sulle isole volanti",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 41498,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yYl4O8oyO5CQiVGyVl1ZCFj4vDC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts367163",
       "title": "Le bestie colossali di Ars",
       "year": 2023,
@@ -6485,7 +6515,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.1,
+      "rating": 7.058,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6662,7 +6692,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.495,
+      "rating": 7.494,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6752,7 +6782,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.927,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6816,7 +6846,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.199,
+      "rating": 7.198,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7058,23 +7088,23 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm134235",
-      "title": "One Piece - Avventura sulle isole volanti",
-      "year": 2009,
+      "ag_id": "tm88171",
+      "title": "One Piece - La spada delle sette stelle",
+      "year": 2004,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 41498,
+        "tmdb_id": 44728,
         "tmdb_type": "movie"
       },
-      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yYl4O8oyO5CQiVGyVl1ZCFj4vDC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
       "genres": [
         "Animazione",
-        "Fantasy",
-        "Avventura"
+        "Avventura",
+        "Azione"
       ],
-      "rating": 7.4,
+      "rating": 6.857,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7083,7 +7113,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -7135,7 +7165,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.888,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7165,7 +7195,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.9,
+      "rating": 6.87,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7253,7 +7283,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.721,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7313,7 +7343,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.0,
+      "rating": 7.032,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7462,7 +7492,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.726,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7534,36 +7564,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1542319-5ff5-493d-bf0a-fd3eec853234",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm88171",
-      "title": "One Piece - La spada delle sette stelle",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44728,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione"
-      ],
-      "rating": 6.868,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
