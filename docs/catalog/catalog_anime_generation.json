@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-07T12:59:08Z",
+  "generated_at": "2026-08-07T18:53:59Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -225,7 +225,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.303,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -447,7 +447,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.41,
+      "rating": 8.412,
       "audio_locales": [
         "ja-JP"
       ],
@@ -567,6 +567,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts35975",
+      "title": "Ushio e Tora",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 63085,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ushio pensa che il discorso di suo padre su un antico antenato che impala un demone su una pietra dell'altare del tempio con la leggendaria Beast Spear sia folle, ma quando trova il mostro nella sua cantina, Ushio deve dare un'altra occhiata alla leggenda di famiglia! Per salvare i suoi amici e la sua famiglia dagli spiriti invasori, Ushio è costretto a liberare Tora dalla sua prigionia. Ma la creatura si rivelerà peggiore della maledizione?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkfCmTRHLTIW6hL8sS1zW4wCWjO.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts28078",
@@ -748,6 +778,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.717,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts17714",
@@ -1040,65 +1099,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts35975",
-      "title": "Ushio e Tora",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 63085,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ushio pensa che il discorso di suo padre su un antico antenato che impala un demone su una pietra dell'altare del tempio con la leggendaria Beast Spear sia folle, ma quando trova il mostro nella sua cantina, Ushio deve dare un'altra occhiata alla leggenda di famiglia! Per salvare i suoi amici e la sua famiglia dagli spiriti invasori, Ushio è costretto a liberare Tora dalla sua prigionia. Ma la creatura si rivelerà peggiore della maledizione?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkfCmTRHLTIW6hL8sS1zW4wCWjO.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.717,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -1182,34 +1182,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.706,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -1256,7 +1228,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.268,
+      "rating": 8.269,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1267,6 +1239,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.706,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts28081",
@@ -1579,7 +1579,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.113,
+      "rating": 8.133,
       "audio_locales": [
         "zh"
       ],
@@ -1664,7 +1664,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.309,
+      "rating": 8.31,
       "audio_locales": [
         "it-IT"
       ],
@@ -1675,37 +1675,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
-      "genres": [
-        "Thriller",
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Guerra"
-      ],
-      "rating": 6.67,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts475209",
@@ -1745,49 +1714,35 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts459654",
-      "title": "Anne Shirley",
-      "year": 2025,
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 277665,
-        "tmdb_type": "tv"
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
       },
-      "description_it": "Tratto dai romanzi di Lucy Maud Montgomery. Ambientata nel pittoresco villaggio di Avonlea, la storia segue Anne, un'orfana adottata dai fratelli Marilla e Matthew Cuthbert, la cui immaginazione sconfinata e il cuore gentile trasformano la vita di chi le sta accanto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rwgWe6wAgP7JDbXdPNdrQO2UQT5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wu36nyFmJVZOHjV2MNhFMmmA8ja.jpg",
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
       "genres": [
+        "Thriller",
+        "Fantascienza",
         "Animazione",
-        "Dramma",
-        "Famiglia"
+        "Azione",
+        "Guerra"
       ],
-      "rating": 8.0,
+      "rating": 6.67,
       "audio_locales": [
-        "en-US",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "pt"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi",
-        "zh"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
-      "episode_count": 24
+      "episode_count": 1
     },
     {
       "ag_id": "ts38826",
@@ -1844,6 +1799,51 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts459654",
+      "title": "Anne Shirley",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277665,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tratto dai romanzi di Lucy Maud Montgomery. Ambientata nel pittoresco villaggio di Avonlea, la storia segue Anne, un'orfana adottata dai fratelli Marilla e Matthew Cuthbert, la cui immaginazione sconfinata e il cuore gentile trasformano la vita di chi le sta accanto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rwgWe6wAgP7JDbXdPNdrQO2UQT5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wu36nyFmJVZOHjV2MNhFMmmA8ja.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -2037,7 +2037,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 0
     },
     {
@@ -6111,7 +6111,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.028,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -6497,38 +6497,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.058,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts539",
       "title": "Black Jack: Dieci indagini nel buio",
       "year": 1993,
@@ -6583,6 +6551,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
       "maturity_rating": "T",
       "episode_count": 44
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.058,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm191827",
