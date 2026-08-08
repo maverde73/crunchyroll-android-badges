@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-08T06:50:05Z",
+  "generated_at": "2026-08-08T12:43:39Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -255,7 +255,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.303,
+      "rating": 8.304,
       "audio_locales": [
         "it-IT"
       ],
@@ -431,36 +431,6 @@
       "episode_count": 47
     },
     {
-      "ag_id": "ts35975",
-      "title": "Ushio e Tora",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 63085,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ushio pensa che il discorso di suo padre su un antico antenato che impala un demone su una pietra dell'altare del tempio con la leggendaria Beast Spear sia folle, ma quando trova il mostro nella sua cantina, Ushio deve dare un'altra occhiata alla leggenda di famiglia! Per salvare i suoi amici e la sua famiglia dagli spiriti invasori, Ushio è costretto a liberare Tora dalla sua prigionia. Ma la creatura si rivelerà peggiore della maledizione?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkfCmTRHLTIW6hL8sS1zW4wCWjO.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -628,6 +598,36 @@
       "episode_count": 112
     },
     {
+      "ag_id": "ts35975",
+      "title": "Ushio e Tora",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 63085,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ushio pensa che il discorso di suo padre su un antico antenato che impala un demone su una pietra dell'altare del tempio con la leggendaria Beast Spear sia folle, ma quando trova il mostro nella sua cantina, Ushio deve dare un'altra occhiata alla leggenda di famiglia! Per salvare i suoi amici e la sua famiglia dagli spiriti invasori, Ushio è costretto a liberare Tora dalla sua prigionia. Ma la creatura si rivelerà peggiore della maledizione?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkfCmTRHLTIW6hL8sS1zW4wCWjO.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -713,35 +713,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.729,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -807,6 +778,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.729,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts17714",
@@ -1028,7 +1028,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.554,
+      "rating": 8.551,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1506,34 +1506,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.022,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts28832",
       "title": "Slayers",
       "year": 1995,
@@ -1561,6 +1533,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T",
       "episode_count": 104
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.022,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "",
+      "episode_count": 24
     },
     {
       "ag_id": "ts461952",
@@ -1875,35 +1875,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.401,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts52317",
       "title": "Un oceano di avventure",
       "year": 1994,
@@ -1930,6 +1901,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts21278",
@@ -2249,35 +2249,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2305,6 +2276,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts432739",
@@ -2969,7 +2969,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.626,
+      "rating": 7.631,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3224,6 +3224,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
+    },
+    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -3251,34 +3279,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
     },
     {
       "ag_id": "ts374187",
@@ -3526,7 +3526,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.388,
       "audio_locales": [
         "it-IT"
       ],
@@ -4370,7 +4370,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 7.342,
+      "rating": 7.452,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4792,7 +4792,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.159,
+      "rating": 7.156,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5030,7 +5030,7 @@
         "Animazione",
         "Fantascienza"
       ],
-      "rating": 6.7,
+      "rating": 6.75,
       "audio_locales": [
         "it-IT"
       ],
@@ -5725,7 +5725,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.417,
+      "rating": 7.413,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5842,7 +5842,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.286,
+      "rating": 7.375,
       "audio_locales": [
         "it-IT"
       ],
@@ -6066,6 +6066,36 @@
       "episode_count": 52
     },
     {
+      "ag_id": "tm36164",
+      "title": "Naruto Shippuden: Il film - Il maestro e il discepolo",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17581,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Naruto Shippuden: Il maestro e il discepolo è il quinto film basato sull'anime e manga di Masashi Kishimoto Naruto, ed è il secondo dedicato alla saga di Naruto Shippuden.  Il film è stato proiettato nelle sale cinematografiche il 2 agosto 2008. È stato annunciato dalla rivista Weekly Shonen Jump insieme alla data di uscita del primo film in DVD. Il primo teaser trailer del secondo lungometraggio è stato trasmesso da TV Tokyo durante la trasmissione degli episodi 40-41. In Italia il film è andato in onda su Italia 1 diviso in cinque episodi dal 20 giugno al 26 giugno 2013, mentre è stato distribuito nei cinema dalla Lucky Red solo il 20 luglio 2015 col titolo Naruto Shippuden il film: Il maestro e il discepolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/22g5G3fKrH0O4402BQWnbnfqU2j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lDGto4oxjoWDt2bMFgT3rhJZ0n.jpg",
+      "genres": [
+        "Fantasy",
+        "Animazione",
+        "Azione"
+      ],
+      "rating": 7.321,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f17c4387-76cd-4303-b111-67bbd324d724",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts3367",
       "title": "Angel Heart",
       "year": 2005,
@@ -6122,36 +6152,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
       "maturity_rating": "T",
       "episode_count": 52
-    },
-    {
-      "ag_id": "tm36164",
-      "title": "Naruto Shippuden: Il film - Il maestro e il discepolo",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17581,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Naruto Shippuden: Il maestro e il discepolo è il quinto film basato sull'anime e manga di Masashi Kishimoto Naruto, ed è il secondo dedicato alla saga di Naruto Shippuden.  Il film è stato proiettato nelle sale cinematografiche il 2 agosto 2008. È stato annunciato dalla rivista Weekly Shonen Jump insieme alla data di uscita del primo film in DVD. Il primo teaser trailer del secondo lungometraggio è stato trasmesso da TV Tokyo durante la trasmissione degli episodi 40-41. In Italia il film è andato in onda su Italia 1 diviso in cinque episodi dal 20 giugno al 26 giugno 2013, mentre è stato distribuito nei cinema dalla Lucky Red solo il 20 luglio 2015 col titolo Naruto Shippuden il film: Il maestro e il discepolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/22g5G3fKrH0O4402BQWnbnfqU2j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lDGto4oxjoWDt2bMFgT3rhJZ0n.jpg",
-      "genres": [
-        "Fantasy",
-        "Animazione",
-        "Azione"
-      ],
-      "rating": 7.321,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f17c4387-76cd-4303-b111-67bbd324d724",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts529845",
@@ -6409,6 +6409,35 @@
       "episode_count": 62
     },
     {
+      "ag_id": "ts367163",
+      "title": "Le bestie colossali di Ars",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 211093,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo piagato dai colossi, gigantesche creature che attaccano gli esseri umani, una ragazza dotata di poteri misteriosi di nome Kumi – sfuggita alla prigionia dell’esercito imperiale che è intenzionato ad usarla come cavia da laboratorio – incontra Jiro, un cacciatore di colossi tormentato dalle disgrazie avvenute nel suo passato. Potranno, insieme, riuscire a salvare il mondo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/no9uH0TpquI6GrmmBcCU2kKRNYr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.882,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef74b47e-173c-451f-8e4b-7d3863f1772e",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm134235",
       "title": "One Piece - Avventura sulle isole volanti",
       "year": 2009,
@@ -6437,35 +6466,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts367163",
-      "title": "Le bestie colossali di Ars",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 211093,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo piagato dai colossi, gigantesche creature che attaccano gli esseri umani, una ragazza dotata di poteri misteriosi di nome Kumi – sfuggita alla prigionia dell’esercito imperiale che è intenzionato ad usarla come cavia da laboratorio – incontra Jiro, un cacciatore di colossi tormentato dalle disgrazie avvenute nel suo passato. Potranno, insieme, riuscire a salvare il mondo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/no9uH0TpquI6GrmmBcCU2kKRNYr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.882,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef74b47e-173c-451f-8e4b-7d3863f1772e",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts444703",
@@ -6874,7 +6874,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.201,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7033,6 +7033,36 @@
       "episode_count": 20
     },
     {
+      "ag_id": "tm88171",
+      "title": "One Piece - La spada delle sette stelle",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44728,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione"
+      ],
+      "rating": 6.861,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts314720",
       "title": "Sorairo Utility",
       "year": 2025,
@@ -7086,36 +7116,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f31f3fe1-1079-479f-9b0a-e5262aeb6d8d",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm88171",
-      "title": "One Piece - La spada delle sette stelle",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44728,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione"
-      ],
-      "rating": 6.861,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts66982",
@@ -7401,7 +7401,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.6,
+      "rating": 7.614,
       "audio_locales": [
         "it-IT"
       ],
@@ -7554,7 +7554,7 @@
         "Thriller",
         "Mistero"
       ],
-      "rating": 6.408,
+      "rating": 6.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -7820,7 +7820,7 @@
         "Fantascienza",
         "Romance"
       ],
-      "rating": 6.256,
+      "rating": 6.273,
       "audio_locales": [
         "it-IT"
       ],
@@ -7850,7 +7850,7 @@
         "Dramma",
         "Commedia"
       ],
-      "rating": 6.9,
+      "rating": 6.918,
       "audio_locales": [
         "it-IT"
       ],
@@ -7909,7 +7909,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.6,
+      "rating": 6.643,
       "audio_locales": [
         "it-IT"
       ],
