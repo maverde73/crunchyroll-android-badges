@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T13:03:46Z",
+  "generated_at": "2026-08-10T18:54:58Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -110,7 +110,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.9,
+      "rating": 7.872,
       "audio_locales": [
         "it-IT"
       ],
@@ -297,54 +297,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.163,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -435,6 +387,37 @@
       "episode_count": 32
     },
     {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -452,7 +435,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.384,
+      "rating": 8.383,
       "audio_locales": [
         "de",
         "en-US",
@@ -508,35 +491,52 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 24710,
+        "tmdb_id": 236994,
         "tmdb_type": "tv"
       },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
+        "Commedia",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.516,
+      "rating": 8.163,
       "audio_locales": [
-        "it-IT"
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
-      "episode_count": 39
+      "episode_count": 20
     },
     {
       "ag_id": "ts342987",
@@ -555,7 +555,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.235,
+      "rating": 7.275,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1169,7 +1169,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.747,
+      "rating": 7.748,
       "audio_locales": [
         "it-IT"
       ],
@@ -1714,35 +1714,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts308038",
-      "title": "Demon Hunter - Le memorie del mezzo demone",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 133154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.387,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm222871",
       "title": "L'organo genocida",
       "year": 2017,
@@ -1772,6 +1743,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts308038",
+      "title": "Demon Hunter - Le memorie del mezzo demone",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 133154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.387,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts485272",
@@ -3467,7 +3467,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.85,
+      "rating": 7.841,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3539,6 +3539,34 @@
       "episode_count": 60
     },
     {
+      "ag_id": "ts418967",
+      "title": "Haigakura",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 244592,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.833,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts72501",
       "title": "È un po' magia per Terry e Maggie",
       "year": 1993,
@@ -3567,34 +3595,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
       "maturity_rating": "T",
       "episode_count": 51
-    },
-    {
-      "ag_id": "ts418967",
-      "title": "Haigakura",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 244592,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.833,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "tm184092",
@@ -3999,7 +3999,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.395,
+      "rating": 6.373,
       "audio_locales": [
         "it-IT"
       ],
@@ -4673,28 +4673,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts199079",
-      "title": "L'uomo tigre II",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts400911",
       "title": "Protocol: Rain",
       "year": 2023,
@@ -4752,6 +4730,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts199079",
+      "title": "L'uomo tigre II",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts452442",
@@ -5073,36 +5073,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts32338",
-      "title": "Mawaru-Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I tre fratelli Takakura, i due gemelli maschi Kanba e Shōma e la loro amata e fragile sorellina Himari, vivono da soli in una bizzarra baracca di legno e lamiera. Un bel giorno vanno a visitare l'acquario e Shōma compra come souvenir a Himari un cappello a forma di pinguino, ma poco dopo lei collassa e muore. All'obitorio però Himari si rianima; il miracolo è compiuto dal cappello, posseduto da una misteriosa entità nota come \"Princess of the Crystal\", che stringe un patto con i due fratelli: l'entità potrà far continuare la vita di Himari se in cambio i due ragazzi riusciranno a trovare il Pingdrum (ピングドラム Pingudoramu?), un misterioso e non meglio specificato oggetto. Per aiutarli nella ricerca, affianca loro un trio di bizzarri pinguini tuttofare, invisibili a chiunque meno che ai tre fratelli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.033,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts417105",
       "title": "Tonbo!",
       "year": 2024,
@@ -5188,6 +5158,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ab994a0-c97c-64dd-6b1e-5c667a6e4534",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Mawaru-Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I tre fratelli Takakura, i due gemelli maschi Kanba e Shōma e la loro amata e fragile sorellina Himari, vivono da soli in una bizzarra baracca di legno e lamiera. Un bel giorno vanno a visitare l'acquario e Shōma compra come souvenir a Himari un cappello a forma di pinguino, ma poco dopo lei collassa e muore. All'obitorio però Himari si rianima; il miracolo è compiuto dal cappello, posseduto da una misteriosa entità nota come \"Princess of the Crystal\", che stringe un patto con i due fratelli: l'entità potrà far continuare la vita di Himari se in cambio i due ragazzi riusciranno a trovare il Pingdrum (ピングドラム Pingudoramu?), un misterioso e non meglio specificato oggetto. Per aiutarli nella ricerca, affianca loro un trio di bizzarri pinguini tuttofare, invisibili a chiunque meno che ai tre fratelli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.033,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts282865",
@@ -5299,7 +5299,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.1,
+      "rating": 6.11,
       "audio_locales": [
         "it-IT"
       ],
@@ -7029,38 +7029,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm437406",
-      "title": "DanMachi - La freccia di Orione",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 553835,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Commedia",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.694,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm88171",
       "title": "One Piece - La spada delle sette stelle",
       "year": 2004,
@@ -7145,6 +7113,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b97ba7c-2045-4901-8c52-686a3e5a3cc8",
       "maturity_rating": "",
       "episode_count": 26
+    },
+    {
+      "ag_id": "tm437406",
+      "title": "DanMachi - La freccia di Orione",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 553835,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.694,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm65142",
@@ -7909,7 +7909,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.67,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -8059,7 +8059,7 @@
         "Avventura",
         "televisione film"
       ],
-      "rating": 6.6,
+      "rating": 6.565,
       "audio_locales": [
         "it-IT",
         "ja-JP"
