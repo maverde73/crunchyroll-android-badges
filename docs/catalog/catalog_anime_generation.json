@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-10T18:54:58Z",
+  "generated_at": "2026-08-11T01:37:45Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -182,6 +182,64 @@
       "episode_count": 114
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.493,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -197,7 +255,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.319,
       "audio_locales": [
         "it-IT"
       ],
@@ -266,64 +324,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
-    },
-    {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts14127",
@@ -1919,7 +1919,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.401,
+      "rating": 7.398,
       "audio_locales": [
         "it-IT"
       ],
@@ -3467,7 +3467,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.841,
+      "rating": 7.837,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4126,36 +4126,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.202,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts56436",
       "title": "I predatori del tempo",
       "year": 1980,
@@ -4184,6 +4154,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
       "maturity_rating": "T",
       "episode_count": 53
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.202,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts415273",
@@ -6525,66 +6525,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts52195",
-      "title": "General Daimos",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8996,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.357,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
-      "maturity_rating": "T",
-      "episode_count": 44
-    },
-    {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.053,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm191827",
       "title": "Detective Conan - Fino alla fine del tempo",
       "year": 1997,
@@ -6613,6 +6553,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts52195",
+      "title": "General Daimos",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8996,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
+      "maturity_rating": "T",
+      "episode_count": 44
     },
     {
       "ag_id": "tm49444",
@@ -6673,6 +6641,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
       "maturity_rating": "",
       "episode_count": 42
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.053,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm59590",
@@ -7209,6 +7209,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm113059",
+      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 109572,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts302819",
       "title": "La mia maestra non mostra la coda",
       "year": 2022,
@@ -7414,69 +7445,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm839900",
-      "title": "Lupin III - Prigioniero del passato",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 641909,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Per salvare un famoso criminale dalla prigionia, Lupin e la sua squadra si infiltrano nel Regno di Dorrente. Mentre gli abili ladri di tutto il mondo si riuniscono, Lupin cerca di rivelare il segreto nascosto nel regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jwoDIi2C649RVaR9YTzKp044zTp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/f2o1pi48tlmvx9Fwp75ADyo0n0z.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Crime",
-        "Commedia",
-        "televisione film"
-      ],
-      "rating": 6.952,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm20372",
-      "title": "Lupin III - Per un dollaro in più",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31053,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.618,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm159116",
       "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
       "year": 2011,
@@ -7502,6 +7470,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm103515",
+      "title": "Lupin III - Trappola mortale",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31050,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.625,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -7680,6 +7679,98 @@
       "episode_count": 56
     },
     {
+      "ag_id": "tm9483",
+      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45378,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.391,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm20372",
+      "title": "Lupin III - Per un dollaro in più",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31053,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.618,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm117018",
+      "title": "Lupin III - Spada Zantetsu, infuocati!",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 51943,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Crime"
+      ],
+      "rating": 6.491,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm60126",
       "title": "One Piece - Episodio di Nami: Le lacrime di una navigatrice ed il legame degli amici",
       "year": 2012,
@@ -7804,6 +7895,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm88628",
+      "title": "Lupin III - L'ultimo colpo",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39952,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce di una statuetta del Buddha nella quale è racchiuso il segreto per ritrovare un'antica e potentissima arma creata nel sedicesimo secolo da un gruppo di scienziati italiani fuggiti in Giappone per sfuggire alle persecuzioni della Chiesa. Sulle tracce del tesoro ci sono anche Asuka, l'ultima discendente del clan ninja dei Fuma incaricata di proteggere il segreto dell'arma, e l'antica setta segreta di Morgana, che punta a servirsene per ricreare l'Impero romano.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tuDhWt2oLM3sjazcNennzx2BRWf.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gVd9v6irQLmhHi9eSYuJuGpE06i.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.308,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f7fa9d3-81aa-4de3-8391-4d943db7cfba",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts74617",
       "title": "Chobin, il principe stellare",
       "year": 1974,
@@ -7863,6 +7985,69 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm50107",
+      "title": "Lupin III - L'amore da capo: Fujiko's Unlucky Days",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31594,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Per non farsi rubare il documento di Colombo, che dice esattamente dove si trova l'uovo di Colombo, Fujiko lo memorizza e poi lo distrugge. Toccherà a Lupin cercare l'uovo quando Fujiko verrà colpita da amnesia temporanea.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1paL0pFzLzo97JLISxWf70atXc1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qrUaucJ1wJcI7AAnuHtoi2OVbml.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.25,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm247578",
+      "title": "Lupin III - La partita italiana",
+      "year": 2016,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 404532,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia dello special è incentrata sul rapimento di Rebecca Rossellini, una bellissima donna d'affari apparsa come personaggio nella quarta serie di Lupin \"Lupin: L'avventura italiana\". Dopo aver saputo del suo rapimento, Lupin si precipita a salvarla. Inoltre Lupin riceve anche una lettera di sfida da parte di un misterioso individuo noto come \"il Conte Mascherato\", che propone una sorta di gioco: vedere chi dei due riuscirà prima ad ottenere \"l'eredità del conte Cagliostro\".",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ifMMsBVslTarDfWKhh9Y4WQXa9I.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wNTNGZqq2kNr6Cd2EmrQ3hKVZV.jpg",
+      "genres": [
+        "televisione film",
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Crime"
+      ],
+      "rating": 6.463,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts4343",
       "title": "Don Dracula",
       "year": 1982,
@@ -7891,25 +8076,26 @@
       "episode_count": 8
     },
     {
-      "ag_id": "tm113059",
-      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
-      "year": 2002,
+      "ag_id": "tm839900",
+      "title": "Lupin III - Prigioniero del passato",
+      "year": 2019,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 109572,
+        "tmdb_id": 641909,
         "tmdb_type": "movie"
       },
-      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "description_it": "Per salvare un famoso criminale dalla prigionia, Lupin e la sua squadra si infiltrano nel Regno di Dorrente. Mentre gli abili ladri di tutto il mondo si riuniscono, Lupin cerca di rivelare il segreto nascosto nel regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jwoDIi2C649RVaR9YTzKp044zTp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/f2o1pi48tlmvx9Fwp75ADyo0n0z.jpg",
       "genres": [
         "Animazione",
-        "televisione film",
         "Azione",
+        "Avventura",
+        "Crime",
         "Commedia",
-        "Crime"
+        "televisione film"
       ],
-      "rating": 6.7,
+      "rating": 6.952,
       "audio_locales": [
         "it-IT"
       ],
@@ -7917,8 +8103,39 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm47223",
+      "title": "Lupin III: La lampada di Aladino",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 59719,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin va alla ricerca della lampada magica di Aladino per donarla a Fujiko. Quando riesce a trovarla, evoca il Genio della lampada, una giovane e avvenente ragazza, che gli chiede di esprimere un desiderio, pena però il rimuovere i ricordi di metà vita, dalle 7.00 di sera alle 7.00 di mattina. Lupin va a fondo della questione nelle ore diurne, capendo che il genio non è altro che una ragazza normale, Drew che, come lui, ha i ricordi frammentari ed è manipolata dal dr. Eichmann, il quale vorrebbe distruggere ogni uomo non onesto. Alla fine, Lupin riuscirà comunque a recuperare la sua memoria e quella di Drew.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bG4lKVV7CKUgD97owUkZzkaHupP.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tcmDYkIz15ebcZbOC1kJBWwQlmx.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.729,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -7981,67 +8198,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm117018",
-      "title": "Lupin III - Spada Zantetsu, infuocati!",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 51943,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Crime"
-      ],
-      "rating": 6.491,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm47223",
-      "title": "Lupin III: La lampada di Aladino",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 59719,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin va alla ricerca della lampada magica di Aladino per donarla a Fujiko. Quando riesce a trovarla, evoca il Genio della lampada, una giovane e avvenente ragazza, che gli chiede di esprimere un desiderio, pena però il rimuovere i ricordi di metà vita, dalle 7.00 di sera alle 7.00 di mattina. Lupin va a fondo della questione nelle ore diurne, capendo che il genio non è altro che una ragazza normale, Drew che, come lui, ha i ricordi frammentari ed è manipolata dal dr. Eichmann, il quale vorrebbe distruggere ogni uomo non onesto. Alla fine, Lupin riuscirà comunque a recuperare la sua memoria e quella di Drew.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bG4lKVV7CKUgD97owUkZzkaHupP.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tcmDYkIz15ebcZbOC1kJBWwQlmx.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.729,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.68bb83d5-4756-af48-912f-850e6e0c4934",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm681872",
       "title": "One Piece - Un tesoro grande un sogno",
       "year": 2003,
@@ -8069,68 +8225,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25043775-276f-4e50-9f8a-28cb41d63d98",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm9483",
-      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45378,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.391,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm247578",
-      "title": "Lupin III - La partita italiana",
-      "year": 2016,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 404532,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia dello special è incentrata sul rapimento di Rebecca Rossellini, una bellissima donna d'affari apparsa come personaggio nella quarta serie di Lupin \"Lupin: L'avventura italiana\". Dopo aver saputo del suo rapimento, Lupin si precipita a salvarla. Inoltre Lupin riceve anche una lettera di sfida da parte di un misterioso individuo noto come \"il Conte Mascherato\", che propone una sorta di gioco: vedere chi dei due riuscirà prima ad ottenere \"l'eredità del conte Cagliostro\".",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ifMMsBVslTarDfWKhh9Y4WQXa9I.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wNTNGZqq2kNr6Cd2EmrQ3hKVZV.jpg",
-      "genres": [
-        "televisione film",
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Crime"
-      ],
-      "rating": 6.463,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -8164,69 +8258,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "tm103515",
-      "title": "Lupin III - Trappola mortale",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31050,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.625,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm50107",
-      "title": "Lupin III - L'amore da capo: Fujiko's Unlucky Days",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31594,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Per non farsi rubare il documento di Colombo, che dice esattamente dove si trova l'uovo di Colombo, Fujiko lo memorizza e poi lo distrugge. Toccherà a Lupin cercare l'uovo quando Fujiko verrà colpita da amnesia temporanea.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1paL0pFzLzo97JLISxWf70atXc1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qrUaucJ1wJcI7AAnuHtoi2OVbml.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.25,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm682308",
       "title": "One Piece - Avventura nell'ombelico dell'oceano",
       "year": 2000,
@@ -8254,37 +8285,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm88628",
-      "title": "Lupin III - L'ultimo colpo",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39952,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce di una statuetta del Buddha nella quale è racchiuso il segreto per ritrovare un'antica e potentissima arma creata nel sedicesimo secolo da un gruppo di scienziati italiani fuggiti in Giappone per sfuggire alle persecuzioni della Chiesa. Sulle tracce del tesoro ci sono anche Asuka, l'ultima discendente del clan ninja dei Fuma incaricata di proteggere il segreto dell'arma, e l'antica setta segreta di Morgana, che punta a servirsene per ricreare l'Impero romano.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tuDhWt2oLM3sjazcNennzx2BRWf.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gVd9v6irQLmhHi9eSYuJuGpE06i.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.308,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f7fa9d3-81aa-4de3-8391-4d943db7cfba",
       "maturity_rating": "T",
       "episode_count": 1
     },
