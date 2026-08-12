@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-12T13:05:09Z",
+  "generated_at": "2026-08-12T18:59:18Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -64,36 +64,6 @@
       "episode_count": 1209
     },
     {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.363,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "14+",
-      "episode_count": 220
-    },
-    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -110,7 +80,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.872,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -121,6 +91,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.362,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
+      "maturity_rating": "14+",
+      "episode_count": 220
     },
     {
       "ag_id": "ts22809",
@@ -140,7 +140,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.495,
+      "rating": 8.494,
       "audio_locales": [
         "it-IT"
       ],
@@ -227,7 +227,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.0,
+      "rating": 7.992,
       "audio_locales": [
         "it-IT"
       ],
@@ -324,54 +324,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.159,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts14127",
@@ -537,6 +489,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.162,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts342987",
@@ -833,7 +833,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9aa9f7a8-5b9b-bf07-9123-9d6491b6f60b",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
       "maturity_rating": "14+",
       "episode_count": 12
     },
@@ -949,7 +949,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1037,7 +1037,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1588,7 +1588,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1677,43 +1677,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 286791,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+",
-      "episode_count": 41
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -1771,35 +1734,41 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm222871",
-      "title": "L'organo genocida",
-      "year": 2017,
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 357407,
-        "tmdb_type": "movie"
+        "tmdb_id": 286791,
+        "tmdb_type": "tv"
       },
-      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
       "genres": [
-        "Thriller",
-        "Fantascienza",
         "Animazione",
-        "Azione",
-        "Guerra"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
       ],
-      "rating": 6.67,
+      "rating": 7.8,
       "audio_locales": [
-        "it-IT"
+        "en-US",
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
-      "maturity_rating": "T",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
+      "maturity_rating": "7+",
+      "episode_count": 41
     },
     {
       "ag_id": "ts38826",
@@ -1856,6 +1825,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "tm222871",
+      "title": "L'organo genocida",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 357407,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L’inferno si trova qui, dentro la testa. Il proliferare del terrorismo, culminato con la distruzione di Sarajevo per mezzo di una bomba nucleare fatta a mano, ha indotto le principali nazioni a radicalizzare le proprie misure di sicurezza tracciando costantemente i cittadini. In parallelo a questa trasformazione, nei paesi in via di sviluppo scoppia un’epidemia di genocidi riconducibile a un enigmatico individuo di nome John Paul. Sulle sue tracce viene inviato Clavis Shepherd, capitano dell’esercito informativo degli Stati Uniti, chiamato a far luce sul legame che intercorre tra le parole e le azioni umane.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jQ9pdjjgKJzht65LtE3V6MqOvQG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7yZBnIzbRN7GM7ftIgnU3Zm1cVx.jpg",
+      "genres": [
+        "Thriller",
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Guerra"
+      ],
+      "rating": 6.67,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -2278,6 +2278,34 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -2323,34 +2351,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts55756",
@@ -2529,34 +2529,6 @@
       "episode_count": 140
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
-    },
-    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2611,6 +2583,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
     },
     {
       "ag_id": "ts29076",
@@ -4528,35 +4528,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
       "ag_id": "tm61092",
       "title": "Card Captor Sakura - The Movie",
       "year": 1999,
@@ -4641,6 +4612,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
       "maturity_rating": "T",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "tm29738",
@@ -6661,7 +6661,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.053,
+      "rating": 7.052,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6842,7 +6842,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.912,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7374,7 +7374,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.032,
+      "rating": 7.038,
       "audio_locales": [
         "it-IT",
         "ja-JP"
