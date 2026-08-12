@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-11T18:59:39Z",
+  "generated_at": "2026-08-12T01:48:39Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -227,7 +227,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.497,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -326,54 +326,6 @@
       "episode_count": 85
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.163,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -402,6 +354,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.516,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts281904",
@@ -508,6 +491,54 @@
       "episode_count": 41
     },
     {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.164,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -536,37 +567,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.516,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts28078",
@@ -1404,7 +1404,7 @@
         "Dramma",
         "Commedia"
       ],
-      "rating": 6.956,
+      "rating": 6.957,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1522,7 +1522,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.481,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1559,7 +1559,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1714,34 +1714,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts485272",
-      "title": "Yugure al crepuscolo della perpetuità",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 294867,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
-      "maturity_rating": "",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -1769,6 +1741,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts485272",
+      "title": "Yugure al crepuscolo della perpetuità",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 294867,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante rivolte causate dall'IA, Akira viene colpito mentre protegge la sua ragazza. Secoli dopo si risveglia dal sonno criogenico in un mondo sconosciuto. Qui incontra l'androide Yugure, identica alla ragazza che ha perso. In un futuro deformato dalla tecnologia, Akira dovrà capire cosa significhi amare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p02YmcaT8TSMgff7iu6QusoR8Ws.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sTGjtF4gQgf1pUGR9TSOPDmEmuZ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
+      "maturity_rating": "",
+      "episode_count": 12
     },
     {
       "ag_id": "ts38826",
@@ -2923,7 +2923,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.44,
       "audio_locales": [
         "de",
         "en-US",
@@ -2969,7 +2969,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.631,
+      "rating": 7.624,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3339,34 +3339,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.372,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
-    },
-    {
       "ag_id": "ts331408",
       "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
       "year": 2022,
@@ -3416,6 +3388,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.372,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
     },
     {
       "ag_id": "tm451542",
@@ -4515,7 +4515,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 5.978,
+      "rating": 6.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5754,7 +5754,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.636,
+      "rating": 8.667,
       "audio_locales": [
         "it-IT"
       ],
