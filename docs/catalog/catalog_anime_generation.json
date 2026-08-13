@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T13:05:56Z",
+  "generated_at": "2026-08-13T19:00:10Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -20,7 +20,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.539,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -197,7 +197,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.304,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -911,7 +911,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.283,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1858,35 +1858,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -1930,6 +1901,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts21278",
@@ -2037,7 +2037,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -2428,7 +2428,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.69,
+      "rating": 7.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2923,7 +2923,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.44,
+      "rating": 7.4,
       "audio_locales": [
         "de",
         "en-US",
@@ -4275,28 +4275,6 @@
       "episode_count": 23
     },
     {
-      "ag_id": "ts364419",
-      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts440071",
       "title": "Bad Girl",
       "year": 2025,
@@ -4325,22 +4303,16 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts345978",
-      "title": "Blue Orchestra",
-      "year": 2023,
+      "ag_id": "ts364419",
+      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
+      "year": 2022,
       "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 197368,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.0,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4348,9 +4320,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
       "maturity_rating": "T",
-      "episode_count": 45
+      "episode_count": 0
     },
     {
       "ag_id": "ts56436",
@@ -4409,6 +4381,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1a26525e-9952-4fe3-b9e2-52c1bc6052db",
       "maturity_rating": "16+",
       "episode_count": 37
+    },
+    {
+      "ag_id": "ts345978",
+      "title": "Blue Orchestra",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 197368,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "tm187227",
@@ -7710,6 +7710,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm447715",
+      "title": "Lupin III: Lupin contro tutti!",
+      "year": 2018,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 567767,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3JlO9wVfCqKcdznOZ6Y5bNsfspK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNbA10Ab4O84IGwolKwV1gPWj8q.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Crime",
+        "Animazione"
+      ],
+      "rating": 6.833,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm20372",
       "title": "Lupin III - Per un dollaro in più",
       "year": 2000,
@@ -7982,37 +8013,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm447715",
-      "title": "Lupin III: Lupin contro tutti!",
-      "year": 2018,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 567767,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3JlO9wVfCqKcdznOZ6Y5bNsfspK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNbA10Ab4O84IGwolKwV1gPWj8q.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Commedia",
-        "Crime",
-        "Animazione"
-      ],
-      "rating": 6.833,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
       "maturity_rating": "T",
       "episode_count": 1
     },
