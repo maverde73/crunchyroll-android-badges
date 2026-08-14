@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-13T19:00:10Z",
+  "generated_at": "2026-08-14T01:48:49Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -197,7 +197,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -255,7 +255,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.501,
+      "rating": 8.502,
       "audio_locales": [
         "it-IT"
       ],
@@ -1169,7 +1169,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.748,
+      "rating": 7.746,
       "audio_locales": [
         "it-IT"
       ],
@@ -1493,7 +1493,7 @@
         "Sci-Fi & Fantasy",
         "War & Politics"
       ],
-      "rating": 7.72,
+      "rating": 7.747,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1535,6 +1535,34 @@
       "episode_count": 104
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.022,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts461952",
       "title": "Super Cube",
       "year": 2025,
@@ -1562,34 +1590,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.022,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
-      "episode_count": 24
     },
     {
       "ag_id": "ts74597",
@@ -1768,7 +1768,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
-      "episode_count": 41
+      "episode_count": 44
     },
     {
       "ag_id": "ts38826",
@@ -1919,7 +1919,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.4,
+      "rating": 7.399,
       "audio_locales": [
         "it-IT"
       ],
@@ -2353,35 +2353,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts55756",
-      "title": "DanMachi - Sword Oratoria",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 70590,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.815,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2410,6 +2381,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts55756",
+      "title": "DanMachi - Sword Oratoria",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 70590,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.815,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts452568",
@@ -2529,6 +2529,33 @@
       "episode_count": 140
     },
     {
+      "ag_id": "ts399964",
+      "title": "Shaman King: Flowers",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 232865,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rMViGZqSsj58BEWdGkYWvgKF9Mm.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.75,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2556,33 +2583,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
       "maturity_rating": "16+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts399964",
-      "title": "Shaman King: Flowers",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 232865,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rMViGZqSsj58BEWdGkYWvgKF9Mm.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eD0eKzDkdvoThLvqaS0Z7RGtC8L.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.75,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e07e354-6239-443e-acdf-119478d0ec2b",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts44184",
@@ -2820,34 +2820,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts58464",
       "title": "Shurato - L'epica degli Dei celesti",
       "year": 1989,
@@ -2877,23 +2849,22 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 45154,
+        "tmdb_id": 43903,
         "tmdb_type": "tv"
       },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
       "genres": [
         "Animazione",
-        "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 6.3,
+      "rating": 6.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -2901,9 +2872,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts223380",
@@ -2953,6 +2924,71 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
+    },
+    {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pl",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts403298",
       "title": "Blue Miburo - I giovani lupi di Mibu",
       "year": 2024,
@@ -2979,72 +3015,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
-    },
-    {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.624,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts329737",
-      "title": "Helck",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 157571,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.929,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "tm130037",
@@ -3101,6 +3071,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts329737",
+      "title": "Helck",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 157571,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uBVaWmEJB2ttSOuLbJ8LoFczv6m.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.929,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5a102218-e27f-4f8a-bace-998658753100",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm193065",
@@ -3253,35 +3253,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts518",
-      "title": "Beelzebub",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 38603,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tatsumi Oga è uno studente del primo anno del Liceo Ishiyama, una scuola per delinquenti. Un giorno gli capita di raccogliere dal fiume un bambino, che non è altri che Beelzebub, il figlio del re dei demoni, destinato una volta diventato adulto a distruggere l'umanità. Oga ha la fama di essere il più cattivo della scuola, per questo è stato prescelto per occuparsi di allevare il bambino con l'aiuto della tata demoniaca Hilda. E se dovesse rifiutarsi, Oga verrebbe immediatamente ucciso! Il giovane delinquente si ritroverà così costretto a fare da genitore al piccolo Beel, cercando comunque un modo per passare l'incarico a un altro delinquente che possa soddisfare i requisiti necessari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pKD21lpNb6LzdXi3FfqDirxPGEo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3Z57uXxFEANAXQTukXmzJYnHc7F.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.216,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
-      "maturity_rating": "14+",
-      "episode_count": 60
-    },
-    {
       "ag_id": "ts488482",
       "title": "La vita nella stanzetta al manga cafè",
       "year": 2026,
@@ -3337,6 +3308,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts518",
+      "title": "Beelzebub",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 38603,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tatsumi Oga è uno studente del primo anno del Liceo Ishiyama, una scuola per delinquenti. Un giorno gli capita di raccogliere dal fiume un bambino, che non è altri che Beelzebub, il figlio del re dei demoni, destinato una volta diventato adulto a distruggere l'umanità. Oga ha la fama di essere il più cattivo della scuola, per questo è stato prescelto per occuparsi di allevare il bambino con l'aiuto della tata demoniaca Hilda. E se dovesse rifiutarsi, Oga verrebbe immediatamente ucciso! Il giovane delinquente si ritroverà così costretto a fare da genitore al piccolo Beel, cercando comunque un modo per passare l'incarico a un altro delinquente che possa soddisfare i requisiti necessari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pKD21lpNb6LzdXi3FfqDirxPGEo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3Z57uXxFEANAXQTukXmzJYnHc7F.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.216,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
+      "maturity_rating": "14+",
+      "episode_count": 60
     },
     {
       "ag_id": "ts312683",
@@ -7972,7 +7972,7 @@
         "Fantascienza",
         "Romance"
       ],
-      "rating": 6.289,
+      "rating": 6.3,
       "audio_locales": [
         "it-IT"
       ],
