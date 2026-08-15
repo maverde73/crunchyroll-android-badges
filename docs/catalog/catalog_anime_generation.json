@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T06:34:52Z",
+  "generated_at": "2026-08-15T12:33:39Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -181,6 +181,35 @@
       "episode_count": 40
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -265,35 +294,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts20112",
@@ -715,6 +715,37 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45860,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 7.127,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -1014,35 +1045,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts29400",
-      "title": "Capricciosa Orange Road",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9103,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T",
-      "episode_count": 48
-    },
-    {
       "ag_id": "ts360995",
       "title": "Boku no kokoro no yabai yatsu",
       "year": 2023,
@@ -1070,6 +1072,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts29400",
+      "title": "Capricciosa Orange Road",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9103,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts52963",
@@ -1127,37 +1158,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.127,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
     },
     {
       "ag_id": "tm1542133",
@@ -2820,34 +2820,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts52727",
       "title": "Mazinkaiser",
       "year": 2001,
@@ -2922,6 +2894,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65e6682d-4960-453a-a884-69f3e338dbe1",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts58464",
@@ -3135,6 +3135,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts463053",
+      "title": "Your Forma",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts35960",
       "title": "Inferno e paradiso",
       "year": 2004,
@@ -3163,35 +3192,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts463053",
-      "title": "Your Forma",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts412408",
@@ -5666,7 +5666,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.998,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6409,6 +6409,34 @@
       "episode_count": 62
     },
     {
+      "ag_id": "ts52195",
+      "title": "General Daimos",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8996,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
+      "maturity_rating": "T",
+      "episode_count": 44
+    },
+    {
       "ag_id": "ts15516",
       "title": "Il prode Raideen",
       "year": 1975,
@@ -6582,34 +6610,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts52195",
-      "title": "General Daimos",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8996,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.357,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
-      "maturity_rating": "T",
-      "episode_count": 44
-    },
-    {
       "ag_id": "tm49444",
       "title": "Detective Conan - L'asso di picche",
       "year": 1998,
@@ -6752,7 +6752,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.496,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6869,7 +6869,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.195,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7860,7 +7860,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
@@ -8014,38 +8014,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "tm19133",
-      "title": "Oh, mia Dea! - The Movie",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 21174,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia prende il via dalla terza primavera da quando Belldandy e Kei'ichi hanno iniziato la loro convivenza. Il club dei motori dell'università Nekomiko, il circolo al quale appartiene Kei'ichi, sta per accogliere, come ogni inizio di anno accademico, le nuove leve che prenderanno il posto degli studenti ormai laureati o passati ai corsi di dottorato, i cosiddetti OB (Old Boy). Tra i candidati ad entrare nel club appare una splendida ragazza dai lunghi capelli neri di nome Morgan.  A questo punto accade qualcosa di inaspettato: il mentore di Belldandy, del quale si erano perdute completamente le tracce da molto tempo, appare improvvisamente sulla terra alla sua ex-allieva. Quale sarà l'obiettivo di questo misterioso individuo?  Contemporaneamente, nel mondo celeste cominciano a manifestarsi uno dopo l'altro strani eventi: l'evasione dalla prigione della Luna di un criminale e l'intrusione di un virus nel sistema Yggdrasil causano uno stato di massima confusione...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yoWGn3hQhQ8wLcDlNxgjEjmnZ9t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3GKjUFl3QHXrDMYCDoB5Wn6taEN.jpg",
-      "genres": [
-        "Fantasy",
-        "Animazione",
-        "Dramma",
-        "Commedia",
-        "Fantascienza",
-        "Romance"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deefe577-2963-4e6c-a5d5-0cf93b685d09",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm839900",
       "title": "Lupin III - Prigioniero del passato",
       "year": 2019,
@@ -8105,6 +8073,38 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm19133",
+      "title": "Oh, mia Dea! - The Movie",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 21174,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia prende il via dalla terza primavera da quando Belldandy e Kei'ichi hanno iniziato la loro convivenza. Il club dei motori dell'università Nekomiko, il circolo al quale appartiene Kei'ichi, sta per accogliere, come ogni inizio di anno accademico, le nuove leve che prenderanno il posto degli studenti ormai laureati o passati ai corsi di dottorato, i cosiddetti OB (Old Boy). Tra i candidati ad entrare nel club appare una splendida ragazza dai lunghi capelli neri di nome Morgan.  A questo punto accade qualcosa di inaspettato: il mentore di Belldandy, del quale si erano perdute completamente le tracce da molto tempo, appare improvvisamente sulla terra alla sua ex-allieva. Quale sarà l'obiettivo di questo misterioso individuo?  Contemporaneamente, nel mondo celeste cominciano a manifestarsi uno dopo l'altro strani eventi: l'evasione dalla prigione della Luna di un criminale e l'intrusione di un virus nel sistema Yggdrasil causano uno stato di massima confusione...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yoWGn3hQhQ8wLcDlNxgjEjmnZ9t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3GKjUFl3QHXrDMYCDoB5Wn6taEN.jpg",
+      "genres": [
+        "Fantasy",
+        "Animazione",
+        "Dramma",
+        "Commedia",
+        "Fantascienza",
+        "Romance"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deefe577-2963-4e6c-a5d5-0cf93b685d09",
       "maturity_rating": "T",
       "episode_count": 1
     },
