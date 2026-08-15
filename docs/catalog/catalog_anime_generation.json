@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-15T12:33:39Z",
+  "generated_at": "2026-08-15T18:26:16Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -197,7 +197,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.504,
       "audio_locales": [
         "it-IT"
       ],
@@ -326,36 +326,6 @@
       "episode_count": 85
     },
     {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.039,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -385,6 +355,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.039,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts281904",
@@ -1559,7 +1559,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 24
     },
     {
@@ -2953,6 +2953,34 @@
       "episode_count": 38
     },
     {
+      "ag_id": "ts403298",
+      "title": "Blue Miburo - I giovani lupi di Mibu",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234776,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
+      "maturity_rating": "14+",
+      "episode_count": 38
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -2987,34 +3015,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts403298",
-      "title": "Blue Miburo - I giovani lupi di Mibu",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234776,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
-      "maturity_rating": "14+",
-      "episode_count": 38
     },
     {
       "ag_id": "tm130037",
@@ -4411,6 +4411,34 @@
       "episode_count": 53
     },
     {
+      "ag_id": "ts458553",
+      "title": "La promessa del mago",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258578,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i maghi e gli umani coesistono, ci sono cinque paesi nel continente centrale, tutti con caratteristiche uniche. In questo mondo, un grande satellite fluttua nel cielo e i cittadini si sentono in pericolo. Una volta all'anno, vengono selezionati dei maghi che combattono contro quel misterioso corpo celeste. Ad uno di loro, proveniente da un altro mondo, è chiesto di condurre la squadra contro quel satellite.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/quHLmheViYmmvSp6QnCLn9Q4L0.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.714,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm187227",
       "title": "Yu Yu Hakusho: Il sigillo d'oro",
       "year": 1993,
@@ -4439,34 +4467,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8e4e286e-0f5f-42f9-a39a-b83fb208f03e",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts458553",
-      "title": "La promessa del mago",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258578,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo in cui i maghi e gli umani coesistono, ci sono cinque paesi nel continente centrale, tutti con caratteristiche uniche. In questo mondo, un grande satellite fluttua nel cielo e i cittadini si sentono in pericolo. Una volta all'anno, vengono selezionati dei maghi che combattono contro quel misterioso corpo celeste. Ad uno di loro, proveniente da un altro mondo, è chiesto di condurre la squadra contro quel satellite.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/quHLmheViYmmvSp6QnCLn9Q4L0.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.714,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm220268",
@@ -4792,7 +4792,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.154,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7860,7 +7860,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
