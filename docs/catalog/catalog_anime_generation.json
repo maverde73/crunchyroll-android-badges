@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-14T18:51:23Z",
+  "generated_at": "2026-08-15T01:07:41Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -80,7 +80,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.87,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -109,7 +109,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.362,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -140,7 +140,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.493,
+      "rating": 8.491,
       "audio_locales": [
         "it-IT"
       ],
@@ -225,7 +225,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.305,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -508,7 +508,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.162,
+      "rating": 8.156,
       "audio_locales": [
         "en-US",
         "es",
@@ -657,33 +657,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -807,6 +780,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts17714",
@@ -1255,7 +1255,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.457,
+      "rating": 8.455,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2037,7 +2037,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -2940,7 +2940,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.765,
+      "rating": 7.778,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3467,7 +3467,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.837,
+      "rating": 7.833,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4234,7 +4234,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.815,
+      "rating": 7.823,
       "audio_locales": [
         "it-IT"
       ],
@@ -6672,6 +6672,39 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm27612",
+      "title": "One Piece - I misteri dell'isola meccanica",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44730,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zDJvmRawPowoETk2t95lj2zujvO.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione",
+        "Commedia",
+        "Fantascienza",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts64978",
       "title": "Mademoiselle Anne - Una ragazza alla moda",
       "year": 1978,
@@ -6700,38 +6733,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
       "maturity_rating": "",
       "episode_count": 42
-    },
-    {
-      "ag_id": "tm184358",
-      "title": "One Piece - L'isola segreta del barone Omatsuri",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44729,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo averne trovato la mappa, Rufy e la sua ciurma decidono di visitare l'isola di Omatsuri, dove tutti gli abitanti hanno una strana piantina sulla testa. Il capo di quest'isola è il barone Omatsuri, che li sfida ad affrontare dure prove in cambio dell'accesso a luoghi per rilassarsi e questi accettano. In realtà il barone molti anni prima era il capitano di una ciurma pirata ma un giorno tutti i suoi compagni erano stati uccisi; ha iniziato così ad odiare tutti i pirati fra i quali c'era un forte legame e, cercando di separarli, li attira sulla sua isola e li fa tutti mangiare a parte il capitano dal Giglio Garofano, una grossa e mostruosa pianta situata sulla sommità di un monte. Grazie all'energia assorbita dalla pianta, il barone riesce a mantenere in vita i suoi compagni uccisi tempo fa. Dopo aver affrontato e vinto le prime due prove, il rapporto di amicizia fra i protagonisti inizia ad affievolirsi e iniziano quindi a scomparire.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gD5YcvGbsBmhSG4aHk7dFo4rgwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Fantasy"
-      ],
-      "rating": 7.195,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm59590",
@@ -6850,26 +6851,25 @@
       "episode_count": 38
     },
     {
-      "ag_id": "tm27612",
-      "title": "One Piece - I misteri dell'isola meccanica",
-      "year": 2006,
+      "ag_id": "tm184358",
+      "title": "One Piece - L'isola segreta del barone Omatsuri",
+      "year": 2005,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 44730,
+        "tmdb_id": 44729,
         "tmdb_type": "movie"
       },
-      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zDJvmRawPowoETk2t95lj2zujvO.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
+      "description_it": "Dopo averne trovato la mappa, Rufy e la sua ciurma decidono di visitare l'isola di Omatsuri, dove tutti gli abitanti hanno una strana piantina sulla testa. Il capo di quest'isola è il barone Omatsuri, che li sfida ad affrontare dure prove in cambio dell'accesso a luoghi per rilassarsi e questi accettano. In realtà il barone molti anni prima era il capitano di una ciurma pirata ma un giorno tutti i suoi compagni erano stati uccisi; ha iniziato così ad odiare tutti i pirati fra i quali c'era un forte legame e, cercando di separarli, li attira sulla sua isola e li fa tutti mangiare a parte il capitano dal Giglio Garofano, una grossa e mostruosa pianta situata sulla sommità di un monte. Grazie all'energia assorbita dalla pianta, il barone riesce a mantenere in vita i suoi compagni uccisi tempo fa. Dopo aver affrontato e vinto le prime due prove, il rapporto di amicizia fra i protagonisti inizia ad affievolirsi e iniziano quindi a scomparire.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gD5YcvGbsBmhSG4aHk7dFo4rgwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
       "genres": [
-        "Animazione",
-        "Avventura",
         "Azione",
+        "Animazione",
         "Commedia",
-        "Fantascienza",
+        "Avventura",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 7.195,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6878,7 +6878,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -6942,6 +6942,33 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts242641",
+      "title": "Genie Family - Il ritorno del Mago Pancione",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 105225,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kantaro, pigro e svogliato, resta tutti i giorni in casa ma un giorno, per caso, fa uscire da un vaso la maghetta Akubi. La giovane sostiene di dover seguire un periodo di apprendistato sulla Terra per diventare in futuro regina del suo mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/i54ChnxS1mmMNf1SVNyKnmmFVP9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
+      "maturity_rating": "T",
+      "episode_count": 20
+    },
+    {
       "ag_id": "tm159116",
       "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
       "year": 2011,
@@ -6969,33 +6996,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts242641",
-      "title": "Genie Family - Il ritorno del Mago Pancione",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 105225,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kantaro, pigro e svogliato, resta tutti i giorni in casa ma un giorno, per caso, fa uscire da un vaso la maghetta Akubi. La giovane sostiene di dover seguire un periodo di apprendistato sulla Terra per diventare in futuro regina del suo mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/i54ChnxS1mmMNf1SVNyKnmmFVP9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
-      "maturity_rating": "T",
-      "episode_count": 20
     },
     {
       "ag_id": "ts314720",
@@ -7614,7 +7614,7 @@
         "Horror",
         "Azione"
       ],
-      "rating": 6.981,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT"
       ],
