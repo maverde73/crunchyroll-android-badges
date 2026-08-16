@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T06:36:49Z",
+  "generated_at": "2026-08-16T12:35:05Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -254,7 +254,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.305,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -1082,7 +1082,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.531,
+      "rating": 8.543,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1120,7 +1120,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1867,7 +1867,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.67,
+      "rating": 6.652,
       "audio_locales": [
         "it-IT"
       ],
@@ -2693,36 +2693,6 @@
       "episode_count": 45
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "ts56262",
       "title": "Nanà supergirl",
       "year": 1983,
@@ -2751,6 +2721,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
       "maturity_rating": "7+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "tm1434295",
@@ -3333,34 +3333,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts312683",
       "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
       "year": 2022,
@@ -3413,6 +3385,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts459375",
@@ -3585,7 +3585,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 60
     },
     {
@@ -3616,7 +3616,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -4508,7 +4508,7 @@
         "Fantascienza",
         "Thriller"
       ],
-      "rating": 6.214,
+      "rating": 6.197,
       "audio_locales": [
         "it-IT"
       ],
@@ -4695,36 +4695,6 @@
       "episode_count": 22
     },
     {
-      "ag_id": "ts343493",
-      "title": "Love Flops",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195990,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.724,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts199079",
       "title": "L'uomo tigre II",
       "year": 1969,
@@ -4796,6 +4766,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts343493",
+      "title": "Love Flops",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195990,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.724,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm96037",
@@ -5169,7 +5169,7 @@
         "Animazione",
         "Fantascienza"
       ],
-      "rating": 6.82,
+      "rating": 6.802,
       "audio_locales": [
         "it-IT"
       ],
@@ -5622,34 +5622,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts39882",
-      "title": "Daltanious, il robot del futuro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16820,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
-      "maturity_rating": "T",
-      "episode_count": 47
-    },
-    {
       "ag_id": "tm146533",
       "title": "One Piece - Trappola mortale",
       "year": 2003,
@@ -5678,6 +5650,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ad88a22b-6be5-4abb-955d-b317853c344a",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts39882",
+      "title": "Daltanious, il robot del futuro",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 16820,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
+      "maturity_rating": "T",
+      "episode_count": 47
     },
     {
       "ag_id": "ts76780",
@@ -6522,6 +6522,37 @@
       "episode_count": 13
     },
     {
+      "ag_id": "tm59590",
+      "title": "One Piece Film: Z",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 176983,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La pietra Dyna arma segreta della Marina, famigerata come paragonabile alle armi ancestrali, è stata rubata e il temuto responsabile, l'ex ammiraglio Z, intralcia il cammino dei pirati di Cappello di paglia.  Il quartier generale della Marina decide finalmente di affrontare la cospirazione che minaccia gli equilibri del Nuovo Mondo. Nel frattempo l'ex ammiraglio Kuzan insegue i pirati di Cappello di paglia. Infine Rufy e la sua ciurma decidono di opporsi a Z e il suo incredibile potere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/guzIZgMMUp11qDA22clAdVXRids.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cMXp028BZIdiA9OFfiK4gSYYtcr.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Azione",
+        "Avventura"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm134235",
       "title": "One Piece - Avventura sulle isole volanti",
       "year": 2009,
@@ -6733,37 +6764,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
       "maturity_rating": "",
       "episode_count": 42
-    },
-    {
-      "ag_id": "tm59590",
-      "title": "One Piece Film: Z",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 176983,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La pietra Dyna arma segreta della Marina, famigerata come paragonabile alle armi ancestrali, è stata rubata e il temuto responsabile, l'ex ammiraglio Z, intralcia il cammino dei pirati di Cappello di paglia.  Il quartier generale della Marina decide finalmente di affrontare la cospirazione che minaccia gli equilibri del Nuovo Mondo. Nel frattempo l'ex ammiraglio Kuzan insegue i pirati di Cappello di paglia. Infine Rufy e la sua ciurma decidono di opporsi a Z e il suo incredibile potere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guzIZgMMUp11qDA22clAdVXRids.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/cMXp028BZIdiA9OFfiK4gSYYtcr.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy",
-        "Azione",
-        "Avventura"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts53048",
@@ -6998,6 +6998,38 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm65142",
+      "title": "One Piece - Un'amicizia oltre i confini del mare",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 25278,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts314720",
       "title": "Sorairo Utility",
       "year": 2025,
@@ -7024,36 +7056,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm88171",
-      "title": "One Piece - La spada delle sette stelle",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44728,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts221701",
@@ -7173,25 +7175,23 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm65142",
-      "title": "One Piece - Un'amicizia oltre i confini del mare",
-      "year": 2007,
+      "ag_id": "tm88171",
+      "title": "One Piece - La spada delle sette stelle",
+      "year": 2004,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 25278,
+        "tmdb_id": 44728,
         "tmdb_type": "movie"
       },
-      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
       "genres": [
-        "Azione",
-        "Avventura",
         "Animazione",
-        "Commedia",
-        "Fantasy"
+        "Avventura",
+        "Azione"
       ],
-      "rating": 6.9,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7200,8 +7200,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
