@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-16T18:25:55Z",
+  "generated_at": "2026-08-17T01:09:17Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -181,35 +181,6 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.504,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -237,6 +208,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "tm190768",
@@ -296,6 +296,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.616,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -325,36 +355,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.616,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
     },
     {
       "ag_id": "ts14127",
@@ -466,7 +466,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.384,
+      "rating": 8.4,
       "audio_locales": [
         "de",
         "en-US",
@@ -733,7 +733,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.9,
+      "rating": 7.922,
       "audio_locales": [
         "ja-JP"
       ],
@@ -833,33 +833,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -890,6 +863,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts17714",
@@ -1032,7 +1032,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1053,7 +1053,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.691,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1120,7 +1120,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -2059,7 +2059,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -2384,14 +2384,14 @@
         "tmdb_type": "movie"
       },
       "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9D8UBGepMAq4HLznjk2JaNcxpmc.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
       "genres": [
         "Azione",
         "Romance",
         "Animazione"
       ],
-      "rating": 7.477,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2842,35 +2842,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2944,6 +2915,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
       "maturity_rating": "T",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts58464",
@@ -3290,7 +3290,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.05,
+      "rating": 8.077,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3430,7 +3430,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.372,
+      "rating": 8.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3679,35 +3679,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.044,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3754,7 +3725,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.275,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3765,6 +3736,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af8f965e-fcbe-4815-808e-da81765048f1",
       "maturity_rating": "18+",
       "episode_count": 10
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.044,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts88978",
@@ -5036,35 +5036,6 @@
       "episode_count": 36
     },
     {
-      "ag_id": "tm132639",
-      "title": "Venus Wars",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31769,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Terra, anno 2017: il pianeta è investito da mutamenti climatici tali da renderlo incompatibile con la vita umana. I primi coloni terrestri vengono trasferiti sul pianeta Venere dove fondano le due grandi nazioni di Aphrodia e Ishtal. 72 anni sono tuttavia sufficienti a far vacillare gli equilibri su cui si fonda la civile convivenza sul pianeta: Aphrodia e Ishtal entrano in guerra. Il conflitto si combatte sulla superficie del pianeta dove Ishtal schiera tank ultramoderni. Per fronteggiarne l'avanzata l'esercito di Aphrodia non ha altra scelta che contrapporvi ben più agili e veloci motociclette. A pilotarle saranno chiamati i giocatori del Rolling Game, fra cui Hiraki Senoo della squadra dei Killer Commandos...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kaGEDixeTPUbLIQSCxBsPRJ045s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2CLYqi6FCVYU4weO4ggH9abyjhy.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantascienza"
-      ],
-      "rating": 6.739,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts287662",
       "title": "Getter robo arc",
       "year": 2021,
@@ -5093,6 +5064,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "tm132639",
+      "title": "Venus Wars",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31769,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Terra, anno 2017: il pianeta è investito da mutamenti climatici tali da renderlo incompatibile con la vita umana. I primi coloni terrestri vengono trasferiti sul pianeta Venere dove fondano le due grandi nazioni di Aphrodia e Ishtal. 72 anni sono tuttavia sufficienti a far vacillare gli equilibri su cui si fonda la civile convivenza sul pianeta: Aphrodia e Ishtal entrano in guerra. Il conflitto si combatte sulla superficie del pianeta dove Ishtal schiera tank ultramoderni. Per fronteggiarne l'avanzata l'esercito di Aphrodia non ha altra scelta che contrapporvi ben più agili e veloci motociclette. A pilotarle saranno chiamati i giocatori del Rolling Game, fra cui Hiraki Senoo della squadra dei Killer Commandos...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kaGEDixeTPUbLIQSCxBsPRJ045s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2CLYqi6FCVYU4weO4ggH9abyjhy.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantascienza"
+      ],
+      "rating": 6.739,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts417105",
@@ -6082,7 +6082,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.318,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6562,14 +6562,14 @@
         "tmdb_type": "movie"
       },
       "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yYl4O8oyO5CQiVGyVl1ZCFj4vDC.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
       "genres": [
         "Animazione",
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.431,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6628,7 +6628,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.427,
+      "rating": 7.425,
       "audio_locales": [
         "it-IT"
       ],
@@ -6680,7 +6680,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/llE4M0aNXxLFcWtT033yMUBcC7x.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
       "genres": [
         "Azione",
@@ -6689,7 +6689,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.05,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6712,7 +6712,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zDJvmRawPowoETk2t95lj2zujvO.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3ZxMSpUmWxLtnn6Fj9ciBxna74b.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
       "genres": [
         "Animazione",
@@ -6860,7 +6860,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Dopo averne trovato la mappa, Rufy e la sua ciurma decidono di visitare l'isola di Omatsuri, dove tutti gli abitanti hanno una strana piantina sulla testa. Il capo di quest'isola è il barone Omatsuri, che li sfida ad affrontare dure prove in cambio dell'accesso a luoghi per rilassarsi e questi accettano. In realtà il barone molti anni prima era il capitano di una ciurma pirata ma un giorno tutti i suoi compagni erano stati uccisi; ha iniziato così ad odiare tutti i pirati fra i quali c'era un forte legame e, cercando di separarli, li attira sulla sua isola e li fa tutti mangiare a parte il capitano dal Giglio Garofano, una grossa e mostruosa pianta situata sulla sommità di un monte. Grazie all'energia assorbita dalla pianta, il barone riesce a mantenere in vita i suoi compagni uccisi tempo fa. Dopo aver affrontato e vinto le prime due prove, il rapporto di amicizia fra i protagonisti inizia ad affievolirsi e iniziano quindi a scomparire.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gD5YcvGbsBmhSG4aHk7dFo4rgwZ.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7WOnVTOw9S6s2n0r4uCXXrMv6k4.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
       "genres": [
         "Azione",
@@ -7214,14 +7214,14 @@
         "tmdb_type": "movie"
       },
       "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/4K5hDEHjTQMv4dmadnBOyZYEu1h.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/qgaVJE4SK2qRtggVyRlISKQ1zBE.jpg",
       "genres": [
         "Azione",
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.862,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7334,14 +7334,14 @@
         "tmdb_type": "movie"
       },
       "description_it": "La ciurma di Cappello di Paglia giunge presso l'Isola della Corona. Il nome è dovuto alle eruzioni di un vulcano sottomarino che formano attorno all'isola delle colonne di fumo che la cingono come una corona.  Il luogo è abitato da numerosi animali strani e da un ragazzino, Mobambi, sempre accompagnato dal pennuto Corbi. Sull'isola si trovano anche il Conte Butler ed i suoi sottoposti, il Generale Hotdog ed il Presidente Heaby: questi vogliono trovare il tesoro del re e sono convinti che si nasconda nelle corna di qualche animale. Per questo motivo il Conte Butler addomestica con il suo violino i Mangiacorna (animali locali) nell'intento di impossessarsi del grande potere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ggoqESIV95oWfnx5EmIKQiazPDT.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pVQsuyU3CmZi6I970OBtMY68Kzn.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
       "genres": [
         "Azione",
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.696,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7393,7 +7393,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Dopo che Nami si ammala, la ciurma giunge sull'isola di Drum in cerca di un dottore e si reca in cerca di Kureha, l'unica rimasta sull'isola. Giunge però sull'isola anche Blik Wapol, il sovrano dell'isola che era fuggito dopo l'arrivo della Ciurma di Barbanera. Questi cerca insieme al fratello maggiore Musshūru di sconfiggere Rufy, che vuole impedire loro di riprendere il controllo dell'isola. Anche la renna TonyTony Chopper, l'assistente di Kureha, che in passato era stato allievo del dottor Hillk, ucciso da Wapol, partecipa al duro scontro ed infine Rufy grazie ai Gear sconfigge i due. La ciurma riparte dunque dall'isola di Drum dopo aver convinto Chopper ad unirsi a loro come medico di bordo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/x5Yn5z6CqzSgW3SFibhwkCMPJIk.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/b1UPcWBOg2ZTUp8PZeaY5JiDjUL.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/yJetT9PknmMbgwPdhrpxVU8tDKk.jpg",
       "genres": [
         "Azione",
@@ -7401,7 +7401,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.038,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
