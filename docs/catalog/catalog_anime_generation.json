@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T01:09:17Z",
+  "generated_at": "2026-08-17T06:51:39Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -31,6 +31,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
       "episode_count": 1209
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts413191",
@@ -64,35 +93,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -123,22 +123,23 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 32676,
+        "tmdb_id": 31572,
         "tmdb_type": "tv"
       },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
       "genres": [
         "Animazione",
-        "Dramma"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.319,
+      "rating": 7.992,
       "audio_locales": [
         "it-IT"
       ],
@@ -146,9 +147,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
-      "episode_count": 40
+      "episode_count": 300
     },
     {
       "ag_id": "ts22809",
@@ -181,23 +182,22 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 31572,
+        "tmdb_id": 32676,
         "tmdb_type": "tv"
       },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Dramma"
       ],
-      "rating": 7.992,
+      "rating": 8.319,
       "audio_locales": [
         "it-IT"
       ],
@@ -205,9 +205,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
-      "episode_count": 300
+      "episode_count": 40
     },
     {
       "ag_id": "ts345",
@@ -226,7 +226,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.505,
       "audio_locales": [
         "it-IT"
       ],
@@ -312,7 +312,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.616,
+      "rating": 8.613,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -387,37 +387,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.047,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
-    },
-    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -447,6 +416,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.047,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
     },
     {
       "ag_id": "ts21984",
@@ -600,6 +600,28 @@
       "episode_count": 52
     },
     {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -646,7 +668,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.469,
+      "rating": 8.466,
       "audio_locales": [
         "it-IT"
       ],
@@ -657,6 +679,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
       "episode_count": 112
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts35975",
@@ -744,28 +793,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts317669",
@@ -863,33 +890,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
     },
     {
       "ag_id": "ts17714",
@@ -1439,35 +1439,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts26262",
       "title": "Yattaman",
       "year": 1977,
@@ -1495,6 +1466,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "14+",
       "episode_count": 108
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts75698",
@@ -1557,6 +1557,34 @@
       "episode_count": 104
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.022,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts461952",
       "title": "Super Cube",
       "year": 2025,
@@ -1584,34 +1612,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.022,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "ts74597",
@@ -1698,35 +1698,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.31,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -1782,6 +1753,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.31,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts475209",
@@ -1880,6 +1880,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -1923,35 +1952,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts21278",
@@ -2093,36 +2093,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts76736",
-      "title": "I cinque samurai: Message",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75080,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
-      "episode_count": 5
-    },
-    {
       "ag_id": "ts436411",
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "year": 2025,
@@ -2151,6 +2121,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts76736",
+      "title": "I cinque samurai: Message",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75080,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
+      "maturity_rating": "T",
+      "episode_count": 5
     },
     {
       "ag_id": "ts24632",
@@ -2607,35 +2607,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts22705",
-      "title": "Il fantastico mondo di Paul",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42955,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
-      "episode_count": 50
-    },
-    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -2665,22 +2636,23 @@
       "episode_count": 203
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
+      "ag_id": "ts22705",
+      "title": "Il fantastico mondo di Paul",
+      "year": 1976,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 36664,
+        "tmdb_id": 42955,
         "tmdb_type": "tv"
       },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
       "genres": [
         "Animazione",
-        "Dramma"
+        "Kids",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 4.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -2688,9 +2660,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts56262",
@@ -2721,6 +2693,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
       "maturity_rating": "7+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
     },
     {
       "ag_id": "ts40524",
@@ -2842,6 +2842,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
+    },
+    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -2917,35 +2946,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "ts58464",
       "title": "Shurato - L'epica degli Dei celesti",
       "year": 1989,
@@ -2972,6 +2972,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
       "maturity_rating": "T",
+      "episode_count": 38
+    },
+    {
+      "ag_id": "ts403298",
+      "title": "Blue Miburo - I giovani lupi di Mibu",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234776,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
+      "maturity_rating": "14+",
       "episode_count": 38
     },
     {
@@ -3009,34 +3037,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts403298",
-      "title": "Blue Miburo - I giovani lupi di Mibu",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234776,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
-      "maturity_rating": "14+",
-      "episode_count": 38
     },
     {
       "ag_id": "tm130037",
@@ -3275,35 +3275,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts374187",
-      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 216074,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.077,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts518",
       "title": "Beelzebub",
       "year": 2011,
@@ -3331,6 +3302,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a2b8c084-8827-52ed-91a1-1226a56e6740",
       "maturity_rating": "14+",
       "episode_count": 60
+    },
+    {
+      "ag_id": "ts374187",
+      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 216074,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.077,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm451542",
@@ -3518,7 +3518,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.833,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3915,34 +3915,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T",
-      "episode_count": 73
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -3972,6 +3944,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts36530",
@@ -4062,6 +4062,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts15250",
+      "title": "Caro fratello",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36588,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.917,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "maturity_rating": "T",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts322046",
       "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
       "year": 2023,
@@ -4089,34 +4117,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts15250",
-      "title": "Caro fratello",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36588,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.917,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
-      "maturity_rating": "T",
-      "episode_count": 39
     },
     {
       "ag_id": "ts31966",
@@ -4211,35 +4211,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts365130",
-      "title": "Dark Gathering",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 206799,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Keitarou ha una predisposizione ad attirare gli spiriti e, data la sua esperienza, gli viene affidato l'incarico di fare da insegnante. La persona che dovrà aiutare è una bambina di nome Yayoi. La piccola percepisce chiaramente gli spiriti e ne sta cercando uno in particolare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3Cuja7qMSQi49LUEmcpntv2mOVu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fctgQPXyx6quhA7TY0xTb9STIuS.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero"
-      ],
-      "rating": 7.355,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
-      "maturity_rating": "18+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "tm41614",
       "title": "I Cavalieri dello zodiaco - La leggenda dei guerrieri scarlatti",
       "year": 1988,
@@ -4267,6 +4238,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.52f1b371-1335-431c-a672-cbaa95d743e2",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts365130",
+      "title": "Dark Gathering",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 206799,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Keitarou ha una predisposizione ad attirare gli spiriti e, data la sua esperienza, gli viene affidato l'incarico di fare da insegnante. La persona che dovrà aiutare è una bambina di nome Yayoi. La piccola percepisce chiaramente gli spiriti e ne sta cercando uno in particolare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3Cuja7qMSQi49LUEmcpntv2mOVu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fctgQPXyx6quhA7TY0xTb9STIuS.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero"
+      ],
+      "rating": 7.355,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
+      "maturity_rating": "18+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts11218",
@@ -4608,6 +4608,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm29738",
+      "title": "Naruto - La via dei ninja",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 118406,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Molto tempo fa, un misterioso ninja mascherato scatenò la Volpe a Nove Code contro il Villaggio della Foglia, creando caos e distruzione. Ma il Quarto Hokage, Minato Namikaze, e sua moglie Kushina Uzumaki sigillarono il demone nel corpo del loro figlio neonato Naruto, per salvare il villaggio e sventare il piano del ninja. Anni dopo, Naruto e i suoi amici riescono a scacciare il famigerato Akatsuki, misteriosamente tornato dalla morte. Di ritorno al villaggio, i giovani ninja vengono elogiati dalle loro famiglie per aver completato una missione così pericolosa. Naruto, ricordandosi quanto si senta solo, inizia a chiedersi cosa significhi avere i genitori quando, a un tratto, una strana figura mascherata appare davanti di lui: lo stesso ninja mascherato responsabile della morte dei suoi genitori.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7LzwwRl5PocyzMxAE2pSuW16GwE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hBIZ6RiaCWszRbdvHAy6RWHyT3c.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Azione"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.726cff97-cf82-4f26-a0a6-b52aeaceff97",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts16785",
       "title": "Capeta",
       "year": 2005,
@@ -4634,36 +4664,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
       "maturity_rating": "T",
       "episode_count": 52
-    },
-    {
-      "ag_id": "tm29738",
-      "title": "Naruto - La via dei ninja",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 118406,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Molto tempo fa, un misterioso ninja mascherato scatenò la Volpe a Nove Code contro il Villaggio della Foglia, creando caos e distruzione. Ma il Quarto Hokage, Minato Namikaze, e sua moglie Kushina Uzumaki sigillarono il demone nel corpo del loro figlio neonato Naruto, per salvare il villaggio e sventare il piano del ninja. Anni dopo, Naruto e i suoi amici riescono a scacciare il famigerato Akatsuki, misteriosamente tornato dalla morte. Di ritorno al villaggio, i giovani ninja vengono elogiati dalle loro famiglie per aver completato una missione così pericolosa. Naruto, ricordandosi quanto si senta solo, inizia a chiedersi cosa significhi avere i genitori quando, a un tratto, una strana figura mascherata appare davanti di lui: lo stesso ninja mascherato responsabile della morte dei suoi genitori.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7LzwwRl5PocyzMxAE2pSuW16GwE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hBIZ6RiaCWszRbdvHAy6RWHyT3c.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy",
-        "Azione"
-      ],
-      "rating": 7.365,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.726cff97-cf82-4f26-a0a6-b52aeaceff97",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts406072",
@@ -5260,7 +5260,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.375,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5725,7 +5725,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.412,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6810,7 +6810,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.789,
+      "rating": 7.796,
       "audio_locales": [
         "it-IT"
       ],
@@ -6978,7 +6978,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/lSaBQChGDbMfxQJzf6dwjQ9gile.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
       "genres": [
         "Animazione",
@@ -7007,7 +7007,7 @@
         "tmdb_type": "movie"
       },
       "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guf1drkzwftXdOoJ1fZFehwYofi.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1txt9CNAmyV9rq5ihnbqBxZ3VRZ.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
       "genres": [
         "Azione",
