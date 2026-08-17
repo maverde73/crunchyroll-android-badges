@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T12:39:49Z",
+  "generated_at": "2026-08-17T18:36:19Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -226,7 +226,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.505,
+      "rating": 8.507,
       "audio_locales": [
         "it-IT"
       ],
@@ -668,7 +668,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.466,
+      "rating": 8.467,
       "audio_locales": [
         "it-IT"
       ],
@@ -679,33 +679,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
       "episode_count": 112
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
     },
     {
       "ag_id": "ts35975",
@@ -890,6 +863,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts17714",
@@ -3532,35 +3532,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 89323,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 9.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T",
-      "episode_count": 60
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3618,6 +3589,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 9.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts72501",
@@ -5241,6 +5241,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts417931",
+      "title": "Whisper Me a Love Song",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 218291,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xWStcaXFVsu7iyJovp6spxZplWG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zrqnyKPzKhGHRw9GB6F6zL9R1v5.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 6.235,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm147494",
       "title": "Naruto Shippuden: Il film - Eredi della volontà del Fuoco",
       "year": 2009,
@@ -5272,35 +5301,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd7a1a63-ddda-47c8-b6ad-eff5afea5732",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts417931",
-      "title": "Whisper Me a Love Song",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 218291,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xWStcaXFVsu7iyJovp6spxZplWG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zrqnyKPzKhGHRw9GB6F6zL9R1v5.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 6.235,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25b88f6a-24d7-48b5-9f50-8dc97aa90ae0",
-      "maturity_rating": "T",
-      "episode_count": 12
     },
     {
       "ag_id": "tm37256",
@@ -6066,36 +6066,6 @@
       "episode_count": 52
     },
     {
-      "ag_id": "tm36164",
-      "title": "Naruto Shippuden: Il film - Il maestro e il discepolo",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17581,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Naruto Shippuden: Il maestro e il discepolo è il quinto film basato sull'anime e manga di Masashi Kishimoto Naruto, ed è il secondo dedicato alla saga di Naruto Shippuden.  Il film è stato proiettato nelle sale cinematografiche il 2 agosto 2008. È stato annunciato dalla rivista Weekly Shonen Jump insieme alla data di uscita del primo film in DVD. Il primo teaser trailer del secondo lungometraggio è stato trasmesso da TV Tokyo durante la trasmissione degli episodi 40-41. In Italia il film è andato in onda su Italia 1 diviso in cinque episodi dal 20 giugno al 26 giugno 2013, mentre è stato distribuito nei cinema dalla Lucky Red solo il 20 luglio 2015 col titolo Naruto Shippuden il film: Il maestro e il discepolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/22g5G3fKrH0O4402BQWnbnfqU2j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lDGto4oxjoWDt2bMFgT3rhJZ0n.jpg",
-      "genres": [
-        "Fantasy",
-        "Animazione",
-        "Azione"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f17c4387-76cd-4303-b111-67bbd324d724",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts3367",
       "title": "Angel Heart",
       "year": 2005,
@@ -6152,6 +6122,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
       "maturity_rating": "T",
       "episode_count": 52
+    },
+    {
+      "ag_id": "tm36164",
+      "title": "Naruto Shippuden: Il film - Il maestro e il discepolo",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17581,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Naruto Shippuden: Il maestro e il discepolo è il quinto film basato sull'anime e manga di Masashi Kishimoto Naruto, ed è il secondo dedicato alla saga di Naruto Shippuden.  Il film è stato proiettato nelle sale cinematografiche il 2 agosto 2008. È stato annunciato dalla rivista Weekly Shonen Jump insieme alla data di uscita del primo film in DVD. Il primo teaser trailer del secondo lungometraggio è stato trasmesso da TV Tokyo durante la trasmissione degli episodi 40-41. In Italia il film è andato in onda su Italia 1 diviso in cinque episodi dal 20 giugno al 26 giugno 2013, mentre è stato distribuito nei cinema dalla Lucky Red solo il 20 luglio 2015 col titolo Naruto Shippuden il film: Il maestro e il discepolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/22g5G3fKrH0O4402BQWnbnfqU2j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lDGto4oxjoWDt2bMFgT3rhJZ0n.jpg",
+      "genres": [
+        "Fantasy",
+        "Animazione",
+        "Azione"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f17c4387-76cd-4303-b111-67bbd324d724",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts529845",
@@ -6320,6 +6320,34 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts52195",
+      "title": "General Daimos",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8996,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
+      "maturity_rating": "T",
+      "episode_count": 44
+    },
+    {
       "ag_id": "ts24595",
       "title": "Gatchaman - La Battaglia dei pianeti",
       "year": 1972,
@@ -6407,34 +6435,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c35c3fab-45b9-40e2-bbba-66de92d29171",
       "maturity_rating": "T",
       "episode_count": 62
-    },
-    {
-      "ag_id": "ts52195",
-      "title": "General Daimos",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8996,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.357,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
-      "maturity_rating": "T",
-      "episode_count": 44
     },
     {
       "ag_id": "ts15516",
@@ -6628,7 +6628,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.425,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
