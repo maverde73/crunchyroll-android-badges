@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-17T18:36:19Z",
+  "generated_at": "2026-08-18T01:07:01Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -226,7 +226,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.507,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -254,7 +254,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.304,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -638,7 +638,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.275,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -815,7 +815,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.328,
+      "rating": 7.33,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1396,7 +1396,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.429,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1801,7 +1801,7 @@
         "Sci-Fi & Fantasy",
         "Kids"
       ],
-      "rating": 7.8,
+      "rating": 7.882,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -4062,34 +4062,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts15250",
-      "title": "Caro fratello",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36588,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.917,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
-      "maturity_rating": "T",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts322046",
       "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
       "year": 2023,
@@ -4117,6 +4089,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts15250",
+      "title": "Caro fratello",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36588,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.917,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "maturity_rating": "T",
+      "episode_count": 39
     },
     {
       "ag_id": "ts31966",
@@ -6923,7 +6923,7 @@
       },
       "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
       "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qgaVJE4SK2qRtggVyRlISKQ1zBE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
       "genres": [
         "Azione",
         "Animazione",
@@ -7144,6 +7144,36 @@
       "episode_count": 26
     },
     {
+      "ag_id": "tm88171",
+      "title": "One Piece - La spada delle sette stelle",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44728,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts66982",
       "title": "Gotriniton",
       "year": 1981,
@@ -7202,36 +7232,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm88171",
-      "title": "One Piece - La spada delle sette stelle",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44728,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia di questo film si svolge sull'isola di Aska dove è custodita la leggendaria spada delle sette stelle sulla quale, però, incombe una terribile maledizione. Una volta ogni cento anni, la Luna diventa rossa e gli abitanti dell'isola narrano che, da essa, la spada attinga un potere inimmaginabile, tale da poter soggiogare il mondo e, solo grazie alla clemenza degli dei che vegliano su Aska, gli isolani ottennero tre gemme sferiche che, nel momento del bisogno, impediscono alla spada di impregnarsi del potere della Luna Rossa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iMqPPESlkrTeB1Zc0G9PfW5V8V3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lgtg04cn0AZ89ua4S2CbQbajZRg.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c9d2da19-22f7-492d-9e14-986913245278",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
