@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-18T01:07:01Z",
+  "generated_at": "2026-08-18T06:39:35Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -20,7 +20,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.015,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -30,7 +30,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
-      "episode_count": 1209
+      "episode_count": 1212
     },
     {
       "ag_id": "ts27309",
@@ -62,6 +62,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
+      "maturity_rating": "14+",
+      "episode_count": 220
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -91,36 +121,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il manga racconta la storia di Naruto Uzumaki, un bambino di dodici anni con il sogno di diventare Hokage - il capo, nonché il ninja più forte, del suo villaggio. Il protagonista vive tuttavia l'infanzia nell'emarginazione a causa della Volpe a Nove Code che porta dentro di sé, sigillata - quando era ancora un neonato - dal Quarto Hokage nella speranza che un giorno riuscisse a controllarla.\n\nIscrittosi all'accademia ninja come studente, va presto a completare il Team 7 insieme a Sasuke Uchiha (suo eterno rivale) e Sakura Haruno (di cui è follemente innamorato), sotto la guida del maestro Kakashi Hatake. Da qui cominciano le sue gesta per scalare i vari ranghi ninja, tra mille avventure, combattimenti e colpi di scena, come il tradimento di Sasuke o l'estenuante allenamento con Jiraiya per padroneggiare la tecnica del Richiamo.\n\nIn un crescendo di emozioni, il manga vede Naruto protagonista di imprese eroiche e di scontri memorabili, che lo portano a difendere se stesso e il proprio villaggio dall'Akatsuki (Organizzazione Alba), i cui membri sono i veri antagonisti dell'opera.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.362,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f490cd5c-7e04-46e1-ba49-9b56a54358f7",
-      "maturity_rating": "14+",
-      "episode_count": 220
     },
     {
       "ag_id": "ts21930",
@@ -210,6 +210,34 @@
       "episode_count": 40
     },
     {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -226,7 +254,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.506,
       "audio_locales": [
         "it-IT"
       ],
@@ -237,34 +265,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.305,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts492780",
@@ -357,36 +357,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.039,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
-    },
-    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -416,6 +386,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.039,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts281904",
@@ -570,6 +570,28 @@
       "episode_count": 20
     },
     {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -598,28 +620,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts342987",
@@ -921,6 +921,53 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.524,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ms",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts322259",
       "title": "Insomniacs After School",
       "year": 2023,
@@ -948,6 +995,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.31,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm2859972",
@@ -979,6 +1055,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "maturity_rating": "14+",
+      "episode_count": 218
+    },
+    {
       "ag_id": "ts354570",
       "title": "Oshi no ko - My Star",
       "year": 2023,
@@ -1005,36 +1111,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
-    },
-    {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "14+",
-      "episode_count": 218
     },
     {
       "ag_id": "ts353577",
@@ -1468,35 +1544,6 @@
       "episode_count": 108
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1526,6 +1573,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts28832",
@@ -1581,7 +1657,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1698,35 +1774,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts308038",
-      "title": "Demon Hunter - Le memorie del mezzo demone",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 133154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.387,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts52317",
       "title": "Un oceano di avventure",
       "year": 1994,
@@ -1755,33 +1802,33 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
+      "ag_id": "ts308038",
+      "title": "Demon Hunter - Le memorie del mezzo demone",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 61389,
+        "tmdb_id": 133154,
         "tmdb_type": "tv"
       },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Dramma"
+        "Dramma",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.31,
+      "rating": 7.387,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts475209",
@@ -1909,6 +1956,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts21278",
+      "title": "La rivoluzione di Utena",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1042,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Accademia Ohtori: un luogo stupendo al di fuori del tempo. Chiamati dal Confine del Mondo, i prescelti del Consiglio degli Studenti duellano per conquistare la Sposa della Rosa. Chi è veramente la Sposa, la passiva e misteriosa Anthy? Come è arrivata all’Accademia Utena, e perché l’anello che le è stato donato da un misterioso Principe è uguale al segno di riconoscimento dei Duellisti? Nell’atmosfera incantata ed elegante dell’Accademia si celano nerissimi segreti le cui radici superano lo spazio e il tempo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -1952,36 +2029,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts21278",
-      "title": "La rivoluzione di Utena",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1042,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Accademia Ohtori: un luogo stupendo al di fuori del tempo. Chiamati dal Confine del Mondo, i prescelti del Consiglio degli Studenti duellano per conquistare la Sposa della Rosa. Chi è veramente la Sposa, la passiva e misteriosa Anthy? Come è arrivata all’Accademia Utena, e perché l’anello che le è stato donato da un misterioso Principe è uguale al segno di riconoscimento dei Duellisti? Nell’atmosfera incantata ed elegante dell’Accademia si celano nerissimi segreti le cui radici superano lo spazio e il tempo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts448353",
@@ -2328,53 +2375,6 @@
       "episode_count": 65
     },
     {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.524,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ms",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2479,7 +2479,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.785,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -2607,35 +2607,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
-    },
-    {
       "ag_id": "ts22705",
       "title": "Il fantastico mondo di Paul",
       "year": 1976,
@@ -2693,6 +2664,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
       "maturity_rating": "7+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts44184",
@@ -3003,42 +3003,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts432424",
-      "title": "My Deer Friend Nokotan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 248866,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "en-US",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pl",
-        "pt"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm130037",
       "title": "Holly & Benji: La Grande Sfida Europea",
       "year": 1985,
@@ -3093,6 +3057,42 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts432424",
+      "title": "My Deer Friend Nokotan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 248866,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dd2zWctcRPGLFOwTa4KZYky9Srk.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GmVVDEjnA4HuSany5otbR8xaET.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pl",
+        "pt"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm193065",
@@ -3365,34 +3365,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts312683",
       "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
       "year": 2022,
@@ -3441,6 +3413,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
       "maturity_rating": "14+",
       "episode_count": 17
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts331408",
@@ -4478,7 +4478,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.404,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -6569,7 +6569,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.435,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6701,71 +6701,6 @@
       "episode_count": 42
     },
     {
-      "ag_id": "tm27612",
-      "title": "One Piece - I misteri dell'isola meccanica",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44730,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3ZxMSpUmWxLtnn6Fj9ciBxna74b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione",
-        "Commedia",
-        "Fantascienza",
-        "Fantasy"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts53048",
       "title": "KARAS",
       "year": 2005,
@@ -6879,6 +6814,39 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm27612",
+      "title": "One Piece - I misteri dell'isola meccanica",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44730,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3ZxMSpUmWxLtnn6Fj9ciBxna74b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione",
+        "Commedia",
+        "Fantascienza",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -6999,25 +6967,25 @@
       "episode_count": 20
     },
     {
-      "ag_id": "tm65142",
-      "title": "One Piece - Un'amicizia oltre i confini del mare",
-      "year": 2007,
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 25278,
+        "tmdb_id": 19576,
         "tmdb_type": "movie"
       },
-      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1txt9CNAmyV9rq5ihnbqBxZ3VRZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
       "genres": [
         "Azione",
-        "Avventura",
         "Animazione",
+        "Avventura",
         "Commedia",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7026,7 +6994,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -7059,35 +7027,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm159116",
-      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 79082,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts221701",
       "title": "Futsal Boys!!!!!",
       "year": 2022,
@@ -7113,6 +7052,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f31f3fe1-1079-479f-9b0a-e5262aeb6d8d",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm65142",
+      "title": "One Piece - Un'amicizia oltre i confini del mare",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 25278,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1txt9CNAmyV9rq5ihnbqBxZ3VRZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221676",
@@ -7267,6 +7238,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm159116",
+      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 79082,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts302819",
       "title": "La mia maestra non mostra la coda",
       "year": 2022,
@@ -7354,6 +7354,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts73018",
+      "title": "Ciao, Sabrina",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
+      "maturity_rating": "T",
+      "episode_count": 51
+    },
+    {
       "ag_id": "tm34524",
       "title": "One Piece - Il miracolo dei ciliegi in fiore",
       "year": 2008,
@@ -7383,34 +7411,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a42e3f-7c16-467a-bb79-859974924afe",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts73018",
-      "title": "Ciao, Sabrina",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
-      "maturity_rating": "T",
-      "episode_count": 51
     },
     {
       "ag_id": "tm41504",
@@ -7469,36 +7469,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm117778",
-      "title": "One Piece - Il tesoro del re",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44725,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La ciurma di Cappello di Paglia giunge presso l'Isola della Corona. Il nome è dovuto alle eruzioni di un vulcano sottomarino che formano attorno all'isola delle colonne di fumo che la cingono come una corona.  Il luogo è abitato da numerosi animali strani e da un ragazzino, Mobambi, sempre accompagnato dal pennuto Corbi. Sull'isola si trovano anche il Conte Butler ed i suoi sottoposti, il Generale Hotdog ed il Presidente Heaby: questi vogliono trovare il tesoro del re e sono convinti che si nasconda nelle corna di qualche animale. Per questo motivo il Conte Butler addomestica con il suo violino i Mangiacorna (animali locali) nell'intento di impossessarsi del grande potere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pVQsuyU3CmZi6I970OBtMY68Kzn.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -7768,6 +7738,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.feac72c5-ee8e-4e83-84bc-0e5da7457053",
       "maturity_rating": "T",
       "episode_count": 56
+    },
+    {
+      "ag_id": "tm117778",
+      "title": "One Piece - Il tesoro del re",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44725,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La ciurma di Cappello di Paglia giunge presso l'Isola della Corona. Il nome è dovuto alle eruzioni di un vulcano sottomarino che formano attorno all'isola delle colonne di fumo che la cingono come una corona.  Il luogo è abitato da numerosi animali strani e da un ragazzino, Mobambi, sempre accompagnato dal pennuto Corbi. Sull'isola si trovano anche il Conte Butler ed i suoi sottoposti, il Generale Hotdog ed il Presidente Heaby: questi vogliono trovare il tesoro del re e sono convinti che si nasconda nelle corna di qualche animale. Per questo motivo il Conte Butler addomestica con il suo violino i Mangiacorna (animali locali) nell'intento di impossessarsi del grande potere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pVQsuyU3CmZi6I970OBtMY68Kzn.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm447715",
