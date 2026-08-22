@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-22T06:36:24Z",
+  "generated_at": "2026-08-22T12:35:05Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -109,7 +109,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.541,
+      "rating": 8.54,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -267,35 +267,6 @@
       "episode_count": 40
     },
     {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -324,6 +295,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
+    },
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts21406",
@@ -374,7 +374,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.384,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -796,28 +796,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -846,6 +824,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts64898",
@@ -1019,7 +1019,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1591,6 +1591,34 @@
       "episode_count": 104
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.007,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -1618,34 +1646,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.007,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
-      "episode_count": 24
     },
     {
       "ag_id": "ts461952",
@@ -1761,6 +1761,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.964,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -1788,34 +1816,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.964,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts475209",
@@ -1931,7 +1931,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.1,
+      "rating": 8.146,
       "audio_locales": [
         "it-IT"
       ],
@@ -1942,35 +1942,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.405,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts448353",
@@ -2000,6 +1971,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.405,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -3294,35 +3294,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.093,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts312683",
       "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
       "year": 2022,
@@ -3371,6 +3342,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
       "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.093,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
       "episode_count": 24
     },
     {
@@ -6656,6 +6656,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm191827",
+      "title": "Detective Conan - Fino alla fine del tempo",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 21422,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Conan riceve un invito da Teiji Moriya, un importantissimo architetto universitario fanatico della simmetria, per un party che si terrà nella sua villa il 29 aprile. Il ragazzo, utilizzando la voce di Shinichi (al quale l'invito era diretto), convince Ran ad andarci al posto suo con Kogoro e il bambino. La ragazza, nel frattempo, sta preparando una sorpresa per il compleanno di Shinichi (4 maggio): un film e un regalo legati al colore rosso (una polo) che, secondo l'oroscopo letto da Ran, è il colore fortunato per entrambi. Conan, Ran e Kogoro si recano quindi alla festa e qui fanno la conoscenza di Moriya e ammirano entusiasti le sue opere architettoniche.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/60RYMTifdqUvFtPJeri1z2lYHo8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fUHuBNqTFGCohCuHDEqHs1pDPj7.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Avventura"
+      ],
+      "rating": 7.425,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts64978",
       "title": "Mademoiselle Anne - Una ragazza alla moda",
       "year": 1978,
@@ -6740,36 +6770,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm191827",
-      "title": "Detective Conan - Fino alla fine del tempo",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 21422,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Conan riceve un invito da Teiji Moriya, un importantissimo architetto universitario fanatico della simmetria, per un party che si terrà nella sua villa il 29 aprile. Il ragazzo, utilizzando la voce di Shinichi (al quale l'invito era diretto), convince Ran ad andarci al posto suo con Kogoro e il bambino. La ragazza, nel frattempo, sta preparando una sorpresa per il compleanno di Shinichi (4 maggio): un film e un regalo legati al colore rosso (una polo) che, secondo l'oroscopo letto da Ran, è il colore fortunato per entrambi. Conan, Ran e Kogoro si recano quindi alla festa e qui fanno la conoscenza di Moriya e ammirano entusiasti le sue opere architettoniche.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/60RYMTifdqUvFtPJeri1z2lYHo8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fUHuBNqTFGCohCuHDEqHs1pDPj7.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Avventura"
-      ],
-      "rating": 7.425,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
