@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-24T01:11:01Z",
+  "generated_at": "2026-08-24T06:54:29Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -120,6 +120,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.992,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -151,35 +180,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.505,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -197,7 +197,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.493,
+      "rating": 8.492,
       "audio_locales": [
         "it-IT"
       ],
@@ -208,35 +208,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
-    },
-    {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.992,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
     },
     {
       "ag_id": "ts21406",
@@ -270,6 +241,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.505,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -286,7 +286,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.6,
+      "rating": 8.616,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -358,6 +358,35 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -387,35 +416,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
-      "maturity_rating": "T",
-      "episode_count": 12
     },
     {
       "ag_id": "ts22290",
@@ -514,7 +514,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.05,
+      "rating": 8.044,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -612,6 +612,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.019,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts342987",
@@ -733,6 +762,34 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.945,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -768,63 +825,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.019,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.945,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -841,7 +841,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.684,
+      "rating": 7.698,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -904,6 +904,35 @@
       "episode_count": 109
     },
     {
+      "ag_id": "ts17714",
+      "title": "Devil May Cry",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 12577,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 7.627,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -936,23 +965,23 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts17714",
-      "title": "Devil May Cry",
-      "year": 2007,
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 12577,
+        "tmdb_id": 61389,
         "tmdb_type": "tv"
       },
-      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
       "genres": [
         "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Action & Adventure",
+        "Dramma"
       ],
-      "rating": 7.627,
+      "rating": 8.32,
       "audio_locales": [
         "it-IT"
       ],
@@ -960,9 +989,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 26
     },
     {
       "ag_id": "ts314452",
@@ -1113,6 +1142,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.56,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -1160,35 +1218,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.557,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts29400",
       "title": "Capricciosa Orange Road",
       "year": 1987,
@@ -1216,35 +1245,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.32,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts52963",
@@ -1356,34 +1356,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.643,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1996,
@@ -1411,6 +1383,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+",
       "episode_count": 61
+    },
+    {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.643,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts34474",
@@ -1518,7 +1518,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.425,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1674,7 +1674,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1694,7 +1694,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.132,
+      "rating": 8.112,
       "audio_locales": [
         "zh"
       ],
@@ -1990,7 +1990,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.413,
+      "rating": 6.386,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2019,7 +2019,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.406,
+      "rating": 7.403,
       "audio_locales": [
         "it-IT"
       ],
@@ -2362,36 +2362,6 @@
       "episode_count": 65
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.408,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2420,6 +2390,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.408,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "tm112217",
@@ -2963,6 +2963,33 @@
       "episode_count": 26
     },
     {
+      "ag_id": "tm130037",
+      "title": "Holly & Benji: La Grande Sfida Europea",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 171899,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.576,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts403298",
       "title": "Blue Miburo - I giovani lupi di Mibu",
       "year": 2024,
@@ -2989,33 +3016,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
-    },
-    {
-      "ag_id": "tm130037",
-      "title": "Holly & Benji: La Grande Sfida Europea",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 171899,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.576,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts246911",
@@ -3045,6 +3045,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "tm193065",
+      "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31599,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III è deciso a mettere le mani su una grande quantità di lingotti d'oro che una banda internazionale di assassini su commissione, l'organizzazione Tarantola, ha accumulato in anni di omicidi politici. La stessa organizzazione gli ha da poco messo i bastoni tra le ruote compiendo un omicidio durante una festa tenuta dal vicepresidente degli Stati Uniti, bersaglio degli assassini, durante la quale l'ispettore Zenigata, ormai con Lupin nel pugno, è stato colpito al cuore da una Walther P38, arma storica nonché pezzo unico. Solo Lupin può avere quest'arma.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/czeiuCld4IUIVxtqDRWavMjE3Vm.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3OoSoGDK1DI26MRSoJhv5chmV5X.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime",
+        "Dramma"
+      ],
+      "rating": 6.523,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts432424",
@@ -3081,38 +3113,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm193065",
-      "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31599,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III è deciso a mettere le mani su una grande quantità di lingotti d'oro che una banda internazionale di assassini su commissione, l'organizzazione Tarantola, ha accumulato in anni di omicidi politici. La stessa organizzazione gli ha da poco messo i bastoni tra le ruote compiendo un omicidio durante una festa tenuta dal vicepresidente degli Stati Uniti, bersaglio degli assassini, durante la quale l'ispettore Zenigata, ormai con Lupin nel pugno, è stato colpito al cuore da una Walther P38, arma storica nonché pezzo unico. Solo Lupin può avere quest'arma.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/czeiuCld4IUIVxtqDRWavMjE3Vm.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3OoSoGDK1DI26MRSoJhv5chmV5X.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime",
-        "Dramma"
-      ],
-      "rating": 6.523,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts58464",
@@ -3361,7 +3361,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.076,
+      "rating": 8.049,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3546,6 +3546,37 @@
       "episode_count": 11
     },
     {
+      "ag_id": "tm184092",
+      "title": "Lupin III - Viaggio nel pericolo",
+      "year": 1993,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 76190,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L'ispettore Zenigata viene esonerato dall'incarico di catturare Lupin perchè non ne è ritenuto all'altezza. Viene assunta quindi una nuova ispettrice di nome Keith, intenzionata a catturarlo, non importa se vivo o morto. Il celebre ladro, infastidito da quest'insolita siuazione, vuole far tornare Zazà alle sue vecchie mansioni, approfittando di un nuovo caso riguardante il traffico di armi da parte di un'organizzazione chiamata Shot Shell. Con l'aiuto di Jigen, porta a termine il furto di un sottomarino russo per poi venderlo all'organizzazione. Per guidare il sottomarino occorre necessariamente una mano esperta, quindi chi meglio della sua stessa creatrice? Rapiscono così l'astrofisica russa, mente del progetto, e le fanno pilotare il sottomarino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tpJaqgesbbd5M81s0FMt6fYwpjv.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4zHScUX53WcxTVxR3ZwiKBQym38.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.686,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts72501",
       "title": "È un po' magia per Terry e Maggie",
       "year": 1993,
@@ -3576,25 +3607,23 @@
       "episode_count": 51
     },
     {
-      "ag_id": "tm184092",
-      "title": "Lupin III - Viaggio nel pericolo",
-      "year": 1993,
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 76190,
-        "tmdb_type": "movie"
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
       },
-      "description_it": "L'ispettore Zenigata viene esonerato dall'incarico di catturare Lupin perchè non ne è ritenuto all'altezza. Viene assunta quindi una nuova ispettrice di nome Keith, intenzionata a catturarlo, non importa se vivo o morto. Il celebre ladro, infastidito da quest'insolita siuazione, vuole far tornare Zazà alle sue vecchie mansioni, approfittando di un nuovo caso riguardante il traffico di armi da parte di un'organizzazione chiamata Shot Shell. Con l'aiuto di Jigen, porta a termine il furto di un sottomarino russo per poi venderlo all'organizzazione. Per guidare il sottomarino occorre necessariamente una mano esperta, quindi chi meglio della sua stessa creatrice? Rapiscono così l'astrofisica russa, mente del progetto, e le fanno pilotare il sottomarino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tpJaqgesbbd5M81s0FMt6fYwpjv.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4zHScUX53WcxTVxR3ZwiKBQym38.jpg",
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
       "genres": [
         "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
+        "Action & Adventure",
+        "Commedia"
       ],
-      "rating": 6.686,
+      "rating": 9.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -3602,9 +3631,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
       "maturity_rating": "T",
-      "episode_count": 1
+      "episode_count": 60
     },
     {
       "ag_id": "tm1470968",
@@ -3638,33 +3667,34 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
+      "ag_id": "ts55977",
+      "title": "Shin Getter Robot contro Neo Getter Robot",
+      "year": 2000,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 89323,
+        "tmdb_id": 67579,
         "tmdb_type": "tv"
       },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Commedia"
+        "Animazione",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 9.0,
+      "rating": 6.8,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
-      "episode_count": 60
+      "episode_count": 4
     },
     {
       "ag_id": "ts341771",
@@ -3694,36 +3724,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
       "maturity_rating": "18+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts55977",
-      "title": "Shin Getter Robot contro Neo Getter Robot",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 67579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
-      "maturity_rating": "T",
-      "episode_count": 4
     },
     {
       "ag_id": "ts394055",
@@ -6307,6 +6307,36 @@
       "episode_count": 26
     },
     {
+      "ag_id": "tm134235",
+      "title": "One Piece - Avventura sulle isole volanti",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 41498,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts15516",
       "title": "Il prode Raideen",
       "year": 1975,
@@ -6564,36 +6594,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm134235",
-      "title": "One Piece - Avventura sulle isole volanti",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 41498,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy",
-        "Avventura"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -7161,6 +7161,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm159116",
+      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 79082,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm452090",
       "title": "Detective Conan: Episode \"One\" - Il detective rimpicciolito",
       "year": 2017,
@@ -7190,35 +7219,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
       "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm159116",
-      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 79082,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
-      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -7758,6 +7758,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm20372",
+      "title": "Lupin III - Per un dollaro in più",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31053,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm253370",
       "title": "One Piece - Le avventure del detective Cappello di Paglia",
       "year": 2005,
@@ -8241,37 +8272,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm20372",
-      "title": "Lupin III - Per un dollaro in più",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31053,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm682308",
       "title": "One Piece - Avventura nell'ombelico dell'oceano",
       "year": 2000,
@@ -8446,7 +8446,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
