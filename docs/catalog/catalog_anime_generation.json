@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-25T12:42:57Z",
+  "generated_at": "2026-08-25T18:36:44Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -79,7 +79,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.9,
+      "rating": 7.873,
       "audio_locales": [
         "it-IT"
       ],
@@ -168,7 +168,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.492,
+      "rating": 8.493,
       "audio_locales": [
         "it-IT"
       ],
@@ -317,7 +317,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.047,
+      "rating": 8.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -436,7 +436,7 @@
         "Dramma",
         "Crime"
       ],
-      "rating": 7.127,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -601,7 +601,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.283,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1458,7 +1458,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.27,
+      "rating": 8.269,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1835,7 +1835,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.967,
+      "rating": 6.031,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4675,35 +4675,6 @@
       "episode_count": 52
     },
     {
-      "ag_id": "ts400911",
-      "title": "Protocol: Rain",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 230288,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.273,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts406072",
       "title": "Kinnikuman Perfect Origin Arc",
       "year": 2024,
@@ -4782,6 +4753,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
       "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts400911",
+      "title": "Protocol: Rain",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 230288,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.273,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
