@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T03:45:24Z",
+  "generated_at": "2026-08-30T11:17:36Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -871,7 +871,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.698,
+      "rating": 7.705,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -907,6 +907,28 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts64898",
       "title": "Sampei",
       "year": 1980,
@@ -932,28 +954,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
       "maturity_rating": "T",
       "episode_count": 109
-    },
-    {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts17714",
@@ -1075,6 +1075,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.758,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts314452",
       "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
       "year": 2023,
@@ -1103,35 +1132,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.758,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts41160",
@@ -1239,7 +1239,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.552,
+      "rating": 7.547,
       "audio_locales": [
         "de",
         "en-US",
@@ -1702,34 +1702,6 @@
       "episode_count": 104
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.007,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts461952",
       "title": "Super Cube",
       "year": 2025,
@@ -1757,6 +1729,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.007,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "",
+      "episode_count": 24
     },
     {
       "ag_id": "ts74597",
@@ -2052,6 +2052,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.402,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm222871",
       "title": "L'organo genocida",
       "year": 2017,
@@ -2083,57 +2112,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.402,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -2162,6 +2140,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "",
+      "episode_count": 0
     },
     {
       "ag_id": "ts459654",
@@ -2298,6 +2298,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2325,34 +2353,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "tm141589",
@@ -3511,35 +3511,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.475,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3597,6 +3568,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.475,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts72501",
@@ -3703,7 +3703,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.84,
+      "rating": 7.836,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3985,34 +3985,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -4040,6 +4012,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts15250",
@@ -4678,34 +4678,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts16785",
-      "title": "Capeta",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34803,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts452442",
       "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
       "year": 2024,
@@ -4778,6 +4750,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts16785",
+      "title": "Capeta",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34803,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts400911",
@@ -5518,34 +5518,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts2796",
-      "title": "Combattler V",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44741,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2013, gli alieni del pianeta Campbell invadono la Terra. Per contrastare tale invasione, il professor Stevens costruisce il robot elettromagnetico Combattler. Questi è il risultato dell'unione di cinque velivoli (custoditi nella base laboratorio posta su una scogliera, la Nanbara Connection) pilotati da Roy Lambert, Furio Batler, Gonghi Kasuki, Jolly Lynch e la nipote del professore, Maggie Stevens. Ognuno dei piloti è scelto per un'abilità peculiare che lo caratterizza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nyeanPkLJxSVXm6ZpwzRri8GnnJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BhXQX6mflX3B3ODAPDGm53WgbT.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.875,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a81ac292-9040-4293-ad4a-e6ae64cd434e",
-      "maturity_rating": "14+",
-      "episode_count": 54
-    },
-    {
       "ag_id": "ts326987",
       "title": "La principessa bibliofila",
       "year": 2022,
@@ -5660,6 +5632,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts2796",
+      "title": "Combattler V",
+      "year": 1976,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44741,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2013, gli alieni del pianeta Campbell invadono la Terra. Per contrastare tale invasione, il professor Stevens costruisce il robot elettromagnetico Combattler. Questi è il risultato dell'unione di cinque velivoli (custoditi nella base laboratorio posta su una scogliera, la Nanbara Connection) pilotati da Roy Lambert, Furio Batler, Gonghi Kasuki, Jolly Lynch e la nipote del professore, Maggie Stevens. Ognuno dei piloti è scelto per un'abilità peculiare che lo caratterizza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nyeanPkLJxSVXm6ZpwzRri8GnnJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BhXQX6mflX3B3ODAPDGm53WgbT.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 5.875,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a81ac292-9040-4293-ad4a-e6ae64cd434e",
+      "maturity_rating": "14+",
+      "episode_count": 54
     },
     {
       "ag_id": "tm146533",
@@ -6194,6 +6194,35 @@
       "episode_count": 52
     },
     {
+      "ag_id": "ts287917",
+      "title": "Tecno Ninja Gatchaman",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 126065,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La squadra di Gachaman si ritrova affrontare una razza aliena di nome Galactor, intenzionata a distruggere un progetto che prevede l'unificazione delle risorse energetiche del mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/spkxdKAVpY2QEW5u0VzZlUlAIyf.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.25,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
+      "maturity_rating": "14+",
+      "episode_count": 3
+    },
+    {
       "ag_id": "ts975",
       "title": "Charlotte",
       "year": 1977,
@@ -6248,35 +6277,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
       "maturity_rating": "T",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts287917",
-      "title": "Tecno Ninja Gatchaman",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 126065,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La squadra di Gachaman si ritrova affrontare una razza aliena di nome Galactor, intenzionata a distruggere un progetto che prevede l'unificazione delle risorse energetiche del mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/spkxdKAVpY2QEW5u0VzZlUlAIyf.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.25,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
-      "maturity_rating": "14+",
-      "episode_count": 3
     },
     {
       "ag_id": "ts16879",
@@ -6354,7 +6354,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.439,
+      "rating": 7.438,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7207,7 +7207,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.8,
+      "rating": 6.835,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7311,6 +7311,38 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm437406",
+      "title": "DanMachi - La freccia di Orione",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 553835,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts299997",
       "title": "Un altro Ippon!",
       "year": 2023,
@@ -7327,7 +7359,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 6.5,
+      "rating": 6.444,
       "audio_locales": [
         "ja-JP"
       ],
@@ -7455,38 +7487,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm437406",
-      "title": "DanMachi - La freccia di Orione",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 553835,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Commedia",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
       "maturity_rating": "T",
       "episode_count": 1
     },
