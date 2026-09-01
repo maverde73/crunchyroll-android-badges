@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T22:28:44Z",
+  "generated_at": "2026-09-01T03:40:15Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -59,6 +59,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.992,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
     },
     {
       "ag_id": "ts22809",
@@ -121,23 +150,23 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 31572,
+        "tmdb_id": 35935,
         "tmdb_type": "tv"
       },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Animazione"
       ],
-      "rating": 7.992,
+      "rating": 8.508,
       "audio_locales": [
         "it-IT"
       ],
@@ -145,9 +174,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
-      "episode_count": 300
+      "episode_count": 25
     },
     {
       "ag_id": "ts413191",
@@ -179,35 +208,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.508,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts21406",
@@ -331,6 +331,34 @@
       "episode_count": 32
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -359,34 +387,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts21984",
@@ -661,7 +661,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.444,
+      "rating": 8.446,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -734,6 +734,36 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.705,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -769,35 +799,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -825,6 +826,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts410723",
@@ -902,36 +932,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
       "maturity_rating": "T",
       "episode_count": 0
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.705,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts17714",
@@ -1130,7 +1130,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1194,6 +1194,35 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -1241,33 +1270,26 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
+      "ag_id": "tm1542133",
+      "title": "Wan Pîsu Fanretâ",
+      "year": 2024,
       "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.319,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts29400",
@@ -1326,28 +1348,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "14+",
       "episode_count": 108
-    },
-    {
-      "ag_id": "tm1542133",
-      "title": "Wan Pîsu Fanretâ",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+",
-      "episode_count": 0
     },
     {
       "ag_id": "ts52963",
@@ -1726,7 +1726,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 24
     },
     {
@@ -1872,36 +1872,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21278",
-      "title": "La rivoluzione di Utena",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1042,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Accademia Ohtori: un luogo stupendo al di fuori del tempo. Chiamati dal Confine del Mondo, i prescelti del Consiglio degli Studenti duellano per conquistare la Sposa della Rosa. Chi è veramente la Sposa, la passiva e misteriosa Anthy? Come è arrivata all’Accademia Utena, e perché l’anello che le è stato donato da un misterioso Principe è uguale al segno di riconoscimento dei Duellisti? Nell’atmosfera incantata ed elegante dell’Accademia si celano nerissimi segreti le cui radici superano lo spazio e il tempo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.075,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -1931,32 +1901,34 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
+      "ag_id": "ts21278",
+      "title": "La rivoluzione di Utena",
+      "year": 1997,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 65648,
+        "tmdb_id": 1042,
         "tmdb_type": "tv"
       },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "description_it": "Accademia Ohtori: un luogo stupendo al di fuori del tempo. Chiamati dal Confine del Mondo, i prescelti del Consiglio degli Studenti duellano per conquistare la Sposa della Rosa. Chi è veramente la Sposa, la passiva e misteriosa Anthy? Come è arrivata all’Accademia Utena, e perché l’anello che le è stato donato da un misterioso Principe è uguale al segno di riconoscimento dei Duellisti? Nell’atmosfera incantata ed elegante dell’Accademia si celano nerissimi segreti le cui radici superano lo spazio e il tempo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/802aSsZzIyOhbaL1bt19gp0RVYq.jpg",
       "genres": [
         "Animazione",
-        "Commedia"
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.075,
       "audio_locales": [
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
-      "episode_count": 26
+      "episode_count": 39
     },
     {
       "ag_id": "ts475209",
@@ -1994,6 +1966,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts469760",
@@ -2050,35 +2050,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
       "maturity_rating": "18+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.402,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm222871",
@@ -2160,8 +2131,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.402,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -2986,33 +2986,6 @@
       "episode_count": 8
     },
     {
-      "ag_id": "tm130037",
-      "title": "Holly & Benji: La Grande Sfida Europea",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 171899,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.576,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3040,6 +3013,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "tm130037",
+      "title": "Holly & Benji: La Grande Sfida Europea",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 171899,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si situa dopo la conclusione della prima serie. La nazionale giovanile giapponese arriva a Londra per incontrare il proprio corrispettivo europeo: abilissimi giocatori con capacità e punti di forza che i nostri eroi non hanno mai incontrato prima. Una squadra di fuoriclasse che si riconosce nel proprio capitano e che è decisa a non dover mai conoscere la sconfitta...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cRjrQjMQ0RxvK90vtitTRwDgMbR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.576,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts403298",
@@ -4780,35 +4780,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts406072",
-      "title": "Kinnikuman Perfect Origin Arc",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 5.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
-      "maturity_rating": "18+",
-      "episode_count": 22
-    },
-    {
       "ag_id": "tm96037",
       "title": "Naruto Shippuden: Il film - La torre perduta",
       "year": 2010,
@@ -4837,6 +4808,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a998437d-aa08-4fdb-b6a3-9baa7169fff3",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts406072",
+      "title": "Kinnikuman Perfect Origin Arc",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kinnikuman torna sul ring per un'epica battaglia a tre tra le fazioni di Seigi, Akuma e Perfect e svela le radici dei Chojin.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8kXDyWBKwXlZjTP4EVueZYzhBPc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gZwfx7zDthxboj4rk2hIToobnHF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 5.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
+      "maturity_rating": "18+",
+      "episode_count": 22
     },
     {
       "ag_id": "tm167492",
@@ -5688,7 +5688,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bc1e15-927e-406e-32c3-40824350709b",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 27
     },
     {
