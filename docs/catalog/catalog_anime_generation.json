@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T02:58:39Z",
+  "generated_at": "2026-09-02T10:40:14Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -317,7 +317,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.05,
+      "rating": 8.056,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -329,6 +329,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9VdIABPH266DSurwrYHOvbZ9dtk.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.047,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts21984",
@@ -362,36 +392,6 @@
       "episode_count": 47
     },
     {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9VdIABPH266DSurwrYHOvbZ9dtk.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.047,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
-    },
-    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -407,7 +407,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.327,
       "audio_locales": [
         "it-IT"
       ],
@@ -498,7 +498,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.169,
+      "rating": 8.172,
       "audio_locales": [
         "en-US",
         "es",
@@ -677,35 +677,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.467,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
-    },
-    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -734,6 +705,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.467,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
     },
     {
       "ag_id": "ts35975",
@@ -845,7 +845,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.935,
+      "rating": 7.957,
       "audio_locales": [
         "ja-JP"
       ],
@@ -936,6 +936,28 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -964,28 +986,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts17714",
@@ -1046,6 +1046,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.758,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts314452",
       "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
       "year": 2023,
@@ -1074,35 +1103,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.758,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts41160",
@@ -1180,7 +1180,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.56,
+      "rating": 8.565,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1192,53 +1192,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.547,
-      "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ms",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "tm1542133",
@@ -1290,6 +1243,53 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.547,
+      "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ms",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts26262",
@@ -1726,7 +1726,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 24
     },
     {
@@ -2098,7 +2098,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.402,
+      "rating": 7.406,
       "audio_locales": [
         "it-IT"
       ],
@@ -2269,6 +2269,36 @@
       "episode_count": 5
     },
     {
+      "ag_id": "tm141589",
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 317442,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+      "genres": [
+        "Azione",
+        "Romance",
+        "Animazione"
+      ],
+      "rating": 7.477,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2295,36 +2325,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm141589",
-      "title": "The Last: Naruto the Movie",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 317442,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
-      "genres": [
-        "Azione",
-        "Romance",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts47224",
@@ -2546,7 +2546,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.823,
+      "rating": 7.828,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2841,7 +2841,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.853,
+      "rating": 7.842,
       "audio_locales": [
         "it-IT"
       ],
@@ -3038,7 +3038,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90bb271a-1d2c-5544-98b9-be2f6a8defae",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -3195,35 +3195,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.778,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts412408",
       "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
       "year": 2024,
@@ -3284,6 +3255,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.778,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
+    },
+    {
       "ag_id": "tm451542",
       "title": "Lupin III - Addio, amico mio",
       "year": 2019,
@@ -3332,7 +3332,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.216,
+      "rating": 8.223,
       "audio_locales": [
         "it-IT"
       ],
@@ -3600,34 +3600,6 @@
       "episode_count": 51
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.182,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3685,6 +3657,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
       "maturity_rating": "T",
       "episode_count": 60
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.182,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "tm1470968",
@@ -3952,7 +3952,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
@@ -4028,7 +4028,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.917,
+      "rating": 7.154,
       "audio_locales": [
         "it-IT"
       ],
@@ -4382,7 +4382,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 0
     },
     {
@@ -4518,7 +4518,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.0,
+      "rating": 5.979,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5373,35 +5373,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts53271",
-      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 69212,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 9.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
-      "maturity_rating": "16+",
-      "episode_count": 7
-    },
-    {
       "ag_id": "ts377808",
       "title": "Spy Classroom",
       "year": 2023,
@@ -5430,6 +5401,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cafa6fab-7def-44eb-9cf0-f73ac8ed5082",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts53271",
+      "title": "Giant Robot: Il giorno in cui la Terra si fermò",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 69212,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un futuro parallelo, la Terra vive un momento di splendore grazie alla scoperta del Sisma Drive, una fonte di energia virtualmente inesauribile e dall'alta compatibilità ecologica. Tuttavia la pace è ben lungi dall'essere raggiunta: due potenti organizzazioni si fronteggiano sullo scacchiere internazionale, la Società Segreta BF e l'Organizzazione di Polizia Internazionale. A fianco di quest'ultima c'è Daisaku Kusama ed il suo enorme Giant Robot, un mecha dall'apparenza retrò ma dall'enorme potenza e dall'origine poco chiara.\n\nImprovvisamente, dalle nebbie del passato ricompare Franken Von Vogler, uno dei membri del team di ricerca originale del Sisma Drive e causa dell'orribile tragedia di Vashtal, durante la quale è stato creduto morto. Il suo proposito è la vendetta: sui suoi colleghi che si sono presi il merito del Sisma Drive e sull'umanità, che lo ha trattato come un criminale. Il suo atto iniziale è l'oscuramento di Parigi, con un processo che letteralmente annulla l'energia del Sisma Drive con il suo opposto e l'uccisione di 3 dei 5 membri del team di realizzazione del Sisma Drive. L'unico sopravvissuto, il professor Sisma, chiede aiuto alla Organizzazione di Polizia Internazionale ma ben presto si scopre che ad appoggiare i piani di Vogler è proprio la società segreta BF e l'enigmatico Gen'ya. Dopo una serie di terribili scontri tra gli agenti delle due organizzazioni e rispettivi robot, la verità celata per tanti anni verrà rivelata sul Sisma Drive, sulla sua realizzazione e sulla tragedia di Vashtal.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cFXqlK5w1cXRNDH6gnKHOmqEZmM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kkjow78DQhzTSg7zc3sPXOcKvc4.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 9.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
+      "maturity_rating": "16+",
+      "episode_count": 7
     },
     {
       "ag_id": "ts222964",
@@ -5956,7 +5956,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f9b138ea-25cd-4852-8a78-098aa80429dc",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 12
     },
     {
@@ -6775,6 +6775,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts73018",
+      "title": "Ciao, Sabrina",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
+      "maturity_rating": "T",
+      "episode_count": 51
+    },
+    {
       "ag_id": "tm184358",
       "title": "One Piece - L'isola segreta del barone Omatsuri",
       "year": 2005,
@@ -7280,34 +7308,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65dd82ef-a035-4c74-8d83-25b8fb4cb6b6",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts73018",
-      "title": "Ciao, Sabrina",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
-      "maturity_rating": "T",
-      "episode_count": 51
     },
     {
       "ag_id": "tm34524",
@@ -7872,7 +7872,7 @@
         "Avventura",
         "Crime"
       ],
-      "rating": 6.491,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT"
       ],
