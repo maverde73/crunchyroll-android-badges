@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T15:48:48Z",
+  "generated_at": "2026-09-03T20:31:34Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.307,
       "audio_locales": [
         "it-IT"
       ],
@@ -210,6 +210,35 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.865,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -239,35 +268,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.865,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts20112",
@@ -591,6 +591,35 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "zh"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -734,35 +763,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "zh"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts354570",
@@ -1010,7 +1010,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.707,
+      "rating": 7.686,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1180,7 +1180,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.707,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1434,37 +1434,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "tm9483",
-      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45378,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.391,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm247578",
@@ -1920,37 +1889,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
-    },
-    {
-      "ag_id": "tm184092",
-      "title": "Lupin III - Viaggio nel pericolo",
-      "year": 1993,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 76190,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L'ispettore Zenigata viene esonerato dall'incarico di catturare Lupin perchè non ne è ritenuto all'altezza. Viene assunta quindi una nuova ispettrice di nome Keith, intenzionata a catturarlo, non importa se vivo o morto. Il celebre ladro, infastidito da quest'insolita siuazione, vuole far tornare Zazà alle sue vecchie mansioni, approfittando di un nuovo caso riguardante il traffico di armi da parte di un'organizzazione chiamata Shot Shell. Con l'aiuto di Jigen, porta a termine il furto di un sottomarino russo per poi venderlo all'organizzazione. Per guidare il sottomarino occorre necessariamente una mano esperta, quindi chi meglio della sua stessa creatrice? Rapiscono così l'astrofisica russa, mente del progetto, e le fanno pilotare il sottomarino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tpJaqgesbbd5M81s0FMt6fYwpjv.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4zHScUX53WcxTVxR3ZwiKBQym38.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.686,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "tm37256",
@@ -2505,7 +2443,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 0
     },
     {
@@ -3792,6 +3730,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
       "maturity_rating": "14+",
       "episode_count": 17
+    },
+    {
+      "ag_id": "tm184092",
+      "title": "Lupin III - Viaggio nel pericolo",
+      "year": 1993,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 76190,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L'ispettore Zenigata viene esonerato dall'incarico di catturare Lupin perchè non ne è ritenuto all'altezza. Viene assunta quindi una nuova ispettrice di nome Keith, intenzionata a catturarlo, non importa se vivo o morto. Il celebre ladro, infastidito da quest'insolita siuazione, vuole far tornare Zazà alle sue vecchie mansioni, approfittando di un nuovo caso riguardante il traffico di armi da parte di un'organizzazione chiamata Shot Shell. Con l'aiuto di Jigen, porta a termine il furto di un sottomarino russo per poi venderlo all'organizzazione. Per guidare il sottomarino occorre necessariamente una mano esperta, quindi chi meglio della sua stessa creatrice? Rapiscono così l'astrofisica russa, mente del progetto, e le fanno pilotare il sottomarino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tpJaqgesbbd5M81s0FMt6fYwpjv.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4zHScUX53WcxTVxR3ZwiKBQym38.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.686,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts418967",
@@ -7680,6 +7649,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm9483",
+      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45378,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.391,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts413183",
       "title": "Rinkai!",
       "year": 2024,
@@ -7973,7 +7973,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30e3e0ec-0a42-45ad-bcbe-94f83c6a2133",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 26
     },
     {
@@ -8000,7 +8000,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -8087,7 +8087,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 8
     },
     {
