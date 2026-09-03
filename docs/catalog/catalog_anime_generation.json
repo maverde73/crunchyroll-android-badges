@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T03:00:59Z",
+  "generated_at": "2026-09-03T10:42:28Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -181,35 +181,6 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.509,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -239,6 +210,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.512,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts27309",
@@ -361,34 +361,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.327,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -418,6 +390,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.327,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts22290",
@@ -511,38 +511,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts12311",
-      "title": "Occhi di gatto",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34114,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -621,21 +589,31 @@
         "ru"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.19977a13-c89e-45d4-a752-b464cd8acbc3",
       "maturity_rating": "14+",
       "episode_count": 74
     },
     {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
+      "ag_id": "ts12311",
+      "title": "Occhi di gatto",
+      "year": 1983,
       "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
+      "external_ids": {
+        "tmdb_id": 34114,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -643,9 +621,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
+      "maturity_rating": "14+",
+      "episode_count": 73
     },
     {
       "ag_id": "ts461952",
@@ -704,6 +682,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts57405",
@@ -1436,6 +1436,37 @@
       "episode_count": 24
     },
     {
+      "ag_id": "tm9483",
+      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45378,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.391,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -1891,6 +1922,37 @@
       "episode_count": 75
     },
     {
+      "ag_id": "tm37256",
+      "title": "Lupin III - Fuga da Alcatraz",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 78139,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole impossessarsi di una mappa dei fondali di San Francisco, perché proprio nei fondali vi dovrebbe essere un veliero carico d'oro. Nella sua ricerca del tesoro Lupin scoprirà la verità sull'assassinio di Kennedy e sulla sua correlazione con un segreto celato nei sotterranei della leggendaria prigione di Alcatraz.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/89ubavtDpkrO3ZPYldYkZYOoqCh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/blYvGPo6ne09t9xHoPzCVdlzUx.jpg",
+      "genres": [
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c098f749-a05b-4d48-8fa5-7c8b2fc9ab30",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -2008,6 +2070,38 @@
       "episode_count": 24
     },
     {
+      "ag_id": "tm193065",
+      "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31599,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III è deciso a mettere le mani su una grande quantità di lingotti d'oro che una banda internazionale di assassini su commissione, l'organizzazione Tarantola, ha accumulato in anni di omicidi politici. La stessa organizzazione gli ha da poco messo i bastoni tra le ruote compiendo un omicidio durante una festa tenuta dal vicepresidente degli Stati Uniti, bersaglio degli assassini, durante la quale l'ispettore Zenigata, ormai con Lupin nel pugno, è stato colpito al cuore da una Walther P38, arma storica nonché pezzo unico. Solo Lupin può avere quest'arma.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/czeiuCld4IUIVxtqDRWavMjE3Vm.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3OoSoGDK1DI26MRSoJhv5chmV5X.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime",
+        "Dramma"
+      ],
+      "rating": 6.523,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts52317",
       "title": "Un oceano di avventure",
       "year": 1994,
@@ -2121,6 +2215,37 @@
       "episode_count": 24
     },
     {
+      "ag_id": "tm88628",
+      "title": "Lupin III - L'ultimo colpo",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39952,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce di una statuetta del Buddha nella quale è racchiuso il segreto per ritrovare un'antica e potentissima arma creata nel sedicesimo secolo da un gruppo di scienziati italiani fuggiti in Giappone per sfuggire alle persecuzioni della Chiesa. Sulle tracce del tesoro ci sono anche Asuka, l'ultima discendente del clan ninja dei Fuma incaricata di proteggere il segreto dell'arma, e l'antica setta segreta di Morgana, che punta a servirsene per ricreare l'Impero romano.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tuDhWt2oLM3sjazcNennzx2BRWf.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sQhj10PGLtCcz1wCUtEWwk3jKOQ.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f7fa9d3-81aa-4de3-8391-4d943db7cfba",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -2138,7 +2263,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.075,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -2331,35 +2456,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.397,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts476585",
       "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
       "year": 2025,
@@ -2410,6 +2506,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.397,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
@@ -3045,35 +3170,6 @@
       "episode_count": 27
     },
     {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.144,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
-    },
-    {
       "ag_id": "ts13335",
       "title": "DNA²",
       "year": 1994,
@@ -3101,6 +3197,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.144,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
     },
     {
       "ag_id": "ts374110",
@@ -3317,38 +3442,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
-    },
-    {
-      "ag_id": "tm193065",
-      "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31599,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III è deciso a mettere le mani su una grande quantità di lingotti d'oro che una banda internazionale di assassini su commissione, l'organizzazione Tarantola, ha accumulato in anni di omicidi politici. La stessa organizzazione gli ha da poco messo i bastoni tra le ruote compiendo un omicidio durante una festa tenuta dal vicepresidente degli Stati Uniti, bersaglio degli assassini, durante la quale l'ispettore Zenigata, ormai con Lupin nel pugno, è stato colpito al cuore da una Walther P38, arma storica nonché pezzo unico. Solo Lupin può avere quest'arma.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/czeiuCld4IUIVxtqDRWavMjE3Vm.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3OoSoGDK1DI26MRSoJhv5chmV5X.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime",
-        "Dramma"
-      ],
-      "rating": 6.523,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts42498",
@@ -3729,35 +3822,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.093,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts331408",
       "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
       "year": 2022,
@@ -3785,6 +3849,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.093,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts72501",
@@ -4993,35 +5086,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm21535",
-      "title": "I Cavalieri dello zodiaco - La dea della discordia",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 83090,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.127,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts272347",
       "title": "Tokyo Mew Mew New",
       "year": 2022,
@@ -5082,6 +5146,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm21535",
+      "title": "I Cavalieri dello zodiaco - La dea della discordia",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 83090,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.127,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts447887",
@@ -5410,37 +5503,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm37256",
-      "title": "Lupin III - Fuga da Alcatraz",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 78139,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole impossessarsi di una mappa dei fondali di San Francisco, perché proprio nei fondali vi dovrebbe essere un veliero carico d'oro. Nella sua ricerca del tesoro Lupin scoprirà la verità sull'assassinio di Kennedy e sulla sua correlazione con un segreto celato nei sotterranei della leggendaria prigione di Alcatraz.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/89ubavtDpkrO3ZPYldYkZYOoqCh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/blYvGPo6ne09t9xHoPzCVdlzUx.jpg",
-      "genres": [
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c098f749-a05b-4d48-8fa5-7c8b2fc9ab30",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts282865",
       "title": "Re-Main",
       "year": 2021,
@@ -5467,34 +5529,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92b6db8f-f9a3-4307-984e-c67581729e42",
       "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts342570",
-      "title": "La mia padroncina Inukai - Una volta diventato un cane, sono stato adottato dalla persona di cui sono innamorato",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195081,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un giorno un ragazzo si ritrova nel corpo di un cane. Una sua compagna di classe lo trova portandolo a casa sua. La ragazza a scuola si dimostra sempre fredda ma è molto affettuosa nei confronti del suo nuovo animale domestico.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eJURdOPus3gX48hazRNVeULxJU3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jiKtn560NRQ3KUxSA2KBpJd25i.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.471,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
-      "maturity_rating": "18+",
       "episode_count": 12
     },
     {
@@ -5526,6 +5560,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cafa6fab-7def-44eb-9cf0-f73ac8ed5082",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts342570",
+      "title": "La mia padroncina Inukai - Una volta diventato un cane, sono stato adottato dalla persona di cui sono innamorato",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195081,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un giorno un ragazzo si ritrova nel corpo di un cane. Una sua compagna di classe lo trova portandolo a casa sua. La ragazza a scuola si dimostra sempre fredda ma è molto affettuosa nei confronti del suo nuovo animale domestico.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eJURdOPus3gX48hazRNVeULxJU3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jiKtn560NRQ3KUxSA2KBpJd25i.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.471,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts53271",
@@ -7618,37 +7680,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm9483",
-      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45378,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.391,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts413183",
       "title": "Rinkai!",
       "year": 2024,
@@ -7674,35 +7705,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm651260",
-      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 364134,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts77859",
@@ -7944,37 +7946,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm88628",
-      "title": "Lupin III - L'ultimo colpo",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39952,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce di una statuetta del Buddha nella quale è racchiuso il segreto per ritrovare un'antica e potentissima arma creata nel sedicesimo secolo da un gruppo di scienziati italiani fuggiti in Giappone per sfuggire alle persecuzioni della Chiesa. Sulle tracce del tesoro ci sono anche Asuka, l'ultima discendente del clan ninja dei Fuma incaricata di proteggere il segreto dell'arma, e l'antica setta segreta di Morgana, che punta a servirsene per ricreare l'Impero romano.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tuDhWt2oLM3sjazcNennzx2BRWf.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sQhj10PGLtCcz1wCUtEWwk3jKOQ.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f7fa9d3-81aa-4de3-8391-4d943db7cfba",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -8299,6 +8270,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm651260",
+      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 364134,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
       "maturity_rating": "T",
       "episode_count": 1
     },
