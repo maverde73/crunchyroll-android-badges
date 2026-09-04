@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T10:37:38Z",
+  "generated_at": "2026-09-04T15:47:13Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -941,6 +941,35 @@
       "episode_count": 65
     },
     {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.321,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -1499,35 +1528,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.321,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts52963",
@@ -3205,35 +3205,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3261,6 +3232,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
       "maturity_rating": "T",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "tm130037",
@@ -3756,35 +3756,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.475,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -3812,6 +3783,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.475,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts72501",
@@ -5587,6 +5587,36 @@
       "episode_count": 7
     },
     {
+      "ag_id": "tm117018",
+      "title": "Lupin III - Spada Zantetsu, infuocati!",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 51943,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Crime"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts222964",
       "title": "Arte",
       "year": 2020,
@@ -6451,7 +6481,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.438,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6463,6 +6493,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts435424",
+      "title": "Copriti, Makina!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 254174,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eita è un liceale introverso con la passione per i mecha che ha una cotta per la ragazza più popolare della scuola, Makina. Quando Eita se la ritrova davanti la porta di casa finisce per agitarsi, e la cosa sembra peggiorare quando Makina le rivela il suo segreto: lei in verità è un \"sexaroid\", un robot progettato per donare piacere, e sta chiedendo al ragazzo di effettuare alcune riparazioni al suo corpo tenendo la massima discrezione. Mentre Makina tenta subito di avvicinarsi fisicamente a lui, Eita prova con difficoltà a trattenersi mentre protegge il segreto della ragazza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1KsdGhjvY85ua79av0Pj0JPiNPp.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 4.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts15516",
@@ -6547,34 +6605,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
       "maturity_rating": "T",
       "episode_count": 44
-    },
-    {
-      "ag_id": "ts435424",
-      "title": "Copriti, Makina!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 254174,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eita è un liceale introverso con la passione per i mecha che ha una cotta per la ragazza più popolare della scuola, Makina. Quando Eita se la ritrova davanti la porta di casa finisce per agitarsi, e la cosa sembra peggiorare quando Makina le rivela il suo segreto: lei in verità è un \"sexaroid\", un robot progettato per donare piacere, e sta chiedendo al ragazzo di effettuare alcune riparazioni al suo corpo tenendo la massima discrezione. Mentre Makina tenta subito di avvicinarsi fisicamente a lui, Eita prova con difficoltà a trattenersi mentre protegge il segreto della ragazza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1KsdGhjvY85ua79av0Pj0JPiNPp.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 4.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts237034",
@@ -7950,36 +7980,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm117018",
-      "title": "Lupin III - Spada Zantetsu, infuocati!",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 51943,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Crime"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm88628",
       "title": "Lupin III - L'ultimo colpo",
       "year": 2010,
@@ -8273,6 +8273,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm651260",
+      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 364134,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm682308",
       "title": "One Piece - Avventura nell'ombelico dell'oceano",
       "year": 2000,
@@ -8300,35 +8329,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm651260",
-      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 364134,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
       "maturity_rating": "T",
       "episode_count": 1
     },
