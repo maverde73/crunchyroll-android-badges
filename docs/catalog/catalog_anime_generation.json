@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T20:17:52Z",
+  "generated_at": "2026-09-05T03:02:03Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.307,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -121,6 +121,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.512,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -181,23 +210,23 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 35935,
+        "tmdb_id": 9343,
         "tmdb_type": "tv"
       },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
       "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.512,
+      "rating": 7.865,
       "audio_locales": [
         "it-IT"
       ],
@@ -205,9 +234,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 13
     },
     {
       "ag_id": "ts21406",
@@ -241,35 +270,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.865,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -298,6 +298,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
+    },
+    {
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45860,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts281904",
@@ -331,36 +362,6 @@
       "episode_count": 32
     },
     {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9VdIABPH266DSurwrYHOvbZ9dtk.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.047,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -392,6 +393,36 @@
       "episode_count": 47
     },
     {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9VdIABPH266DSurwrYHOvbZ9dtk.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.047,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -418,37 +449,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
       "episode_count": 40
-    },
-    {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts20686",
@@ -561,6 +561,35 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.403,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
+      "maturity_rating": "14+",
+      "episode_count": 41
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -589,35 +618,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
     },
     {
       "ag_id": "ts35578",
@@ -655,6 +655,34 @@
       "episode_count": 74
     },
     {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.643,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts82387",
       "title": "Lupin The 3rd - La seconda serie",
       "year": 1977,
@@ -675,36 +703,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
       "maturity_rating": "T",
       "episode_count": 0
-    },
-    {
-      "ag_id": "ts342987",
-      "title": "Ragna Crimson",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195459,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.275,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts57405",
@@ -736,33 +734,34 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
+      "ag_id": "ts342987",
+      "title": "Ragna Crimson",
+      "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 279182,
+        "tmdb_id": 195459,
         "tmdb_type": "tv"
       },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.1,
+      "rating": 7.314,
       "audio_locales": [
-        "zh"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 24
     },
     {
       "ag_id": "ts354570",
@@ -793,34 +792,33 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 138357,
+        "tmdb_id": 279182,
         "tmdb_type": "tv"
       },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
+        "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.686,
+      "rating": 8.1,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "zh"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 12
     },
     {
       "ag_id": "ts28078",
@@ -1105,6 +1103,36 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.686,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -1268,7 +1296,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.721,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1280,6 +1308,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm117018",
+      "title": "Lupin III - Spada Zantetsu, infuocati!",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 51943,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Crime"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts360995",
@@ -1409,28 +1467,11 @@
       ],
       "rating": 7.547,
       "audio_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ms",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "vi"
+        "it-IT"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
@@ -1582,34 +1623,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.643,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "tm113059",
@@ -2060,7 +2073,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 24
     },
     {
@@ -2236,34 +2249,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.457,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -2329,22 +2314,22 @@
       "episode_count": 45
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 284447,
+        "tmdb_id": 65648,
         "tmdb_type": "tv"
       },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
       "genres": [
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.031,
+      "rating": 8.457,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2352,9 +2337,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts5328",
@@ -2387,6 +2372,34 @@
       "episode_count": 41
     },
     {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.031,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts476585",
       "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
       "year": 2025,
@@ -2405,7 +2418,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -2574,36 +2587,6 @@
       "episode_count": 5
     },
     {
-      "ag_id": "tm141589",
-      "title": "The Last: Naruto the Movie",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 317442,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
-      "genres": [
-        "Azione",
-        "Romance",
-        "Animazione"
-      ],
-      "rating": 7.477,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2659,6 +2642,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "tm141589",
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 317442,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+      "genres": [
+        "Azione",
+        "Romance",
+        "Animazione"
+      ],
+      "rating": 7.477,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts311625",
@@ -3903,37 +3916,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.829,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts341771",
       "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
       "year": 2022,
@@ -3989,6 +3971,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
       "maturity_rating": "18+",
       "episode_count": 11
+    },
+    {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oc6bqambLNrXr4YKXwM9fEOjXqS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.829,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts34463",
@@ -5290,36 +5303,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts32338",
-      "title": "Mawaru-Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I tre fratelli Takakura, i due gemelli maschi Kanba e Shōma e la loro amata e fragile sorellina Himari, vivono da soli in una bizzarra baracca di legno e lamiera. Un bel giorno vanno a visitare l'acquario e Shōma compra come souvenir a Himari un cappello a forma di pinguino, ma poco dopo lei collassa e muore. All'obitorio però Himari si rianima; il miracolo è compiuto dal cappello, posseduto da una misteriosa entità nota come \"Princess of the Crystal\", che stringe un patto con i due fratelli: l'entità potrà far continuare la vita di Himari se in cambio i due ragazzi riusciranno a trovare il Pingdrum (ピングドラム Pingudoramu?), un misterioso e non meglio specificato oggetto. Per aiutarli nella ricerca, affianca loro un trio di bizzarri pinguini tuttofare, invisibili a chiunque meno che ai tre fratelli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts417105",
       "title": "Tonbo!",
       "year": 2024,
@@ -5374,6 +5357,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0aea90b2-e9dc-4c96-80ce-5a2dd91259d4",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Mawaru-Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I tre fratelli Takakura, i due gemelli maschi Kanba e Shōma e la loro amata e fragile sorellina Himari, vivono da soli in una bizzarra baracca di legno e lamiera. Un bel giorno vanno a visitare l'acquario e Shōma compra come souvenir a Himari un cappello a forma di pinguino, ma poco dopo lei collassa e muore. All'obitorio però Himari si rianima; il miracolo è compiuto dal cappello, posseduto da una misteriosa entità nota come \"Princess of the Crystal\", che stringe un patto con i due fratelli: l'entità potrà far continuare la vita di Himari se in cambio i due ragazzi riusciranno a trovare il Pingdrum (ピングドラム Pingudoramu?), un misterioso e non meglio specificato oggetto. Per aiutarli nella ricerca, affianca loro un trio di bizzarri pinguini tuttofare, invisibili a chiunque meno che ai tre fratelli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
       "maturity_rating": "14+",
       "episode_count": 24
     },
@@ -5585,36 +5598,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a9c2481d-8b7a-41e5-bbbd-85fa3c602940",
       "maturity_rating": "16+",
       "episode_count": 7
-    },
-    {
-      "ag_id": "tm117018",
-      "title": "Lupin III - Spada Zantetsu, infuocati!",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 51943,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Crime"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts222964",
