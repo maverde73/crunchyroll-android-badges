@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T17:16:31Z",
+  "generated_at": "2026-09-07T21:08:16Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -317,7 +317,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.067,
+      "rating": 8.073,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -329,37 +329,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
-    },
-    {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts21984",
@@ -391,6 +360,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45860,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts14127",
@@ -2398,34 +2398,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm19944",
       "title": "Jin-Roh - Uomini e lupi",
       "year": 1999,
@@ -2453,6 +2425,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
       "maturity_rating": "16+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm222871",
@@ -3919,34 +3919,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -4005,6 +3977,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts88978",
@@ -4757,7 +4757,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
@@ -7930,7 +7930,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -7992,7 +7992,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28c00a55-ac0e-4d17-aaeb-4520193f1d6e",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
