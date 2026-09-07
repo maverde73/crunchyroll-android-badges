@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T11:37:58Z",
+  "generated_at": "2026-09-07T17:16:31Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.307,
       "audio_locales": [
         "it-IT"
       ],
@@ -151,37 +151,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.431,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -239,6 +208,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.431,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts20112",
@@ -423,6 +423,34 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -451,34 +479,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara (ベルばら).\n\nLa serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts20686",
@@ -608,7 +608,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.3,
+      "rating": 7.344,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1030,35 +1030,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.889,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -1113,6 +1084,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
       "maturity_rating": "T",
       "episode_count": 109
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.889,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts317669",
@@ -1242,7 +1242,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 7.3,
+      "rating": 7.344,
       "audio_locales": [
         "it-IT"
       ],
@@ -3547,35 +3547,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.778,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts312683",
       "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
       "year": 2022,
@@ -3596,6 +3567,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "tm136088",
@@ -4422,34 +4422,6 @@
       "episode_count": 52
     },
     {
-      "ag_id": "ts11218",
-      "title": "Mimì e le ragazze della pallavolo",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 20195,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il club di pallavolo del liceo internazionale Tachibana è stato sciolto a causa della tragica morte di un'allieva; si racconta addirittura che il suo fantasma si aggiri ancora nella sede del club. Mimì Miceri (Mimi Hijiiri nella versione originale), anch'essa allieva della scuola, si impegna con tutte le sue forze per riaprirlo, lottando contro l'indifferenza se non l'avversione degli altri studenti. Affrontando molti problemi che sembrano più volte minare il suo progetto, riesce finalmente a formare una squadra di sei ragazze per poter partecipare ai campionati giovanili.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yAEMNhc8qKjrxpl09j4Wjs3s05V.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nXIR1e8WBqrSFJHTcM7nxmtkZup.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cfcf8a3d-6bae-41f4-98c9-60deb8293705",
-      "maturity_rating": "",
-      "episode_count": 23
-    },
-    {
       "ag_id": "ts440071",
       "title": "Bad Girl",
       "year": 2025,
@@ -4476,6 +4448,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts11218",
+      "title": "Mimì e le ragazze della pallavolo",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 20195,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il club di pallavolo del liceo internazionale Tachibana è stato sciolto a causa della tragica morte di un'allieva; si racconta addirittura che il suo fantasma si aggiri ancora nella sede del club. Mimì Miceri (Mimi Hijiiri nella versione originale), anch'essa allieva della scuola, si impegna con tutte le sue forze per riaprirlo, lottando contro l'indifferenza se non l'avversione degli altri studenti. Affrontando molti problemi che sembrano più volte minare il suo progetto, riesce finalmente a formare una squadra di sei ragazze per poter partecipare ai campionati giovanili.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yAEMNhc8qKjrxpl09j4Wjs3s05V.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nXIR1e8WBqrSFJHTcM7nxmtkZup.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cfcf8a3d-6bae-41f4-98c9-60deb8293705",
+      "maturity_rating": "",
+      "episode_count": 23
     },
     {
       "ag_id": "ts26785",
@@ -4757,7 +4757,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
@@ -6104,34 +6104,6 @@
       "episode_count": 14
     },
     {
-      "ag_id": "ts401994",
-      "title": "Le ragazze del Mahjong - Pon no Michi",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234176,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/54pd82UGQaTEQH7keVKIw8GFkJr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aFsD7BGCwwOYrfd1CWEE1COE7uO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f9b138ea-25cd-4852-8a78-098aa80429dc",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts32819",
       "title": "Shin Getter Robo Re:MODEL",
       "year": 2004,
@@ -6189,6 +6161,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.56e6a521-2188-41da-b3d6-ec95616e9637",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts401994",
+      "title": "Le ragazze del Mahjong - Pon no Michi",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234176,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/54pd82UGQaTEQH7keVKIw8GFkJr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aFsD7BGCwwOYrfd1CWEE1COE7uO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f9b138ea-25cd-4852-8a78-098aa80429dc",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts5162",
@@ -7930,7 +7930,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.88aa9c22-201c-488f-9551-c7423971d0bf",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
@@ -7992,7 +7992,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28c00a55-ac0e-4d17-aaeb-4520193f1d6e",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
