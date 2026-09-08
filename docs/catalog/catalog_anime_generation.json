@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T16:00:58Z",
+  "generated_at": "2026-09-08T20:44:37Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -331,37 +331,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.385,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
-    },
-    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -391,6 +360,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.385,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts14127",
@@ -559,34 +559,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.288,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
-    },
-    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -737,6 +709,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.288,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
     },
     {
       "ag_id": "ts28078",
@@ -1250,7 +1250,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1419,7 +1419,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1822,14 +1822,14 @@
       },
       "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
       "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9C8klg2GszX2tXKw5xEzJwrL4Do.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g1DgfhkneXTRzJH38POYm4Es3gQ.jpg",
       "genres": [
         "Animazione",
         "Commedia",
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.833,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2296,7 +2296,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.457,
+      "rating": 8.5,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2587,7 +2587,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 5
     },
     {
@@ -2967,7 +2967,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 39
     },
     {
@@ -3025,7 +3025,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 50
     },
     {
@@ -3569,35 +3569,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "tm136088",
       "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
       "year": 1989,
@@ -3625,6 +3596,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts374187",
@@ -4359,7 +4359,7 @@
         "pt"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64d4684f-7c14-4ba2-a833-21cc57ac06ff",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b67b7e5c-981b-4a4e-b2c9-6008442adf81",
       "maturity_rating": "14+",
       "episode_count": 12
     },
@@ -4393,6 +4393,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts440071",
+      "title": "Bad Girl",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts31966",
       "title": "Calendar Men",
       "year": 1981,
@@ -4420,34 +4448,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
       "maturity_rating": "T",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts440071",
-      "title": "Bad Girl",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts11218",
@@ -8436,7 +8436,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
