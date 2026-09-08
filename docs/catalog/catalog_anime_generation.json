@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T10:37:16Z",
+  "generated_at": "2026-09-08T16:00:58Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -559,6 +559,34 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.288,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
+    },
+    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -709,34 +737,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.288,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
     },
     {
       "ag_id": "ts28078",
@@ -1812,37 +1812,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm5128",
-      "title": "Lupin III - Ruba il dizionario di Napoleone!",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80865,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.357,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1900,6 +1869,37 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm5128",
+      "title": "Lupin III - Ruba il dizionario di Napoleone!",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80865,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -2587,7 +2587,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 5
     },
     {
@@ -2967,7 +2967,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 39
     },
     {
@@ -3025,7 +3025,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 50
     },
     {
@@ -3281,34 +3281,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
-    },
-    {
       "ag_id": "ts403298",
       "title": "Blue Miburo - I giovani lupi di Mibu",
       "year": 2024,
@@ -3335,6 +3307,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
       "maturity_rating": "14+",
       "episode_count": 38
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
     },
     {
       "ag_id": "ts432424",
@@ -3890,35 +3890,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 89323,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 9.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T",
-      "episode_count": 60
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3948,6 +3919,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 9.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts488482",
@@ -7025,7 +7025,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.166,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8436,7 +8436,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.fdfb9b98-2ca0-4e37-acdc-e52e03187654",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
