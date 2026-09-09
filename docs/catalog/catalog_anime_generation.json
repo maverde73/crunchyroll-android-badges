@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T03:11:32Z",
+  "generated_at": "2026-09-09T10:47:30Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -658,28 +658,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -708,6 +686,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts57405",
@@ -826,34 +826,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.643,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -910,6 +882,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.643,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+",
       "episode_count": 39
     },
@@ -1419,38 +1419,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts52963",
@@ -1479,6 +1450,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aa9e3118-2aab-4152-b7f9-8dbfb9fc35f8",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.324,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts26262",
@@ -1752,35 +1752,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.27,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm20372",
       "title": "Lupin III - Per un dollaro in più",
       "year": 2000,
@@ -1810,6 +1781,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.27,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm128010",
@@ -1873,25 +1873,24 @@
       "episode_count": 46
     },
     {
-      "ag_id": "tm5128",
-      "title": "Lupin III - Ruba il dizionario di Napoleone!",
-      "year": 1991,
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 80865,
-        "tmdb_type": "movie"
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
       },
-      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
       "genres": [
+        "Action & Adventure",
         "Animazione",
-        "Azione",
-        "Commedia",
-        "televisione film",
-        "Crime"
+        "Dramma",
+        "Commedia"
       ],
-      "rating": 6.357,
+      "rating": 7.561,
       "audio_locales": [
         "it-IT"
       ],
@@ -1899,9 +1898,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22249",
@@ -1934,24 +1933,25 @@
       "episode_count": 75
     },
     {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
+      "ag_id": "tm5128",
+      "title": "Lupin III - Ruba il dizionario di Napoleone!",
+      "year": 1991,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
+        "tmdb_id": 80865,
+        "tmdb_type": "movie"
       },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qdwQHwXMytEvJOFycJcc3W6lzCq.jpg",
+      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
       "genres": [
-        "Action & Adventure",
         "Animazione",
-        "Dramma",
-        "Commedia"
+        "Azione",
+        "Commedia",
+        "televisione film",
+        "Crime"
       ],
-      "rating": 7.561,
+      "rating": 6.357,
       "audio_locales": [
         "it-IT"
       ],
@@ -1959,9 +1959,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "14+",
-      "episode_count": 24
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts75698",
@@ -2137,34 +2137,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts74597",
-      "title": "Ken il guerriero: Le origini del mito",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68203,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
-      "maturity_rating": "18+",
-      "episode_count": 46
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -2192,6 +2164,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts74597",
+      "title": "Ken il guerriero: Le origini del mito",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68203,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
+      "maturity_rating": "18+",
+      "episode_count": 46
     },
     {
       "ag_id": "ts448353",
@@ -3029,35 +3029,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts13335",
-      "title": "DNA²",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43384,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.842,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -3088,6 +3059,35 @@
       "episode_count": 27
     },
     {
+      "ag_id": "ts13335",
+      "title": "DNA²",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43384,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.842,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts29076",
       "title": "Tutor Hitman Reborn!",
       "year": 2006,
@@ -3104,7 +3104,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 8.133,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -3281,34 +3281,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts403298",
-      "title": "Blue Miburo - I giovani lupi di Mibu",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234776,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
-      "maturity_rating": "14+",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts44184",
       "title": "Georgie",
       "year": 1983,
@@ -3335,6 +3307,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts403298",
+      "title": "Blue Miburo - I giovani lupi di Mibu",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234776,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
+      "maturity_rating": "14+",
+      "episode_count": 38
     },
     {
       "ag_id": "ts374110",
@@ -4153,34 +4153,6 @@
       "episode_count": 73
     },
     {
-      "ag_id": "ts15250",
-      "title": "Caro fratello",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36588,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.154,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
-      "maturity_rating": "T",
-      "episode_count": 39
-    },
-    {
       "ag_id": "tm839900",
       "title": "Lupin III - Prigioniero del passato",
       "year": 2019,
@@ -4211,6 +4183,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts15250",
+      "title": "Caro fratello",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36588,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.154,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "maturity_rating": "T",
+      "episode_count": 39
     },
     {
       "ag_id": "ts1152",
@@ -6596,6 +6596,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts367163",
+      "title": "Le bestie colossali di Ars",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 211093,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo piagato dai colossi, gigantesche creature che attaccano gli esseri umani, una ragazza dotata di poteri misteriosi di nome Kumi – sfuggita alla prigionia dell’esercito imperiale che è intenzionato ad usarla come cavia da laboratorio – incontra Jiro, un cacciatore di colossi tormentato dalle disgrazie avvenute nel suo passato. Potranno, insieme, riuscire a salvare il mondo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/no9uH0TpquI6GrmmBcCU2kKRNYr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.882,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef74b47e-173c-451f-8e4b-7d3863f1772e",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts237034",
       "title": "Witchy Precure!! ~MIRAI DAYS~",
       "year": 2016,
@@ -6656,35 +6685,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts367163",
-      "title": "Le bestie colossali di Ars",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 211093,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo piagato dai colossi, gigantesche creature che attaccano gli esseri umani, una ragazza dotata di poteri misteriosi di nome Kumi – sfuggita alla prigionia dell’esercito imperiale che è intenzionato ad usarla come cavia da laboratorio – incontra Jiro, un cacciatore di colossi tormentato dalle disgrazie avvenute nel suo passato. Potranno, insieme, riuscire a salvare il mondo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/no9uH0TpquI6GrmmBcCU2kKRNYr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.882,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ef74b47e-173c-451f-8e4b-7d3863f1772e",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts444703",
@@ -6827,34 +6827,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm82213",
-      "title": "I Cavalieri dello zodiaco - Le porte del paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 50253,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si apre con Pegasus su una sedia a rotelle in uno stato semi vegetativo causato dal combattimento sostenuto contro Ade nei Campi Elisi e al potere venefico della spada del dio. Il guerriero viene presto attaccato da un trio di Cavalieri, mandati dalla dea Artemide per vendicare gli oltraggi fatti dai Cavalieri di Atena verso gli dei Poseidone ed Ade. Nonostante gli angeli di Artemide attacchino con delle lance Pegasus, egli non subisce danni grazie alla protezione di Atena, che lo ha accudito per tutto il tempo in una baita di montagna. Atena si offre di cedere volontariamente il suo potere divino e la prerogativa di difesa della Terra ad Artemide a patto che questa non uccida i suoi Cavalieri.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hXfG9HLQCubl06wzCvaZdLuOJIw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.804,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -7005,6 +6977,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
       "maturity_rating": "T",
       "episode_count": 51
+    },
+    {
+      "ag_id": "tm82213",
+      "title": "I Cavalieri dello zodiaco - Le porte del paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 50253,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si apre con Pegasus su una sedia a rotelle in uno stato semi vegetativo causato dal combattimento sostenuto contro Ade nei Campi Elisi e al potere venefico della spada del dio. Il guerriero viene presto attaccato da un trio di Cavalieri, mandati dalla dea Artemide per vendicare gli oltraggi fatti dai Cavalieri di Atena verso gli dei Poseidone ed Ade. Nonostante gli angeli di Artemide attacchino con delle lance Pegasus, egli non subisce danni grazie alla protezione di Atena, che lo ha accudito per tutto il tempo in una baita di montagna. Atena si offre di cedere volontariamente il suo potere divino e la prerogativa di difesa della Terra ad Artemide a patto che questa non uccida i suoi Cavalieri.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hXfG9HLQCubl06wzCvaZdLuOJIw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.804,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm184358",
@@ -7363,6 +7363,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts4343",
+      "title": "Don Dracula",
+      "year": 1982,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 16576,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Conte Dracula dopo aver vissuto per anni in Transilvania è venuto ad abitare a Tokyo con la figlia Chocolat e si è inserito nella vita giapponese. La figlia va al liceo, ma è costretta a frequentare le scuole serali perché essendo un vampiro non sopporta la luce del sole. Ed è proprio per questo particolare che il terribile dottor Helsing, perennemente a caccia di vampiri, che si è fatto assumere nella scuola come insegnante, riesce ad individuarla e a scoprire quindi anche il padre.\n\nIntanto il Conte Dracula, piuttosto imbranato, ha l'estrema necessità di bere il sangue di giovani vergini, ma ogni volta che esce nelle vie della città per questo scopo, rimane coinvolto in numerose strane avventure causate dal fatto che gli abitanti non credono ai vampiri, e non riesce mai nel suo intento.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3yFG7uMomcVQrqvVogdXYP9VdOE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bIAxTKwaZY90dinvpilYuecIyqy.jpg",
+      "genres": [
+        "Commedia",
+        "Animazione"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
+      "maturity_rating": "16+",
+      "episode_count": 8
+    },
+    {
       "ag_id": "ts343530",
       "title": "Opus.COLORs",
       "year": 2023,
@@ -7417,6 +7445,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f31f3fe1-1079-479f-9b0a-e5262aeb6d8d",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm148400",
+      "title": "Devilman - L'arpia Silen",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45660,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Squilla il telefono a casa Makimura. Risponde Akira: all'altro capo del telefono una voce spettrale lo invita ad un incontro. Akira si precipita nelle fogne di Tokyo, dove si imbatte in Jinmen, un demone simile ad una tartaruga che conserva i volti e le coscienze delle sue vittime incastonate nel suo guscio.  La notte seguente la famiglia Makimura viene attaccata da Gelmer, il demone dell'acqua, e Agwell, un demone con la capacità di fondersi con le pareti: Akira dovrà vedersela con loro e, in seguito, con l'arpia Silen.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kOkDe89mLgb0wWD3pEccAWmX5hK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vpkZzt74LrAiCsrUs3Wz28Zl9Cx.jpg",
+      "genres": [
+        "Fantasy",
+        "Animazione",
+        "Horror",
+        "Azione"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e078eaae-0a37-483c-b80a-b8c2666a39ad",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221676",
@@ -7722,36 +7780,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25043775-276f-4e50-9f8a-28cb41d63d98",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm148400",
-      "title": "Devilman - L'arpia Silen",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45660,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Squilla il telefono a casa Makimura. Risponde Akira: all'altro capo del telefono una voce spettrale lo invita ad un incontro. Akira si precipita nelle fogne di Tokyo, dove si imbatte in Jinmen, un demone simile ad una tartaruga che conserva i volti e le coscienze delle sue vittime incastonate nel suo guscio.  La notte seguente la famiglia Makimura viene attaccata da Gelmer, il demone dell'acqua, e Agwell, un demone con la capacità di fondersi con le pareti: Akira dovrà vedersela con loro e, in seguito, con l'arpia Silen.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kOkDe89mLgb0wWD3pEccAWmX5hK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vpkZzt74LrAiCsrUs3Wz28Zl9Cx.jpg",
-      "genres": [
-        "Fantasy",
-        "Animazione",
-        "Horror",
-        "Azione"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e078eaae-0a37-483c-b80a-b8c2666a39ad",
-      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
@@ -8138,34 +8166,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts4343",
-      "title": "Don Dracula",
-      "year": 1982,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16576,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Conte Dracula dopo aver vissuto per anni in Transilvania è venuto ad abitare a Tokyo con la figlia Chocolat e si è inserito nella vita giapponese. La figlia va al liceo, ma è costretta a frequentare le scuole serali perché essendo un vampiro non sopporta la luce del sole. Ed è proprio per questo particolare che il terribile dottor Helsing, perennemente a caccia di vampiri, che si è fatto assumere nella scuola come insegnante, riesce ad individuarla e a scoprire quindi anche il padre.\n\nIntanto il Conte Dracula, piuttosto imbranato, ha l'estrema necessità di bere il sangue di giovani vergini, ma ogni volta che esce nelle vie della città per questo scopo, rimane coinvolto in numerose strane avventure causate dal fatto che gli abitanti non credono ai vampiri, e non riesce mai nel suo intento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3yFG7uMomcVQrqvVogdXYP9VdOE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bIAxTKwaZY90dinvpilYuecIyqy.jpg",
-      "genres": [
-        "Commedia",
-        "Animazione"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
-      "maturity_rating": "16+",
-      "episode_count": 8
     },
     {
       "ag_id": "tm47223",
