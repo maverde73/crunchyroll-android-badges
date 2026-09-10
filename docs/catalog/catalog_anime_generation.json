@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T10:39:28Z",
+  "generated_at": "2026-09-10T15:51:32Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.304,
       "audio_locales": [
         "it-IT"
       ],
@@ -120,35 +120,6 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.505,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts22809",
       "title": "I cavalieri dello zodiaco",
       "year": 1986,
@@ -196,7 +167,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.513,
+      "rating": 8.514,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -268,6 +239,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.505,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts22290",
@@ -468,7 +468,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.177,
+      "rating": 8.175,
       "audio_locales": [
         "en-US",
         "es",
@@ -3134,7 +3134,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.451,
       "audio_locales": [
         "de",
         "en-US",
@@ -6988,34 +6988,6 @@
       "episode_count": 6
     },
     {
-      "ag_id": "tm82213",
-      "title": "I Cavalieri dello zodiaco - Le porte del paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 50253,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il film si apre con Pegasus su una sedia a rotelle in uno stato semi vegetativo causato dal combattimento sostenuto contro Ade nei Campi Elisi e al potere venefico della spada del dio. Il guerriero viene presto attaccato da un trio di Cavalieri, mandati dalla dea Artemide per vendicare gli oltraggi fatti dai Cavalieri di Atena verso gli dei Poseidone ed Ade. Nonostante gli angeli di Artemide attacchino con delle lance Pegasus, egli non subisce danni grazie alla protezione di Atena, che lo ha accudito per tutto il tempo in una baita di montagna. Atena si offre di cedere volontariamente il suo potere divino e la prerogativa di difesa della Terra ad Artemide a patto che questa non uccida i suoi Cavalieri.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hXfG9HLQCubl06wzCvaZdLuOJIw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.804,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts242641",
       "title": "Genie Family - Il ritorno del Mago Pancione",
       "year": 2020,
@@ -7160,6 +7132,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm82213",
+      "title": "I Cavalieri dello zodiaco - Le porte del paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 50253,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il film si apre con Pegasus su una sedia a rotelle in uno stato semi vegetativo causato dal combattimento sostenuto contro Ade nei Campi Elisi e al potere venefico della spada del dio. Il guerriero viene presto attaccato da un trio di Cavalieri, mandati dalla dea Artemide per vendicare gli oltraggi fatti dai Cavalieri di Atena verso gli dei Poseidone ed Ade. Nonostante gli angeli di Artemide attacchino con delle lance Pegasus, egli non subisce danni grazie alla protezione di Atena, che lo ha accudito per tutto il tempo in una baita di montagna. Atena si offre di cedere volontariamente il suo potere divino e la prerogativa di difesa della Terra ad Artemide a patto che questa non uccida i suoi Cavalieri.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hXfG9HLQCubl06wzCvaZdLuOJIw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.804,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.442f4fc8-85fe-4eb6-a186-b4e375a05d75",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -7819,33 +7819,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts413183",
-      "title": "Rinkai!",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240399,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ncyJvQlcDX2RkMRHSRBYQX0weLs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zAcBOll4cTyWEsqTJs31bWdWRRP.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts77859",
       "title": "Muteking",
       "year": 1980,
@@ -7902,6 +7875,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts413183",
+      "title": "Rinkai!",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240399,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ncyJvQlcDX2RkMRHSRBYQX0weLs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zAcBOll4cTyWEsqTJs31bWdWRRP.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm60126",
