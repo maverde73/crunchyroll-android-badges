@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T03:16:32Z",
+  "generated_at": "2026-09-13T11:07:31Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -20,7 +20,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.008,
+      "rating": 8.01,
       "audio_locales": [
         "it-IT"
       ],
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.306,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -228,7 +228,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.613,
+      "rating": 8.614,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -746,28 +746,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts57405",
       "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
       "year": 1990,
@@ -795,6 +773,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts28078",
@@ -1183,7 +1183,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.676,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1255,36 +1255,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts41160",
-      "title": "Lamù, la ragazza dello spazio",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34163,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 7.344,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
-      "maturity_rating": "14+",
-      "episode_count": 218
-    },
-    {
       "ag_id": "ts322259",
       "title": "Insomniacs After School",
       "year": 2023,
@@ -1312,6 +1282,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts41160",
+      "title": "Lamù, la ragazza dello spazio",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34163,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra è minacciata da una razza di alieni invasori che lasciano ai suoi abitanti una sola possibilità di scampo: se il giovane Ataru Moroboshi riuscirà a rincorrere con successo la bellissima Lamù, ritireranno le proprie astronavi pacificamente. Ataru, incredibilmente, ce la fa, ma Lamù si innamora di lui e decide di rimanere a casa sua a tempo indeterminato!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1uqlSxmSiOHgARJKIknxsk696bB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v9ODt8XqxhdlGsImgVi7NBKeMDX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 7.344,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "maturity_rating": "14+",
+      "episode_count": 218
     },
     {
       "ag_id": "ts353577",
@@ -1419,7 +1419,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1497,7 +1497,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.326,
       "audio_locales": [
         "it-IT"
       ],
@@ -1841,37 +1841,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "tm20372",
-      "title": "Lupin III - Per un dollaro in più",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31053,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1902,25 +1871,25 @@
       "episode_count": 75
     },
     {
-      "ag_id": "tm5128",
-      "title": "Lupin III - Ruba il dizionario di Napoleone!",
-      "year": 1991,
+      "ag_id": "tm20372",
+      "title": "Lupin III - Per un dollaro in più",
+      "year": 2000,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 80865,
+        "tmdb_id": 31053,
         "tmdb_type": "movie"
       },
-      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
+      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
       "genres": [
-        "Animazione",
         "Azione",
-        "Commedia",
+        "Avventura",
+        "Animazione",
         "televisione film",
         "Crime"
       ],
-      "rating": 6.357,
+      "rating": 6.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -1928,8 +1897,8 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -2051,6 +2020,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm5128",
+      "title": "Lupin III - Ruba il dizionario di Napoleone!",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80865,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts394039",
@@ -3074,7 +3074,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.842,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -3919,35 +3919,6 @@
       "episode_count": 60
     },
     {
-      "ag_id": "ts34463",
-      "title": "Gunslinger Girl",
-      "year": 2003,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.044,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts88978",
       "title": "Mix: Meisei Story",
       "year": 2019,
@@ -4005,6 +3976,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts34463",
+      "title": "Gunslinger Girl",
+      "year": 2003,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel cuore dell'Italia, l'Agenzia per la Previdenza Sociale salva le ragazze dai letti d'ospedale e offre loro una seconda possibilità di vita utilizzando le ultime innovazioni cibernetiche. Con i loro corpi artificialmente potenziati, le ragazze vengono sottoposte a lavaggio del cervello e addestrate come assassine per svolgere il lavoro sporco del governo italiano. Nonostante tutte le modifiche, sono ancora solo bambini nel cuore, che lottano per il riconoscimento da parte di coloro che amano, pur sapendo che l'amore che provano è fabbricato. Questa tragica storia si svolge mentre queste ragazze sono alle prese con le loro emozioni in un'agenzia che le tratta come nient'altro che spietate assassine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hZrhtwcSydWh3rxQSB6we1KSql7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p7F1cnCQHp29F0OhH9bqgoybvbs.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.044,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "tm65451",
@@ -6457,34 +6457,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts435424",
-      "title": "Copriti, Makina!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 254174,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eita è un liceale introverso con la passione per i mecha che ha una cotta per la ragazza più popolare della scuola, Makina. Quando Eita se la ritrova davanti la porta di casa finisce per agitarsi, e la cosa sembra peggiorare quando Makina le rivela il suo segreto: lei in verità è un \"sexaroid\", un robot progettato per donare piacere, e sta chiedendo al ragazzo di effettuare alcune riparazioni al suo corpo tenendo la massima discrezione. Mentre Makina tenta subito di avvicinarsi fisicamente a lui, Eita prova con difficoltà a trattenersi mentre protegge il segreto della ragazza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1KsdGhjvY85ua79av0Pj0JPiNPp.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 4.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
-      "maturity_rating": "18+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts15516",
       "title": "Il prode Raideen",
       "year": 1975,
@@ -6567,6 +6539,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
       "maturity_rating": "T",
       "episode_count": 44
+    },
+    {
+      "ag_id": "ts435424",
+      "title": "Copriti, Makina!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 254174,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eita è un liceale introverso con la passione per i mecha che ha una cotta per la ragazza più popolare della scuola, Makina. Quando Eita se la ritrova davanti la porta di casa finisce per agitarsi, e la cosa sembra peggiorare quando Makina le rivela il suo segreto: lei in verità è un \"sexaroid\", un robot progettato per donare piacere, e sta chiedendo al ragazzo di effettuare alcune riparazioni al suo corpo tenendo la massima discrezione. Mentre Makina tenta subito di avvicinarsi fisicamente a lui, Eita prova con difficoltà a trattenersi mentre protegge il segreto della ragazza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1KsdGhjvY85ua79av0Pj0JPiNPp.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 4.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts367163",
@@ -6662,29 +6662,6 @@
       "episode_count": 62
     },
     {
-      "ag_id": "tm134235",
-      "title": "One Piece - Avventura sulle isole volanti",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "tm27495",
       "title": "One Piece - Per tutto l'oro del mondo",
       "year": 2000,
@@ -6773,6 +6750,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "tm134235",
+      "title": "One Piece - Avventura sulle isole volanti",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 41498,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts302819",
       "title": "La mia maestra non mostra la coda",
       "year": 2022,
@@ -6819,7 +6826,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.2,
+      "rating": 7.173,
       "audio_locales": [
         "it-IT"
       ],
