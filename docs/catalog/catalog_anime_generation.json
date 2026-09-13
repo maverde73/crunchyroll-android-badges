@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T11:07:31Z",
+  "generated_at": "2026-09-13T15:38:45Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -136,7 +136,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.361,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -167,7 +167,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.516,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -421,6 +421,36 @@
       "episode_count": 40
     },
     {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.047,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -469,36 +499,6 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.047,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -525,36 +525,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts314452",
-      "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 136840,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6GQR7tE6R8RZfiLt3AMZOdco3ad.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts37899",
@@ -615,6 +585,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
       "maturity_rating": "14+",
       "episode_count": 11
+    },
+    {
+      "ag_id": "ts314452",
+      "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 136840,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tXl07fRNFKBY4FUWB3WEWIbMWAv.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6GQR7tE6R8RZfiLt3AMZOdco3ad.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts354570",
@@ -970,35 +970,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "tm69778",
@@ -1902,36 +1873,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -2049,6 +1990,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -2707,6 +2678,64 @@
       "episode_count": 25
     },
     {
+      "ag_id": "tm112217",
+      "title": "Ken il guerriero - Il film",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19877,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rt7QGQ5bkf7fU7E0iHIJmoJbAen.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+      ],
+      "rating": 6.765,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -2735,35 +2764,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
-    },
-    {
-      "ag_id": "tm112217",
-      "title": "Ken il guerriero - Il film",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19877,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rt7QGQ5bkf7fU7E0iHIJmoJbAen.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-      ],
-      "rating": 6.765,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts444582",
@@ -3249,35 +3249,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts52727",
-      "title": "Mazinkaiser",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
-      "maturity_rating": "16+",
-      "episode_count": 8
-    },
-    {
       "ag_id": "tm193065",
       "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
       "year": 1997,
@@ -3308,6 +3279,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts52727",
+      "title": "Mazinkaiser",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Prima degli eventi dell'anime, le tre fazioni: l'Esercito Garan, l'Esercito Kiba, e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island, che occupano. L'isola è una prigione, isolata dal resto del mondo. Per garantirne la totale quarantena, un campo gravitazionale è stato formato all'interno dell'isola e solo le macchine create dal WSO (governo mondiale) in tutto il mondo sono in grado di entrare o uscire dall'isola. L'isola contiene anche grande quantità di risorse, consentendo alle tre fazioni di creare infiniti eserciti di robot per i loro rispettivi eserciti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3byNcxPTE1fvi53tU54RY1HtKyI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wTbeBbqbRvUKLs2cYwbqXiTOpHW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
+      "maturity_rating": "16+",
+      "episode_count": 8
     },
     {
       "ag_id": "ts403298",
@@ -3366,6 +3366,35 @@
       "episode_count": 45
     },
     {
+      "ag_id": "ts463053",
+      "title": "Your Forma",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279731,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -3400,35 +3429,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts463053",
-      "title": "Your Forma",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279731,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo i fatti dell'incubo di San Pietroburgo, Echika e Harold si trovano invischiati in dei casi di aggressione da parte di amicus del modello RF a Londa, per i quali Harold viene accusato ingiustamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/iYXJ0FklzUDt58WnURoGU3hTYiq.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts42498",
@@ -3801,36 +3801,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts72501",
-      "title": "È un po' magia per Terry e Maggie",
-      "year": 1993,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34119,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Terry e Maggie sono due sorelle gemelle che frequentano il primo anno di liceo di classi diverse ed hanno una personalità opposta. Maggie è romantica e tranquilla, mentre la sorella Terry, al contrario, si comporta come un vero maschiaccio. Vivono con la mamma (il papà è quasi sempre via per lavoro) e hanno dei poteri paranormali: incrociando i mignoli, possono teletrasportarsi a piacimento; inoltre, possono comunicare l'una con l'altra telepaticamente. Fin da piccole sono consapevoli di avere questi poteri, ma non danno loro un gran peso; li usano quando ne hanno bisogno (ad esempio per arrivare puntuali quando sono in ritardo) e non sanno nemmeno loro stesse l'entità del loro potere. Spesso sono influenzate da eventi atmosferici e dall'ambiente che le circonda, così capita loro di trovarsi in situazioni piuttosto fuori dall'ordinario. Le due gemelle sono innamorate dei rispettivi compagni di scuola: Nelson e Karver, che sono gli unici a conoscenza del loro segreto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bqSk9PtoZGf2HazzwLfzJ3cqWz1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bwbyY64C2bOhch7ercDpdmmFDTM.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy",
-        "Famiglia"
-      ],
-      "rating": 8.167,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
-      "maturity_rating": "T",
-      "episode_count": 51
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3859,6 +3829,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "ts72501",
+      "title": "È un po' magia per Terry e Maggie",
+      "year": 1993,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34119,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Terry e Maggie sono due sorelle gemelle che frequentano il primo anno di liceo di classi diverse ed hanno una personalità opposta. Maggie è romantica e tranquilla, mentre la sorella Terry, al contrario, si comporta come un vero maschiaccio. Vivono con la mamma (il papà è quasi sempre via per lavoro) e hanno dei poteri paranormali: incrociando i mignoli, possono teletrasportarsi a piacimento; inoltre, possono comunicare l'una con l'altra telepaticamente. Fin da piccole sono consapevoli di avere questi poteri, ma non danno loro un gran peso; li usano quando ne hanno bisogno (ad esempio per arrivare puntuali quando sono in ritardo) e non sanno nemmeno loro stesse l'entità del loro potere. Spesso sono influenzate da eventi atmosferici e dall'ambiente che le circonda, così capita loro di trovarsi in situazioni piuttosto fuori dall'ordinario. Le due gemelle sono innamorate dei rispettivi compagni di scuola: Nelson e Karver, che sono gli unici a conoscenza del loro segreto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bqSk9PtoZGf2HazzwLfzJ3cqWz1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bwbyY64C2bOhch7ercDpdmmFDTM.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy",
+        "Famiglia"
+      ],
+      "rating": 8.167,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
+      "maturity_rating": "T",
+      "episode_count": 51
     },
     {
       "ag_id": "ts341771",
