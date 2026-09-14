@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T03:28:42Z",
+  "generated_at": "2026-09-14T11:51:43Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -48,7 +48,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.306,
       "audio_locales": [
         "it-IT"
       ],
@@ -78,7 +78,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.515,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -228,7 +228,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.614,
+      "rating": 8.613,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -240,35 +240,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts345",
@@ -287,7 +258,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.505,
+      "rating": 8.504,
       "audio_locales": [
         "it-IT"
       ],
@@ -331,6 +302,35 @@
       "episode_count": 47
     },
     {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -360,6 +360,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts407747",
@@ -469,34 +497,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts410723",
@@ -632,7 +632,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.751,
+      "rating": 7.752,
       "audio_locales": [
         "it-IT"
       ],
@@ -717,7 +717,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.293,
+      "rating": 8.292,
       "audio_locales": [
         "ja-JP"
       ],
@@ -970,6 +970,34 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.643,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -998,34 +1026,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.643,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "tm69778",
@@ -1197,35 +1197,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.981,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm2859972",
       "title": "One Piece Heroines",
       "year": 2026,
@@ -1253,35 +1224,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.98dcae4c-2c08-42f2-aa7c-5d358727fedc",
       "maturity_rating": "13+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts41160",
@@ -1312,6 +1254,64 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
+    },
+    {
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 297438,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.981,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
+      "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts353577",
@@ -1658,37 +1658,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm113059",
-      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 109572,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm136990",
       "title": "Lupin III: Bye Bye Liberty - Scoppia la crisi!",
       "year": 1989,
@@ -1717,6 +1686,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
       "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm113059",
+      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 109572,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -1933,37 +1933,6 @@
       "episode_count": 104
     },
     {
-      "ag_id": "tm5128",
-      "title": "Lupin III - Ruba il dizionario di Napoleone!",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80865,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.357,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm128010",
       "title": "Lupin III - Il tesoro degli zar",
       "year": 1992,
@@ -2024,6 +1993,37 @@
       "episode_count": 24
     },
     {
+      "ag_id": "tm5128",
+      "title": "Lupin III - Ruba il dizionario di Napoleone!",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80865,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ndk84cNTg4ry9Yg68FnUCtVBuPN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/AqaxgvUoVtHcpbFaB7JA8CTD8BU.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.357,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts394039",
       "title": "Il giovane sognatore è un realista",
       "year": 2023,
@@ -2079,36 +2079,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts5328",
-      "title": "Peter Pan",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 14578,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
-      "genres": [
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
-      "maturity_rating": "T",
-      "episode_count": 41
     },
     {
       "ag_id": "ts52317",
@@ -2516,6 +2486,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts76736",
+      "title": "I cinque samurai: Message",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75080,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
+      "maturity_rating": "T",
+      "episode_count": 5
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -2561,36 +2561,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts76736",
-      "title": "I cinque samurai: Message",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75080,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
-      "episode_count": 5
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2619,34 +2589,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts47224",
@@ -2678,6 +2620,34 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "tm112217",
       "title": "Ken il guerriero - Il film",
       "year": 1986,
@@ -2705,35 +2675,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts25996",
@@ -2764,6 +2705,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.091,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts444582",
@@ -2911,6 +2881,37 @@
       "episode_count": 39
     },
     {
+      "ag_id": "tm1434295",
+      "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1230393,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nel suo vagare, un samurai trova una giovane cameriera la cui città è stata distrutta da un drago. Anche se il samurai non vuole avere guai, li trova comunque.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zf32YfXlDeSiiOfamVES8AP5oj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "rating": 7.214,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts47136",
       "title": "Il tulipano nero",
       "year": 1975,
@@ -2938,37 +2939,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
       "maturity_rating": "16+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "tm1434295",
-      "title": "MONSTERS - Centotré emozioni... Inferno del drago volante",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1230393,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nel suo vagare, un samurai trova una giovane cameriera la cui città è stata distrutta da un drago. Anche se il samurai non vuole avere guai, li trova comunque.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zf32YfXlDeSiiOfamVES8AP5oj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantasy",
-        "Avventura"
-      ],
-      "rating": 7.194,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ee425df9-c066-4f1d-921d-b0706829ad49",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts55756",
@@ -3163,7 +3133,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.451,
+      "rating": 7.454,
       "audio_locales": [
         "de",
         "en-US",
@@ -3382,7 +3352,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.2,
+      "rating": 6.176,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4227,7 +4197,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.463,
+      "rating": 7.462,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4391,6 +4361,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts5328",
+      "title": "Peter Pan",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 14578,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
+      "genres": [
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
+      "maturity_rating": "T",
+      "episode_count": 41
     },
     {
       "ag_id": "ts11218",
@@ -4777,7 +4777,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.369,
+      "rating": 7.368,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5797,7 +5797,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 7.0,
+      "rating": 7.011,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6616,7 +6616,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.2,
+      "rating": 7.177,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6690,38 +6690,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts539",
       "title": "Black Jack: Dieci indagini nel buio",
       "year": 1993,
@@ -6737,7 +6705,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.455,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -6766,7 +6734,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.444,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6835,6 +6803,38 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.052,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -6945,7 +6945,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.5,
+      "rating": 7.497,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7015,34 +7015,6 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts73018",
-      "title": "Ciao, Sabrina",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
-      "maturity_rating": "T",
-      "episode_count": 51
-    },
-    {
       "ag_id": "tm27612",
       "title": "One Piece - I misteri dell'isola meccanica",
       "year": 2006,
@@ -7062,7 +7034,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.908,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7104,6 +7076,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1542319-5ff5-493d-bf0a-fd3eec853234",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts73018",
+      "title": "Ciao, Sabrina",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
+      "maturity_rating": "T",
+      "episode_count": 51
     },
     {
       "ag_id": "tm49446",
@@ -7239,7 +7239,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.71,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7527,7 +7527,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.835,
+      "rating": 6.847,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7774,7 +7774,7 @@
         "Avventura",
         "televisione film"
       ],
-      "rating": 6.565,
+      "rating": 6.542,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8190,7 +8190,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 6.81,
+      "rating": 6.955,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8311,7 +8311,7 @@
         "Avventura",
         "televisione film"
       ],
-      "rating": 5.841,
+      "rating": 6.022,
       "audio_locales": [
         "it-IT",
         "ja-JP"
