@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T16:16:30Z",
+  "generated_at": "2026-09-17T20:57:37Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -348,7 +348,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.179,
+      "rating": 8.182,
       "audio_locales": [
         "en-US",
         "es",
@@ -876,7 +876,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.549,
+      "rating": 7.534,
       "audio_locales": [
         "it-IT"
       ],
@@ -1449,7 +1449,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -2414,7 +2414,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.396,
+      "rating": 7.397,
       "audio_locales": [
         "it-IT"
       ],
@@ -3890,35 +3890,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts90818",
-      "title": "Yatterman",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 89323,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 9.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
-      "maturity_rating": "T",
-      "episode_count": 60
-    },
-    {
       "ag_id": "ts88978",
       "title": "Mix: Meisei Story",
       "year": 2019,
@@ -4037,6 +4008,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts90818",
+      "title": "Yatterman",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 89323,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il \"Trio Drombo\" segue le istruzioni del Dottor Dokrobei, personaggio che comunica con loro impossessandosi di diversi oggetti, i quali esplodono al termine della spiegazione. Il loro compito è ritrovare i frammenti e ottenere il gran filone d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jRRUIrovhMXTEgZUeKUNo5axAt2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hY6p99ZpYtFY20RWKeXxvmQFdhp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 9.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.83ddc732-d801-4e11-a4b3-5e7418c43039",
+      "maturity_rating": "T",
+      "episode_count": 60
     },
     {
       "ag_id": "ts488482",
@@ -5078,35 +5078,6 @@
       "episode_count": 22
     },
     {
-      "ag_id": "ts359791",
-      "title": "HIGHSPEED Etoile",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 206033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lpBudcaP9QSt2OGykcLCCRdulnO.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm21535",
       "title": "I Cavalieri dello zodiaco - La dea della discordia",
       "year": 1987,
@@ -5134,6 +5105,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts359791",
+      "title": "HIGHSPEED Etoile",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 206033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lpBudcaP9QSt2OGykcLCCRdulnO.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.292edbc2-69f5-4644-b96e-4aebb4d3762d",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm159084",
@@ -6886,7 +6886,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.052,
+      "rating": 7.049,
       "audio_locales": [
         "it-IT",
         "ja-JP"
