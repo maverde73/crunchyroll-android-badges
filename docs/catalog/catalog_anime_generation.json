@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T03:31:27Z",
+  "generated_at": "2026-09-17T10:59:52Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -242,6 +242,37 @@
       "episode_count": 85
     },
     {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.383,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
+    },
+    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -269,54 +300,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts27309",
@@ -348,35 +331,52 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 62110,
+        "tmdb_id": 236994,
         "tmdb_type": "tv"
       },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
         "Action & Adventure",
+        "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.383,
+      "rating": 8.179,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
-      "episode_count": 47
+      "episode_count": 20
     },
     {
       "ag_id": "ts22290",
@@ -730,35 +730,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.566,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -789,6 +760,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.566,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts342987",
@@ -1750,6 +1750,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.264,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm451542",
       "title": "Lupin III - Addio, amico mio",
       "year": 2019,
@@ -1780,35 +1809,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.264,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts394764",
@@ -2339,6 +2339,28 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -2374,28 +2396,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
       "maturity_rating": "7+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
     },
     {
       "ag_id": "tm19944",
@@ -2621,34 +2621,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2676,6 +2648,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "tm112217",
@@ -2737,35 +2737,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.091,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts444582",
       "title": "Da burocrate a villainess: papà si è reincarnato!",
       "year": 2025,
@@ -2793,6 +2764,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.091,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts399964",
@@ -2971,35 +2971,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts55756",
-      "title": "DanMachi - Sword Oratoria",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 70590,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.807,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts68914",
       "title": "Hurricane Polymar: Holy Blood",
       "year": 1996,
@@ -3029,33 +3000,33 @@
       "episode_count": 2
     },
     {
-      "ag_id": "ts22705",
-      "title": "Il fantastico mondo di Paul",
-      "year": 1976,
+      "ag_id": "ts55756",
+      "title": "DanMachi - Sword Oratoria",
+      "year": 2017,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 42955,
+        "tmdb_id": 70590,
         "tmdb_type": "tv"
       },
-      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
+      "description_it": "Dopo essere scesi su questo mondo, gli dei hanno creato delle gilde dove gli avventurieri possono mettere alla prova il loro coraggio. Queste gilde, conosciute come \"familia\", danno agli avventurieri la possibilità di esplorare, raccogliere, cacciare o semplicemente divertirsi.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria inizia ad Orario, la vivace città delle avventure. La principessa della spada, Ais Wallenstein, e il mago novizio, Lefiya Viridis, sono membri della Loki Familia, esperti nella caccia ai mostri. Con il resto del loro gruppo, si recano alla torre di Babele nella speranza di esplorare il dungeon sottostante. Sede di potenti mostri, il dungeon soddisferà il desiderio di Ais di padroneggiare le sue abilità con la spada, mentre porterà Lefiya più vicina al suo sogno di succedere a Riveria Ljos Alf, vice-capitano della Loki Familia, come il mago più potente del paese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
       "genres": [
         "Animazione",
-        "Kids",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure"
       ],
-      "rating": 4.3,
+      "rating": 6.807,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
-      "episode_count": 50
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f115799-e1f3-4302-9af4-f3ed0c1e4741",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts13335",
@@ -3085,6 +3056,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts22705",
+      "title": "Il fantastico mondo di Paul",
+      "year": 1976,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42955,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts40524",
@@ -3173,6 +3173,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts246911",
+      "title": "Cyborg 009",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 131647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 10.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
+      "maturity_rating": "T",
+      "episode_count": 50
+    },
+    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -3218,35 +3247,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5751e475-58fc-4a87-acb6-bd9835bd9a7c",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts246911",
-      "title": "Cyborg 009",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 131647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nove ragazzi vengono rapiti dagli agenti di una organizzazione criminale chiamata \"Fantasma Nero\" (Black Ghost) e vengono tramutati in cyborg, ciascuno con i propri super poteri. I nove cyborg riescono a sfuggire al controllo di Black Ghost e, aiutati dal dottor Gilmore, iniziano la loro guerra contro l'organizzazione, il cui intento è di far scoppiare nuovi conflitti globali così da poter vendere le loro armi tecnologicamente avanzate al miglior offerente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jT3cNmDoBvoJGg3iEOGPK7dKUX5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eyRPT3Rk4XBSXmZk1QIFxbWoIOQ.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 10.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6792b0ee-92bc-4b1e-86ea-e87bb6494b42",
-      "maturity_rating": "T",
-      "episode_count": 50
     },
     {
       "ag_id": "tm193065",
@@ -3658,63 +3658,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
-    },
-    {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts418967",
       "title": "Haigakura",
       "year": 2024,
@@ -3772,6 +3715,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
+    },
+    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3800,6 +3771,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts331408",
