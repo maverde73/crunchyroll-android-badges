@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T15:29:12Z",
+  "generated_at": "2026-09-20T20:21:16Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -50,7 +50,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.514,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -109,7 +109,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -199,7 +199,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.615,
+      "rating": 8.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -240,54 +240,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts21984",
@@ -348,6 +300,54 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
     },
     {
       "ag_id": "ts27309",
@@ -603,7 +603,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.738,
+      "rating": 7.736,
       "audio_locales": [
         "it-IT"
       ],
@@ -838,7 +838,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.32,
+      "rating": 7.317,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1507,7 +1507,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -2442,7 +2442,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.401,
+      "rating": 7.397,
       "audio_locales": [
         "it-IT"
       ],
@@ -2722,7 +2722,7 @@
         "Azione",
         "Fantascienza"
       ],
-      "rating": 6.8,
+      "rating": 6.762,
       "audio_locales": [
         "it-IT"
       ],
@@ -4592,28 +4592,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts364419",
-      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -4700,6 +4678,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd58e26c-77d6-464e-80fe-47078102ec71",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts364419",
+      "title": "All'incontro per rimorchiare c'erano solo ragazzi (Goukon)",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4e1127ee-8f7c-4d36-8ae3-0d96f360ffce",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts56436",
@@ -5167,35 +5167,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts447887",
-      "title": "Momentary Lily",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258228,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4hrpiVt6m5ZGVzVjqESfoDHwFoJ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts21877",
       "title": "Love Making - I principi dell'amore - la serie",
       "year": 2015,
@@ -5281,6 +5252,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6baf3f9-d257-bb8c-f9e5-3b253ab0c393",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts447887",
+      "title": "Momentary Lily",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258228,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4hrpiVt6m5ZGVzVjqESfoDHwFoJ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts417105",
@@ -5841,6 +5841,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts39882",
+      "title": "Daltanious, il robot del futuro",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 16820,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
+      "maturity_rating": "T",
+      "episode_count": 47
+    },
+    {
       "ag_id": "tm80059",
       "title": "Naruto Shippuden: Il film - L'esercito fantasma",
       "year": 2007,
@@ -5898,34 +5926,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53335993-a51a-44ff-a9fd-5891f275393b",
       "maturity_rating": "T",
       "episode_count": 34
-    },
-    {
-      "ag_id": "ts39882",
-      "title": "Daltanious, il robot del futuro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16820,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
-      "maturity_rating": "T",
-      "episode_count": 47
     },
     {
       "ag_id": "ts70446",
@@ -7162,6 +7162,34 @@
       "episode_count": 20
     },
     {
+      "ag_id": "ts4343",
+      "title": "Don Dracula",
+      "year": 1982,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 16576,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Conte Dracula dopo aver vissuto per anni in Transilvania è venuto ad abitare a Tokyo con la figlia Chocolat e si è inserito nella vita giapponese. La figlia va al liceo, ma è costretta a frequentare le scuole serali perché essendo un vampiro non sopporta la luce del sole. Ed è proprio per questo particolare che il terribile dottor Helsing, perennemente a caccia di vampiri, che si è fatto assumere nella scuola come insegnante, riesce ad individuarla e a scoprire quindi anche il padre.\n\nIntanto il Conte Dracula, piuttosto imbranato, ha l'estrema necessità di bere il sangue di giovani vergini, ma ogni volta che esce nelle vie della città per questo scopo, rimane coinvolto in numerose strane avventure causate dal fatto che gli abitanti non credono ai vampiri, e non riesce mai nel suo intento.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3yFG7uMomcVQrqvVogdXYP9VdOE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bIAxTKwaZY90dinvpilYuecIyqy.jpg",
+      "genres": [
+        "Commedia",
+        "Animazione"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
+      "maturity_rating": "16+",
+      "episode_count": 8
+    },
+    {
       "ag_id": "tm27612",
       "title": "One Piece - I misteri dell'isola meccanica",
       "year": 2006,
@@ -7454,34 +7482,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts4343",
-      "title": "Don Dracula",
-      "year": 1982,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16576,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Conte Dracula dopo aver vissuto per anni in Transilvania è venuto ad abitare a Tokyo con la figlia Chocolat e si è inserito nella vita giapponese. La figlia va al liceo, ma è costretta a frequentare le scuole serali perché essendo un vampiro non sopporta la luce del sole. Ed è proprio per questo particolare che il terribile dottor Helsing, perennemente a caccia di vampiri, che si è fatto assumere nella scuola come insegnante, riesce ad individuarla e a scoprire quindi anche il padre.\n\nIntanto il Conte Dracula, piuttosto imbranato, ha l'estrema necessità di bere il sangue di giovani vergini, ma ogni volta che esce nelle vie della città per questo scopo, rimane coinvolto in numerose strane avventure causate dal fatto che gli abitanti non credono ai vampiri, e non riesce mai nel suo intento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3yFG7uMomcVQrqvVogdXYP9VdOE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bIAxTKwaZY90dinvpilYuecIyqy.jpg",
-      "genres": [
-        "Commedia",
-        "Animazione"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.095aaad8-4b79-41cd-9346-ebbc68cf2dac",
-      "maturity_rating": "16+",
-      "episode_count": 8
     },
     {
       "ag_id": "ts343530",
