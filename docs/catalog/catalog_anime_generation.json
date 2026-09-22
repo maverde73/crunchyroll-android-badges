@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T16:18:50Z",
+  "generated_at": "2026-09-22T20:54:24Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -50,7 +50,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.516,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -229,7 +229,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.962,
+      "rating": 7.948,
       "audio_locales": [
         "it-IT"
       ],
@@ -2664,7 +2664,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.475,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6675,7 +6675,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.187,
+      "rating": 7.198,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6774,6 +6774,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
       "maturity_rating": "T",
       "episode_count": 20
+    },
+    {
+      "ag_id": "tm159116",
+      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 79082,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.727,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm49444",
@@ -7398,35 +7427,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm159116",
-      "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 79082,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Schneider, ormai vecchio e stanco, decide di sciogliere la sua piccola ciurma composta da lui stesso e Buzz, il suo anziano cane. L'animale, però, gli fa capire che non è d'accordo. Schneider, quindi, decide di fare un patto con il suo vecchio compagno: se Buzz riuscirà a rubare il cappello di paglia del pirata Monkey D. Rufy la loro ciurma non verrà sciolta. Sorprendentemente Buzz, che grazie al potere del frutto del diavolo può trasformarsi in un'aquila, riuscirà nell'impresa e di conseguenza la ciurma di Cappello di Paglia darà vita ad un lungo inseguimento.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cqLvdz7wzVvuIl5FveikOCyEpio.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.727,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts66982",
       "title": "Gotriniton",
       "year": 1981,
@@ -7709,7 +7709,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 6.885,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
