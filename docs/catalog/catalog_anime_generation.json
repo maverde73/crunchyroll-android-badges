@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T21:09:57Z",
+  "generated_at": "2026-09-25T03:32:47Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -50,7 +50,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.518,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -152,6 +152,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -183,23 +213,24 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 60863,
+        "tmdb_id": 62110,
         "tmdb_type": "tv"
       },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
       "genres": [
         "Animazione",
         "Commedia",
-        "Dramma"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.6,
+      "rating": 8.384,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -208,9 +239,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
-      "episode_count": 85
+      "episode_count": 47
     },
     {
       "ag_id": "ts407747",
@@ -288,37 +319,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli studenti della classe 3-E hanno una missione: uccidere il loro insegnante prima del diploma. Ha già distrutto la luna e ha promesso di distruggere la Terra se non verrà ucciso entro un anno. Ma come può questa classe di disadattati uccidere un mostro tentacolato, capace di raggiungere la velocità di Mach 20, che potrebbe essere il miglior insegnante che abbiano mai avuto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.384,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts345",
@@ -427,7 +427,7 @@
         "Dramma",
         "Crime"
       ],
-      "rating": 7.125,
+      "rating": 7.194,
       "audio_locales": [
         "it-IT"
       ],
@@ -438,6 +438,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts342987",
+      "title": "Ragna Crimson",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195459,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts410723",
@@ -527,34 +557,33 @@
       "episode_count": 40
     },
     {
-      "ag_id": "ts342987",
-      "title": "Ragna Crimson",
-      "year": 2023,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 195459,
+        "tmdb_id": 279182,
         "tmdb_type": "tv"
       },
-      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 8.089,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "zh"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 12
     },
     {
       "ag_id": "tm69778",
@@ -585,35 +614,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.089,
-      "audio_locales": [
-        "zh"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts354570",
@@ -691,7 +691,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.734,
+      "rating": 7.732,
       "audio_locales": [
         "it-IT"
       ],
@@ -788,6 +788,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts1781",
+      "title": "City Hunter",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36046,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Mistero"
+      ],
+      "rating": 7.816,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
+      "maturity_rating": "14+",
+      "episode_count": 140
     },
     {
       "ag_id": "ts12311",
@@ -970,35 +1000,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.467,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
-    },
-    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -1029,24 +1030,23 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts1781",
-      "title": "City Hunter",
-      "year": 1987,
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 36046,
+        "tmdb_id": 30669,
         "tmdb_type": "tv"
       },
-      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
       "genres": [
-        "Action & Adventure",
         "Animazione",
-        "Commedia",
-        "Mistero"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.816,
+      "rating": 8.467,
       "audio_locales": [
         "it-IT"
       ],
@@ -1054,9 +1054,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
-      "episode_count": 140
+      "episode_count": 112
     },
     {
       "ag_id": "ts45104",
@@ -1834,37 +1834,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "tm113059",
-      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 109572,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1894,6 +1863,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3405b7b-d35a-43bd-a17d-6e5bab369ae9",
       "maturity_rating": "14+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "tm113059",
+      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 109572,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts22249",
@@ -3848,7 +3848,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.2,
+      "rating": 7.217,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4125,34 +4125,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts15250",
-      "title": "Caro fratello",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36588,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.154,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
-      "maturity_rating": "T",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts76735",
       "title": "Gordian",
       "year": 1979,
@@ -4179,6 +4151,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
       "maturity_rating": "T",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts15250",
+      "title": "Caro fratello",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36588,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nanako Misonoo si è iscritta al primo anno delle superiori al Seiran Gakuen, una prestigiosa scuola femminile. Come ogni ragazza della sua età si troverà per la prima volta a dover affrontare l'amore, la passione e la paura per ciò che è nuovo. Invece di tenere un diario, preferisce scrivere delle lettere ad un ragazzo più grande con il quale ha un rapporto puramente fraterno (\"fratello\" si dice oniisama in giapponese), confidandogli i suoi sentimenti e le sue paure. Il titolo dell'opera si riferisce all'intestazione di queste lettere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zyQLRk70jkkWN08lQlzy55fCsww.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/atrV2b9k7kOKJKH2AeZDznEL3pP.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.154,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.69ecf2bd-978c-4672-8b93-6999f26d3128",
+      "maturity_rating": "T",
+      "episode_count": 39
     },
     {
       "ag_id": "ts365130",
@@ -6863,38 +6863,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm134235",
       "title": "One Piece - Avventura sulle isole volanti",
       "year": 2010,
@@ -6952,6 +6920,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53a278de-9ed5-4ed1-85ed-ac90a8f02a42",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts367118",
