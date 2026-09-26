@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-26T15:49:17Z",
+  "generated_at": "2026-09-26T20:39:45Z",
   "titles": [
     {
       "ag_id": "ts10145",
@@ -169,7 +169,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -487,7 +487,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.078,
+      "rating": 8.084,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -865,7 +865,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.0,
+      "rating": 7.069,
       "audio_locales": [
         "ja-JP"
       ],
@@ -955,7 +955,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.534,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1059,6 +1059,36 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -1133,7 +1163,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.6,
+      "rating": 7.565,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1234,6 +1264,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts74597",
+      "title": "Ken il guerriero: Le origini del mito",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68203,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
+      "maturity_rating": "18+",
+      "episode_count": 46
+    },
+    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1261,34 +1319,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
       "episode_count": 65
-    },
-    {
-      "ag_id": "ts74597",
-      "title": "Ken il guerriero: Le origini del mito",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68203,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
-      "maturity_rating": "18+",
-      "episode_count": 46
     },
     {
       "ag_id": "ts492780",
@@ -1336,7 +1366,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.676,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1702,7 +1732,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.064,
+      "rating": 8.081,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1800,36 +1830,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "tm247578",
@@ -2062,7 +2062,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.434,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -2094,7 +2094,7 @@
         "Commedia",
         "televisione film"
       ],
-      "rating": 6.154,
+      "rating": 6.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -4975,7 +4975,7 @@
         "Azione",
         "Thriller"
       ],
-      "rating": 6.881,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -5885,7 +5885,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.412,
+      "rating": 7.41,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6835,38 +6835,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm27495",
-      "title": "One Piece - Per tutto l'oro del mondo",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19576,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts539",
       "title": "Black Jack: Dieci indagini nel buio",
       "year": 1993,
@@ -6952,6 +6920,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53a278de-9ed5-4ed1-85ed-ac90a8f02a42",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "tm27495",
+      "title": "One Piece - Per tutto l'oro del mondo",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19576,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Rufy e suoi amici vengono derubati dalla Ciurma di El Dorago. Questo pirata, si mette sulle tracce del tesoro di Woonan e trova la mappa che lo conduce sull 'isola dove e sepolto il tesoro. Ha il potere Voice Voice in grado di scagliare potenti onde la quale divide la ciurma. Rufy e Zoro si ritrovano presso un ristorante galleggiante dove vengono sfamati mentre Usop e Nami finiscono insieme alla ciurma di El Dorago. Usopp, per non venire ucciso, finge di sapere dove si trovi il tesoro di Woonan e Nami lo segue assecondandolo mentre Zoro e Rufy giungono sull'isola insieme a Ganzo, l'uomo che ha dato loro lo spezzatino, e Tobio, suo nipote, che intende entrare a far parte della ciurma di Woonan. Dopo avere ingannato la ciurma di El Dorago, la ciurma di Rufy si reca con Tobio e Ganzo su un monte dove pensano che sia sepolto l'oro. Arrivati in cima, però, incontrano di nuovo El Dorago, però, vengono sconfitti senza troppa difficoltà da Rufy e Zoro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wyisZXeqZAtIsotWIEHVjQUkI9s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6OnJoCqeRzoOdzXogm64OD3QGzn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c76c8e30-d699-4838-95de-7b82dce8e705",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts367118",
@@ -7086,7 +7086,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.433,
+      "rating": 7.431,
       "audio_locales": [
         "it-IT"
       ],
@@ -7189,6 +7189,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
       "maturity_rating": "18+",
       "episode_count": 6
+    },
+    {
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts4343",
@@ -7338,6 +7368,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm117778",
+      "title": "One Piece - Il tesoro del re",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44725,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La ciurma di Cappello di Paglia giunge presso l'Isola della Corona. Il nome è dovuto alle eruzioni di un vulcano sottomarino che formano attorno all'isola delle colonne di fumo che la cingono come una corona.  Il luogo è abitato da numerosi animali strani e da un ragazzino, Mobambi, sempre accompagnato dal pennuto Corbi. Sull'isola si trovano anche il Conte Butler ed i suoi sottoposti, il Generale Hotdog ed il Presidente Heaby: questi vogliono trovare il tesoro del re e sono convinti che si nasconda nelle corna di qualche animale. Per questo motivo il Conte Butler addomestica con il suo violino i Mangiacorna (animali locali) nell'intento di impossessarsi del grande potere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pVQsuyU3CmZi6I970OBtMY68Kzn.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.703,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts299997",
       "title": "Un altro Ippon!",
       "year": 2023,
@@ -7365,36 +7425,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c075971f-4855-44d4-b702-e75ddaa500d3",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts66982",
@@ -7627,36 +7657,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm117778",
-      "title": "One Piece - Il tesoro del re",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44725,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La ciurma di Cappello di Paglia giunge presso l'Isola della Corona. Il nome è dovuto alle eruzioni di un vulcano sottomarino che formano attorno all'isola delle colonne di fumo che la cingono come una corona.  Il luogo è abitato da numerosi animali strani e da un ragazzino, Mobambi, sempre accompagnato dal pennuto Corbi. Sull'isola si trovano anche il Conte Butler ed i suoi sottoposti, il Generale Hotdog ed il Presidente Heaby: questi vogliono trovare il tesoro del re e sono convinti che si nasconda nelle corna di qualche animale. Per questo motivo il Conte Butler addomestica con il suo violino i Mangiacorna (animali locali) nell'intento di impossessarsi del grande potere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pVQsuyU3CmZi6I970OBtMY68Kzn.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/A9Yy4ZRJgTXlKa1KOV92YLTCppn.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.703,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
       "maturity_rating": "T",
       "episode_count": 1
     },
