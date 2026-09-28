@@ -1,7 +1,38 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T20:54:37Z",
+  "generated_at": "2026-09-28T03:46:20Z",
   "titles": [
+    {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
+      "maturity_rating": "12+",
+      "episode_count": 24
+    },
     {
       "ag_id": "ts10145",
       "title": "Detective Conan",
@@ -20,7 +51,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.013,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -50,7 +81,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.492,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -61,37 +92,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
-    },
-    {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240411,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Durante una sfida per dimostrare l'esistenza di fantasmi e alieni, due liceali affrontano orribili minacce paranormali, ottengono superpoteri e forse... s'innamorano!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.519,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d7875066-c23f-421c-8a56-07c705c336b3",
-      "maturity_rating": "12+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts20305",
@@ -168,7 +168,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.61,
+      "rating": 8.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -213,6 +213,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -230,7 +259,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.192,
+      "rating": 8.2,
       "audio_locales": [
         "en-US",
         "es",
@@ -261,35 +290,6 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.985,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -307,7 +307,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.383,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -366,7 +366,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.867,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -427,7 +427,7 @@
         "Dramma",
         "Crime"
       ],
-      "rating": 7.194,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -487,7 +487,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.084,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -516,7 +516,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.928,
+      "rating": 7.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -527,6 +527,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts87564",
@@ -545,7 +573,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.405,
+      "rating": 8.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -556,34 +584,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.321,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "tm69778",
@@ -632,7 +632,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.089,
+      "rating": 8.1,
       "audio_locales": [
         "zh"
       ],
@@ -689,7 +689,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.445,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -720,7 +720,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.732,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -760,6 +760,35 @@
       "episode_count": 109
     },
     {
+      "ag_id": "ts16839",
+      "title": "Kyashan Sins",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31730,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
+      "maturity_rating": "18+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts314452",
       "title": "Lo spadaccino demoniaco all'Accademia delle Armi Sacre",
       "year": 2023,
@@ -777,7 +806,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.069,
+      "rating": 7.1,
       "audio_locales": [
         "ja-JP"
       ],
@@ -788,35 +817,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2da0e058-c940-41e5-ada2-e244ad017ce9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts16839",
-      "title": "Kyashan Sins",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31730,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Luna. Una ragazza chiamata dalla gente come “il Sole che porta il nome della Luna” portò speranza nei cuori degli uomini, ridotti in schiavitù dai robot ormai padroni incontrastati del mondo. Briking aveva il pieno controllo del mondo e, venuto a conoscenza di Luna e del pericolo che essa rappresentava, ordinò ai tre robot, Casshern, Deo e Leda di ucciderla. Dopo circa 100 anni, metà del mondo è ormai ridotta ad un deserto di ruggine. In questo caos di morte e desolazione riappare Casshern, scomparso cento anni fa dopo l'uccisione di Luna. Casshern non ricorda nulla, la sua memoria è cancellata e impossibile da recuperare; egli non sa più il suo nome umano, né quale sia il suo scopo. In uno scenario apocalittico di un mondo ormai morto, improvvisamente Casshern viene attaccato da qualcuno che grida il suo nome.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nbJNItndfJF05MbB7DG5qSznMlC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jXVdRXPu8ud93R5vPhz5p8LMdog.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.091,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
-      "maturity_rating": "18+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts12311",
@@ -838,7 +838,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 6.938,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -849,35 +849,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.585,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts57405",
@@ -907,6 +878,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts35578",
@@ -948,6 +948,28 @@
       "episode_count": 74
     },
     {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts82387",
       "title": "Lupin The 3rd - La seconda serie",
       "year": 1977,
@@ -970,6 +992,35 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts26262",
+      "title": "Yattaman",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 53298,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo è un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode.\n\nIl loro compito, da quel momento, sarà trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potrà ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia così a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porterà nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si rivelerà sbagliata.\n\nMa i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/t5sWkDTsoiHG27mUawEcdXAajak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zRgOdwxViStwSaDtW50fg4jYjWC.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
+      "maturity_rating": "14+",
+      "episode_count": 108
+    },
+    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -987,7 +1038,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.956,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -998,6 +1049,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.17be45ce-57bf-4df8-8d93-555ed168b73e",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts28078",
@@ -1027,34 +1106,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
       "episode_count": 112
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts1781",
@@ -1102,7 +1153,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.625,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -1131,7 +1182,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.565,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1161,7 +1212,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.617,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -1189,7 +1240,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.023,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1203,16 +1254,23 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
+      "ag_id": "ts441134",
+      "title": "Tutto solo alla conquista di un altro mondo",
+      "year": 2024,
       "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
+      "external_ids": {
+        "tmdb_id": 259558,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1220,9 +1278,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm2859972",
@@ -1241,7 +1299,7 @@
         "Commedia",
         "Azione"
       ],
-      "rating": 6.462,
+      "rating": 6.5,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1282,35 +1340,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -1341,28 +1370,6 @@
       "episode_count": 218
     },
     {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -1391,6 +1398,57 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
+    },
+    {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts353577",
@@ -1491,7 +1549,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 6.242,
+      "rating": 6.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -1519,7 +1577,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.981,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1561,6 +1619,35 @@
       "episode_count": 45
     },
     {
+      "ag_id": "ts29400",
+      "title": "Capricciosa Orange Road",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9103,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "maturity_rating": "T",
+      "episode_count": 48
+    },
+    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1589,94 +1676,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts29400",
-      "title": "Capricciosa Orange Road",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9103,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.682,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T",
-      "episode_count": 48
-    },
-    {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.396,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
-      "ag_id": "ts26262",
-      "title": "Yattaman",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 53298,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo è un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode.\n\nIl loro compito, da quel momento, sarà trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potrà ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia così a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porterà nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si rivelerà sbagliata.\n\nMa i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/t5sWkDTsoiHG27mUawEcdXAajak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zRgOdwxViStwSaDtW50fg4jYjWC.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 6.389,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
-      "maturity_rating": "14+",
-      "episode_count": 108
     },
     {
       "ag_id": "ts28081",
@@ -1708,6 +1707,36 @@
       "episode_count": 61
     },
     {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
+    },
+    {
       "ag_id": "ts52963",
       "title": "Wolf Girl & Black Prince",
       "year": 2014,
@@ -1723,7 +1752,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 6.872,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -1810,7 +1839,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.326,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -1870,7 +1899,7 @@
         "Avventura",
         "Crime"
       ],
-      "rating": 6.463,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1929,7 +1958,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.27,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1973,36 +2002,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts22249",
-      "title": "Kuroko's Basket",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45783,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.411,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+",
-      "episode_count": 75
-    },
-    {
       "ag_id": "tm113059",
       "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
       "year": 2002,
@@ -2032,6 +2031,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts22249",
+      "title": "Kuroko's Basket",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45783,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
+      "maturity_rating": "14+",
+      "episode_count": 75
     },
     {
       "ag_id": "ts75698",
@@ -2200,7 +2229,7 @@
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.007,
+      "rating": 8.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2211,35 +2240,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 214651,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 6.957,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts35960",
@@ -2270,6 +2270,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 214651,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm20372",
@@ -2347,7 +2376,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.382,
+      "rating": 7.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2408,7 +2437,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.357,
+      "rating": 6.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -2493,7 +2522,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.456,
+      "rating": 8.5,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2523,7 +2552,7 @@
         "Sci-Fi & Fantasy",
         "Kids"
       ],
-      "rating": 7.8,
+      "rating": 7.6,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -2559,7 +2588,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.403,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -2620,7 +2649,7 @@
         "Azione",
         "Guerra"
       ],
-      "rating": 6.653,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -2678,7 +2707,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.912,
+      "rating": 5.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2752,7 +2781,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.475,
+      "rating": 7.476,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2764,6 +2793,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts47224",
@@ -2793,34 +2850,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "tm112217",
@@ -2895,7 +2924,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.859,
+      "rating": 7.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2924,7 +2953,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.74,
+      "rating": 7.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2954,7 +2983,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.243,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3129,7 +3158,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 6.807,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3157,7 +3186,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.517,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -3246,7 +3275,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.469,
+      "rating": 7.5,
       "audio_locales": [
         "de",
         "en-US",
@@ -3295,7 +3324,7 @@
         "Crime",
         "Dramma"
       ],
-      "rating": 6.523,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -3439,7 +3468,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.672,
+      "rating": 7.7,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3556,7 +3585,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.398,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -3587,7 +3616,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.686,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -3643,7 +3672,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.33,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3761,7 +3790,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.415,
+      "rating": 6.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3791,7 +3820,7 @@
         "Sci-Fi & Fantasy",
         "Famiglia"
       ],
-      "rating": 8.167,
+      "rating": 8.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -3819,7 +3848,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.095,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -3921,35 +3950,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts58464",
-      "title": "Shurato - L'epica degli Dei celesti",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 72871,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
-      "maturity_rating": "T",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3977,6 +3977,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts58464",
+      "title": "Shurato - L'epica degli Dei celesti",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 72871,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Shurato Hidaka è un giovane giapponese come tanti altri, dedito alle arti marziali, ma un giorno una luce misteriosa lo porta in un nuovo mondo, il mondo celeste. Lì scoprirà di appartenere a una stirpe di campioni divini, e si troverà coinvolto in un’epica guerra tra divinità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/g1MGtiH5KqucHdd5EWSJoqvL4NB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/22raTd2mRTwBfWk60E6EBtLncsh.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
+      "maturity_rating": "T",
+      "episode_count": 38
     },
     {
       "ag_id": "ts90818",
@@ -4037,35 +4066,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts441134",
-      "title": "Tutto solo alla conquista di un altro mondo",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 259558,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.044,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts488482",
@@ -4168,7 +4168,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.154,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -4199,7 +4199,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.464,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4257,7 +4257,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.845,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -4286,7 +4286,7 @@
         "Dramma",
         "Mistero"
       ],
-      "rating": 7.355,
+      "rating": 7.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4462,7 +4462,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.438,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -4576,7 +4576,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 7.653,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -4628,7 +4628,7 @@
         "Fantascienza",
         "Thriller"
       ],
-      "rating": 6.173,
+      "rating": 6.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -4686,7 +4686,7 @@
         "Animazione",
         "Romance"
       ],
-      "rating": 3.364,
+      "rating": 3.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -4864,7 +4864,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.273,
+      "rating": 7.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4894,7 +4894,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.808,
+      "rating": 6.8,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5061,7 +5061,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.138,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -5153,7 +5153,7 @@
         "Commedia",
         "Animazione"
       ],
-      "rating": 6.667,
+      "rating": 6.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5241,7 +5241,7 @@
         "Animazione",
         "Fantascienza"
       ],
-      "rating": 6.729,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -5327,7 +5327,7 @@
         "Animazione",
         "Fantascienza"
       ],
-      "rating": 6.802,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -5387,7 +5387,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 5.333,
+      "rating": 5.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5480,7 +5480,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 6.766,
+      "rating": 6.8,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5509,7 +5509,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 6.235,
+      "rating": 6.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5624,7 +5624,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.019,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -5652,7 +5652,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.985,
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5709,7 +5709,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 5.875,
+      "rating": 5.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -5739,7 +5739,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.563,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -5913,7 +5913,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.696,
+      "rating": 8.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -6031,7 +6031,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.333,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -6126,7 +6126,7 @@
         "Dramma",
         "Romance"
       ],
-      "rating": 5.645,
+      "rating": 5.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -6156,7 +6156,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.953,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -6242,7 +6242,7 @@
         "Dramma",
         "Kids"
       ],
-      "rating": 6.417,
+      "rating": 6.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -6271,7 +6271,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.313,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6301,7 +6301,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 6.077,
+      "rating": 6.1,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6330,7 +6330,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.921,
+      "rating": 7.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -6387,7 +6387,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.25,
+      "rating": 8.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -6426,35 +6426,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
       "maturity_rating": "T",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts16879",
-      "title": "Kyashan - Il Mito",
-      "year": 1993,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 20467,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sm0GoGHtQcZUiQdPBt8Bq75sDYy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sgGW7oSJyGGGHaeNuKruucUbVfa.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a19ee0d9-3f32-4911-90c2-f97e8860d797",
-      "maturity_rating": "T",
-      "episode_count": 4
     },
     {
       "ag_id": "ts473665",
@@ -6587,7 +6558,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.357,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -6615,7 +6586,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 4.867,
+      "rating": 4.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6644,7 +6615,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 5.882,
+      "rating": 5.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6675,7 +6646,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 7.197,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6791,7 +6762,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.727,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6822,7 +6793,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.172,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -7056,7 +7027,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.778,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -7086,7 +7057,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.431,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -7118,7 +7089,7 @@
         "Fantascienza",
         "televisione film"
       ],
-      "rating": 5.423,
+      "rating": 5.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -7148,7 +7119,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.503,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7178,7 +7149,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.714,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -7268,7 +7239,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.898,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7355,7 +7326,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.804,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -7384,7 +7355,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.703,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7414,7 +7385,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 6.444,
+      "rating": 6.4,
       "audio_locales": [
         "ja-JP"
       ],
@@ -7443,7 +7414,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 6.833,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -7615,7 +7586,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.844,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7740,7 +7711,7 @@
         "televisione film",
         "Commedia"
       ],
-      "rating": 7.513,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7786,6 +7757,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts16879",
+      "title": "Kyashan - Il Mito",
+      "year": 1993,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 20467,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sm0GoGHtQcZUiQdPBt8Bq75sDYy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sgGW7oSJyGGGHaeNuKruucUbVfa.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a19ee0d9-3f32-4911-90c2-f97e8860d797",
+      "maturity_rating": "T",
+      "episode_count": 4
+    },
+    {
       "ag_id": "tm41504",
       "title": "I Cavalieri dello zodiaco - L'ardente scontro degli dei",
       "year": 1988,
@@ -7802,7 +7802,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.676,
+      "rating": 7.687,
       "audio_locales": [
         "it-IT"
       ],
@@ -7832,7 +7832,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.025,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7863,7 +7863,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.75,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7925,7 +7925,7 @@
         "Avventura",
         "televisione film"
       ],
-      "rating": 6.52,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8014,7 +8014,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 6.955,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8073,7 +8073,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 6.954,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8106,7 +8106,7 @@
         "Dramma",
         "Crime"
       ],
-      "rating": 6.25,
+      "rating": 6.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -8136,7 +8136,7 @@
         "Dramma",
         "Commedia"
       ],
-      "rating": 6.918,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT"
       ],
@@ -8166,7 +8166,7 @@
         "Avventura",
         "Fantasy"
       ],
-      "rating": 6.462,
+      "rating": 6.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -8256,7 +8256,7 @@
         "Fantascienza",
         "Romance"
       ],
-      "rating": 6.283,
+      "rating": 6.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -8265,6 +8265,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.deefe577-2963-4e6c-a5d5-0cf93b685d09",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm651260",
+      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 364134,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Fantascienza"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -8283,7 +8312,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.683,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -8314,7 +8343,7 @@
         "televisione film",
         "Crime"
       ],
-      "rating": 6.729,
+      "rating": 6.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -8344,7 +8373,7 @@
         "Fantascienza",
         "Azione"
       ],
-      "rating": 7.545,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -8371,7 +8400,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.511,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -8398,7 +8427,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.413,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -8407,35 +8436,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm651260",
-      "title": "Yatterman the Movie - Sfida nel regno dei giocattoli",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 364134,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Gli Yattaman e la banda Dorombo giungono nel regno di Toytoy, il Regno dei Giocattoli, e vengono coinvolti nel malvagio complotto del Ministro Pa Zol, che spera di poter conquistare il mondo grazie a dei chiodi spaziali in grado di disintegrare il pianeta Terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wpumw4UXi9magGfGjNdvvFY1VDr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hf1BSv6oDyiVWj5JTv91FrGJyar.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Fantascienza"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.91f7dc13-4235-44a3-8091-9ddc63f742f8",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -8487,7 +8487,7 @@
         "Avventura",
         "televisione film"
       ],
-      "rating": 6.022,
+      "rating": 6.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8520,7 +8520,7 @@
         "Dramma",
         "Romance"
       ],
-      "rating": 7.75,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
