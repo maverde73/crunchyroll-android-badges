@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T22:21:39Z",
+  "generated_at": "2026-10-02T04:09:35Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -290,6 +290,35 @@
       "episode_count": 300
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -321,6 +350,36 @@
       "episode_count": 47
     },
     {
+      "ag_id": "ts342987",
+      "title": "Ragna Crimson",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195459,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -348,35 +407,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts14127",
@@ -440,36 +470,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts342987",
-      "title": "Ragna Crimson",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195459,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -501,34 +501,6 @@
       "episode_count": 32
     },
     {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -555,6 +527,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
       "episode_count": 40
+    },
+    {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts354570",
@@ -671,36 +671,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts20686",
@@ -1051,6 +1021,58 @@
       "episode_count": 112
     },
     {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts1781",
       "title": "City Hunter",
       "year": 1987,
@@ -1107,36 +1129,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts17714",
@@ -1280,31 +1272,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
-    },
-    {
-      "ag_id": "tm1542133",
-      "title": "Wan Pîsu Fanretâ",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+",
-      "episode_count": 0
     },
     {
       "ag_id": "ts18944",
@@ -1334,6 +1304,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
       "episode_count": 65
+    },
+    {
+      "ag_id": "tm1542133",
+      "title": "Wan Pîsu Fanretâ",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts353577",
@@ -1394,28 +1386,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts322259",
@@ -1885,6 +1855,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22249",
@@ -3512,35 +3512,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts374187",
-      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 216074,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "de",
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts55977",
       "title": "Shin Getter Robot contro Neo Getter Robot",
       "year": 2000,
@@ -3597,6 +3568,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
       "maturity_rating": "14+",
       "episode_count": 17
+    },
+    {
+      "ag_id": "ts374187",
+      "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 216074,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Okumura, il presidente del club di studi sui manga, è innamorato di Lilieru, un personaggio bidimensionale, e continua a gridare il suo nome da solo nella stanza del club. Un giorno, arriva da lui Ririka Amano, una ragazza del mondo reale che dichiara: \"Voglio diventare Lilieru\". Ririka è affascinata dai costumi \"sexy e carini\" delle ragazze dei manga, ed è una grande fan (otaku) di Lilieru, proprio come Okumura! Ririka rivela a Okumura il suo hobby segreto: il cosplay, e gli mostra la sua collezione di \"ROM\" pieni di foto e video di cosplay, dicendo: \"Voglio creare questo!\". Nel loro club inizia così la loro avventura nel mondo del cosplay, con Ririka che si trasforma in Lilieru in modo così realistico da lasciare Okumura senza parole. Spinto dalla passione di Ririka, anche Okumura prende in mano la macchina fotografica. Questa storia di passione e dedizione al cosplay è un inno a tutti gli otaku che amano qualcosa con fervore! Una commovente storia di adolescenza e cosplay ha inizio!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bG48yR8UzifLLeYdmNj8kdF9T5B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts329737",
@@ -4444,36 +4444,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm220268",
-      "title": "L'impero dei cadaveri",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 342588,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La storia horror steampunk dell'Impero dei Corpi è ambientata nell'Europa del XIX secolo e ruota attorno a John Watson. Egli vive in un mondo in cui sono stati sviluppati dei \"Frankestein\", cadaveri viventi rianimati, dotati di false anime da utilizzare come come lavoratori nell'industria, soldati al fronte e in ogni lavoro pesate, umile o sgradevole. Il giovane scienziato viene scelto dal governo per diventare un agente segreto e recuperare gli importanti e pericolosi appunti di uno scienziato russo. La ricerca degli appunti lo porterà in giro per il mondo, insieme al suo compagno-servo non-morto Friday.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/toJx157EVSMs7HwU3kubYOmQwxY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/Agt0eZRu9N7W17FJDNMOqYlqNDx.jpg",
-      "genres": [
-        "Animazione",
-        "Horror",
-        "Fantascienza",
-        "Thriller"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6b9977e-cec2-4ef1-4a40-828c0f4ae1c4",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts310025",
       "title": "La novella alchimista apre bottega",
       "year": 2022,
@@ -4551,6 +4521,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
       "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm220268",
+      "title": "L'impero dei cadaveri",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 342588,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La storia horror steampunk dell'Impero dei Corpi è ambientata nell'Europa del XIX secolo e ruota attorno a John Watson. Egli vive in un mondo in cui sono stati sviluppati dei \"Frankestein\", cadaveri viventi rianimati, dotati di false anime da utilizzare come come lavoratori nell'industria, soldati al fronte e in ogni lavoro pesate, umile o sgradevole. Il giovane scienziato viene scelto dal governo per diventare un agente segreto e recuperare gli importanti e pericolosi appunti di uno scienziato russo. La ricerca degli appunti lo porterà in giro per il mondo, insieme al suo compagno-servo non-morto Friday.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/toJx157EVSMs7HwU3kubYOmQwxY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/Agt0eZRu9N7W17FJDNMOqYlqNDx.jpg",
+      "genres": [
+        "Animazione",
+        "Horror",
+        "Fantascienza",
+        "Thriller"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c6b9977e-cec2-4ef1-4a40-828c0f4ae1c4",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -4673,36 +4673,6 @@
       "episode_count": 21
     },
     {
-      "ag_id": "ts5328",
-      "title": "Peter Pan",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 14578,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
-      "genres": [
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
-      "maturity_rating": "T",
-      "episode_count": 41
-    },
-    {
       "ag_id": "ts343493",
       "title": "Love Flops",
       "year": 2022,
@@ -4812,6 +4782,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts5328",
+      "title": "Peter Pan",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 14578,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
+      "genres": [
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
+      "maturity_rating": "T",
+      "episode_count": 41
     },
     {
       "ag_id": "tm167492",
