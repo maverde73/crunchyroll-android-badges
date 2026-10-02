@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T04:09:35Z",
+  "generated_at": "2026-10-02T11:55:04Z",
   "titles": [
     {
       "ag_id": "ts413191",
@@ -139,7 +139,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -601,7 +601,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.409,
       "audio_locales": [
         "ja-JP"
       ],
@@ -992,6 +992,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts29400",
+      "title": "Capricciosa Orange Road",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9103,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "maturity_rating": "T",
+      "episode_count": 48
+    },
+    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -1008,7 +1037,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.473,
+      "rating": 8.476,
       "audio_locales": [
         "it-IT"
       ],
@@ -1041,36 +1070,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
       "maturity_rating": "T",
       "episode_count": 0
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts1781",
@@ -1129,6 +1128,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts17714",
@@ -1272,38 +1301,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
-    },
-    {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
     },
     {
       "ag_id": "tm1542133",
@@ -1356,6 +1356,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts317669",
@@ -1417,6 +1446,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
+    },
+    {
       "ag_id": "tm121121",
       "title": "Arion",
       "year": 1986,
@@ -1445,34 +1502,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5db1954b-c1db-4926-8023-78f4df52557a",
       "maturity_rating": "10+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts44184",
@@ -1559,35 +1588,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
       "maturity_rating": "16+",
       "episode_count": 61
-    },
-    {
-      "ag_id": "ts29400",
-      "title": "Capricciosa Orange Road",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9103,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Kyōsuke Kasuga, Madoka Ayukawa e Hikaru Hiyama. Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta città a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di più al ragazzo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMe51UpgTcCHGclJyhF1ThCvVU7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2uWeRVhnK0Jr4lOvmVD4gIAz0Fh.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
-      "maturity_rating": "T",
-      "episode_count": 48
     },
     {
       "ag_id": "ts21278",
@@ -1679,35 +1679,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -1733,6 +1704,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
     },
@@ -1766,35 +1766,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1824,6 +1795,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e3405b7b-d35a-43bd-a17d-6e5bab369ae9",
       "maturity_rating": "14+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "tm247578",
@@ -1865,7 +1865,7 @@
         "tmdb_id": 134667,
         "tmdb_type": "tv"
       },
-      "description_it": "Il protagonista si ritrova in un altro mondo e realizza di essere diventato una spada, conficcata in una vasta pianura infestata da bestie. Questo mondo ha un sistema simile a quello di un videogame: HP, MP, forza, agilità, destrezza, equipaggiamenti. Seguendo il suo istinto di spada senziente, viaggia in cerca di una persona degna di brandirla, e finisce così nelle mani di una ragazza-gatto in pericolo.",
+      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
       "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
       "genres": [
@@ -1917,35 +1917,6 @@
       "episode_count": 75
     },
     {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1975,6 +1946,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
     },
     {
       "ag_id": "tm113059",
@@ -2008,6 +2008,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts52317",
+      "title": "Un oceano di avventure",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34160,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "tm136990",
       "title": "Lupin III: Bye Bye Liberty - Scoppia la crisi!",
       "year": 1989,
@@ -2037,34 +2065,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
       "maturity_rating": "16+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts52317",
-      "title": "Un oceano di avventure",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34160,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "tm451542",
@@ -2215,36 +2215,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kenRcKOBtbrggTv10Szu6ojJltQ.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -2301,6 +2271,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kenRcKOBtbrggTv10Szu6ojJltQ.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts469760",
@@ -2708,34 +2708,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2763,6 +2735,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "tm112217",
@@ -3250,34 +3250,6 @@
       "episode_count": 203
     },
     {
-      "ag_id": "ts403298",
-      "title": "Blue Miburo - I giovani lupi di Mibu",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 234776,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
-      "maturity_rating": "14+",
-      "episode_count": 38
-    },
-    {
       "ag_id": "ts52727",
       "title": "Mazinkaiser",
       "year": 2001,
@@ -3305,6 +3277,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6955443c-b003-455b-ba09-c57245c7bba7",
       "maturity_rating": "16+",
       "episode_count": 8
+    },
+    {
+      "ag_id": "ts403298",
+      "title": "Blue Miburo - I giovani lupi di Mibu",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 234776,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Miburo opera in una Kyoto sempre più instabile, dove le tensioni politiche e sociali alimentano violenze continue. All'interno del gruppo emergono profonde fratture a causa del comportamento sempre più brutale e imprevedibile di Kamo Serizawa, uno dei comandanti, le cui azioni mettono a rischio l'equilibrio e la reputazione del Miburo. Durante le missioni di controllo della città, alcuni membri iniziano a mettere in discussione la leadership di Serizawa, osservando come la sua condotta trascini il gruppo in scontri incontrollati e comprometta i rapporti con le altre fazioni. La fiducia interna si logora, mentre il senso di dovere entra in conflitto con la paura di un collasso imminente. Per evitare che il Miburo venga distrutto dall’interno, viene presa una decisione estrema: eliminare Serizawa.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s2P0DYSeMrqNh4L7hGXP3Xs5kbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.af28b7f7-51f0-4689-9de0-9f10fc00d458",
+      "maturity_rating": "14+",
+      "episode_count": 38
     },
     {
       "ag_id": "ts463053",
@@ -3512,36 +3512,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts55977",
-      "title": "Shin Getter Robot contro Neo Getter Robot",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 67579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
-      "maturity_rating": "T",
-      "episode_count": 4
-    },
-    {
       "ag_id": "ts459375",
       "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
       "year": 2025,
@@ -3597,6 +3567,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts55977",
+      "title": "Shin Getter Robot contro Neo Getter Robot",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 67579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
+      "maturity_rating": "T",
+      "episode_count": 4
     },
     {
       "ag_id": "ts329737",
@@ -4084,7 +4084,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.8,
+      "rating": 7.854,
       "audio_locales": [
         "it-IT"
       ],
@@ -4330,34 +4330,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts345978",
-      "title": "Blue Orchestra",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 197368,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
-      "maturity_rating": "T",
-      "episode_count": 45
-    },
-    {
       "ag_id": "ts31966",
       "title": "Calendar Men",
       "year": 1981,
@@ -4413,6 +4385,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts345978",
+      "title": "Blue Orchestra",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 197368,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "tm61092",
@@ -5021,36 +5021,6 @@
       "episode_count": 36
     },
     {
-      "ag_id": "ts287662",
-      "title": "Getter robo arc",
-      "year": 2021,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 122827,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Si svolge diversi anni dopo Getter Robo Go, la Terra è ora un mondo post-apocalittico. Hayato, ora uno scienziato anziano, ha completato il capolavoro del professor Saotome, Getter Robo Arc. A pilotarlo sono il figlio di Ryoma, Takuma, l'umano-dinosauro Kamui, e il fratello minore di Tayel, Baku. Insieme al riformato Dinosaur Empire, combattono l'insettoide Andromeda Flow Country che attacca dall'altra parte del tempo e dello spazio.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/esCeud4cz74FEm8Gqwy7m0dmSrf.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r6lkQxjpfdHJAlfBirs9yerLonn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "tm132639",
       "title": "Venus Wars",
       "year": 1989,
@@ -5136,6 +5106,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
       "maturity_rating": "18+",
       "episode_count": 22
+    },
+    {
+      "ag_id": "ts287662",
+      "title": "Getter robo arc",
+      "year": 2021,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 122827,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Si svolge diversi anni dopo Getter Robo Go, la Terra è ora un mondo post-apocalittico. Hayato, ora uno scienziato anziano, ha completato il capolavoro del professor Saotome, Getter Robo Arc. A pilotarlo sono il figlio di Ryoma, Takuma, l'umano-dinosauro Kamui, e il fratello minore di Tayel, Baku. Insieme al riformato Dinosaur Empire, combattono l'insettoide Andromeda Flow Country che attacca dall'altra parte del tempo e dello spazio.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/esCeud4cz74FEm8Gqwy7m0dmSrf.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r6lkQxjpfdHJAlfBirs9yerLonn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acd4a0e7-3ec6-4ba8-b9a8-91266d7385cb",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts417105",
@@ -6631,33 +6631,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts242641",
-      "title": "Genie Family - Il ritorno del Mago Pancione",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 105225,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kantaro, pigro e svogliato, resta tutti i giorni in casa ma un giorno, per caso, fa uscire da un vaso la maghetta Akubi. La giovane sostiene di dover seguire un periodo di apprendistato sulla Terra per diventare in futuro regina del suo mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/i54ChnxS1mmMNf1SVNyKnmmFVP9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
-      "maturity_rating": "T",
-      "episode_count": 20
-    },
-    {
       "ag_id": "tm159116",
       "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
       "year": 2011,
@@ -6685,6 +6658,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c69b7105-835b-4036-a789-e47814abb9de",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts242641",
+      "title": "Genie Family - Il ritorno del Mago Pancione",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 105225,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kantaro, pigro e svogliato, resta tutti i giorni in casa ma un giorno, per caso, fa uscire da un vaso la maghetta Akubi. La giovane sostiene di dover seguire un periodo di apprendistato sulla Terra per diventare in futuro regina del suo mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/i54ChnxS1mmMNf1SVNyKnmmFVP9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a0147420-4f49-4643-9341-50571d8e46d3",
+      "maturity_rating": "T",
+      "episode_count": 20
     },
     {
       "ag_id": "tm191827",
