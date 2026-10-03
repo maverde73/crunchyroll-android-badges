@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "generated_at": "2026-10-02T21:50:31Z",
+  "generated_at": "2026-10-03T03:52:42Z",
   "titles": [
+    {
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42444,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.494,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
+      "maturity_rating": "14+",
+      "episode_count": 114
+    },
     {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
@@ -34,36 +64,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42444,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.494,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "14+",
-      "episode_count": 114
-    },
-    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -124,34 +124,6 @@
       "episode_count": 1216
     },
     {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.305,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -180,6 +152,65 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
       "maturity_rating": "14+",
       "episode_count": 85
+    },
+    {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.305,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.437,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts407747",
@@ -230,37 +261,6 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.437,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -288,35 +288,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.509,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts21984",
@@ -350,34 +321,33 @@
       "episode_count": 47
     },
     {
-      "ag_id": "ts342987",
-      "title": "Ragna Crimson",
-      "year": 2023,
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 195459,
+        "tmdb_id": 35935,
         "tmdb_type": "tv"
       },
-      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Animazione"
       ],
-      "rating": 7.3,
+      "rating": 8.509,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 25
     },
     {
       "ag_id": "ts27309",
@@ -407,6 +377,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts342987",
+      "title": "Ragna Crimson",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195459,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i draghi sono la più grande calamità che l'umanità deve affrontare, esiste una potente gilda di cacciatori specializzata nella loro uccisione. Ragna è l'assistente e amico di Leonica, che è una delle più abili cacciatrici di draghi. Tra i due c'è un profondo legame, e per proteggerla e sconfiggere più bestie possibili Ragna è disposto a tutto. Nel suo vagare Ragna salva Elisa, una ragazzina indifesa, ma il suo vero nome è Crimson ed è molto più di cosa sembri. Ha così inizio il loro viaggio per vendicarsi ed eradicare la minaccia una volta per tutte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts14127",
@@ -585,6 +585,36 @@
       "episode_count": 35
     },
     {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -614,6 +644,36 @@
       "episode_count": 41
     },
     {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.569,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "tm69778",
       "title": "Lupin III - Il castello di Cagliostro",
       "year": 1979,
@@ -631,7 +691,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.506,
+      "rating": 7.507,
       "audio_locales": [
         "it-IT"
       ],
@@ -671,6 +731,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts20686",
@@ -872,6 +962,43 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts475209",
+      "title": "Digimon Beatbreak",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 286791,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Kids"
+      ],
+      "rating": 7.45,
+      "audio_locales": [
+        "en-US",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
+      "maturity_rating": "7+",
+      "episode_count": 49
+    },
+    {
       "ag_id": "ts360995",
       "title": "Boku no kokoro no yabai yatsu",
       "year": 2023,
@@ -1043,24 +1170,23 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts1781",
-      "title": "City Hunter",
-      "year": 1987,
+      "ag_id": "ts17714",
+      "title": "Devil May Cry",
+      "year": 2007,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 36046,
+        "tmdb_id": 12577,
         "tmdb_type": "tv"
       },
-      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
+      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
       "genres": [
-        "Action & Adventure",
         "Animazione",
-        "Commedia",
-        "Mistero"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "rating": 7.8,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -1068,9 +1194,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
       "maturity_rating": "14+",
-      "episode_count": 140
+      "episode_count": 12
     },
     {
       "ag_id": "ts45104",
@@ -1101,53 +1227,24 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
+      "ag_id": "ts1781",
+      "title": "City Hunter",
+      "year": 1987,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 253811,
+        "tmdb_id": 36046,
         "tmdb_type": "tv"
       },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "description_it": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nyyZ7co7wypIqSwkgoBBMe9jDK4.jpg",
       "genres": [
+        "Action & Adventure",
         "Animazione",
-        "Mistero",
-        "Action & Adventure"
+        "Commedia",
+        "Mistero"
       ],
-      "rating": 7.569,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 25
-    },
-    {
-      "ag_id": "ts17714",
-      "title": "Devil May Cry",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 12577,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dante è figlio del demone Sparda e di un'umana, e per questo è un mezzo demone, anche se il suo aspetto risulta del tutto umano. Sebbene questa sembri una contraddizione, l'obiettivo di Dante è proprio quello di sconfiggere ed uccidere i demoni.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tZaO0YddJtUl6G9SD12mbriz9u9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hgmVKvA1zddu5VmcGJYqIStpDo6.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 7.6,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -1155,9 +1252,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10743c7a-41b5-4772-b8cd-d31766cfea6a",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 140
     },
     {
       "ag_id": "ts35329",
@@ -1299,36 +1396,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts353577",
-      "title": "Isekai Farming - Vita contadina in un altro mondo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 196285,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Machio Hikaru, Salarymen 39enne, muore di malattia dopo una vita tutt'altro che esaltante. Mentre è in transito verso l'altro mondo, si imbatte in una divinità che gli propone di ricominciare una nuova vita in un mondo diverso. Machio accetta e, per ricompensarlo della sua scelta, il dio gli concede anche tre desideri: ottiene così un corpo immune dalle malattie, di avere una vita pacifica e di vivere facendo l'agricoltore. A quel punto, inizia per lui una nuova esistenza da \"Fattore\" in un mondo parallelo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1358,17 +1425,17 @@
       "episode_count": 65
     },
     {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
+      "ag_id": "ts353577",
+      "title": "Isekai Farming - Vita contadina in un altro mondo",
+      "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 138357,
+        "tmdb_id": 196285,
         "tmdb_type": "tv"
       },
-      "description_it": "Incapace di trovare soddisfazione nella vita di tutti i giorni e affetto da una grave insonnia, Yamori Kou inizia a girovagare da solo per le strade della città nelle ore notturne. Una sera, Kou incontra una strana ragazza, Nanakusa Nazuna, la quale si offre di aiutarlo a curare la sua insonnia invitandolo a dormire accanto a lei a casa sua. Tuttavia, ben presto Kou scopre che non si tratta di un semplice scambio a senso unico...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "description_it": "Machio Hikaru, Salarymen 39enne, muore di malattia dopo una vita tutt'altro che esaltante. Mentre è in transito verso l'altro mondo, si imbatte in una divinità che gli propone di ricominciare una nuova vita in un mondo diverso. Machio accetta e, per ricompensarlo della sua scelta, il dio gli concede anche tre desideri: ottiene così un corpo immune dalle malattie, di avere una vita pacifica e di vivere facendo l'agricoltore. A quel punto, inizia per lui una nuova esistenza da \"Fattore\" in un mondo parallelo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
       "genres": [
         "Animazione",
         "Commedia",
@@ -1383,9 +1450,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 24
     },
     {
       "ag_id": "ts322259",
@@ -1475,41 +1542,33 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts475209",
-      "title": "Digimon Beatbreak",
-      "year": 2025,
+      "ag_id": "ts492780",
+      "title": "Akane-banashi",
+      "year": 2026,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 286791,
+        "tmdb_id": 297438,
         "tmdb_type": "tv"
       },
-      "description_it": "In un prossimo futuro, l'e-Pulse ottenuto da pensieri ed emozioni è la fonte di energia che alimenta i dispositivi AI detti Sapotama, portando così l'umanità verso un nuovo cambiamento. Tuttavia, all'ombra di tutto ciò sono apparse creature spaventose, dei mostri che evolvono divorando l'e-Pulse. Il loro nome è Digimon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Kids"
+        "Dramma"
       ],
-      "rating": 7.45,
+      "rating": 8.0,
       "audio_locales": [
-        "en-US",
+        "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.51c3534f-89d0-4b1a-b520-bd57d2cf912c",
-      "maturity_rating": "7+",
-      "episode_count": 49
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts44184",
@@ -1538,35 +1597,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
-    },
-    {
-      "ag_id": "ts492780",
-      "title": "Akane-banashi",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 297438,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Akane Osaki è cresciuta ammirando le straordinarie performance del padre. Ma durante un momento cruciale della sua carriera, un evento sconvolgente cambia tutto. Sei anni dopo, Akane decide di intraprendere la stessa strada, con un obiettivo ambizioso: diventare una shin'uchi, una delle massime espressioni dell'arte del rakugo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
-      "maturity_rating": "T",
-      "episode_count": 12
     },
     {
       "ag_id": "ts28081",
@@ -1716,35 +1746,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -1801,6 +1802,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts394764",
@@ -1863,36 +1893,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -1940,7 +1940,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.414,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2694,7 +2694,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.5,
+      "rating": 7.476,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3336,6 +3336,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts412408",
+      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236144,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -3369,36 +3399,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts412408",
-      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236144,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
-      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -4570,7 +4570,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.4,
+      "rating": 7.37,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5274,7 +5274,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.4,
+      "rating": 7.374,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6457,34 +6457,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts539",
-      "title": "Black Jack: Dieci indagini nel buio",
-      "year": 1993,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30083,
-        "tmdb_type": "tv"
-      },
-      "description_it": "È una notte buia e tempestosa. Una figura in nero osserva l’oceano dall’alto della scogliera, in una piccola stanza buia. All’improvviso, il telefono risuona e possiamo sentire il messaggio della segreteria telefonica: \"Al momento non sono in casa. Lasciate detto il vostro nome e numero di telefono, la natura della malattia, la gravità della condizione, e quanto potete permettervi di pagare. Vi richiamerò io\". Inizia un’altra storia per Black Jack, il medico rinnegato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2okMikPSnzAzTwPZfXVI2UuHyQv.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7IsJDr77F46fhy1aZT3S5HD2stv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8fd02e3e-cd27-4450-ab25-20c5e914b883",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts435424",
       "title": "Copriti, Makina!",
       "year": 2025,
@@ -6510,6 +6482,34 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
       "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts539",
+      "title": "Black Jack: Dieci indagini nel buio",
+      "year": 1993,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30083,
+        "tmdb_type": "tv"
+      },
+      "description_it": "È una notte buia e tempestosa. Una figura in nero osserva l’oceano dall’alto della scogliera, in una piccola stanza buia. All’improvviso, il telefono risuona e possiamo sentire il messaggio della segreteria telefonica: \"Al momento non sono in casa. Lasciate detto il vostro nome e numero di telefono, la natura della malattia, la gravità della condizione, e quanto potete permettervi di pagare. Vi richiamerò io\". Inizia un’altra storia per Black Jack, il medico rinnegato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2okMikPSnzAzTwPZfXVI2UuHyQv.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7IsJDr77F46fhy1aZT3S5HD2stv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8fd02e3e-cd27-4450-ab25-20c5e914b883",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -6944,7 +6944,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.505,
+      "rating": 7.509,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7193,36 +7193,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "tm49446",
-      "title": "Utena la fillette révolutionnaire - The movie: apocalisse adolescenziale",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19738,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Appena arrivata al misterioso istituto scolastico Ohtori, in cui le pareti sono in continuo movimento, Utena Tenjo viene confusa da tutti per un ragazzo. La ragazza ben presto si troverà coinvolta in una serie di duelli per l'ottenimento della \"sposa della rosa\", Anthy Himemiya, e soprattutto del potere che essa possiede. Contemporaneamente Utena si rincontra con Touga Kiryuu, suo ex fidanzato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3KuG6L1XRYyFQ9fX9p8V4vu9IFz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8VRmHiIGbQxIJH8p30niFl78qSC.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts66982",
       "title": "Gotriniton",
       "year": 1981,
@@ -7337,6 +7307,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.873d5aa5-8185-466d-aef9-38fba9acc815",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm49446",
+      "title": "Utena la fillette révolutionnaire - The movie: apocalisse adolescenziale",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19738,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Appena arrivata al misterioso istituto scolastico Ohtori, in cui le pareti sono in continuo movimento, Utena Tenjo viene confusa da tutti per un ragazzo. La ragazza ben presto si troverà coinvolta in una serie di duelli per l'ottenimento della \"sposa della rosa\", Anthy Himemiya, e soprattutto del potere che essa possiede. Contemporaneamente Utena si rincontra con Touga Kiryuu, suo ex fidanzato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3KuG6L1XRYyFQ9fX9p8V4vu9IFz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8VRmHiIGbQxIJH8p30niFl78qSC.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221701",
