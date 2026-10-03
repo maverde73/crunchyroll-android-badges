@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-03T03:52:42Z",
+  "generated_at": "2026-10-03T11:08:10Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -182,37 +182,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.437,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -259,6 +228,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.437,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts21930",
@@ -660,7 +660,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.569,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -671,7 +671,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
-      "episode_count": 25
+      "episode_count": 48
+    },
+    {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.073,
+      "audio_locales": [
+        "zh"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm69778",
@@ -702,35 +731,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.073,
-      "audio_locales": [
-        "zh"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts317669",
@@ -1746,35 +1746,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts36530",
-      "title": "Mazinger Edition Z: The Impact!",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36249,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1829,6 +1800,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
+      "ag_id": "ts36530",
+      "title": "Mazinger Edition Z: The Impact!",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36249,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla guida di un super robot, un adolescente combatte le forze del male cercando d'impadronirsi di una nuova e potente fonte di energia che potrebbe salvare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7DfthcHSvrGKL28rQwKe9OD3aZt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kLAT3DgQWW1PfSpXvC0hhSen5JD.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
       "maturity_rating": "14+",
       "episode_count": 26
     },
@@ -1893,6 +1893,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts22249",
+      "title": "Kuroko's Basket",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45783,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.414,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
+      "maturity_rating": "14+",
+      "episode_count": 75
+    },
+    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -1924,36 +1954,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts22249",
-      "title": "Kuroko's Basket",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45783,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.414,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+",
-      "episode_count": 75
-    },
-    {
       "ag_id": "ts28832",
       "title": "Slayers",
       "year": 1995,
@@ -1970,7 +1970,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.4,
+      "rating": 7.463,
       "audio_locales": [
         "it-IT"
       ],
@@ -2104,6 +2104,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm451542",
       "title": "Lupin III - Addio, amico mio",
       "year": 2019,
@@ -2134,34 +2162,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "ts485272",
@@ -2221,37 +2221,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm20372",
-      "title": "Lupin III - Per un dollaro in più",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31053,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -2308,6 +2277,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm20372",
+      "title": "Lupin III - Per un dollaro in più",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31053,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts35960",
@@ -3402,28 +3402,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts312683",
-      "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "tm136088",
       "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
       "year": 1989,
@@ -3451,6 +3429,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts312683",
+      "title": "Tensei kenja no isekai Life ~Dai ni no shokugyô wo ete, sekai saikyô ni nari mashita~",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7a7f7cd-ef06-4894-b68f-fa165967ac80",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm184092",
@@ -3717,6 +3717,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts88978",
+      "title": "Mix: Meisei Story",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 87456,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dVWRCJEh4718sjSg9NSnBtjMyWc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
+      "maturity_rating": "T",
+      "episode_count": 48
+    },
+    {
       "ag_id": "tm65451",
       "title": "Lupin III - Tokyo Crisis: L'unione fa la forza",
       "year": 1998,
@@ -3747,34 +3775,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb838b-5891-eedc-39de-f7877a08188c",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts88978",
-      "title": "Mix: Meisei Story",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 87456,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dVWRCJEh4718sjSg9NSnBtjMyWc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
-      "maturity_rating": "T",
-      "episode_count": 48
     },
     {
       "ag_id": "ts34463",
@@ -5709,7 +5709,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.41,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6080,6 +6080,35 @@
       "episode_count": 52
     },
     {
+      "ag_id": "ts60492",
+      "title": "La principessa Zaffiro",
+      "year": 1967,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34864,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Principessa Sapphire è una ragazza che è stata allevata come un principe. Per colpa di un errore commesso da un angelo, la principessa nasce con il corpo di una ragazza e la mentalità di un ragazzo. Tuttavia, nel suo regno, non c'è alcun successore a parte lei, così Sapphire viene allevata segretamente come un ragazzo, e dovrà fare i conti con il ministro del regno che cercherà in tutti i modi di smascherarla e rivelare la sua vera natura. Sapphire, tuttavia, non riuscendo a sopportare le ingiustizie che subisce il suo popolo, decide di travestirsi da cavaliere, trasformandosi così in un paladino della giustizia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1NfbcB17pNeElmeyDmiVeZNOHP9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b6V23ekh4Jow8zN6b7wdh7tqcYG.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
+      "maturity_rating": "T",
+      "episode_count": 52
+    },
+    {
       "ag_id": "tm36164",
       "title": "Naruto Shippuden: Il film - Il maestro e il discepolo",
       "year": 2008,
@@ -6096,7 +6125,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.3,
+      "rating": 7.313,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6137,35 +6166,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80f7cda8-a106-4572-9b7a-39469544fe85",
       "maturity_rating": "14+",
       "episode_count": 50
-    },
-    {
-      "ag_id": "ts60492",
-      "title": "La principessa Zaffiro",
-      "year": 1967,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34864,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Principessa Sapphire è una ragazza che è stata allevata come un principe. Per colpa di un errore commesso da un angelo, la principessa nasce con il corpo di una ragazza e la mentalità di un ragazzo. Tuttavia, nel suo regno, non c'è alcun successore a parte lei, così Sapphire viene allevata segretamente come un ragazzo, e dovrà fare i conti con il ministro del regno che cercherà in tutti i modi di smascherarla e rivelare la sua vera natura. Sapphire, tuttavia, non riuscendo a sopportare le ingiustizie che subisce il suo popolo, decide di travestirsi da cavaliere, trasformandosi così in un paladino della giustizia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1NfbcB17pNeElmeyDmiVeZNOHP9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b6V23ekh4Jow8zN6b7wdh7tqcYG.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
-      "maturity_rating": "T",
-      "episode_count": 52
     },
     {
       "ag_id": "ts975",
@@ -6974,7 +6974,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.866,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
