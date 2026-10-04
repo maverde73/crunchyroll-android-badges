@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T16:28:06Z",
+  "generated_at": "2026-10-04T20:53:10Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -169,7 +169,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.304,
+      "rating": 8.305,
       "audio_locales": [
         "it-IT"
       ],
@@ -350,6 +350,35 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -378,35 +407,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts14127",
@@ -763,7 +763,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.731,
+      "rating": 7.73,
       "audio_locales": [
         "it-IT"
       ],
@@ -1846,35 +1846,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1906,25 +1877,23 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts75698",
-      "title": "Legend of the Galactic Heroes: Die Neue These",
-      "year": 2018,
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 74018,
+        "tmdb_id": 93149,
         "tmdb_type": "tv"
       },
-      "description_it": "Nel lontano futuro dell'umanità, due stati interstellari - il monarchico Impero Galattico e la democratica Alleanza dei Pianeti Liberi - sono coinvolti in una guerra senza fine. La storia si concentra sulle gesta dei rivali Reinhard von Müsel e Yang Wen Li mentre salgono al potere e alla fama nell'Impero Galattico e nell'Alleanza dei Pianeti Liberi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8SqEzhSAo53mn4gITdlrCUAKcCg.jpg",
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Dramma",
         "Sci-Fi & Fantasy",
-        "War & Politics"
+        "Animazione"
       ],
-      "rating": 7.7,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1932,9 +1901,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
-      "maturity_rating": "18+",
-      "episode_count": 48
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22249",
@@ -1994,6 +1963,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
       "maturity_rating": "T",
       "episode_count": 104
+    },
+    {
+      "ag_id": "ts75698",
+      "title": "Legend of the Galactic Heroes: Die Neue These",
+      "year": 2018,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 74018,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel lontano futuro dell'umanità, due stati interstellari - il monarchico Impero Galattico e la democratica Alleanza dei Pianeti Liberi - sono coinvolti in una guerra senza fine. La storia si concentra sulle gesta dei rivali Reinhard von Müsel e Yang Wen Li mentre salgono al potere e alla fama nell'Impero Galattico e nell'Alleanza dei Pianeti Liberi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8SqEzhSAo53mn4gITdlrCUAKcCg.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "tm247578",
@@ -2234,35 +2234,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts308038",
-      "title": "Demon Hunter - Le memorie del mezzo demone",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 133154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -2290,6 +2261,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts308038",
+      "title": "Demon Hunter - Le memorie del mezzo demone",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 133154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
+      "maturity_rating": "18+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts35960",
@@ -3893,7 +3893,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.841,
+      "rating": 7.831,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4768,35 +4768,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts400911",
-      "title": "Protocol: Rain",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 230288,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts5328",
       "title": "Peter Pan",
       "year": 1989,
@@ -4825,6 +4796,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
       "maturity_rating": "T",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts400911",
+      "title": "Protocol: Rain",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 230288,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b4lTzRfDSF8z1CjeIsvasXKwaLX.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f586f222-8379-48ac-bab5-ed33e6dc71ae",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm167492",
@@ -4929,7 +4929,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.149,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -6383,7 +6383,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ee59841-948c-4f2f-8591-698b31240754",
       "maturity_rating": "14+",
-      "episode_count": 14
+      "episode_count": 24
     },
     {
       "ag_id": "ts15516",
