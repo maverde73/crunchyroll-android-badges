@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T04:24:16Z",
+  "generated_at": "2026-10-04T11:48:37Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -277,7 +277,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.0,
+      "rating": 7.993,
       "audio_locales": [
         "it-IT"
       ],
@@ -350,35 +350,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -407,6 +378,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts14127",
@@ -750,7 +750,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.732,
+      "rating": 7.731,
       "audio_locales": [
         "it-IT"
       ],
@@ -809,7 +809,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.663,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1037,7 +1037,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.3,
+      "rating": 7.334,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1191,34 +1191,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts45104",
-      "title": "I cinque samurai",
-      "year": 1988,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35993,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -1246,6 +1218,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts45104",
+      "title": "I cinque samurai",
+      "year": 1988,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35993,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Circa mille anni prima dell'avventura narrata negli episodi, il mondo era devastato da guerre alimentate dal rancore e dalla smania di potere degli uomini. Questi sentimenti di odio diedero vita ad Harago, un potentissimo spirito maligno che prese forma in un'armatura dotata di immensi poteri di distruzione. Il demone era intenzionato a rendere suoi schiavi tutti gli uomini, assoggettandoli al suo volere e sterminando chi si ribellava al suo dominio. Ad opporglisi fu un monaco-guerriero chiamato Hariel che, dopo un sanguinoso scontro, sconfisse ed eliminò Harago.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLw6G337mraKBVCovvCkOhb3C3O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/njzwGw2JwoMnwNbntW6CK3EqQql.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts1781",
@@ -1418,6 +1418,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.746,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "tm121121",
       "title": "Arion",
       "year": 1986,
@@ -1446,35 +1475,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5db1954b-c1db-4926-8023-78f4df52557a",
       "maturity_rating": "10+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.746,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts42498",
@@ -1746,35 +1746,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts34474",
-      "title": "Evelyn e la magia di un sogno d'amore",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35678,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Persha Hayami (Evelyn, in Italia) è una bambina di 11 anni, figlia di una coppia giapponese, ma cresciuta in Africa. Dopo tanti anni trascorsi nel caldo continente, la ragazzina, affidata al miglior amico del padre, il professor Muroi, torna con quest'ultimo in Giappone dai genitori. Durante il viaggio di ritorno, l'aereo viene risucchiato in una dimensione parallela chiamata Lovely Dream (Sogno d'Amore, in Italia); qui la ragazzina incontra tre kappa, i quali le spiegano che il loro mondo è legato al suo tramite i sogni umani, ma che tuttavia la maggior parte di essi non riesce a superare la barriera di Lovely Dream congelandosi prima di realizzarsi. Solo l'energia dell'amore può scongelare questi sogni e riportare la primavera in un mondo sempre più ibernato",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uBKoRdudv0Ce3aB5gKxDgDOCgCE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Kids"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
-      "maturity_rating": "T",
-      "episode_count": 48
-    },
-    {
       "ag_id": "ts36530",
       "title": "Mazinger Edition Z: The Impact!",
       "year": 2009,
@@ -1802,6 +1773,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts34474",
+      "title": "Evelyn e la magia di un sogno d'amore",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35678,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Persha Hayami (Evelyn, in Italia) è una bambina di 11 anni, figlia di una coppia giapponese, ma cresciuta in Africa. Dopo tanti anni trascorsi nel caldo continente, la ragazzina, affidata al miglior amico del padre, il professor Muroi, torna con quest'ultimo in Giappone dai genitori. Durante il viaggio di ritorno, l'aereo viene risucchiato in una dimensione parallela chiamata Lovely Dream (Sogno d'Amore, in Italia); qui la ragazzina incontra tre kappa, i quali le spiegano che il loro mondo è legato al suo tramite i sogni umani, ma che tuttavia la maggior parte di essi non riesce a superare la barriera di Lovely Dream congelandosi prima di realizzarsi. Solo l'energia dell'amore può scongelare questi sogni e riportare la primavera in un mondo sempre più ibernato",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uBKoRdudv0Ce3aB5gKxDgDOCgCE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Kids"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts24483",
@@ -2279,6 +2279,36 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts35960",
+      "title": "Inferno e paradiso",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34732,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kenRcKOBtbrggTv10Szu6ojJltQ.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm20372",
       "title": "Lupin III - Per un dollaro in più",
       "year": 2000,
@@ -2308,36 +2338,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts35960",
-      "title": "Inferno e paradiso",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34732,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia prende luogo nel prestigioso Istituto Todou, il cosiddetto \"paradiso dei combattenti\", una scuola equivalente al liceo dove, invece delle discipline canoniche, viene insegnata esclusivamente l'arte del combattimento. In realtà non si ha modo di assistere a molte lezioni, perché i protagonisti passano la maggior parte del proprio tempo in giro per i corridoi o nel cortile a picchiarsi o, nel migliore dei casi, ad allenarsi nelle numerose palestre presenti nell'istituto.\n\nProtagonisti indiscussi del manga sembrano essere, almeno per i primi due numeri, Soichiro Nagi e Bob Makihara, due nuovi studenti che, non appena arrivati a scuola, cominciano a sfidare chiunque incontrino sulla propria strada, finché non si imbattono in individui i cui poteri vanno ben oltre quelli dei normali combattenti incontrati fino a quel momento. Preso atto della propria debolezza, i due decidono quindi di aggregarsi al Club di Juken che, nonostante sembri essere il clan più forte dell'istituto, è composto da pochissimi membri a causa della storica rivalità con il Gruppo Esecutivo, una sorta di polizia interna alla scuola. Parte della storia è dedicata ad un lungo flashback in cui vengono spiegati i motivi delle controversie tra Maya Natsume, leader del Jukenbu, e Mitsuomi Takayanagi, che fa invece testa al Gruppo Esecutivo. Ma presto la trama si infittisce di legami tra vari personaggi che possono sembrare solo di passaggio per poi ritrovarli successivamente come parte attiva della storia. Viene narrato il passato dei protagonisti e lo sviluppo di Bob e Soichiro. Si scopre la vera potenza di Soichiro e il motivo per cui poi viene rapito dal padre, Sohaku Kago. Soichiro è l'ultimo erede della Casata del Teppistello. Cioè è una persona in grado di utilizzare lo spirito in maniera illimitata e di rubare le tecniche proprie dei casati avversari. Sohaku rinchiude Soichiro e lo fa combattere contro vari capifamiglia in modo che possa rubarne le tecniche. Nel frattempo utilizzando i suoi sottoposti del gruppo di F. tenta di rubare un chip con informazioni molto importanti. Mitsuomi Takayanagi che si pensava essere a capo di F in realtà non è altro che una pedina di Sohaku. Stufo di essere comandato con Maya Natsume e portandosi dietro Reiki la spada del fratello Shin Natsume vanno a liberare Soichiro e ad uccidere Sohaku.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kenRcKOBtbrggTv10Szu6ojJltQ.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts469760",
@@ -3336,36 +3336,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts412408",
-      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236144,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -3399,6 +3369,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts412408",
+      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236144,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -4330,6 +4330,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts458553",
+      "title": "La promessa del mago",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258578,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo in cui i maghi e gli umani coesistono, ci sono cinque paesi nel continente centrale, tutti con caratteristiche uniche. In questo mondo, un grande satellite fluttua nel cielo e i cittadini si sentono in pericolo. Una volta all'anno, vengono selezionati dei maghi che combattono contro quel misterioso corpo celeste. Ad uno di loro, proveniente da un altro mondo, è chiesto di condurre la squadra contro quel satellite.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/quHLmheViYmmvSp6QnCLn9Q4L0.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 5.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts31966",
       "title": "Calendar Men",
       "year": 1981,
@@ -4357,34 +4385,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
       "maturity_rating": "T",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts458553",
-      "title": "La promessa del mago",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258578,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo in cui i maghi e gli umani coesistono, ci sono cinque paesi nel continente centrale, tutti con caratteristiche uniche. In questo mondo, un grande satellite fluttua nel cielo e i cittadini si sentono in pericolo. Una volta all'anno, vengono selezionati dei maghi che combattono contro quel misterioso corpo celeste. Ad uno di loro, proveniente da un altro mondo, è chiesto di condurre la squadra contro quel satellite.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/quHLmheViYmmvSp6QnCLn9Q4L0.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 5.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d3749306-be87-450b-a9a5-ad33812ef2fb",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts345978",
@@ -4690,7 +4690,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.8,
+      "rating": 6.813,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6944,7 +6944,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.509,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8491,7 +8491,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.0,
+      "rating": 6.75,
       "audio_locales": [
         "ja-JP"
       ],
