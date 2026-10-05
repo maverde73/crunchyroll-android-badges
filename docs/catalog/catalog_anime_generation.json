@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-05T13:39:44Z",
+  "generated_at": "2026-10-05T23:45:37Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -199,7 +199,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.191,
+      "rating": 8.2,
       "audio_locales": [
         "en-US",
         "es",
@@ -308,7 +308,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.993,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -437,37 +437,6 @@
       "episode_count": 40
     },
     {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.068,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
-    },
-    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -572,23 +541,24 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 64196,
+        "tmdb_id": 119495,
         "tmdb_type": "tv"
       },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
       "genres": [
         "Animazione",
+        "Commedia",
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.443,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -597,9 +567,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
     },
     {
       "ag_id": "ts410723",
@@ -687,6 +657,36 @@
       "episode_count": 41
     },
     {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
       "ag_id": "tm69778",
       "title": "Lupin III - Il castello di Cagliostro",
       "year": 1979,
@@ -733,7 +733,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.073,
+      "rating": 8.093,
       "audio_locales": [
         "zh"
       ],
@@ -793,7 +793,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.73,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT"
       ],
@@ -1021,7 +1021,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.334,
+      "rating": 7.3,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1058,7 +1058,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.594,
+      "rating": 8.591,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1922,7 +1922,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.414,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1933,7 +1933,7 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
-      "episode_count": 75
+      "episode_count": 76
     },
     {
       "ag_id": "ts28832",
@@ -2544,7 +2544,7 @@
         "Thriller",
         "Fantascienza"
       ],
-      "rating": 7.402,
+      "rating": 7.398,
       "audio_locales": [
         "it-IT"
       ],
@@ -2950,35 +2950,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6f91351-fe51-4fbc-aa0d-9ec4c3f07a32",
       "maturity_rating": "7+",
-      "episode_count": 39
-    },
-    {
-      "ag_id": "ts47136",
-      "title": "Il tulipano nero",
-      "year": 1975,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19869,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+",
       "episode_count": 39
     },
     {
@@ -3525,6 +3496,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts47136",
+      "title": "Il tulipano nero",
+      "year": 1975,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19869,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "maturity_rating": "16+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts459375",
       "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
       "year": 2025,
@@ -3717,7 +3717,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.2,
+      "rating": 7.265,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3847,6 +3847,37 @@
       "episode_count": 23
     },
     {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts58464",
       "title": "Shurato - L'epica degli Dei celesti",
       "year": 1989,
@@ -3874,37 +3905,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
       "maturity_rating": "T",
       "episode_count": 38
-    },
-    {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.841,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts441134",
@@ -4067,7 +4067,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.464,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4554,7 +4554,7 @@
         "Fantascienza",
         "Thriller"
       ],
-      "rating": 6.2,
+      "rating": 6.201,
       "audio_locales": [
         "it-IT"
       ],
@@ -6604,7 +6604,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.5,
+      "rating": 7.509,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7454,7 +7454,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.856,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7640,7 +7640,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.6,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -7670,7 +7670,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.021,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7912,7 +7912,7 @@
         "Avventura",
         "Commedia"
       ],
-      "rating": 7.0,
+      "rating": 6.957,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8394,6 +8394,33 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm127513",
+      "title": "L'incantevole Creamy: il lungo addio",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 290821,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sono passati 2 anni ormai dall'ultima avventura di Yu e la ragazzina è già quasi una tredicenne. Il film si apre con l'annuncio del fidanzamento ufficiale fra Megumi (Duenote Ayase in Italia) e Tachibana (Jingle Pentagramma). Kidokoro decide di scrivere la sceneggiatura di un secondo film di fantascienza (il primo viene citato alla fine del primo OAV), dal titolo \"La storia dei due mondi\": si tratta di un film costituito da solo 4 personaggi dove le due protagoniste interpretano un duplice ruolo. Il ruolo principale viene dato a Megumi mentre il secondo non viene assegnato. Iniziano le riprese e anche Yu coi suoi amici partecipa alla preparazione del film; tutto fila liscio fino a che durante una pausa Yu, non sentendosi bene, come in una crisi, si ritrasforma in Mami.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gkERWS2suryuOKmCqUtpbJls6G0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5Jrc7AIJzl982IOYQmsjkkAzWB0.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ccd8a-a7fa-408d-8c06-fd2f1ae5bd1e",
       "maturity_rating": "T",
       "episode_count": 1
     },
