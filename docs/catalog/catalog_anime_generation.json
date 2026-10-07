@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T22:21:15Z",
+  "generated_at": "2026-10-07T04:25:36Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -152,6 +152,54 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
+    },
+    {
       "ag_id": "ts20112",
       "title": "Haikyu!! L'asso del volley",
       "year": 2014,
@@ -211,54 +259,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/u8GIA3ue6qsgA0QVxku5tg4IPVG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
     },
     {
       "ag_id": "ts21984",
@@ -409,34 +409,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -465,6 +437,63 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
+      "maturity_rating": "14+",
+      "episode_count": 41
     },
     {
       "ag_id": "ts432739",
@@ -508,6 +537,61 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts22290",
@@ -572,33 +656,6 @@
       "episode_count": 32
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -625,63 +682,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
-    },
-    {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
     },
     {
       "ag_id": "ts37899",
@@ -1004,6 +1004,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts360995",
+      "title": "Boku no kokoro no yabai yatsu",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 207250,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -1041,35 +1070,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
       "maturity_rating": "14+",
       "episode_count": 74
-    },
-    {
-      "ag_id": "ts360995",
-      "title": "Boku no kokoro no yabai yatsu",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 207250,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kyotaro Ichikawa sembra uno studente come tanti, ma nell'animo cova impulsi brutali che si insinuano nei suoi pensieri. Il principale oggetto dei suoi istinti è la compagna di classe Anna Yamada, tra le ragazze più belle e popolari della scuola. Quando la conoscerà davvero, però, Kyotaro si scoprirà a provare nuove sensazioni finora ignote.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts82387",
@@ -1439,6 +1439,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -1466,34 +1494,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
       "maturity_rating": "T",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts475209",
@@ -1736,36 +1736,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1795,23 +1765,24 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 61389,
+        "tmdb_id": 34158,
         "tmdb_type": "tv"
       },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
       "genres": [
         "Animazione",
+        "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Dramma"
+        "Commedia"
       ],
-      "rating": 8.3,
+      "rating": 8.403,
       "audio_locales": [
         "it-IT"
       ],
@@ -1819,9 +1790,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts36530",
@@ -1849,6 +1820,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
     },
@@ -1885,7 +1885,7 @@
       },
       "description_it": "La storia narra le bizzarre avventure di un gruppo di liceali che vivono a Tomobiki, località immaginaria nel distretto cittadino di Nerima, Tokyo, dove frequentano l'omonimo liceo. La vicenda in particolare ruota intorno ad Ataru Moroboshi, un ragazzo estremamente sfortunato e donnaiolo, e a Lamù, figlia del grande capo degli Oni giunto dallo spazio per invadere la Terra. Vestita unicamente dal suo bikini tigrato, Lamù si innamora di Ataru dopo aver frainteso una sua frase per una proposta di matrimonio.",
       "poster_tall": "https://image.tmdb.org/t/p/original/eXdT1D7FvApXs1Us5gAWb2dHP5M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g1DgfhkneXTRzJH38POYm4Es3gQ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kIzT3YT94UadPzBNzN2UV4zf5Bm.jpg",
       "genres": [
         "Animazione",
         "Commedia",
@@ -1933,36 +1933,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts22249",
-      "title": "Kuroko's Basket",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45783,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+",
-      "episode_count": 76
     },
     {
       "ag_id": "ts28832",
@@ -2023,6 +1993,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts22249",
+      "title": "Kuroko's Basket",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45783,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
+      "maturity_rating": "14+",
+      "episode_count": 76
     },
     {
       "ag_id": "tm247578",
@@ -3125,36 +3125,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "tm193065",
       "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
       "year": 1997,
@@ -3185,6 +3155,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "ts223380",
@@ -3262,35 +3262,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts29076",
-      "title": "Tutor Hitman Reborn!",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45857,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
-      "maturity_rating": "14+",
-      "episode_count": 203
-    },
-    {
       "ag_id": "ts52727",
       "title": "Mazinkaiser",
       "year": 2001,
@@ -3320,6 +3291,35 @@
       "episode_count": 8
     },
     {
+      "ag_id": "ts29076",
+      "title": "Tutor Hitman Reborn!",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45857,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsunayoshi Sawada è un ragazzino come tanti, anzi, un po' più imbranato degli altri: è una schiappa nello sport, ha un basso profilo scolastico e non ha successo con le ragazze. La sua vita è però destinata a cambiare a causa dell'improvvisa comparsa di un buffo personaggio, Reborn, che lo indica come decimo boss del clan Vongola, una famiglia italiana molto potente e rispettata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3wztM15Bq7TX3Kc8IzApqsOQQjK.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.947196bd-0edd-4349-9b20-409ded22de97",
+      "maturity_rating": "14+",
+      "episode_count": 203
+    },
+    {
       "ag_id": "ts463053",
       "title": "Your Forma",
       "year": 2025,
@@ -3347,6 +3347,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cb47864-2a3d-42a1-a779-8e453985c910",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts412408",
+      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236144,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts432424",
@@ -3382,36 +3412,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e33682f1-e8c5-49e4-b377-efebd3d4c4c3",
       "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
-      "ag_id": "ts412408",
-      "title": "Sokushi Cheat ga Saikyôsugite, Isekai no Yatsura ga Marude Aite ni Naranain Desu ga",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236144,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yogiri Takatou stava dormendo sull'autobus durante una gita scolastica, ma al suo risveglio si trova davanti un drago che lo sta attaccando. Nel bus sono rimasti solo lui e la sua compagna Tomochika Dannoura, che lo informa che si trovano in un altro mondo e, mentre lui dormiva, il resto della classe è scappato grazie ai poteri ottenuti da una misteriosa donna apparsa improvvisamente, Sion. Loro due, invece, sono stati abbandonati perché considerati incapaci. Ma Sion ignora che in realtà possiedono dei poteri che superano ogni limite di questo mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zN6kspmbYSwR8nmNeKvD4efNnxj.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0e24cfc-376f-4168-bd1e-ef2c8305b88e",
-      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -3847,37 +3847,6 @@
       "episode_count": 23
     },
     {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts58464",
       "title": "Shurato - L'epica degli Dei celesti",
       "year": 1989,
@@ -3934,6 +3903,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.823,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts488482",
@@ -5492,7 +5492,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.031,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -6209,6 +6209,34 @@
       "episode_count": 30
     },
     {
+      "ag_id": "ts58195",
+      "title": "Il segreto della sabbia",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23557,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Seconda metà del XIX secolo. La piccola Jane è orfana di madre: infatti Anna Buxton è morta nel darla alla luce. La bambina cresce quindi con il fratello maggiore George ed il padre Lord Buxton. Passati tre anni il padre si risposa con Margaret, una donna che ha un figlio di undici anni di nome William. Madre e figlio vanno quindi ad abitare nel castello di Glenar, dimora di Jane e del padre, ma il ragazzo non gradisce la svolta che ha preso la sua vita e si dimostra estremamente scontroso con tutti. Geloso dell'affetto che la madre ha verso i componenti la famiglia Buxton, ha un profondo legame di amicizia solamente con Jane.\n\nAnche Margaret di lì a poco muore e a William non rimane altro che l'affetto di Jane, l'unica amica che gli è rimasta, covando però nel profondo un grande risentimento verso gli altri Buxton.\n\nPassano gli anni e Jane, intelligente ed intraprendente come è, sviluppa una grande attitudine per la meccanica. Il suo sogno è infatti quello di poter volare e invece di seguire le lezioni di piano come tutte le altre ragazze di buona famiglia, passa il tempo a rovistare nel laboratorio del fratello maggiore George per costruire improbabili macchine volanti a pedali, facendo impazzire il povero maggiordomo Agenore che dovrebbe vegliare su di lei.\n\nGeorge è un giovane studioso che sta sviluppando una teoria partendo dalle antiche leggende che provengono dall'Oriente ed è convinto dell'esistenza di una sostanza, il Fojusen che permetterebbe agli uomini di volare. Riceve dal governo un incarico segreto per svolgere ricerche approfondite e parte quindi per l'Est, ufficialmente per una missione archeologica. Stranamente anche il fratello William, coinvolto in affari poco chiari con la banca di famiglia, scompare nello stesso periodo.\n\nDopo qualche tempo, quando Jane è ormai un'adolescente di 14 anni, la famiglia Buxton è sconvolta da terribili avvenimenti. Una lettera ufficiale del governo comunica l'esecuzione di George, reo di aver fomentato una rivolta in un paese orientale e subito dopo la banca dei Buxton viene svaligiata da uomini provenienti da una misteriosa macchina volante, causando la rovina della famiglia. Il cuore di Lord Buxton, non regge a tutto questo e l'uomo si riduce in fin di vita. L'unica cosa che Jane può fare, nella sua disperazione, è di accudire il padre ormai morente, quando un giorno riceve una lettera. L'indirizzo sembra vergato dalla mano del fratello George ed il contenuto è solamente una strana pietra azzurra che sembra possedere poteri misteriosi.\n\nCon la certezza che il fratello sia ancora vivo, Jane affida il padre alla governante e con Agenore parte per l'Oriente, per quella che diventerà la più grande avventura della sua vita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/9EaNz47zAZDtPSojrox8UodlrmG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/rHQa5Fmq8ofUuCHbXWWTflVnsqc.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 5.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
+      "maturity_rating": "T",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts287917",
       "title": "Tecno Ninja Gatchaman",
       "year": 1994,
@@ -6236,34 +6264,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
       "maturity_rating": "14+",
       "episode_count": 3
-    },
-    {
-      "ag_id": "ts58195",
-      "title": "Il segreto della sabbia",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23557,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Seconda metà del XIX secolo. La piccola Jane è orfana di madre: infatti Anna Buxton è morta nel darla alla luce. La bambina cresce quindi con il fratello maggiore George ed il padre Lord Buxton. Passati tre anni il padre si risposa con Margaret, una donna che ha un figlio di undici anni di nome William. Madre e figlio vanno quindi ad abitare nel castello di Glenar, dimora di Jane e del padre, ma il ragazzo non gradisce la svolta che ha preso la sua vita e si dimostra estremamente scontroso con tutti. Geloso dell'affetto che la madre ha verso i componenti la famiglia Buxton, ha un profondo legame di amicizia solamente con Jane.\n\nAnche Margaret di lì a poco muore e a William non rimane altro che l'affetto di Jane, l'unica amica che gli è rimasta, covando però nel profondo un grande risentimento verso gli altri Buxton.\n\nPassano gli anni e Jane, intelligente ed intraprendente come è, sviluppa una grande attitudine per la meccanica. Il suo sogno è infatti quello di poter volare e invece di seguire le lezioni di piano come tutte le altre ragazze di buona famiglia, passa il tempo a rovistare nel laboratorio del fratello maggiore George per costruire improbabili macchine volanti a pedali, facendo impazzire il povero maggiordomo Agenore che dovrebbe vegliare su di lei.\n\nGeorge è un giovane studioso che sta sviluppando una teoria partendo dalle antiche leggende che provengono dall'Oriente ed è convinto dell'esistenza di una sostanza, il Fojusen che permetterebbe agli uomini di volare. Riceve dal governo un incarico segreto per svolgere ricerche approfondite e parte quindi per l'Est, ufficialmente per una missione archeologica. Stranamente anche il fratello William, coinvolto in affari poco chiari con la banca di famiglia, scompare nello stesso periodo.\n\nDopo qualche tempo, quando Jane è ormai un'adolescente di 14 anni, la famiglia Buxton è sconvolta da terribili avvenimenti. Una lettera ufficiale del governo comunica l'esecuzione di George, reo di aver fomentato una rivolta in un paese orientale e subito dopo la banca dei Buxton viene svaligiata da uomini provenienti da una misteriosa macchina volante, causando la rovina della famiglia. Il cuore di Lord Buxton, non regge a tutto questo e l'uomo si riduce in fin di vita. L'unica cosa che Jane può fare, nella sua disperazione, è di accudire il padre ormai morente, quando un giorno riceve una lettera. L'indirizzo sembra vergato dalla mano del fratello George ed il contenuto è solamente una strana pietra azzurra che sembra possedere poteri misteriosi.\n\nCon la certezza che il fratello sia ancora vivo, Jane affida il padre alla governante e con Agenore parte per l'Oriente, per quella che diventerà la più grande avventura della sua vita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9EaNz47zAZDtPSojrox8UodlrmG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/rHQa5Fmq8ofUuCHbXWWTflVnsqc.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 5.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts24595",
