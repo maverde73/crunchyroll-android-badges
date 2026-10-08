@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T12:50:52Z",
+  "generated_at": "2026-10-08T22:55:17Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -81,7 +81,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 8.019,
       "audio_locales": [
         "it-IT"
       ],
@@ -350,34 +350,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts432739",
       "title": "Tougen Anki",
       "year": 2025,
@@ -419,6 +391,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts87564",
@@ -539,33 +539,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -614,7 +587,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.1,
+      "rating": 8.071,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -716,6 +689,33 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
+    },
+    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -774,35 +774,6 @@
       "episode_count": 52
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.093,
-      "audio_locales": [
-        "zh"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm69778",
       "title": "Lupin III - Il castello di Cagliostro",
       "year": 1979,
@@ -831,6 +802,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "zh"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts20686",
@@ -913,6 +913,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
       "maturity_rating": "16+",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts16839",
@@ -1059,7 +1089,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.6,
+      "rating": 8.597,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1439,34 +1469,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -1494,6 +1496,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
       "maturity_rating": "T",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts475209",
@@ -1548,7 +1578,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.0,
+      "rating": 7.845,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1658,7 +1688,7 @@
         "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.1,
+      "rating": 8.101,
       "audio_locales": [
         "it-IT"
       ],
@@ -1727,36 +1757,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
     },
     {
       "ag_id": "ts24483",
@@ -1929,6 +1929,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
+    },
+    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1958,35 +1987,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
     },
     {
       "ag_id": "ts22249",
@@ -2109,6 +2109,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm136990",
       "title": "Lupin III: Bye Bye Liberty - Scoppia la crisi!",
       "year": 1989,
@@ -2138,34 +2166,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
       "maturity_rating": "16+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "ts485272",
@@ -2432,36 +2432,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -2489,6 +2459,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -2538,7 +2538,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.048,
+      "rating": 6.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2685,7 +2685,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.5,
+      "rating": 7.477,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3301,7 +3301,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 8.2,
+      "rating": 8.165,
       "audio_locales": [
         "it-IT"
       ],
@@ -4090,7 +4090,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.464,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4120,7 +4120,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.9,
+      "rating": 7.862,
       "audio_locales": [
         "it-IT"
       ],
@@ -4172,7 +4172,7 @@
       },
       "description_it": "",
       "poster_tall": "https://image.tmdb.org/t/p/original/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fnsH3q7ciHITgHJaGioIZaIqK0n.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/A3ndC0rTOUc4qze6W7FjKRqnuoc.jpg",
       "genres": [
         "Animazione",
         "Commedia"
@@ -4467,7 +4467,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 7.7,
+      "rating": 7.653,
       "audio_locales": [
         "it-IT"
       ],
@@ -4606,7 +4606,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.4,
+      "rating": 7.373,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4755,7 +4755,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.2,
+      "rating": 7.162,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5218,7 +5218,7 @@
         "Animazione",
         "Fantascienza"
       ],
-      "rating": 6.835,
+      "rating": 6.8,
       "audio_locales": [
         "it-IT"
       ],
@@ -5280,7 +5280,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.4,
+      "rating": 7.374,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5715,7 +5715,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.41,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6131,7 +6131,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.3,
+      "rating": 7.313,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6478,7 +6478,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 4.938,
+      "rating": 4.9,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6489,6 +6489,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4b829e13-9824-4afb-bd72-8b1ef507a9aa",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts64978",
+      "title": "Mademoiselle Anne - Una ragazza alla moda",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45229,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mademoiselle Anne (Benio Hanamura in lingua originale) si vanta di essere una ragazza moderna ed indipendente, tuttavia si mette sempre nei guai e combina tremendi pasticci. Quando il padre le comunica, che, già alla sua nascita, era stata promessa in moglie a tal tenente Shinobu Ijuin, va su tutte le furie e rifiuta, oltraggiata, il matrimonio combinato, come retaggio di un mondo passato e ormai inaccertabile nel 7º anno del periodo Taisho (1912 - 1926). Tuttavia il promesso sposo non demorde, e tenterà in tutti modi di persuadere la ragazza a concedergli la mano, chi la spunterà? Non mancheranno ostacoli e rivali amorosi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oLxhTcAmdzoVTHCRYkcZaYc84Ow.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nkWHzsKKQOTqxQlmMgOc4RMOLFz.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
+      "maturity_rating": "",
+      "episode_count": 42
     },
     {
       "ag_id": "ts539",
@@ -6741,7 +6771,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.431,
       "audio_locales": [
         "it-IT"
       ],
@@ -6845,6 +6875,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm9483",
+      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45378,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm49444",
       "title": "Detective Conan - L'asso di picche",
       "year": 1998,
@@ -6862,7 +6923,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.172,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -6873,36 +6934,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts64978",
-      "title": "Mademoiselle Anne - Una ragazza alla moda",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45229,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mademoiselle Anne (Benio Hanamura in lingua originale) si vanta di essere una ragazza moderna ed indipendente, tuttavia si mette sempre nei guai e combina tremendi pasticci. Quando il padre le comunica, che, già alla sua nascita, era stata promessa in moglie a tal tenente Shinobu Ijuin, va su tutte le furie e rifiuta, oltraggiata, il matrimonio combinato, come retaggio di un mondo passato e ormai inaccertabile nel 7º anno del periodo Taisho (1912 - 1926). Tuttavia il promesso sposo non demorde, e tenterà in tutti modi di persuadere la ragazza a concedergli la mano, chi la spunterà? Non mancheranno ostacoli e rivali amorosi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oLxhTcAmdzoVTHCRYkcZaYc84Ow.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nkWHzsKKQOTqxQlmMgOc4RMOLFz.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
-      "maturity_rating": "",
-      "episode_count": 42
     },
     {
       "ag_id": "tm102684",
@@ -7048,6 +7079,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
       "maturity_rating": "18+",
       "episode_count": 6
+    },
+    {
+      "ag_id": "tm437406",
+      "title": "DanMachi - La freccia di Orione",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 553835,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm38037",
@@ -7460,38 +7523,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm437406",
-      "title": "DanMachi - La freccia di Orione",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 553835,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Nella città di Orario, sotto un'alta torre, si trova un misterioso sotterraneo pieno di insidie e solo gli avventurieri che formano una partnership con gli dei hanno qualche speranza di sconfiggere i mostri che vi si trovano all'interno. Come se non bastasse, lontano dalla città, tra le rovine di un antico borgo, sorge una nuova minaccia. Per sventarla, la dea Artemide è venuta a Orario in cerca di un campione ma a sorpresa la scelta non cadrà su Ais Wallenstein (la leggendaria Principessa della Spada) o su Ottar (il guerriero più forte che sia mai entrato nel sotterraneo) ma verso Bell Cranel, un avventuriero principiante in coppia con una dea di basso livello.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/4MXqMU2n4kgGgoaiw8gGxCSYUc7.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zlpKUEE4A5LjaTmEz37pw2VZQug.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Commedia",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1596419-60ef-4a1b-8a5f-942bb0b6cbfc",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm103515",
       "title": "Lupin III - Trappola mortale",
       "year": 1996,
@@ -7541,7 +7572,7 @@
         "televisione film",
         "Commedia"
       ],
-      "rating": 7.5,
+      "rating": 7.513,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7614,6 +7645,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a19ee0d9-3f32-4911-90c2-f97e8860d797",
       "maturity_rating": "T",
       "episode_count": 4
+    },
+    {
+      "ag_id": "tm50107",
+      "title": "Lupin III - L'amore da capo: Fujiko's Unlucky Days",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31594,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Per non farsi rubare il documento di Colombo, che dice esattamente dove si trova l'uovo di Colombo, Fujiko lo memorizza e poi lo distrugge. Toccherà a Lupin cercare l'uovo quando Fujiko verrà colpita da amnesia temporanea.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1paL0pFzLzo97JLISxWf70atXc1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qrUaucJ1wJcI7AAnuHtoi2OVbml.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "televisione film",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm34524",
@@ -7767,37 +7830,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25043775-276f-4e50-9f8a-28cb41d63d98",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm9483",
-      "title": "Lupin III - All'inseguimento del tesoro di Harimao",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45378,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin III, insieme a Fujiko, Jigen e Goemon, decide di cercare il tesoro di Harimao, il capo di una famosa banda che durante la seconda guerra mondiale aveva accumulato un tesoro per circa 800 miliardi di dollari. L'unico a conoscere il segreto per trovare questo tesoro e un anziano agente del MI6: Sir Archer. Per poter trovare il tesoro però occorrono anche tre statuette ossia quelle dell'orso, dell'aquila e della scimmia. Sir Archer e sua nipote Diana decidono, in seguito all'esplosione dell'euro tunnel avvenuta per mano di un'organizzazione neonazista, di cercare le tre statuette e quindi il tesoro per risarcire i danni dell'euro tunnel.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6eLVl6zHvu1n8vW0F8RxmngSVPg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.38bb7db7-c121-9b89-736a-a69a895640be",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -7975,38 +8007,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7738f70-f824-4b7b-bc43-5e9fa83b7581",
       "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm50107",
-      "title": "Lupin III - L'amore da capo: Fujiko's Unlucky Days",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31594,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Per non farsi rubare il documento di Colombo, che dice esattamente dove si trova l'uovo di Colombo, Fujiko lo memorizza e poi lo distrugge. Toccherà a Lupin cercare l'uovo quando Fujiko verrà colpita da amnesia temporanea.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1paL0pFzLzo97JLISxWf70atXc1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qrUaucJ1wJcI7AAnuHtoi2OVbml.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "televisione film",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.258,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.24bb82f4-08ee-fb1e-185d-bb37da9770da",
-      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -8524,7 +8524,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.8,
+      "rating": 6.2,
       "audio_locales": [
         "ja-JP"
       ],
@@ -8562,7 +8562,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4941f73a-2dd1-4472-b875-348f7c5f5d8b",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     }
   ]
