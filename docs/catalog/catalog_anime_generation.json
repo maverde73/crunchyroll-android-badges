@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T12:08:26Z",
+  "generated_at": "2026-10-11T21:30:21Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -50,7 +50,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.521,
+      "rating": 8.514,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -139,7 +139,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.301,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -199,7 +199,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.196,
+      "rating": 8.199,
       "audio_locales": [
         "en-US",
         "es",
@@ -277,7 +277,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.6,
+      "rating": 7.655,
       "audio_locales": [
         "es",
         "it-IT",
@@ -333,6 +333,63 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts21930",
@@ -391,63 +448,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts14127",
@@ -556,7 +556,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.338,
+      "rating": 7.375,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -598,6 +598,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm69778",
+      "title": "Lupin III - Il castello di Cagliostro",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 15371,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts22290",
@@ -658,35 +688,6 @@
       "episode_count": 109
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
-    },
-    {
       "ag_id": "ts354570",
       "title": "Oshi no ko - My Star",
       "year": 2023,
@@ -737,6 +738,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -753,7 +783,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.441,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -794,36 +824,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm69778",
-      "title": "Lupin III - Il castello di Cagliostro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 15371,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts20686",
@@ -872,7 +872,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.659,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -954,7 +954,7 @@
         "Action & Adventure",
         "Commedia"
       ],
-      "rating": 8.41,
+      "rating": 8.417,
       "audio_locales": [
         "it-IT"
       ],
@@ -1045,7 +1045,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.3,
+      "rating": 7.341,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1261,34 +1261,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd499560-efae-4e07-adeb-d83575f45601",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "tm2859972",
@@ -1679,7 +1651,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.7,
+      "rating": 6.75,
       "audio_locales": [
         "it-IT"
       ],
@@ -1862,37 +1834,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts75698",
-      "title": "Legend of the Galactic Heroes: Die Neue These",
-      "year": 2018,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 74018,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel lontano futuro dell'umanità, due stati interstellari - il monarchico Impero Galattico e la democratica Alleanza dei Pianeti Liberi - sono coinvolti in una guerra senza fine. La storia si concentra sulle gesta dei rivali Reinhard von Müsel e Yang Wen Li mentre salgono al potere e alla fama nell'Impero Galattico e nell'Alleanza dei Pianeti Liberi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8SqEzhSAo53mn4gITdlrCUAKcCg.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma",
-        "Sci-Fi & Fantasy",
-        "War & Politics"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
-      "maturity_rating": "18+",
-      "episode_count": 48
-    },
-    {
       "ag_id": "ts28832",
       "title": "Slayers",
       "year": 1995,
@@ -1951,6 +1892,37 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts75698",
+      "title": "Legend of the Galactic Heroes: Die Neue These",
+      "year": 2018,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 74018,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel lontano futuro dell'umanità, due stati interstellari - il monarchico Impero Galattico e la democratica Alleanza dei Pianeti Liberi - sono coinvolti in una guerra senza fine. La storia si concentra sulle gesta dei rivali Reinhard von Müsel e Yang Wen Li mentre salgono al potere e alla fama nell'Impero Galattico e nell'Alleanza dei Pianeti Liberi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8SqEzhSAo53mn4gITdlrCUAKcCg.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
+      "maturity_rating": "18+",
+      "episode_count": 48
+    },
+    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1967,7 +1939,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.4,
+      "rating": 8.414,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2071,34 +2043,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts485272",
       "title": "Yugure al crepuscolo della perpetuità",
       "year": 2025,
@@ -2127,36 +2071,32 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm451542",
-      "title": "Lupin III - Addio, amico mio",
-      "year": 2019,
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 572616,
-        "tmdb_type": "movie"
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
       },
-      "description_it": "Nello special troviamo un Lupin in giacchetta nera alle prese con il \"Tradimento di Jigen\". Jigen infatti sta cercando di far fuori Lupin e Goemon, infuriato, non gli perdona il voltafaccia. Assistiamo a una resa dei conti tra Jigen (considerato \"il più temibile rivale di sempre\"), Lupin e Goemon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/acdqO8EVcO41KGWkAnVROtT9Ycx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lx6wI0HqcSnZ5BVou9mOKhd301s.jpg",
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
       "genres": [
         "Animazione",
-        "Azione",
-        "Avventura",
-        "Crime",
-        "Commedia",
-        "televisione film"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 6.2,
+      "rating": 8.0,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
-      "maturity_rating": "12+",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "tm136990",
@@ -2275,6 +2215,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "tm451542",
+      "title": "Lupin III - Addio, amico mio",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 572616,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nello special troviamo un Lupin in giacchetta nera alle prese con il \"Tradimento di Jigen\". Jigen infatti sta cercando di far fuori Lupin e Goemon, infuriato, non gli perdona il voltafaccia. Assistiamo a una resa dei conti tra Jigen (considerato \"il più temibile rivale di sempre\"), Lupin e Goemon.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/acdqO8EVcO41KGWkAnVROtT9Ycx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lx6wI0HqcSnZ5BVou9mOKhd301s.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Crime",
+        "Commedia",
+        "televisione film"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3bbd1ec4-1350-422e-a9d2-8f4f9c93f37e",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts469760",
@@ -2453,6 +2425,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts436411",
@@ -4936,34 +4936,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts16785",
-      "title": "Capeta",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34803,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts21877",
       "title": "Love Making - I principi dell'amore - la serie",
       "year": 2015,
@@ -4990,6 +4962,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
       "maturity_rating": "T",
       "episode_count": 36
+    },
+    {
+      "ag_id": "ts16785",
+      "title": "Capeta",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34803,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kappeita Taira, conosciuto da tutti come Capeta, è un ragazzo di 4° elementare che vive solamente con il padre avendo perso la madre quando era ancora molto piccolo. Il giovane cresce cercando di rendersi utile in casa aiutando nei lavori domestici e con una grande passione verso tutto ciò che riguarda i motori; un giorno il padre porta a casa dei rottami che i due trasformano in un kart da corsa con cui Capeta comincerà a gareggiare amatorialmente nelle piste del paese. Il talento e la passione portano il ragazzo, nel giro di pochi anni, ad accarezzare il sogno della Formula 1, nonostante le grandi difficoltà economiche dovute all'umile lavoro del padre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A6tucT7siPnRuJwkY3eudkbRV6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
+      "maturity_rating": "T",
+      "episode_count": 52
     },
     {
       "ag_id": "ts359791",
@@ -6634,6 +6634,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts53048",
+      "title": "KARAS",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 69055,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il mondo degli umani e quello dei demoni si sono sovrapposti, lasciando che gli umani camminassero per le strade, mentre i demoni camminano nascosti lungo le stesse strade. Una donna apparentemente giovane di nome Yurine e il suo servo, un Karas (una razza di potenti guerrieri meccanici) di nome Eko Hoshunin, hanno mantenuto a lungo l'ordine e l'equilibrio tra i mondi sovrapposti, impedendo ai demoni d'interrompere la vita degli umani. Tuttavia, gli umani sembrano aver dimenticato l'esistenza dei demoni, e non comprendono più il privilegio di vivere senza paura. Disgustato da questa arroganza, il Karas di Yurine volta le spalle alle leggi che un tempo aveva difeso, creando un esercito di demoni meccanizzati, per lanciare un attacco alla razza umana e conquistare il mondo. Ma un giovane di nome Otoha Yousuke, che ha ereditato i poteri dei Karas, prederà il posto di Eko al fianco di Yurine, e insieme affronteranno l'esercito demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hBebeL4APYNflKEbyDtsi5jG99O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qHfHAriBtjs52pyHEcXhTweDaRv.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
+      "maturity_rating": "18+",
+      "episode_count": 6
+    },
+    {
       "ag_id": "ts18589",
       "title": "Dancouga",
       "year": 1985,
@@ -7016,33 +7045,34 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts53048",
-      "title": "KARAS",
-      "year": 2005,
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 69055,
-        "tmdb_type": "tv"
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
       },
-      "description_it": "Il mondo degli umani e quello dei demoni si sono sovrapposti, lasciando che gli umani camminassero per le strade, mentre i demoni camminano nascosti lungo le stesse strade. Una donna apparentemente giovane di nome Yurine e il suo servo, un Karas (una razza di potenti guerrieri meccanici) di nome Eko Hoshunin, hanno mantenuto a lungo l'ordine e l'equilibrio tra i mondi sovrapposti, impedendo ai demoni d'interrompere la vita degli umani. Tuttavia, gli umani sembrano aver dimenticato l'esistenza dei demoni, e non comprendono più il privilegio di vivere senza paura. Disgustato da questa arroganza, il Karas di Yurine volta le spalle alle leggi che un tempo aveva difeso, creando un esercito di demoni meccanizzati, per lanciare un attacco alla razza umana e conquistare il mondo. Ma un giovane di nome Otoha Yousuke, che ha ereditato i poteri dei Karas, prederà il posto di Eko al fianco di Yurine, e insieme affronteranno l'esercito demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hBebeL4APYNflKEbyDtsi5jG99O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qHfHAriBtjs52pyHEcXhTweDaRv.jpg",
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
       "genres": [
+        "Azione",
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.9,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5f3022d1-cd40-4719-aff2-d28b9ed65e97",
-      "maturity_rating": "18+",
-      "episode_count": 6
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts4343",
@@ -7102,36 +7132,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -7415,7 +7415,7 @@
         "Fantasy",
         "Romance"
       ],
-      "rating": 7.7,
+      "rating": 7.682,
       "audio_locales": [
         "it-IT"
       ],
