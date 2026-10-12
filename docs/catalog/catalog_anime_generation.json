@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T21:30:21Z",
+  "generated_at": "2026-10-12T04:26:18Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -20,7 +20,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.494,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -50,7 +50,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.514,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -80,7 +80,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.362,
+      "rating": 8.363,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -139,7 +139,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.299,
       "audio_locales": [
         "it-IT"
       ],
@@ -150,36 +150,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
     },
     {
       "ag_id": "ts407747",
@@ -230,6 +200,36 @@
       "episode_count": 20
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -277,7 +277,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.655,
+      "rating": 7.652,
       "audio_locales": [
         "es",
         "it-IT",
@@ -364,34 +364,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -419,35 +391,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts87564",
-      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 86034,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.404,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
-      "maturity_rating": "14+",
-      "episode_count": 41
     },
     {
       "ag_id": "ts14127",
@@ -480,64 +423,61 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 119495,
+        "tmdb_id": 32676,
         "tmdb_type": "tv"
       },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
+        "Dramma"
       ],
-      "rating": 8.1,
+      "rating": 8.3,
       "audio_locales": [
-        "it-IT",
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
+      "ag_id": "ts87564",
+      "title": "Arifureta - Il più forte del mondo con un mestiere comune",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 86034,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La vita ordinaria del 17enne otaku Hajime Nagumo viene sconvolta quando lui e i suoi compagni di classe vengono convocati in un mondo fantastico e incaricati di salvare l'umanità. Mentre i suoi compagni di classe sono dotati di impressionanti abilità utili in combattimento, Hajime viene sminuito per aver ottenuto solo un'abilità di trasmutazione inferiore che manca di qualsiasi potere offensivo reale. Durante una spedizione nel Grande Labirinto di Orcus, Hajime viene tradito da uno dei suoi compagni di classe, facendolo precipitare sul fondo di un abisso. Anche se sopravvive alla caduta, Hajime si trova di fronte a mostri minacciosi e disgrazie che lo fanno precipitare in un incubo lugubre. Disperato, decide di combattere per la sua sopravvivenza!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3vwcB2MtQA1VZMCljCRSrDzNzdj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.404,
+      "audio_locales": [
         "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
-      "episode_count": 32
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
+      "episode_count": 41
     },
     {
       "ag_id": "ts342987",
@@ -570,64 +510,33 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 134667,
+        "tmdb_id": 9343,
         "tmdb_type": "tv"
       },
-      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
+        "Mistero",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.9,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
-      "ag_id": "tm69778",
-      "title": "Lupin III - Il castello di Cagliostro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 15371,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
-      "maturity_rating": "T",
-      "episode_count": 1
+      "episode_count": 13
     },
     {
       "ag_id": "ts22290",
@@ -688,6 +597,37 @@
       "episode_count": 109
     },
     {
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 119495,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
+    },
+    {
       "ag_id": "ts354570",
       "title": "Oshi no ko - My Star",
       "year": 2023,
@@ -738,6 +678,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -765,6 +734,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
       "episode_count": 112
+    },
+    {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gZaqpPi33alR2KPsS1zHwA9XEIc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts37899",
@@ -824,6 +823,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm69778",
+      "title": "Lupin III - Il castello di Cagliostro",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 15371,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts20686",
@@ -937,36 +966,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.417,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
-    },
-    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -1026,6 +1025,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
       "maturity_rating": "16+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.417,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts35578",
@@ -1204,35 +1233,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts45104",
@@ -1490,35 +1490,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1556,26 +1527,33 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts28081",
-      "title": "Un fiocco per sognare, un fiocco per cambiare",
-      "year": 1996,
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
       "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
-      "maturity_rating": "16+",
-      "episode_count": 0
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts44184",
@@ -1604,6 +1582,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
       "maturity_rating": "14+",
       "episode_count": 45
+    },
+    {
+      "ag_id": "ts28081",
+      "title": "Un fiocco per sognare, un fiocco per cambiare",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2f0aea08-e8c0-4513-9331-ee28e9bfce2b",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts492780",
@@ -1662,6 +1662,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts34474",
@@ -1748,35 +1777,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82bbeb34-bf8c-cb1c-5a50-953d39663873",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
     },
@@ -2159,35 +2159,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts394039",
-      "title": "Il giovane sognatore è un realista",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 214651,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -2215,6 +2186,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts394039",
+      "title": "Il giovane sognatore è un realista",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 214651,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wataru Sajou, che è profondamente innamorato della sua bellissima compagna di classe Aika Natsukawa, continua ad avvicinarla senza scoraggiarsi mentre sogna il loro reciproco amore. Riflettendo, Wataru si convince di non essere abbastanza per lei ed inizia a tenere le distanze, trattandola come una semplice compagna di classe. Aika è sorpresa da questo repentino cambio di atteggiamento ma non ne sembra contenta e inizia a pensare che il ragazzo la detesti. Una commedia romantica di due persone che non riescono a esprimere i propri sentimenti convinti che il loro amore non sia corrisposto.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9YAWGG7X8PU4W7MNXsO9vBJysQv.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm451542",
@@ -2678,6 +2678,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2705,34 +2733,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "tm112217",
@@ -3615,7 +3615,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 6.6,
+      "rating": 6.615,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3748,35 +3748,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts47136",
-      "title": "Il tulipano nero",
-      "year": 1975,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19869,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3806,6 +3777,35 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts47136",
+      "title": "Il tulipano nero",
+      "year": 1975,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19869,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "maturity_rating": "16+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts441134",
       "title": "Tutto solo alla conquista di un altro mondo",
       "year": 2024,
@@ -3833,37 +3833,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "tm1470968",
-      "title": "Overlord Il Film - Capitolo Del Santo Regno",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1014505,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts374110",
@@ -3921,6 +3890,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
       "maturity_rating": "T",
       "episode_count": 38
+    },
+    {
+      "ag_id": "tm1470968",
+      "title": "Overlord Il Film - Capitolo Del Santo Regno",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1014505,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Sotto il comando della Santa Regina Calca, il Santo Regno di Roble ha vissuto un periodo di pace, protetto da grandi mura. L'idillio presto svanisce quando fa la sua comparsa Jaldabaoth e vengono attaccati dall'Alleanza dei semiumani. Il Gran Maestro dei Paladini del Regno, Remedios, e l'Alta Sacerdotessa Kelart, radunano le loro forze per respingere l'attacco, ma non sono in grado di avere la meglio sulle grandi forze di Jaldabaoth: il regno rischia nuovamente la distruzione. Remedios, Kelart e la sua sottoposta intraprendono un viaggio verso il regno dello stregone Ainz Ooal Gown, per cercare il potere che li aiuterà nella lotta contro il nemico. Ma questa nazione è strana, ed è governata da un non-morto non molto ben visto da quelli del Santo Regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1Zib5taAwPTL7cv01wMt5Az4Xs6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.811,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.038b705f-90ee-4922-8992-6b7009558f3b",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts488482",
@@ -4584,6 +4584,33 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts452442",
+      "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 334601,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5pdBg9PvI4NX78i1ZvRKdciPIJC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5ASHMeo4ZvRm7a4LeAor0CgvbCe.jpg",
+      "genres": [
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
+      "maturity_rating": "T",
+      "episode_count": 21
+    },
+    {
       "ag_id": "ts56436",
       "title": "I predatori del tempo",
       "year": 1980,
@@ -4612,33 +4639,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
       "maturity_rating": "T",
       "episode_count": 53
-    },
-    {
-      "ag_id": "ts452442",
-      "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 334601,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5pdBg9PvI4NX78i1ZvRKdciPIJC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5ASHMeo4ZvRm7a4LeAor0CgvbCe.jpg",
-      "genres": [
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
-      "maturity_rating": "T",
-      "episode_count": 21
     },
     {
       "ag_id": "ts343493",
@@ -4936,34 +4936,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts21877",
-      "title": "Love Making - I principi dell'amore - la serie",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61930,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
-      "genres": [
-        "Commedia",
-        "Animazione"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
-      "maturity_rating": "T",
-      "episode_count": 36
-    },
-    {
       "ag_id": "ts16785",
       "title": "Capeta",
       "year": 2005,
@@ -5106,6 +5078,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f43ba8d8-74c6-4d99-8b3f-4de837c5c50a",
       "maturity_rating": "18+",
       "episode_count": 22
+    },
+    {
+      "ag_id": "ts21877",
+      "title": "Love Making - I principi dell'amore - la serie",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61930,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
+      "genres": [
+        "Commedia",
+        "Animazione"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
+      "maturity_rating": "T",
+      "episode_count": 36
     },
     {
       "ag_id": "ts287662",
@@ -6455,6 +6455,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts314720",
+      "title": "Sorairo Utility",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 245876,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Minami è una studentessa che cerca qualcosa che dia brio alla sua vita da liceale. Ha ogni attività extracurricolare del suo istituto, ma ritiene di essere negata in tutto. Il suo destino cambia quando, aiutando un signore anziano per strada a trasportare una sacca di bastoni, arriva a un driving range. L'incontro con la bravissima Haruka le farà conoscere il golf.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/lwIqH2y5G2cqbgoC8F3efWLICiA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1eWI1oR4LexG8PUMXVA1GAIHkKo.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts64978",
       "title": "Mademoiselle Anne - Una ragazza alla moda",
       "year": 1978,
@@ -7122,7 +7150,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.915,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7221,34 +7249,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b97ba7c-2045-4901-8c52-686a3e5a3cc8",
       "maturity_rating": "",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts314720",
-      "title": "Sorairo Utility",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 245876,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Minami è una studentessa che cerca qualcosa che dia brio alla sua vita da liceale. Ha ogni attività extracurricolare del suo istituto, ma ritiene di essere negata in tutto. Il suo destino cambia quando, aiutando un signore anziano per strada a trasportare una sacca di bastoni, arriva a un driving range. L'incontro con la bravissima Haruka le farà conoscere il golf.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/lwIqH2y5G2cqbgoC8F3efWLICiA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1eWI1oR4LexG8PUMXVA1GAIHkKo.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm117778",
