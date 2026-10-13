@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T00:09:52Z",
+  "generated_at": "2026-10-13T13:36:22Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -33,6 +33,36 @@
       "episode_count": 114
     },
     {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Naruto è un giovane ninja ribelle ed emarginato a causa di un demone sigillato nel suo corpo. Nonostante sia sempre lasciato ai margini dagli abitanti del Villaggio della Foglia, lui sogna di diventare Hokage per difendere tutti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.363,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
+      "maturity_rating": "14+",
+      "episode_count": 220
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -62,36 +92,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Naruto è un giovane ninja ribelle ed emarginato a causa di un demone sigillato nel suo corpo. Nonostante sia sempre lasciato ai margini dagli abitanti del Villaggio della Foglia, lui sogna di diventare Hokage per difendere tutti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.363,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
-      "maturity_rating": "14+",
-      "episode_count": 220
     },
     {
       "ag_id": "ts10145",
@@ -169,7 +169,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.199,
+      "rating": 8.202,
       "audio_locales": [
         "en-US",
         "es",
@@ -230,35 +230,33 @@
       "episode_count": 85
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
+      "ag_id": "ts517188",
+      "title": "Dragon Ball Super: Beerus",
+      "year": 2026,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 24710,
+        "tmdb_id": 312359,
         "tmdb_type": "tv"
       },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "description_it": "Dopo la sconfitta di Majin Buu, la Terra vive un periodo di pace. Ma nell'Universo 7 si risveglia Beerus, il temibile Dio della Distruzione, incuriosito da una profezia che parla di un guerriero Saiyan capace di tenergli testa. Seguendo queste voci, Beerus arriva sulla Terra e incontra Goku e i suoi compagni. Quello che inizia come una semplice sfida si trasforma presto in una minaccia reale: se nessuno riuscirà a soddisfare Beerus, il pianeta verrà distrutto. Per salvare la Terra, Goku e Vegeta dovranno superare i propri limiti e affrontare un potere mai visto prima, dando inizio a una nuova era di battaglie divine.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 9.829,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1afc0306-8298-4a6b-98a3-08f40a8ffa61",
+      "maturity_rating": "T",
+      "episode_count": 19
     },
     {
       "ag_id": "ts432739",
@@ -304,6 +302,37 @@
       "episode_count": 48
     },
     {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -321,7 +350,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.387,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -351,7 +380,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.51,
       "audio_locales": [
         "it-IT"
       ],
@@ -362,36 +391,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
     },
     {
       "ag_id": "ts21930",
@@ -421,35 +420,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
-    },
-    {
-      "ag_id": "ts517188",
-      "title": "Dragon Ball Super: Beerus",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 312359,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo la sconfitta di Majin Buu, la Terra vive un periodo di pace. Ma nell'Universo 7 si risveglia Beerus, il temibile Dio della Distruzione, incuriosito da una profezia che parla di un guerriero Saiyan capace di tenergli testa. Seguendo queste voci, Beerus arriva sulla Terra e incontra Goku e i suoi compagni. Quello che inizia come una semplice sfida si trasforma presto in una minaccia reale: se nessuno riuscirà a soddisfare Beerus, il pianeta verrà distrutto. Per salvare la Terra, Goku e Vegeta dovranno superare i propri limiti e affrontare un potere mai visto prima, dando inizio a una nuova era di battaglie divine.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 9.806,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1afc0306-8298-4a6b-98a3-08f40a8ffa61",
-      "maturity_rating": "7+",
-      "episode_count": 19
     },
     {
       "ag_id": "ts87564",
@@ -509,33 +479,34 @@
       "episode_count": 40
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 9343,
+        "tmdb_id": 56387,
         "tmdb_type": "tv"
       },
-      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
       "genres": [
+        "Action & Adventure",
         "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Dramma"
       ],
-      "rating": 7.9,
+      "rating": 8.1,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts342987",
@@ -566,6 +537,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Tsukiko Sagi, la famosa disegnatrice che ha partorito la mascotte Maromi, viene aggredita con una mazza da baseball da uno squilibrato di cui la ragazza ricorda solo essere un bambino su pattini a rotelle color oro e con indosso un cappellino da baseball. Le ricerche partono immediatamente anche se il sospetto che la ragazza abbia mentito sull'accaduto viene subito avanzato da uno degli investigatori. Giorni dopo altre persone vengono però colpite da questo maniaco, che viene soprannominato Shonen Bat, ed il misterioso ragazzino diventa una sorta di leggenda metropolitana.\n\nDopo diversi casi i due detective riescono a mettere le mani su un sospetto che combacia con la descrizione fatta dalla prima vittima. Il ragazzo confessa di aver perpetrato la riprovevole azione perché crede di essere il guerriero protagonista di un gioco di ruolo. Dopo vari interrogatori, però, i poliziotti scoprono che in realtà il ragazzo non è altro che un emulo e che il vero Shonen Bat è ancora a piede libero. Ma il confronto con il giovane mitomane porta la narrazione su un piano surreale, con Maniwa che intraprende un percorso d'indagine a metà tra il videogioco ed una trama fantasy. Da questo punto in poi la storia continua a snodarsi su più piani di realtà, fondendo in un'unica dimensione elementi onirici, psicoanalitici e sociologici, per poi sfociare in un epilogo catastrofico alla Ōtomo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts22290",
@@ -694,7 +694,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.9,
+      "rating": 7.939,
       "audio_locales": [
         "ja-JP"
       ],
@@ -705,35 +705,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
     },
     {
       "ag_id": "ts311625",
@@ -764,6 +735,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
     },
     {
       "ag_id": "ts37899",
@@ -914,6 +914,35 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -1027,6 +1056,35 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.507,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts16839",
       "title": "Kyashan Sins",
       "year": 2008,
@@ -1086,35 +1144,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.507,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -1132,7 +1161,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.341,
+      "rating": 7.34,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1169,7 +1198,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.6,
+      "rating": 8.602,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1235,35 +1264,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -1293,22 +1293,22 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 62428,
+        "tmdb_id": 37468,
         "tmdb_type": "tv"
       },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure"
+        "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 6.9,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1317,9 +1317,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
-      "episode_count": 13
+      "episode_count": 65
     },
     {
       "ag_id": "ts45104",
@@ -1892,35 +1892,6 @@
       "episode_count": 104
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1950,6 +1921,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22249",
@@ -2204,7 +2204,7 @@
         "Dramma",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.371,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3024,35 +3024,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts22705",
-      "title": "Il fantastico mondo di Paul",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42955,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
-      "maturity_rating": "16+",
-      "episode_count": 50
-    },
-    {
       "ag_id": "ts246911",
       "title": "Cyborg 009",
       "year": 1979,
@@ -3112,6 +3083,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts22705",
+      "title": "Il fantastico mondo di Paul",
+      "year": 1976,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42955,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un imprecisato villaggio europeo vive Paul, un ragazzo quasi adolescente che ama starsene con la testa tra le nuvole e giocare con il suo yo-yo, il suo cane Toppe e l'amica del cuore Nina. Un giorno, una misteriosa essenza proveniente da un luogo sconosciuto entra in uno dei pupazzi della camera di Paul e da quel momento la vita del ragazzo cambia drasticamente. La misteriosa essenza, infatti, anima il pupazzo che da quel momento prende il nome di Pakkun e si dimostra in grado di \"fermare il tempo\" e di trasportare Paul, Nina e Toppe nella sua dimensione, il Paese delle Meraviglie. In questo mondo, che inizialmente assomiglia ad un vero e proprio paradiso, Toppe prende sembianze antropomorfe e riesce a parlare, mentre gli oggetti di uso comune (come lo yo-yo di Paul) assumono strani poteri. Purtroppo la felicità del gruppo è di breve durata: all'improvviso si manifesta un titanico umanoide dall'aspetto demoniaco (Belt-Satan) che rapisce Nina e poi fugge. Paul e Toppe vorrebbero partire subito all'inseguimento, ma Pakkun spiega che la permanenza di estranei nel Paese delle Meraviglie può essere solo temporanea, quindi il gruppo è costretto a tornare indietro senza Nina. Tornando al suo paese, Paul viene incolpato della sparizione di Nina e da quel momento la maggior parte delle persone iniziano a trattarlo con freddezza ed a scacciarlo. Al ragazzo non resta che provare a tornare nel Paese delle Meraviglie e tentare di salvare Nina: questo lo porterà a numerose missioni nella dimensione parallela in cui incontrerà molte creature fantastiche buone e cattive (di solito seguaci di Belt Satan). Nell'episodio 17, però, la storia ha una brusca svolta, in quanto Paul riesce finalmente a scoprire uno dei covi di Belt-Satan e a mozzargli un corno, diminuendone così i poteri magici. In questo modo il gruppo riesce a salvare Nina e a tornare sano e salvo a casa. In seguito, però, Paul ed i suoi amici iniziano a temere che Belt-Satan possa conquistare l'intero Paese delle Meraviglie, in cui ormai hanno vari amici, e decidono di sconfiggerlo una volta per tutte. Belt-Satan intanto, nell'attesa che il suo corno ricresca, si dota di un emissario dando vita ad un fungo velenoso che chiamerà Kinoppi. Dopo un'altra serie di mirabolanti avventure si arriva allo scontro finale: il gruppo di amici di Paul si unisce agli abitanti del Paese delle Meraviglie ed insieme riescono a sconfiggere Belt-Satan.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/zmIUDUerUKOFvHmHiCY72xvwRwZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s8H0btCPsjabLnehMULaoapWoPC.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
+      "maturity_rating": "16+",
+      "episode_count": 50
     },
     {
       "ag_id": "ts40524",
@@ -3909,7 +3909,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.811,
+      "rating": 7.8,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4188,34 +4188,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts322046",
       "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
       "year": 2023,
@@ -4271,6 +4243,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cfcf8a3d-6bae-41f4-98c9-60deb8293705",
       "maturity_rating": "",
       "episode_count": 23
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts440071",
@@ -4577,7 +4577,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.373,
+      "rating": 7.377,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4935,36 +4935,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts5328",
-      "title": "Peter Pan",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 14578,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
-      "genres": [
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
-      "maturity_rating": "T",
-      "episode_count": 41
-    },
-    {
       "ag_id": "ts16785",
       "title": "Capeta",
       "year": 2005,
@@ -5078,6 +5048,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts5328",
+      "title": "Peter Pan",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 14578,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wendy e i suoi due fratellini vengono condotti a Neverland da Peter Pan, un bambino destinato a non crescere mai. Nella fantomatica isola che non c'è (Neverland), i tre a seguito di Peter e i bambini sperduti affronteranno tante avventure. In questo luogo infatti incontreranno fate, indiani, sirene e i temibili pirati. Wendy, responsabile e diligente, ricoprirà il ruolo di madre per tutti e nel frattempo tutti insieme combatteranno la minaccia di Capitan Uncino e la sua ciurma.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iD0m1c96fszjIOnSE9aSJqGFU67.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zsuG0VnUEwye5jng3tWRxZGP8wg.jpg",
+      "genres": [
+        "Commedia",
+        "Sci-Fi & Fantasy",
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16eed4ce-150c-4236-a91f-6d480d9e7ba0",
+      "maturity_rating": "T",
+      "episode_count": 41
     },
     {
       "ag_id": "ts406072",
@@ -5980,15 +5980,10 @@
         "ja-JP"
       ],
       "subtitle_locales": [
-        "de",
-        "en-US",
-        "es",
-        "it-IT",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6a144b13-af29-4879-b172-8cd0a35c6a90",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.21faf6a8-7c6e-4e02-94ff-54fbad51c84b",
       "maturity_rating": "14+",
       "episode_count": 24
     },
@@ -6484,34 +6479,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts314720",
-      "title": "Sorairo Utility",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 245876,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Minami è una studentessa che cerca qualcosa che dia brio alla sua vita da liceale. Ha ogni attività extracurricolare del suo istituto, ma ritiene di essere negata in tutto. Il suo destino cambia quando, aiutando un signore anziano per strada a trasportare una sacca di bastoni, arriva a un driving range. L'incontro con la bravissima Haruka le farà conoscere il golf.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/lwIqH2y5G2cqbgoC8F3efWLICiA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1eWI1oR4LexG8PUMXVA1GAIHkKo.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts64978",
       "title": "Mademoiselle Anne - Una ragazza alla moda",
       "year": 1978,
@@ -6566,6 +6533,34 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8fd02e3e-cd27-4450-ab25-20c5e914b883",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts314720",
+      "title": "Sorairo Utility",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 245876,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Minami è una studentessa che cerca qualcosa che dia brio alla sua vita da liceale. Ha ogni attività extracurricolare del suo istituto, ma ritiene di essere negata in tutto. Il suo destino cambia quando, aiutando un signore anziano per strada a trasportare una sacca di bastoni, arriva a un driving range. L'incontro con la bravissima Haruka le farà conoscere il golf.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/lwIqH2y5G2cqbgoC8F3efWLICiA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1eWI1oR4LexG8PUMXVA1GAIHkKo.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.42443e47-4f88-4c5d-9101-7011b6daae25",
       "maturity_rating": "14+",
       "episode_count": 12
     },
@@ -7131,36 +7126,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts4343",
       "title": "Don Dracula",
       "year": 1982,
@@ -7278,6 +7243,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
       "maturity_rating": "T",
       "episode_count": 51
+    },
+    {
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts66982",
@@ -7598,7 +7593,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.895,
       "audio_locales": [
         "it-IT",
         "ja-JP"
