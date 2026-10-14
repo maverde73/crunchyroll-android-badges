@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T22:18:02Z",
+  "generated_at": "2026-10-14T03:37:30Z",
   "titles": [
     {
       "ag_id": "ts22809",
@@ -31,36 +31,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "14+",
       "episode_count": 114
-    },
-    {
-      "ag_id": "ts20305",
-      "title": "Naruto",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 46260,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Naruto è un giovane ninja ribelle ed emarginato a causa di un demone sigillato nel suo corpo. Nonostante sia sempre lasciato ai margini dagli abitanti del Villaggio della Foglia, lui sogna di diventare Hokage per difendere tutti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.363,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
-      "maturity_rating": "14+",
-      "episode_count": 220
     },
     {
       "ag_id": "ts413191",
@@ -122,6 +92,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
       "maturity_rating": "14+",
       "episode_count": 1217
+    },
+    {
+      "ag_id": "ts20305",
+      "title": "Naruto",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 46260,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Naruto è un giovane ninja ribelle ed emarginato a causa di un demone sigillato nel suo corpo. Nonostante sia sempre lasciato ai margini dagli abitanti del Villaggio della Foglia, lui sogna di diventare Hokage per difendere tutti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5F0HVEgkgP99fEWDjPyikGt9jQi.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.363,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
+      "maturity_rating": "14+",
+      "episode_count": 220
     },
     {
       "ag_id": "tm190768",
@@ -333,6 +333,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -362,35 +391,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts14127",
@@ -423,35 +423,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
-    },
-    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -479,6 +450,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
     },
     {
       "ag_id": "ts44897",
@@ -766,6 +766,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "zh"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts37899",
       "title": "Overlord",
       "year": 2015,
@@ -794,35 +823,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "zh"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm69778",
@@ -914,6 +914,34 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts35329",
       "title": "Saint Seiya - Soul of Gold",
       "year": 2015,
@@ -995,38 +1023,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts12311",
-      "title": "Occhi di gatto",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34114,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 6.955,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
-      "maturity_rating": "14+",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts57405",
       "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
       "year": 1990,
@@ -1083,6 +1079,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c8bb24db-b760-142c-da57-fbaaf42d2b56",
       "maturity_rating": "18+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts12311",
+      "title": "Occhi di gatto",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34114,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiromi, Rui e Ai Kisugi (Sheila, Kelly e Tati nell'adattamento italiano) sono tre brillanti sorelle che di giorno gestiscono un caffè al centro di Tokyo. Di notte invece si dedicano alla loro seconda attività: fare le ladre di opere d'arte nei panni della celebre banda Occhi di Gatto. A muoverle però non ci sono intenti criminali, bensì la volontà di recuperare le opere del loro padre, il pittore Michael Heinz, scomparso misteriosamente anni prima e di cui cercano di ritrovarne le tracce. Sulle tracce della banda c'è la task force della polizia metropolitana di cui fa parte anche l'ispettore Toshio Utsumi (Matthew), eterno fidanzato di Hitomi, che finisce sempre per rivelarle involontariamente anche le mosse delle forze dell'ordine. Come collega di Toshio c'è anche la determinata ispettrice Mitsuko Asatani che ha un vago debole per Toshio e sospetta fortemente che Hitomi sia una delle \"Gatte\"...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8Ke03yMFFSvMnAHfNHujjJOmTCt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8npPz9oiCoff01DrphmFoIRI46y.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 6.955,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
+      "maturity_rating": "14+",
+      "episode_count": 73
     },
     {
       "ag_id": "ts25996",
@@ -2456,34 +2484,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts436411",
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "year": 2025,
@@ -3114,36 +3114,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -3189,6 +3159,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5751e475-58fc-4a87-acb6-bd9835bd9a7c",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "ts403298",
@@ -3864,34 +3864,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts374110",
-      "title": "Blades of the Guardians",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 107463,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8yaYVj6FDv33wZYnhDAcmXDJsfY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r56087oqO4gJrK5HI0Lxu07mMXQ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": true,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2948587e-b15a-403e-8755-e97fd3e85e80",
-      "maturity_rating": "16+",
-      "episode_count": 23
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3950,6 +3922,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d88d214a-49b1-4d0f-ba9f-27ff8396a4fb",
       "maturity_rating": "T",
       "episode_count": 38
+    },
+    {
+      "ag_id": "ts374110",
+      "title": "Blades of the Guardians",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 107463,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8yaYVj6FDv33wZYnhDAcmXDJsfY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r56087oqO4gJrK5HI0Lxu07mMXQ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": true,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2948587e-b15a-403e-8755-e97fd3e85e80",
+      "maturity_rating": "16+",
+      "episode_count": 23
     },
     {
       "ag_id": "ts488482",
@@ -7126,6 +7126,38 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm65142",
+      "title": "One Piece - Un'amicizia oltre i confini del mare",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 25278,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1txt9CNAmyV9rq5ihnbqBxZ3VRZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts4343",
       "title": "Don Dracula",
       "year": 1982,
@@ -7575,38 +7607,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm65142",
-      "title": "One Piece - Un'amicizia oltre i confini del mare",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 25278,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La trama del film costituisce un riassunto di quella narrata nella quarta stagione dell'anime, la saga di Alabasta.  Dopo aver incontrato la principessa Nefertari Bibi i membri della ciurma di Cappello di Paglia si impegnano ad aiutarla a salvare il regno di Alabasta, vittima di un colpo di stato operato da Crocodile, membro della flotta dei sette, e dalla Baroque Works...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1txt9CNAmyV9rq5ihnbqBxZ3VRZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mSEG0pGyCEwAWh7qNgxnuPnd8jU.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts16879",
       "title": "Kyashan - Il Mito",
       "year": 1993,
@@ -8025,6 +8025,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c4b2eba0-b552-43fd-bb4f-b7c6aca5d610",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm64489",
+      "title": "Un viaggio nel tempo di 10000 anni - Prime Rose",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 265718,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Prime Rose, la terza principessa di Guroman, nelle vesti della guerriera Emiya, si trova a dover sconfiggere una antica profezia che preannuncia la distruzione di Kukurit, in una guerra per il destino dei due mondi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5kj2s7UPWNjTARovNONB0B296GY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/phPzW2ZDmuLLuZpnJAwuWvvjbO6.jpg",
+      "genres": [
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "televisione film"
+      ],
+      "rating": 6.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.538b40ac-6ba0-422d-b636-bd4a19480479",
+      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
