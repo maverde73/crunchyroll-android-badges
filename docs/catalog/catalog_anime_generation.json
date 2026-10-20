@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T03:29:22Z",
+  "generated_at": "2026-10-20T10:57:02Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.726,
+      "rating": 9.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -122,37 +122,6 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240411,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Okarun è un liceale che crede nell'esistenza di alieni e UFO e passa le giornate leggendo riviste sull'argomento, anche se viene preso di mira dai bulli. Un giorno viene difeso dalla bella Momo Ayase, che crede ai fantasmi ma non agli alieni. Così i due si lanciano una sfida: chi dimostrerà l'esistenza di alieni o fantasmi potrà rendere l'altro il proprio galoppino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
-      "maturity_rating": "12+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts407747",
       "title": "Dragon Ball DAIMA",
       "year": 2024,
@@ -199,6 +168,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
+    },
+    {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Okarun è un liceale che crede nell'esistenza di alieni e UFO e passa le giornate leggendo riviste sull'argomento, anche se viene preso di mira dai bulli. Un giorno viene difeso dalla bella Momo Ayase, che crede ai fantasmi ma non agli alieni. Così i due si lanciano una sfida: chi dimostrerà l'esistenza di alieni o fantasmi potrà rendere l'altro il proprio galoppino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
+      "maturity_rating": "12+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts20112",
@@ -629,6 +629,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -687,34 +717,6 @@
       "episode_count": 109
     },
     {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
-    },
-    {
       "ag_id": "ts410723",
       "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
       "year": 2024,
@@ -741,6 +743,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dottor Goro rinasce come figlio della giovane star Ai Hoshino dopo che il suo delirante stalker lo ha ucciso. Ora vuole aiutare la sua nuova madre a risalire la china, ma cosa può fare un bambino contro il lato oscuro dell'industria dello spettacolo?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gArCVC4ML529WMCEqOXbALdQbUq.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
     },
     {
       "ag_id": "ts476585",
@@ -841,7 +871,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.5,
+      "rating": 7.512,
       "audio_locales": [
         "it-IT"
       ],
@@ -972,36 +1002,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts57405",
       "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
       "year": 1990,
@@ -1080,7 +1080,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.0,
+      "rating": 7.969,
       "audio_locales": [
         "it-IT"
       ],
@@ -1467,35 +1467,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts26262",
       "title": "Yattaman",
       "year": 1977,
@@ -1523,6 +1494,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b075cb84-ce61-45fd-93ee-7cac45db28de",
       "maturity_rating": "14+",
       "episode_count": 108
+    },
+    {
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.723,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts42498",
@@ -1621,7 +1621,7 @@
         "Sci-Fi & Fantasy",
         "Kids"
       ],
-      "rating": 7.5,
+      "rating": 7.571,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -1837,6 +1837,63 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
+    },
+    {
+      "ag_id": "ts52317",
+      "title": "Un oceano di avventure",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34160,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
+      "maturity_rating": "14+",
+      "episode_count": 39
+    },
+    {
       "ag_id": "ts394764",
       "title": "Lamù e i casinisti planetari",
       "year": 2022,
@@ -1868,35 +1925,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1926,34 +1954,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts52317",
-      "title": "Un oceano di avventure",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34160,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nancy Simpson (Nanami in originale) è una ragazzina che, dopo la morte della madre avvenuta qualche tempo prima, viaggia con il padre Scot (Scott in originale) e l'amico siciliano Al, su una piccola imbarcazione chiamata la \"Peperoncino\"[1] alla ricerca della mitica Balena Luminosa",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ttyw1O4RGEjw7s25t5GXNhlFyp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/i6POeroW1YzD5a2e8I2ujyTgyqQ.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb18711d-54e5-4b2b-971b-dd08ea32029b",
-      "maturity_rating": "14+",
-      "episode_count": 39
     },
     {
       "ag_id": "ts22249",
@@ -2043,34 +2043,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -2100,6 +2072,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts448353",
@@ -2491,35 +2491,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts76736",
       "title": "I cinque samurai: Message",
       "year": 1991,
@@ -2548,6 +2519,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
       "maturity_rating": "T",
       "episode_count": 5
+    },
+    {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm222871",
@@ -2667,6 +2667,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts47224",
+      "title": "Sandy dai mille colori",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 28460,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
+      "maturity_rating": "T",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -2710,35 +2739,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts47224",
-      "title": "Sandy dai mille colori",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 28460,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
-      "maturity_rating": "T",
-      "episode_count": 25
     },
     {
       "ag_id": "tm112217",
@@ -4164,34 +4164,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts440071",
-      "title": "Bad Girl",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 258000,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yu è una brava ragazza, carina e diligente. Tuttavia, pur di conquistare le attenzioni della irraggiungibile senpai a capo del comitato disciplinare, decide di diventare una terribile teppista!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts26785",
       "title": "Il cavaliere dell'area di rigore",
       "year": 2012,
@@ -4275,6 +4247,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cfcf8a3d-6bae-41f4-98c9-60deb8293705",
       "maturity_rating": "",
       "episode_count": 23
+    },
+    {
+      "ag_id": "ts440071",
+      "title": "Bad Girl",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 258000,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yu è una brava ragazza, carina e diligente. Tuttavia, pur di conquistare le attenzioni della irraggiungibile senpai a capo del comitato disciplinare, decide di diventare una terribile teppista!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/eUJ7fudfrzIxx8PJoitNsmK74ce.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.64befec4-df82-44fc-a1e5-fa31040f186f",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm187227",
@@ -6542,6 +6542,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts73018",
+      "title": "Ciao, Sabrina",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44647,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
+      "maturity_rating": "T",
+      "episode_count": 51
+    },
+    {
       "ag_id": "tm184358",
       "title": "One Piece - L'isola segreta del barone Omatsuri",
       "year": 2005,
@@ -6927,6 +6955,36 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm65142",
       "title": "One Piece - Un'amicizia oltre i confini del mare",
       "year": 2007,
@@ -7165,36 +7223,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts4343",
       "title": "Don Dracula",
       "year": 1982,
@@ -7286,34 +7314,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts73018",
-      "title": "Ciao, Sabrina",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44647,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Eriko Tamura (Sabrina, in Italia) è una ragazza di 14 anni un po' viziata, ma di buon cuore, unica figlia di Yūsuke (Luciano), presidente della Tamura Productions, compagnia che opera nel mondo dello spettacolo, e di Minako (Milena), una famosa ex-cantante. Ella è benvoluta da tutti e ha un grande talento per il canto sin da piccola, tuttavia, in procinto di inaugurare un nuovo, grande e modernissimo auditorium, i genitori della ragazza hanno un terribile incidente d'auto che causa la morte del padre e il ricovero in gravissime condizioni della madre, rimasta in coma. Eriko viene, quindi, affidata allo zio paterno Kousuke (Rolando), il quale è l'opposto del fratello, privo di scrupoli e molto ambizioso che approfitta subito della situazione per subentrare nella presidenza della compagnia.\n\nVenuto a conoscenza delle sue doti artistiche, Kousuke pensa di sfruttare la nipote per il suo tornaconto personale, ma Shin'ya Uchida (Giorgio), un caro amico di famiglia, riesce dopo un aspro contenzioso ad ottenere l'affidamento della ragazza. Da quel momento Eriko entra da professionista nel mondo della canzone e, nonostante i tentativi di distruggere la sua carriera perpetrati dallo zio, diventa ben presto una idol conquistando il cuore di tutti, ma dovrà sempre lottare contro le invidie ed i boicottaggi che questo mondo riserva.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gbH6GqO3F3Y80z74wGvJTUaL05M.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gGiT87vVtDc9vCj1xcNmrsIh2xR.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
-      "maturity_rating": "T",
-      "episode_count": 51
-    },
-    {
       "ag_id": "ts66982",
       "title": "Gotriniton",
       "year": 1981,
@@ -7341,6 +7341,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6b97ba7c-2045-4901-8c52-686a3e5a3cc8",
       "maturity_rating": "",
       "episode_count": 26
+    },
+    {
+      "ag_id": "tm60126",
+      "title": "One Piece - Episodio di Nami: Le lacrime di una navigatrice ed il legame degli amici",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 215180,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Come versione ridotta dell'Arlong Arc, lo speciale segue la stessa trama generale.  Dopo che Nami ha rubato la Going Merry, Roronoa Zoro, Usopp e in seguito Monkey D. Rufy e Sanji (insieme a Johnny e Yosaku) le si sono messi dietro e finiscono nel villaggio di Cocoyasi, la città natale di Nami governata dal tirannico uomo-pesce Arlong. È qui che vengono alla luce il passato e le vere motivazioni di Nami.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dWJ4WiOWUD7wx8KM65oQGqs4ga0.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fI9grCtscP4ICChFJWIuoR5tbBJ.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Commedia",
+        "Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7738f70-f824-4b7b-bc43-5e9fa83b7581",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts221701",
@@ -7399,38 +7431,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8ba48cfa-f579-4b7c-9cc2-685bc36c0ca1",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm60126",
-      "title": "One Piece - Episodio di Nami: Le lacrime di una navigatrice ed il legame degli amici",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 215180,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Come versione ridotta dell'Arlong Arc, lo speciale segue la stessa trama generale.  Dopo che Nami ha rubato la Going Merry, Roronoa Zoro, Usopp e in seguito Monkey D. Rufy e Sanji (insieme a Johnny e Yosaku) le si sono messi dietro e finiscono nel villaggio di Cocoyasi, la città natale di Nami governata dal tirannico uomo-pesce Arlong. È qui che vengono alla luce il passato e le vere motivazioni di Nami.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dWJ4WiOWUD7wx8KM65oQGqs4ga0.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fI9grCtscP4ICChFJWIuoR5tbBJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Commedia",
-        "Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7738f70-f824-4b7b-bc43-5e9fa83b7581",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
