@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T03:23:40Z",
+  "generated_at": "2026-10-21T11:12:08Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.7,
+      "rating": 9.703,
       "audio_locales": [
         "ja-JP"
       ],
@@ -217,7 +217,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.517,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -246,7 +246,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.302,
+      "rating": 8.301,
       "audio_locales": [
         "it-IT"
       ],
@@ -275,7 +275,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.5,
+      "rating": 8.512,
       "audio_locales": [
         "it-IT"
       ],
@@ -393,35 +393,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
-    },
-    {
       "ag_id": "ts311625",
       "title": "Tenken - Reincarnato in una spada",
       "year": 2022,
@@ -450,6 +421,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
     },
     {
       "ag_id": "ts342987",
@@ -482,6 +482,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -510,34 +538,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts87564",
@@ -802,7 +802,7 @@
         "tmdb_id": 64196,
         "tmdb_type": "tv"
       },
-      "description_it": "Yggdrasil è una realtà virtuale MMORPG che, un tempo molto popolare, ora è sull'orlo della chiusura. Momonga, uno dei giocatori più forti, esegue il login per l'ultima volta per assistere alla fine del servizio, durante il conto alla rovescia chiude gli occhi e ripensa a tutti i bei momenti passati con i suoi compagni. Quando li riapre però, Momonga scopre che il logout non è avvenuto e che, anzi, egli stesso è stato catapultato nel gioco sotto forma del suo personaggio, uno scheletro. Tutt'altro che sconvolto, da questo momento in poi il suo unico obiettivo sarà conquistare il nuovo mondo in cui è rinato.",
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
       "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
       "genres": [
@@ -810,7 +810,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.437,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -841,7 +841,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.512,
+      "rating": 7.513,
       "audio_locales": [
         "it-IT"
       ],
@@ -911,6 +911,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.096,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts20686",
@@ -1080,7 +1109,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 7.969,
+      "rating": 7.981,
       "audio_locales": [
         "it-IT"
       ],
@@ -1110,7 +1139,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.338,
+      "rating": 7.34,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1130,28 +1159,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
       "maturity_rating": "14+",
       "episode_count": 74
-    },
-    {
-      "ag_id": "ts82387",
-      "title": "Lupin The 3rd - La seconda serie",
-      "year": 1977,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts360995",
@@ -1181,6 +1188,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d6ca13dd-2ac2-42ff-a30f-2ba16badbb1e",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts82387",
+      "title": "Lupin The 3rd - La seconda serie",
+      "year": 1977,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16bb8d20-fb28-5a24-f922-0f5e7b3e63e8",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts17714",
@@ -1402,7 +1431,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1727,35 +1756,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.096,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1934,35 +1934,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -1991,6 +1962,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 78
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts485272",
@@ -2043,6 +2043,34 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -2072,34 +2100,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
     },
     {
       "ag_id": "ts448353",
@@ -2491,6 +2491,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm19944",
+      "title": "Jin-Roh - Uomini e lupi",
+      "year": 1999,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 823,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller",
+        "Fantascienza"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
+      "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts76736",
       "title": "I cinque samurai: Message",
       "year": 1991,
@@ -2519,35 +2548,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
       "maturity_rating": "T",
       "episode_count": 5
-    },
-    {
-      "ag_id": "tm19944",
-      "title": "Jin-Roh - Uomini e lupi",
-      "year": 1999,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 823,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nostra storia è ambientata negli anni '60, in un Giappone post-bellico alternativo in cui il governo è presieduto dalla Germania, qui vittoriosa trionfatrice della seconda guerra mondiale e detentrice del potere assoluto. Il controllo del paese è ripartito tra tre forze principali: la polizia pubblica, il reparto speciale DIME e un gruppo di terroristi ribelli conosciuti come “La Setta”. In questo scenario di grave agitazione politica (il lungometraggio si apre proprio durante una sommossa popolare contro la polizia pubblica) si intrecciano le storie di Kazuki Fuse, membro dello squadrone d'assalto della DIME, e di Kei, una giovane facente parte del gruppo delle “Cappuccetto Rosso”, ossia donne e bambine incaricate dai ribelli di trasportare ordigni esplosivi. Fuse (il cui nome è ricollegabile alla parola \"cane\") è un abilissimo membro della squadra d'assalto, e tuttavia anche una persona emotivamente fragile...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oZIULzVAgn0qGCRR87zNmHbZK7m.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6HtIoLN8VQ5IQQo9VU9HmM4jSFc.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller",
-        "Fantascienza"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.44bb4879-c989-7456-8e3e-ccfaa0f6a1c5",
-      "maturity_rating": "16+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm222871",
@@ -2875,13 +2875,23 @@
       ],
       "rating": 7.7,
       "audio_locales": [
+        "de",
+        "en-US",
+        "fr",
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.917db61f-79fc-45d2-b597-6023749242d1",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3cefe368-0d6f-4f75-9f0d-124e7e60243c",
       "maturity_rating": "T",
       "episode_count": 25
     },
@@ -3460,6 +3470,34 @@
       "episode_count": 4
     },
     {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
+    },
+    {
       "ag_id": "ts374187",
       "title": "2.5 Dimensional Seduction - La seduzione a 2.5 dimensioni di Ririsa",
       "year": 2024,
@@ -3487,34 +3525,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f2d90e94-b556-47f9-8546-66c27cfee222",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
     },
     {
       "ag_id": "ts88978",
@@ -3577,35 +3587,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts72501",
       "title": "È un po' magia per Terry e Maggie",
       "year": 1993,
@@ -3662,6 +3643,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
       "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
