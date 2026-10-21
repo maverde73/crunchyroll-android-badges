@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T21:15:53Z",
+  "generated_at": "2026-10-21T03:23:40Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -170,6 +170,36 @@
       "episode_count": 20
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -201,36 +231,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
-    },
-    {
       "ag_id": "tm190768",
       "title": "Perfect Blue",
       "year": 1998,
@@ -257,6 +257,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts432739",
@@ -302,33 +331,35 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 35935,
+        "tmdb_id": 62110,
         "tmdb_type": "tv"
       },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
       "genres": [
+        "Animazione",
+        "Commedia",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.4,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 47
     },
     {
       "ag_id": "ts21406",
@@ -362,6 +393,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
       "ag_id": "ts311625",
       "title": "Tenken - Reincarnato in una spada",
       "year": 2022,
@@ -392,66 +452,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
-    },
-    {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
-    },
-    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -468,7 +468,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.4,
+      "rating": 7.411,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -510,6 +510,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
     },
     {
       "ag_id": "ts87564",
@@ -568,34 +596,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts22290",
@@ -675,7 +675,7 @@
         "Action & Adventure",
         "Animazione"
       ],
-      "rating": 7.929,
+      "rating": 7.95,
       "audio_locales": [
         "ja-JP"
       ],
@@ -686,6 +686,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts354570",
@@ -714,33 +741,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
     },
     {
       "ag_id": "ts476585",
@@ -1364,7 +1364,7 @@
         "Commedia",
         "Azione"
       ],
-      "rating": 6.7,
+      "rating": 6.784,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1756,28 +1756,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1956,36 +1934,6 @@
       "episode_count": 48
     },
     {
-      "ag_id": "ts22249",
-      "title": "Kuroko's Basket",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45783,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.411,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+",
-      "episode_count": 78
-    },
-    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -2015,6 +1963,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts22249",
+      "title": "Kuroko's Basket",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45783,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.412,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
+      "maturity_rating": "14+",
+      "episode_count": 78
+    },
+    {
       "ag_id": "ts485272",
       "title": "Yugure al crepuscolo della perpetuità",
       "year": 2025,
@@ -2041,6 +2019,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a33aeb93-a744-475f-be7b-d7e55a3e0490",
       "maturity_rating": "",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm247578",
@@ -2667,6 +2667,35 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts47224",
+      "title": "Sandy dai mille colori",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 28460,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 4.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
+      "maturity_rating": "T",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts459654",
       "title": "Anne Shirley",
       "year": 2025,
@@ -2710,35 +2739,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b9c2a6-328a-4c65-b697-8889bae3ef39",
       "maturity_rating": "T",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts47224",
-      "title": "Sandy dai mille colori",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 28460,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Figlia di due giovani fiorai, Yumi Hanazono (Sandy in Italia), è una simpatica bambina amante dei fiori e del disegno. Il giorno del Carnival Flower, la festa annuale della sua città, la ragazzina dopo essere riuscita per caso a non fare recidere un dente di leone, riceve la visita di due folletti provenienti dalla Terra dei Fiori: Kashimaru e Kakimaru (Pico e Paco in Italia). Le due buffe creature pelose, rimanendo colpite dal grande affetto di Yumi per i fiori, regalano alla bambina una bacchetta e un ciondolo fatati con i quali potrà disegnare nel vuoto qualsiasi cosa rendendola reale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/p2wYNyvPMXirWlypJWJcR8PQUNg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/o6m0pz9n67ziDNSY790FsODzwfY.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 4.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
-      "maturity_rating": "T",
-      "episode_count": 25
     },
     {
       "ag_id": "tm112217",
@@ -3366,6 +3366,34 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts418967",
+      "title": "Haigakura",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 244592,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts432424",
       "title": "My Deer Friend Nokotan",
       "year": 2024,
@@ -3400,34 +3428,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.21f86435-abfa-4cfd-bc9d-834b99460838",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts418967",
-      "title": "Haigakura",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 244592,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una famiglia imprigionata e un passato perduto... Per recuperare ciò che è più prezioso, inizia la battaglia tra il cantore Ichiyo e il dio servitore Tenkou! Nell'universo divino. Questo mondo, in cui convivono divinità immortali e esseri umani, si trova sull'orlo del collasso. Ichiyo, il cantore, e Tenkou, il dio servitore, sono alla ricerca dei Quattro Spiriti Malvagi, divinità malefiche che detengono la chiave per evitare la catastrofe. Ciascuno dei due cela un proprio obiettivo mentre cerca questi spiriti. Una famiglia imprigionata e un passato dimenticato. Per recuperare ciò che è prezioso, Ichiyo e Tenkou attraverseranno il mondo intero...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mRuS1eV8L8qWRHbaeFOpu7FeUNW.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2a6eab82-1768-4aa4-8f52-a28ae26abcee",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts55977",
@@ -3724,6 +3724,35 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts441134",
+      "title": "Tutto solo alla conquista di un altro mondo",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 259558,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts23284",
       "title": "Saikano - Lei, l'arma finale",
       "year": 2002,
@@ -3752,35 +3781,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
       "maturity_rating": "16+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts441134",
-      "title": "Tutto solo alla conquista di un altro mondo",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 259558,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Haruka, che ha trascorso la sua vita da liceale come un \"solitario\", viene improvvisamente coinvolto in una convocazione in un mondo parallelo insieme ai suoi compagni di classe durante una lezione. Gli viene offerta la possibilità di scegliere una delle abilità straordinarie da una lista di \"abilità cheat\" che gli sarebbero state donate da un dio... o almeno, questo sarebbe dovuto accadere. Tuttavia, le abilità migliori erano già state prese dai suoi compagni di classe, poiché il sistema funziona in ordine di chi arriva prima. Infuriato, il dio gli assegna tutte le abilità \"negative\" rimaste, e Haruka si ritrova con l'abilità \"solitario\" che lo costringe a vivere un'avventura in completa solitudine anche in questo mondo parallelo. Senza affidarsi a poteri straordinari, Haruka decide che supererà le sfide senza \"cheat\", superando persino chi le possiede. Inizia così la storia della conquista in modalità HARD del più forte \"solitario\"!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a6wRbL6hj0bpU8dK1EAZkJDdyIV.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9002d2c9-4b29-4a66-baac-bd62eb464daf",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm1470968",
@@ -4496,7 +4496,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.4,
+      "rating": 7.377,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4607,7 +4607,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.2,
+      "rating": 7.167,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -8360,6 +8360,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm164881",
+      "title": "Bagi",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34577,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Nella fitta jungla del Sud America, Ryosuke un cacciatore giapponese (chiamato Ryo) ed un bambino del villaggio locale di nome Chico, seguono il mostro che sta terrorizzando i paesi e la campagna circostante. Ryo, in realtà, conosce piuttosto bene la bestia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qgfWspElRIqFgSnhqk0u1iyZv4D.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t3D43wF7WsgKNZEvNOGrzPWbELW.jpg",
+      "genres": [
+        "Animazione",
+        "Fantascienza",
+        "televisione film"
+      ],
+      "rating": 5.15,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.49ca3d83-bfdf-4d8f-98f7-2db63ec3ae8a",
+      "maturity_rating": "14+",
       "episode_count": 1
     },
     {
