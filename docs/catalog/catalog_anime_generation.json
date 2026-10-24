@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T15:24:36Z",
+  "generated_at": "2026-10-24T20:15:08Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -290,7 +290,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.303,
+      "rating": 8.302,
       "audio_locales": [
         "it-IT"
       ],
@@ -360,6 +360,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
     },
     {
       "ag_id": "ts21984",
@@ -452,35 +481,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
     },
     {
       "ag_id": "ts342987",
@@ -899,7 +899,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.436,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1987,7 +1987,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.411,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2851,7 +2851,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.243,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -3125,36 +3125,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5751e475-58fc-4a87-acb6-bd9835bd9a7c",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
     },
     {
       "ag_id": "ts403298",
@@ -4734,7 +4704,7 @@
         "Azione",
         "Thriller"
       ],
-      "rating": 6.9,
+      "rating": 6.893,
       "audio_locales": [
         "it-IT"
       ],
@@ -5221,6 +5191,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd7a1a63-ddda-47c8-b6ad-eff5afea5732",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
     },
     {
       "ag_id": "tm37256",
@@ -6828,6 +6828,36 @@
       "episode_count": 38
     },
     {
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm159116",
       "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
       "year": 2011,
@@ -7242,36 +7272,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7588e543-74de-4a21-be90-b7a1d038986e",
       "maturity_rating": "14+",
       "episode_count": 3
-    },
-    {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm82213",
