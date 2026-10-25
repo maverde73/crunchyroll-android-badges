@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T20:15:08Z",
+  "generated_at": "2026-10-25T03:17:38Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.671,
+      "rating": 9.666,
       "audio_locales": [
         "ja-JP"
       ],
@@ -30,36 +30,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1afc0306-8298-4a6b-98a3-08f40a8ffa61",
       "maturity_rating": "T",
       "episode_count": 19
-    },
-    {
-      "ag_id": "ts10145",
-      "title": "Detective Conan",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30983,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I casi di un detective la cui età fisica è stata invertita chimicamente a quella di un ragazzo prepubertale ma deve nascondere il suo vero sviluppo mentale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Commedia"
-      ],
-      "rating": 8.009,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
-      "maturity_rating": "14+",
-      "episode_count": 1217
     },
     {
       "ag_id": "ts22809",
@@ -92,6 +62,36 @@
       "episode_count": 114
     },
     {
+      "ag_id": "ts10145",
+      "title": "Detective Conan",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30983,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I casi di un detective la cui età fisica è stata invertita chimicamente a quella di un ragazzo prepubertale ma deve nascondere il suo vero sviluppo mentale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Commedia"
+      ],
+      "rating": 8.009,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
+      "maturity_rating": "14+",
+      "episode_count": 1217
+    },
+    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -120,6 +120,50 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
       "maturity_rating": "14+",
       "episode_count": 220
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "es",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ko",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "ts407747",
@@ -170,36 +214,6 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 60863,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
-    },
-    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -231,48 +245,34 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 253811,
+        "tmdb_id": 60863,
         "tmdb_type": "tv"
       },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
       "genres": [
         "Animazione",
-        "Mistero",
-        "Action & Adventure"
+        "Commedia",
+        "Dramma"
       ],
-      "rating": 7.7,
+      "rating": 8.6,
       "audio_locales": [
-        "es",
         "it-IT",
-        "ja-JP",
-        "pt"
+        "ja-JP"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ko",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 48
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
     },
     {
       "ag_id": "tm190768",
@@ -513,6 +513,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61389,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -691,35 +720,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts64898",
       "title": "Sampei",
       "year": 1980,
@@ -825,35 +825,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.479,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
-    },
-    {
       "ag_id": "ts461952",
       "title": "Super Cube",
       "year": 2025,
@@ -881,6 +852,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.479,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
     },
     {
       "ag_id": "ts37899",
@@ -960,7 +960,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.73,
+      "rating": 7.728,
       "audio_locales": [
         "it-IT"
       ],
@@ -1060,6 +1060,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.657,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -1090,36 +1120,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.657,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts35975",
@@ -1555,6 +1555,36 @@
       "episode_count": 108
     },
     {
+      "ag_id": "ts40524",
+      "title": "Blue Noah",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 8980,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
+      "genres": [
+        "Dramma",
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
+      "maturity_rating": "T",
+      "episode_count": 27
+    },
+    {
       "ag_id": "ts28081",
       "title": "Un fiocco per sognare, un fiocco per cambiare",
       "year": 1992,
@@ -1584,34 +1614,6 @@
       "episode_count": 61
     },
     {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.571,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts29400",
       "title": "Capricciosa Orange Road",
       "year": 1987,
@@ -1639,6 +1641,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.571,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts44184",
@@ -2377,6 +2407,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts436411",
+      "title": "Hero Without a Class: Who Even Needs Skills?!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236565,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYxTx3iPYjLMsOirDNo5bnz13OZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm20372",
       "title": "Lupin III - Per un dollaro in più",
       "year": 2000,
@@ -2406,36 +2466,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
       "maturity_rating": "12+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts436411",
-      "title": "Hero Without a Class: Who Even Needs Skills?!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236565,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYxTx3iPYjLMsOirDNo5bnz13OZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lkzrT7Vpnd2OZ2bpKXjWsb9KFc0.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5686e9a2-e824-42dc-bcee-14cd910a8759",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts76736",
@@ -3741,36 +3771,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts23284",
-      "title": "Saikano - Lei, l'arma finale",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34771,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Questa è la storia d’amore di due studenti liceali: Shuji e Chise. A prima vista Shuji è duro e insensibile… ma la timidezza, l’ingenuità e la semplicità di Chise lo hanno conquistato. Il loro amore è minacciato da molte cose: Fuyumi, l’ex di Shuji; Akemi, un’amica comune; e una guerra mondiale in cui Chise gioca una parte determinante come… arma finale!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bdCCnmI68GfAgaYQpFfFB0B9T1P.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "tm1470968",
       "title": "Overlord Il Film - Capitolo Del Santo Regno",
       "year": 2024,
@@ -3802,23 +3802,24 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts47136",
-      "title": "Il tulipano nero",
-      "year": 1975,
+      "ag_id": "ts23284",
+      "title": "Saikano - Lei, l'arma finale",
+      "year": 2002,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 19869,
+        "tmdb_id": 34771,
         "tmdb_type": "tv"
       },
-      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "description_it": "Questa è la storia d’amore di due studenti liceali: Shuji e Chise. A prima vista Shuji è duro e insensibile… ma la timidezza, l’ingenuità e la semplicità di Chise lo hanno conquistato. Il loro amore è minacciato da molte cose: Fuyumi, l’ex di Shuji; Akemi, un’amica comune; e una guerra mondiale in cui Chise gioca una parte determinante come… arma finale!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bdCCnmI68GfAgaYQpFfFB0B9T1P.jpg",
       "genres": [
-        "Action & Adventure",
         "Animazione",
-        "Dramma"
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 6.6,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT"
       ],
@@ -3826,9 +3827,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
       "maturity_rating": "16+",
-      "episode_count": 39
+      "episode_count": 13
     },
     {
       "ag_id": "ts58464",
@@ -3971,6 +3972,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2948587e-b15a-403e-8755-e97fd3e85e80",
       "maturity_rating": "16+",
       "episode_count": 23
+    },
+    {
+      "ag_id": "ts47136",
+      "title": "Il tulipano nero",
+      "year": 1975,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19869,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "maturity_rating": "16+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts365130",
@@ -4764,7 +4794,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.9,
+      "rating": 6.927,
       "audio_locales": [
         "it-IT"
       ],
@@ -5191,36 +5221,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dd7a1a63-ddda-47c8-b6ad-eff5afea5732",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts40524",
-      "title": "Blue Noah",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8980,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2052 la Terra ha raggiunto finalmente la pace e il genere umano sta colonizzando il sistema solare. Il progresso tecnologico viene guidato da nove grandi centri di ricerca. Improvvisamente compare vicino al nostro pianeta una razza aliena, il cui pianeta madre Gotham è stato distrutto da un buco nero. I profughi sono alla disperata ricerca di una nuova patria e decidono di conquistare la Terra per adattarla alle proprie esigenze. I loro attacchi causano perdite spaventose, e l'ultima speranza del genere umano è la grande nave - sottomarino sperimentale Blue Noah, creata in origine per tenere sotto controllo eventuali ribellioni delle colonie su altri pianeti. Blue Noah però non può ancora affrontare lo spazio, e nel centro di ricerca N9 si stanno preparando gli ultimi, indispensabili componenti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/abBGkX3WnJntaIaxd5R0mBw6oNy.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qjYIY68m9sU0LjY2QmOn98f1FyK.jpg",
-      "genres": [
-        "Dramma",
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
-      "maturity_rating": "T",
-      "episode_count": 27
     },
     {
       "ag_id": "tm37256",
@@ -6931,7 +6931,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.433,
+      "rating": 7.425,
       "audio_locales": [
         "it-IT"
       ],
@@ -7108,7 +7108,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.176,
+      "rating": 7.167,
       "audio_locales": [
         "it-IT"
       ],
@@ -8181,37 +8181,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm64489",
-      "title": "Un viaggio nel tempo di 10000 anni - Prime Rose",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 265718,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Prime Rose, la terza principessa di Guroman, nelle vesti della guerriera Emiya, si trova a dover sconfiggere una antica profezia che preannuncia la distruzione di Kukurit, in una guerra per il destino dei due mondi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5kj2s7UPWNjTARovNONB0B296GY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/phPzW2ZDmuLLuZpnJAwuWvvjbO6.jpg",
-      "genres": [
-        "Fantascienza",
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "televisione film"
-      ],
-      "rating": 6.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.538b40ac-6ba0-422d-b636-bd4a19480479",
-      "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm97827",
       "title": "Fumoon",
       "year": 1980,
@@ -8240,6 +8209,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e870b62a-5ea4-425e-a9e2-ce87e77a439e",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm64489",
+      "title": "Un viaggio nel tempo di 10000 anni - Prime Rose",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 265718,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Prime Rose, la terza principessa di Guroman, nelle vesti della guerriera Emiya, si trova a dover sconfiggere una antica profezia che preannuncia la distruzione di Kukurit, in una guerra per il destino dei due mondi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5kj2s7UPWNjTARovNONB0B296GY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/phPzW2ZDmuLLuZpnJAwuWvvjbO6.jpg",
+      "genres": [
+        "Fantascienza",
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "televisione film"
+      ],
+      "rating": 6.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.538b40ac-6ba0-422d-b636-bd4a19480479",
+      "maturity_rating": "16+",
       "episode_count": 1
     },
     {
