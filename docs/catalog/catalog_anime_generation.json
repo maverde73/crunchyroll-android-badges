@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T20:23:56Z",
+  "generated_at": "2026-10-26T03:19:06Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.675,
+      "rating": 9.662,
       "audio_locales": [
         "ja-JP"
       ],
@@ -30,6 +30,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1afc0306-8298-4a6b-98a3-08f40a8ffa61",
       "maturity_rating": "T",
       "episode_count": 19
+    },
+    {
+      "ag_id": "ts10145",
+      "title": "Detective Conan",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30983,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I casi di un detective la cui età fisica è stata invertita chimicamente a quella di un ragazzo prepubertale ma deve nascondere il suo vero sviluppo mentale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Commedia"
+      ],
+      "rating": 8.007,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
+      "maturity_rating": "14+",
+      "episode_count": 1217
     },
     {
       "ag_id": "ts22809",
@@ -62,36 +92,6 @@
       "episode_count": 114
     },
     {
-      "ag_id": "ts10145",
-      "title": "Detective Conan",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30983,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I casi di un detective la cui età fisica è stata invertita chimicamente a quella di un ragazzo prepubertale ma deve nascondere il suo vero sviluppo mentale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Commedia"
-      ],
-      "rating": 8.009,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
-      "maturity_rating": "14+",
-      "episode_count": 1217
-    },
-    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -120,51 +120,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
       "maturity_rating": "14+",
       "episode_count": 220
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ko",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 48
     },
     {
       "ag_id": "ts407747",
@@ -215,34 +170,49 @@
       "episode_count": 20
     },
     {
-      "ag_id": "ts20112",
-      "title": "Haikyu!! L'asso del volley",
-      "year": 2014,
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 60863,
+        "tmdb_id": 253811,
         "tmdb_type": "tv"
       },
-      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
-        "Dramma"
+        "Mistero",
+        "Action & Adventure"
       ],
-      "rating": 8.6,
+      "rating": 7.695,
       "audio_locales": [
+        "en-US",
+        "es",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ko",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
-      "maturity_rating": "14+",
-      "episode_count": 85
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "ts413191",
@@ -276,6 +246,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts20112",
+      "title": "Haikyu!! L'asso del volley",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 60863,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Dopo aver assistito a una partita di pallavolo, il giovane Shouyou Hinata si pone come personale obiettivo di diventare \"Il piccolo Gigante\" di quello sport. Entrato nel club di pallavolo della sua scuola media, affronta insieme alla squadra il torneo interscolastico ma lui e i suoi compagni devono inchinarsi di fronte a una forte squadra guidata da un formidabile giocatore di nome Tobio Kageyama. Desideroso di arrivare ai vertici e di prendersi la rivincita su Kageyama, Shouyou continua a praticare la pallavolo anche alla sua entrata alle superiori, dove però trova nel club scolastico proprio il suo rivale Kageyama.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2SYVA8CA0E65DRFXEg34QpUYUu3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zr1MDQCPVB5uJEHxiO6Tukn4OjH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.875a06a6-c2df-4d53-8c9a-9bf79976ad20",
+      "maturity_rating": "14+",
+      "episode_count": 85
+    },
+    {
       "ag_id": "tm190768",
       "title": "Perfect Blue",
       "year": 1998,
@@ -302,35 +302,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts14127",
@@ -361,6 +332,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.508,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts21930",
@@ -691,6 +691,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts20686",
+      "title": "Terror in Resonance - L’eco del terrore",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61421,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Due loschi figuri si introducono in una struttura del nord del Giappone che contiene combustibile nucleare per rubare qualcosa, lasciandosi alle spalle solo le lettere VON. Sei mesi dopo, a Tokyo, fanno la loro comparsa online le Sphinx, due ragazzi misteriosi che caricano video con strani messaggi profetici su una famosa piattaforma di video sharing.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Crime"
+      ],
+      "rating": 7.728,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
+      "maturity_rating": "14+",
+      "episode_count": 11
+    },
+    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -719,6 +749,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
       "maturity_rating": "T",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.27,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts64898",
@@ -763,7 +822,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.931,
+      "rating": 7.951,
       "audio_locales": [
         "ja-JP"
       ],
@@ -804,65 +863,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts20686",
-      "title": "Terror in Resonance - L’eco del terrore",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61421,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Due loschi figuri si introducono in una struttura del nord del Giappone che contiene combustibile nucleare per rubare qualcosa, lasciandosi alle spalle solo le lettere VON. Sei mesi dopo, a Tokyo, fanno la loro comparsa online le Sphinx, due ragazzi misteriosi che caricano video con strani messaggi profetici su una famosa piattaforma di video sharing.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iQratRwoIhys2faomgsoj1E4P1g.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Crime"
-      ],
-      "rating": 7.728,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
-      "maturity_rating": "14+",
-      "episode_count": 11
-    },
-    {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 93149,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.27,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts476585",
       "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
       "year": 2025,
@@ -885,33 +885,34 @@
       "episode_count": 0
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
+      "ag_id": "tm69778",
+      "title": "Lupin III - Il castello di Cagliostro",
+      "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
+        "tmdb_id": 15371,
+        "tmdb_type": "movie"
       },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Avventura",
+        "Commedia",
+        "Crime"
       ],
-      "rating": 8.1,
+      "rating": 7.515,
       "audio_locales": [
         "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
-      "languages_assumed": true,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts28078",
@@ -959,7 +960,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.4,
+      "rating": 8.433,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -973,34 +974,33 @@
       "episode_count": 52
     },
     {
-      "ag_id": "tm69778",
-      "title": "Lupin III - Il castello di Cagliostro",
-      "year": 1979,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 15371,
-        "tmdb_type": "movie"
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
       },
-      "description_it": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ctioknz3jwYVqcuZv5iMDESv6aw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
         "Animazione",
-        "Avventura",
-        "Commedia",
-        "Crime"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.515,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
-      "maturity_rating": "T",
-      "episode_count": 1
+      "languages_assumed": true,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts360995",
@@ -1048,7 +1048,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.507,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1639,7 +1639,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1672,34 +1672,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
-    },
-    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1727,6 +1699,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10ad4729-7f8b-4a78-8220-d1f062c1d94b",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
     },
     {
       "ag_id": "ts475209",
@@ -1764,6 +1764,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d462c926-f813-416e-b20d-89d7b8a836a4",
       "maturity_rating": "7+",
       "episode_count": 49
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts492780",
@@ -1911,6 +1941,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
+    },
+    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1940,35 +1999,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
     },
     {
       "ag_id": "ts394764",
@@ -3730,7 +3760,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.0,
+      "rating": 7.043,
       "audio_locales": [
         "it-IT"
       ],
@@ -5210,7 +5240,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.379,
+      "rating": 7.38,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5253,36 +5283,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c098f749-a05b-4d48-8fa5-7c8b2fc9ab30",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts32338",
-      "title": "Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts450777",
@@ -5390,7 +5390,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 5.974,
+      "rating": 6.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5835,36 +5835,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm117018",
-      "title": "Lupin III - Spada Zantetsu, infuocati!",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 51943,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Avventura",
-        "Crime"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm74741",
       "title": "Lady Oscar - Il film",
       "year": 1979,
@@ -6039,6 +6009,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d421c742-7760-4512-8db7-af6cc2e1e703",
       "maturity_rating": "T",
       "episode_count": 14
+    },
+    {
+      "ag_id": "tm117018",
+      "title": "Lupin III - Spada Zantetsu, infuocati!",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 51943,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e la sua banda sono sulle tracce del relitto del Titanic, all'interno del quale dovrebbe trovarsi una statua di dragone che custodisce in sé il segreto per la creazione del metallo più resistente del mondo, realizzato dallo stesso fabbro che creò la Zantetzu-ken di Goemon. Sulle tracce della statua c'è anche Cin Cin Chu, il boss della mafia di Hong-Kong, che intende usare il metallo speciale per creare una sua personale flotta di aerei indistruttibili con cui dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s7VbhiSexI7bckVcj1dkX80AnRp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Avventura",
+        "Crime"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcbbc9d7-8628-628b-a78d-2b1346bd0ca8",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts5162",
