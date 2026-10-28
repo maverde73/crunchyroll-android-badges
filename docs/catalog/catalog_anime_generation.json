@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-28T12:08:51Z",
+  "generated_at": "2026-10-28T22:11:58Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.7,
+      "rating": 9.653,
       "audio_locales": [
         "ja-JP"
       ],
@@ -420,6 +420,37 @@
       "episode_count": 300
     },
     {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -478,37 +509,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts311625",
@@ -736,7 +736,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 7.952,
       "audio_locales": [
         "ja-JP"
       ],
@@ -834,28 +834,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -883,6 +861,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts28078",
@@ -967,7 +967,7 @@
       "subtitle_locales": [
         "it-IT"
       ],
-      "languages_assumed": true,
+      "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
       "episode_count": 12
@@ -1109,7 +1109,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.672,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1461,7 +1461,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1911,6 +1911,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
+    },
+    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1940,35 +1969,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
     },
     {
       "ag_id": "ts394764",
@@ -2082,34 +2082,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts448353",
       "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
       "year": 2025,
@@ -2137,6 +2109,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts308038",
@@ -2168,6 +2168,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts469760",
+      "title": "Fermat Kitchen",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283704,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "tm247578",
       "title": "Lupin III - La partita italiana",
       "year": 2016,
@@ -2197,34 +2225,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c7b4259a-0059-4cd5-89c5-76ecad2adeb8",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts469760",
-      "title": "Fermat Kitchen",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 283704,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A8k5mUDfLX0eEEzcYflontbCAUt.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uN5YlWUUfHbkulh3PCTU5Jrw8QO.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts394039",
@@ -2395,7 +2395,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.1,
+      "rating": 6.076,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2528,36 +2528,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm141589",
       "title": "The Last: Naruto the Movie",
       "year": 2014,
@@ -2615,6 +2585,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -2678,6 +2678,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts504283",
+      "title": "Yowayowa Sensei - La prof timorosa",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 284447,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.9,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2705,34 +2733,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts504283",
-      "title": "Yowayowa Sensei - La prof timorosa",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 284447,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hiyori Hiwamura è conosciuta come la \"Maestra Spaventosa\", e se la offendi, ti lancerà una maledizione! O almeno così credono tutti. In realtà è una persona dolcissima, profondamente incompresa, e una volta che vedrai il suo lato tenero, ti lancerà un incantesimo di tutt'altro genere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tHjbyrqvbBkF6XwZgdSn3o74WzK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dKA8y1HxEq09M11p896hBkZsku1.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm112217",
@@ -3524,7 +3524,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.3,
+      "rating": 8.363,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3892,34 +3892,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "ts15250",
       "title": "Caro fratello",
       "year": 1991,
@@ -3974,6 +3946,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2948587e-b15a-403e-8755-e97fd3e85e80",
       "maturity_rating": "16+",
       "episode_count": 23
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts37954",
@@ -4032,35 +4032,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.405ceafd-6bd2-45c3-920f-8d680457912f",
       "maturity_rating": "18+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts47136",
-      "title": "Il tulipano nero",
-      "year": 1975,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19869,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
-      "maturity_rating": "16+",
-      "episode_count": 39
     },
     {
       "ag_id": "tm214218",
@@ -4150,6 +4121,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
       "maturity_rating": "T",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts47136",
+      "title": "Il tulipano nero",
+      "year": 1975,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19869,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia inizia nel 1784 quando Simone Lorène, una ragazza di quindici anni figlia di due fiorai parigini appartenenti al terzo stato, viene avvicinata dal conte De Voudrel, che inspiegabilmente la prende in simpatia e le insegna l'arte della spada facendola diventare in breve tempo una grandissima spadaccina. In realtà il conte è a conoscenza di un incredibile segreto: quelli che Simone crede i suoi veri genitori sono genitori adottivi e lei è la figlia illegittima del padre di Maria Antonietta, regina di Francia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s4M2GeH2FA8o4fAWdZvpGQTr3ka.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/vzs8xMjBMzsBbenMla41KS43Jqh.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9abb4b2b-2334-35a1-ce68-282a8f75f40c",
+      "maturity_rating": "16+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts415273",
@@ -4990,34 +4990,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts21877",
-      "title": "Love Making - I principi dell'amore - la serie",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61930,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
-      "genres": [
-        "Commedia",
-        "Animazione"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
-      "maturity_rating": "T",
-      "episode_count": 36
-    },
-    {
       "ag_id": "ts447887",
       "title": "Momentary Lily",
       "year": 2025,
@@ -5045,6 +5017,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0ce5085d-8f35-4d8b-a108-5429344d70c2",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts21877",
+      "title": "Love Making - I principi dell'amore - la serie",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61930,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il Club di Difesa della Terra alla Binan High School è un gruppo di ragazzi che non fanno altro che essere pigri. Un giorno, quando due membri del club, Atsushi ed En, stanno facendo il bagno in un bagno pubblico, un vombato rosa parlante appare dal nulla e chiede ai due ragazzi di aiutarli a salvare la Terra con il potere dell'amore. Sfortunatamente, il figlio del proprietario del bagno, Yumoto, vede il vombato e lo insegue dicendo: \"Lascia che ti gonfi! Il giorno dopo, i due ragazzi e gli altri due membri del club, Io e Ryu si incontrano con il vombato rosa e improvvisamente, appaiono dei braccialetti che si agganciano ai polsi di ognuno dei quattro membri, così come a Yumoto (che si trovava nelle vicinanze) e vengono trasformati in Battle Lovers.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iT30nyH7OJtXxoLk1lJtLimVQu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2C9dc5S3b8bUhcncAkEpgdyn52D.jpg",
+      "genres": [
+        "Commedia",
+        "Animazione"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd04d862-6971-4ef7-9a1e-e8c5e7eca17d",
+      "maturity_rating": "T",
+      "episode_count": 36
     },
     {
       "ag_id": "ts287662",
@@ -6302,35 +6302,6 @@
       "episode_count": 3
     },
     {
-      "ag_id": "ts24595",
-      "title": "Gatchaman - La Battaglia dei pianeti",
-      "year": 1972,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 13549,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una Terra ormai sull'orlo del collasso ecologico a causa dell'eccessivo inquinamento, un alieno del pianeta Selectol dà inizio al suo piano di conquista del pianeta, aiutato dalla sua organizzazione criminale Galactor e dal fidato luogotenente Berg Katse. A contrapporsi a questo dittatore galattico, noto semplicemente come Leader X, c'è un gruppo di cinque combattenti dotato di superpoteri: Ken l'aquila, Joe il condor, Pretty Jane il cigno, Jin la rondine e Ryu il gufo, meglio conosciuti come i Gatchaman.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jS65olNgOnYe82dEeaHvrMQsylu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/cBUFwjc7tpbLZKh4uG1IhkZUuiX.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2077b51c-336f-40c0-9686-2aac924c1132",
-      "maturity_rating": "T",
-      "episode_count": 205
-    },
-    {
       "ag_id": "ts237034",
       "title": "Witchy Precure!! ~MIRAI DAYS~",
       "year": 2016,
@@ -6361,6 +6332,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c35c3fab-45b9-40e2-bbba-66de92d29171",
       "maturity_rating": "T",
       "episode_count": 62
+    },
+    {
+      "ag_id": "ts24595",
+      "title": "Gatchaman - La Battaglia dei pianeti",
+      "year": 1972,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 13549,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una Terra ormai sull'orlo del collasso ecologico a causa dell'eccessivo inquinamento, un alieno del pianeta Selectol dà inizio al suo piano di conquista del pianeta, aiutato dalla sua organizzazione criminale Galactor e dal fidato luogotenente Berg Katse. A contrapporsi a questo dittatore galattico, noto semplicemente come Leader X, c'è un gruppo di cinque combattenti dotato di superpoteri: Ken l'aquila, Joe il condor, Pretty Jane il cigno, Jin la rondine e Ryu il gufo, meglio conosciuti come i Gatchaman.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jS65olNgOnYe82dEeaHvrMQsylu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cBUFwjc7tpbLZKh4uG1IhkZUuiX.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2077b51c-336f-40c0-9686-2aac924c1132",
+      "maturity_rating": "T",
+      "episode_count": 205
     },
     {
       "ag_id": "ts314720",
@@ -7723,6 +7723,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm447715",
+      "title": "Lupin III: Lupin contro tutti!",
+      "year": 2018,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 567767,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3JlO9wVfCqKcdznOZ6Y5bNsfspK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNbA10Ab4O84IGwolKwV1gPWj8q.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Commedia",
+        "Crime",
+        "Animazione"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts16879",
       "title": "Kyashan - Il Mito",
       "year": 1993,
@@ -7870,37 +7901,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eddacdc6-7d21-410a-8391-e6e18c670792",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm447715",
-      "title": "Lupin III: Lupin contro tutti!",
-      "year": 2018,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 567767,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3JlO9wVfCqKcdznOZ6Y5bNsfspK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNbA10Ab4O84IGwolKwV1gPWj8q.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Commedia",
-        "Crime",
-        "Animazione"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92c46dc8-1425-4a01-a0fe-2715f912e4fc",
       "maturity_rating": "T",
       "episode_count": 1
     },
