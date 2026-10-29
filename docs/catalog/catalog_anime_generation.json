@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T04:28:32Z",
+  "generated_at": "2026-10-29T12:19:40Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.653,
+      "rating": 9.654,
       "audio_locales": [
         "ja-JP"
       ],
@@ -588,7 +588,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.1,
+      "rating": 8.094,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -618,7 +618,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.382,
       "audio_locales": [
         "ja-JP"
       ],
@@ -736,7 +736,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.952,
+      "rating": 8.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -821,7 +821,7 @@
         "Mistero",
         "Crime"
       ],
-      "rating": 7.7,
+      "rating": 7.732,
       "audio_locales": [
         "it-IT"
       ],
@@ -832,6 +832,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.aeb90ba5-903d-4ed2-961d-32caf94a687b",
       "maturity_rating": "14+",
       "episode_count": 11
+    },
+    {
+      "ag_id": "ts220153",
+      "title": "Plunderer",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 93149,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts476585",
@@ -854,35 +883,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
       "maturity_rating": "16+",
       "episode_count": 0
-    },
-    {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.478,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
     },
     {
       "ag_id": "tm69778",
@@ -944,33 +944,33 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts220153",
-      "title": "Plunderer",
-      "year": 2020,
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 93149,
+        "tmdb_id": 30669,
         "tmdb_type": "tv"
       },
-      "description_it": "In un mondo post-apocalittico dominato dai cosiddetti \"Numeri\", ogni essere umano avrà la propria identità marchiata con il proprio \"Conto\", che potrebbe definire qualsiasi numero relativo alla propria vita. Possa essere la distanza percorsa o la quantità di complimenti dati da altri, questo Conto potrebbe condurli all'abisso quando è sceso a zero. Nell'anno 305 del calendario alciano, Hina ha ereditato da sua madre, il cui conte si è svalutato a zero, una missione per cercare il leggendario barone rosso. Nella sua avventura, incontra uno spadaccino semi mascherato di nome Licht che cerca di nascondere la sua identità, poiché è conosciuto come un degenerato per avere un conto incredibilmente basso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
       "genres": [
+        "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.3,
+      "rating": 8.478,
       "audio_locales": [
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 112
     },
     {
       "ag_id": "ts37899",
@@ -1615,6 +1615,34 @@
       "episode_count": 61
     },
     {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.111,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts29400",
       "title": "Capricciosa Orange Road",
       "year": 1987,
@@ -1642,34 +1670,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.111,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts34474",
@@ -2558,36 +2558,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -2615,6 +2585,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -3380,7 +3380,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.3,
+      "rating": 6.302,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3500,6 +3500,7 @@
         "es",
         "fr",
         "it-IT",
+        "ko",
         "pl",
         "pt"
       ],
@@ -3760,7 +3761,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.967,
+      "rating": 6.935,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3789,7 +3790,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.1,
+      "rating": 7.042,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3819,7 +3820,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.805,
+      "rating": 7.801,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4958,38 +4959,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm839900",
-      "title": "Lupin III - Prigioniero del passato",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 641909,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Per salvare un famoso criminale dalla prigionia, Lupin e la sua squadra si infiltrano nel Regno di Dorrente. Mentre gli abili ladri di tutto il mondo si riuniscono, Lupin cerca di rivelare il segreto nascosto nel regno.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jwoDIi2C649RVaR9YTzKp044zTp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/f2o1pi48tlmvx9Fwp75ADyo0n0z.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "Crime",
-        "Commedia",
-        "televisione film"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts447887",
       "title": "Momentary Lily",
       "year": 2025,
@@ -5103,6 +5072,38 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4204d585-d229-4c40-992e-38723a5b303a",
       "maturity_rating": "T",
       "episode_count": 52
+    },
+    {
+      "ag_id": "tm839900",
+      "title": "Lupin III - Prigioniero del passato",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 641909,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Per salvare un famoso criminale dalla prigionia, Lupin e la sua squadra si infiltrano nel Regno di Dorrente. Mentre gli abili ladri di tutto il mondo si riuniscono, Lupin cerca di rivelare il segreto nascosto nel regno.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jwoDIi2C649RVaR9YTzKp044zTp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/f2o1pi48tlmvx9Fwp75ADyo0n0z.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "Crime",
+        "Commedia",
+        "televisione film"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ab0902b1-2aa3-46e5-980f-b7945a33d6ed",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm222860",
@@ -5418,7 +5419,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.6,
+      "rating": 5.528,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6916,36 +6917,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm134235",
-      "title": "One Piece - Avventura sulle isole volanti",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 41498,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy",
-        "Avventura"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts18589",
       "title": "Dancouga",
       "year": 1985,
@@ -7172,6 +7143,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1061cc6-d013-47d5-bd85-eff82763e5fd",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm134235",
+      "title": "One Piece - Avventura sulle isole volanti",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 41498,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il pirata Shiki il \"Leone Dorato\" ricompare sulla scena mondiale dopo vent'anni arrivando a Marineford e distruggendo alcune navi da guerra della Marina grazie al potere del frutto Fuwa Fuwa.  Il vero scopo del \"pirata volante\" è però, quello di distruggere completamente l'East Blue, terra d'origine dell'odiato rivale Gol D. Roger e successivamente ricattare il Governo Mondiale. Per far ciò, Shiki ha attuato un piano ventennale aiutato dal suo fidato scienziato, il Dr. Indigo, il quale ha estratto dall'IQ, pianta presente sull'isola Merveille, un siero chiamato SIQ che, iniettato negli animali, altera il loro processo evolutivo e li rende più aggressivi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7MSJWljvvYHoqfwP4b2YdTiusMM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1oaRUHv1zX4mZNX1zq4NcHIg50m.jpg",
+      "genres": [
+        "Animazione",
+        "Fantasy",
+        "Avventura"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.25e2643f-6900-450e-a76a-e33b7ef8be4a",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -7568,6 +7569,38 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm452090",
+      "title": "Detective Conan: Episode \"One\" - Il detective rimpicciolito",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 573364,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Shinichi Kudo è un brillante detective, pur essendo ancora un liceale, e spesso aiuta la polizia a risolvere casi complicati. Durante un appuntamento al parco di divertimenti Tropical Land con la sua amica d'infanzia Ran, si imbatte in due loschi uomini vestiti di nero e la sua vita cambierà per sempre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yCDATczOAeINqPKMGrQmiyDyLUH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "televisione film",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm99577",
       "title": "Corazzata spaziale Yamato",
       "year": 1977,
@@ -7689,38 +7722,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f58cc067-715b-4eb7-b8c9-2e3f06a69840",
       "maturity_rating": "T",
       "episode_count": 26
-    },
-    {
-      "ag_id": "tm452090",
-      "title": "Detective Conan: Episode \"One\" - Il detective rimpicciolito",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 573364,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Shinichi Kudo è un brillante detective, pur essendo ancora un liceale, e spesso aiuta la polizia a risolvere casi complicati. Durante un appuntamento al parco di divertimenti Tropical Land con la sua amica d'infanzia Ran, si imbatte in due loschi uomini vestiti di nero e la sua vita cambierà per sempre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yCDATczOAeINqPKMGrQmiyDyLUH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "televisione film",
-        "Commedia"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm447715",
