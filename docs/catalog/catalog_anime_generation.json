@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T21:56:40Z",
+  "generated_at": "2026-10-31T04:10:01Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.7,
+      "rating": 9.666,
       "audio_locales": [
         "ja-JP"
       ],
@@ -49,7 +49,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 8.009,
       "audio_locales": [
         "it-IT"
       ],
@@ -79,7 +79,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.491,
+      "rating": 8.492,
       "audio_locales": [
         "it-IT"
       ],
@@ -215,6 +215,34 @@
       "episode_count": 48
     },
     {
+      "ag_id": "tm190768",
+      "title": "Perfect Blue",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 10494,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "genres": [
+        "Animazione",
+        "Thriller"
+      ],
+      "rating": 8.302,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
+      "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -244,34 +272,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "tm190768",
-      "title": "Perfect Blue",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 10494,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Di fronte allo scarso successo commerciale, la cantante Mima che deve abbandonare il microcosmo rosa confetto delle idol per essere \"rilanciata\" come attrice, in un mondo dove invece diventerà solo carne da macello. Ottiene la parte di una ragazza psicologicamente instabile nel serial Tv \"Doppio Legame\", ma inizia a ricevere messaggi di minaccia anonimi da parte di un fan otaku che non ha tollerato il cambiamento d'immagine della \"sua\" Mima. Di lì a poco, una serie di incidenti colpisce il set di lavorazione. La stessa Mima, abituata a essere un mero simulacro, inizia a perdere contatto con la propria identità. Ma allora: chi è la vera Mima? Quella che veste gli ingenui costumi della idol? Quella che compare sorridente su Internet? Quella che fa la spesa al supermercato? La ragazza schizofrenica di \"Doppio Legame\"? L'illusione di se stessa? Oppure solo l'illusione di tutti?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "genres": [
-        "Animazione",
-        "Thriller"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
-      "maturity_rating": "14+",
-      "episode_count": 1
     },
     {
       "ag_id": "ts20112",
@@ -498,7 +498,7 @@
         "Action & Adventure",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 8.328,
       "audio_locales": [
         "it-IT"
       ],
@@ -588,7 +588,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.094,
+      "rating": 8.093,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1394,7 +1394,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 8.028,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1881,6 +1881,35 @@
       "episode_count": 39
     },
     {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
+    },
+    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1910,35 +1939,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
     },
     {
       "ag_id": "ts394764",
@@ -1988,7 +1988,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.403,
+      "rating": 8.405,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2514,7 +2514,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.481,
+      "rating": 7.48,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5736,7 +5736,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.0,
+      "rating": 6.98,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6812,7 +6812,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.5,
+      "rating": 7.497,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6873,7 +6873,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.1,
+      "rating": 7.044,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6903,7 +6903,7 @@
         "Avventura",
         "Azione"
       ],
-      "rating": 6.9,
+      "rating": 6.834,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6961,7 +6961,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.9,
+      "rating": 6.848,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6990,7 +6990,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.685,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7163,7 +7163,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.5,
+      "rating": 7.443,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7464,7 +7464,7 @@
         "Fantascienza",
         "Fantasy"
       ],
-      "rating": 6.9,
+      "rating": 6.891,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7505,6 +7505,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1542319-5ff5-493d-bf0a-fd3eec853234",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm34524",
+      "title": "One Piece - Il miracolo dei ciliegi in fiore",
+      "year": 2008,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44731,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo che Nami si ammala, la ciurma giunge sull'isola di Drum in cerca di un dottore e si reca in cerca di Kureha, l'unica rimasta sull'isola. Giunge però sull'isola anche Blik Wapol, il sovrano dell'isola che era fuggito dopo l'arrivo della Ciurma di Barbanera. Questi cerca insieme al fratello maggiore Musshūru di sconfiggere Rufy, che vuole impedire loro di riprendere il controllo dell'isola. Anche la renna TonyTony Chopper, l'assistente di Kureha, che in passato era stato allievo del dottor Hillk, ucciso da Wapol, partecipa al duro scontro ed infine Rufy grazie ai Gear sconfigge i due. La ciurma riparte dunque dall'isola di Drum dopo aver convinto Chopper ad unirsi a loro come medico di bordo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/b1UPcWBOg2ZTUp8PZeaY5JiDjUL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yJetT9PknmMbgwPdhrpxVU8tDKk.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura",
+        "Commedia"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a42e3f-7c16-467a-bb79-859974924afe",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -7711,7 +7742,7 @@
         "Animazione",
         "Avventura"
       ],
-      "rating": 6.7,
+      "rating": 6.685,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7862,7 +7893,7 @@
         "Dramma",
         "Commedia"
       ],
-      "rating": 6.9,
+      "rating": 6.942,
       "audio_locales": [
         "it-IT"
       ],
@@ -7872,37 +7903,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28c00a55-ac0e-4d17-aaeb-4520193f1d6e",
       "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm34524",
-      "title": "One Piece - Il miracolo dei ciliegi in fiore",
-      "year": 2008,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44731,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo che Nami si ammala, la ciurma giunge sull'isola di Drum in cerca di un dottore e si reca in cerca di Kureha, l'unica rimasta sull'isola. Giunge però sull'isola anche Blik Wapol, il sovrano dell'isola che era fuggito dopo l'arrivo della Ciurma di Barbanera. Questi cerca insieme al fratello maggiore Musshūru di sconfiggere Rufy, che vuole impedire loro di riprendere il controllo dell'isola. Anche la renna TonyTony Chopper, l'assistente di Kureha, che in passato era stato allievo del dottor Hillk, ucciso da Wapol, partecipa al duro scontro ed infine Rufy grazie ai Gear sconfigge i due. La ciurma riparte dunque dall'isola di Drum dopo aver convinto Chopper ad unirsi a loro come medico di bordo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/b1UPcWBOg2ZTUp8PZeaY5JiDjUL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yJetT9PknmMbgwPdhrpxVU8tDKk.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura",
-        "Commedia"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a42e3f-7c16-467a-bb79-859974924afe",
-      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
