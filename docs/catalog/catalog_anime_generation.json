@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-01T21:42:53Z",
+  "generated_at": "2026-11-02T04:32:35Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,12 +19,23 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.654,
+      "rating": 9.642,
       "audio_locales": [
         "ja-JP"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bdb94f8-cc1d-49e9-a753-94afaea1e197",
@@ -108,7 +119,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.363,
+      "rating": 8.362,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -120,6 +131,51 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8f8209c-ba29-4a5c-b54d-4295e9db1af2",
       "maturity_rating": "14+",
       "episode_count": 220
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gphVuQrPLw5EaHr7xyutiYUHSU8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ko",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "ts407747",
@@ -168,51 +224,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gphVuQrPLw5EaHr7xyutiYUHSU8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ko",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 48
     },
     {
       "ag_id": "ts20112",
@@ -422,22 +433,23 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 32676,
+        "tmdb_id": 279182,
         "tmdb_type": "tv"
       },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
         "Animazione",
-        "Dramma"
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.3,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -445,9 +457,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
-      "episode_count": 40
+      "episode_count": 12
     },
     {
       "ag_id": "ts24483",
@@ -479,23 +491,22 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 279182,
+        "tmdb_id": 32676,
         "tmdb_type": "tv"
       },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Dramma"
       ],
-      "rating": 8.1,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -503,9 +514,39 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 40
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.431,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts21984",
@@ -568,36 +609,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.424,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
     },
     {
       "ag_id": "ts37899",
@@ -749,66 +760,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30669,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.478,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
-      "maturity_rating": "14+",
-      "episode_count": 112
-    },
-    {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -867,43 +818,31 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 62745,
+        "tmdb_id": 44033,
         "tmdb_type": "tv"
       },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
       "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
+        "Animazione"
       ],
-      "rating": 7.358,
+      "rating": 7.8,
       "audio_locales": [
-        "de",
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
+        "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts354570",
@@ -934,21 +873,25 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 44033,
+        "tmdb_id": 45860,
         "tmdb_type": "tv"
       },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
       "genres": [
-        "Animazione"
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
       ],
-      "rating": 7.8,
+      "rating": 7.2,
       "audio_locales": [
         "it-IT"
       ],
@@ -956,9 +899,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts20686",
@@ -1008,7 +951,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.516,
+      "rating": 7.517,
       "audio_locales": [
         "it-IT"
       ],
@@ -1043,6 +986,35 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.478,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
+    },
+    {
       "ag_id": "ts220153",
       "title": "Plunderer",
       "year": 2020,
@@ -1070,6 +1042,45 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.745f8e90-c179-4ecd-bf63-ac72eba61d2e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.358,
+      "audio_locales": [
+        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "ts360995",
@@ -1395,7 +1406,7 @@
         "Commedia",
         "Azione"
       ],
-      "rating": 6.95,
+      "rating": 7.024,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1609,7 +1620,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -2485,7 +2496,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.48,
+      "rating": 7.479,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2619,35 +2630,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "tm112217",
-      "title": "Ken il guerriero - Il film",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19877,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
-      "maturity_rating": "14+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2675,6 +2657,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c383cd0c-6701-4e19-bb07-b8f196428dff",
       "maturity_rating": "T",
       "episode_count": 25
+    },
+    {
+      "ag_id": "tm112217",
+      "title": "Ken il guerriero - Il film",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19877,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo una guerra nucleare che ha trasformato la Terra in un immenso deserto senza vita, il mondo è piombato nel caos e nella violenza. I maestri di Hokuto e di Nanto, due potenti scuole di arti marziali, si fronteggiano fra loro. Kenshiro, legittimo successore della scuola di Hokuto, va in cerca dell'amata Julia che è stata rapita da Shin di Nanto; ma deve anche fronteggiare l'ambizione di Raoul, suo fratello adottivo, che intende dominare il mondo con la forza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/nQvEwHHEwaDbEy6G0Xkyki0G13O.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4LN2mts3ble1y54H1DZw38AvCR6.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
+      "maturity_rating": "14+",
+      "episode_count": 1
     },
     {
       "ag_id": "ts504283",
@@ -4213,35 +4224,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts322046",
-      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 154098,
-        "tmdb_type": "tv"
-      },
-      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts440071",
       "title": "Bad Girl",
       "year": 2025,
@@ -4296,6 +4278,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
       "maturity_rating": "7+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts322046",
+      "title": "Lieselotte la perfida tsundere e la cronaca in diretta di Endo e Kobayashi",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 154098,
+        "tmdb_type": "tv"
+      },
+      "description_it": "“Sortilegio d’Amore” è un celebre gioco otome, una visual novel pensata idealmente per il pubblico femminile, ma Kobayashi, sua grande fan, ama più di ogni altro personaggio l’antagonista Lieselotte. Cercando di convincere l’amico Endo a giocarlo gli propone di fare una sorta di telecronaca degli eventi del gioco, ma non può immaginare che un personaggio del gioco riuscirà a sentirli!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sFjuR5cbEJ0YU0VP5uYg9fWB5dG.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.edce04ac-4920-4a58-924a-0c709398dc2b",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts458553",
@@ -5547,34 +5558,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts2796",
-      "title": "Combattler V",
-      "year": 1976,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44741,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell'anno 2013, gli alieni del pianeta Campbell invadono la Terra. Per contrastare tale invasione, il professor Stevens costruisce il robot elettromagnetico Combattler. Questi è il risultato dell'unione di cinque velivoli (custoditi nella base laboratorio posta su una scogliera, la Nanbara Connection) pilotati da Roy Lambert, Furio Batler, Gonghi Kasuki, Jolly Lynch e la nipote del professore, Maggie Stevens. Ognuno dei piloti è scelto per un'abilità peculiare che lo caratterizza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/nyeanPkLJxSVXm6ZpwzRri8GnnJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7BhXQX6mflX3B3ODAPDGm53WgbT.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 5.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a81ac292-9040-4293-ad4a-e6ae64cd434e",
-      "maturity_rating": "14+",
-      "episode_count": 54
-    },
-    {
       "ag_id": "ts29733",
       "title": "Mazinkaizer SKL",
       "year": 2011,
@@ -5721,34 +5704,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts70446",
-      "title": "Guerre fra galassie",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65958,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Guerre fra galassie (Uchu kara no messeji: Ginga taisen) è una serie televisiva giapponese in 27 episodi trasmessi per la prima volta nel corso di una sola stagione dal 1978 al 1979. (parodia di guerre stellari).\n\nÈ una serie fantascientifica incentrata sulle vicende di tre eroi che devono difendere la Terra dall'Impero Gavaniano presieduto dal malefico Roxeya XIII.\n\nLa serie è basata sul film del 1978 Uchu kara no messeji ed è ambientata tre anni dopo il lungometraggio. Diversi episodi furono montati a formare un lungometraggio uscito nel 1978 negli Stati Uniti con il titolo di Message from Space",
-      "poster_tall": "https://image.tmdb.org/t/p/original/i6UDws8x1D2Jk9KkYBuSWkyWi3A.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zr9C3dWb4pwm5bvQUs2LwFeKPK9.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bc1e15-927e-406e-32c3-40824350709b",
-      "maturity_rating": "T",
-      "episode_count": 27
-    },
-    {
       "ag_id": "tm124556",
       "title": "Il lago dei cigni",
       "year": 1981,
@@ -5778,34 +5733,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts39882",
-      "title": "Daltanious, il robot del futuro",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 16820,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terra è invasa e conquistata da una spietata razza aliena. Tra le macerie un gruppo di giovani ragazzi scopre per caso una base spaziale apparenetemente abbandonata. Grazie ai potenti mezzi in essa contenuti, riusciranno a infliggere la prima sconfittà agli alieni, ma solo la leggenda di un robot invincibile come Daltanious sembra essere l'unica speranza per l'umanita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/AuBhIvv902iuSWNKZsrLojOuX7L.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/45M1VWu6LtxhCTPhcjGTSoVW8vg.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb1fb3-55e0-d1c3-77d8-b2c81261bfc1",
-      "maturity_rating": "T",
-      "episode_count": 47
-    },
-    {
       "ag_id": "tm61270",
       "title": "Lamù - Only You",
       "year": 1983,
@@ -5832,36 +5759,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.73665ea0-b359-4fc4-bdff-c8ad1b0e305e",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm50298",
-      "title": "Capitan Harlock - L'Arcadia della mia giovinezza",
-      "year": 1982,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1531453,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La guerra contro gli Illumidiani é perduta, la libertà una chimera. Un valoroso guerriero torna, stanco ma indomito, sul suo pianeta occupato: il suo nome è Harlock. Le città sono in rovina e i governanti corrotti non hanno esitato a vendersi all’invasore. Ma c’è ancora qualcuno che combatte per la libertà: Maya, la “voce” della resistenza; Zoll, il mercenario di Tokarga deciso a vendicare il suo popolo; Emeraldas, una piratessa spaziale. E infine Tochiro, legato ad Harlock da un’amicizia che si trasmette da generazioni, il geniale costruttore di una possente astronave che porta il nome di un’utopia: Arcadia. La battaglia per la libertà sta per iniziare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/4m5B9me0hmcJnAJrJsPHf7mg0yD.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YzqFWT0afV9qCXEJfOoMGUlkSe.jpg",
-      "genres": [
-        "Fantascienza",
-        "Animazione",
-        "Fantasy",
-        "Avventura"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.289bc251-719a-4463-aff7-3c115aa3bfdf",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -6476,34 +6373,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.27716161-60af-441f-a1a2-4c30492ef0d3",
       "maturity_rating": "16+",
       "episode_count": 50
-    },
-    {
-      "ag_id": "ts52195",
-      "title": "General Daimos",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 8996,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il pianeta Baam è prossimo alla distruzione, così 200 milioni di Baamesi, umanoidi dotati di ali come gli angeli, vengono ospitati su un grosso satellite artificiale (il \"piccolo Baam\") alla ricerca di un pianeta ospitale che ne garantisca la salvezza.  La Terra viene reputata adatta ad ospitare gli alieni e viene organizzato un incontro sulla Luna fra i rappresentanti della Terra e il re dei Baamesi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ilrQHZ70KcP3pBaUH1WDzO3UQSi.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7pGeH3SfoZ5uKP2gmIOGhiSbRoy.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9a39d4c2-f329-4647-97e1-dc1b5e27f6bf",
-      "maturity_rating": "T",
-      "episode_count": 44
     },
     {
       "ag_id": "ts367163",
@@ -7695,35 +7564,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts221676",
-      "title": "Daikengo il guardiano dello spazio",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 94236,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia ha inizio sul pianeta Emperius, attaccato dalle truppe del pianeta Magellano. Per fronteggiarne l'avanzata, il principe ereditario di Emperius, Samson, affronta le milizie nemiche su un pianeta vicino, rimanendo però ucciso per mano del generale dell'esercito dei magellani, Roboleon.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5u417XxcadYc6cWKEc9lfEHUQYL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xxMYy1yIEw2AgQ57HmwL4VgDW6z.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f58cc067-715b-4eb7-b8c9-2e3f06a69840",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "tm49446",
