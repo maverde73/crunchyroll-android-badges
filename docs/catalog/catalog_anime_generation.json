@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T14:48:21Z",
+  "generated_at": "2026-11-03T00:32:11Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -271,7 +271,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.301,
       "audio_locales": [
         "it-IT"
       ],
@@ -846,37 +846,6 @@
       "episode_count": 35
     },
     {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts64898",
       "title": "Sampei",
       "year": 1980,
@@ -964,28 +933,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -1013,6 +960,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
       "maturity_rating": "14+",
       "episode_count": 112
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts220153",
@@ -1081,6 +1050,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
       "maturity_rating": "14+",
       "episode_count": 74
+    },
+    {
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45860,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts360995",
@@ -1363,6 +1363,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1392,34 +1420,6 @@
       "episode_count": 65
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "tm2859972",
       "title": "One Piece Heroines",
       "year": 2026,
@@ -1436,7 +1436,7 @@
         "Commedia",
         "Azione"
       ],
-      "rating": 7.024,
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2419,36 +2419,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts76736",
-      "title": "I cinque samurai: Message",
-      "year": 1991,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75080,
-        "tmdb_type": "tv"
-      },
-      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
-      "genres": [
-        "Animazione",
-        "Kids",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
-      "maturity_rating": "T",
-      "episode_count": 5
-    },
-    {
       "ag_id": "ts35960",
       "title": "Inferno e paradiso",
       "year": 2004,
@@ -2477,6 +2447,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5925b950-539d-4544-9538-55165d1a0103",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts76736",
+      "title": "I cinque samurai: Message",
+      "year": 1991,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75080,
+        "tmdb_type": "tv"
+      },
+      "description_it": "I cinque samurai è un anime televisivo giapponese prodotto dalla Sunrise e dalla Nagoya Television composto da 39 episodi trasmessi in Giappone dal 30 aprile del 1988 al 4 marzo del 1989. In Italia l'anime venne trasmesso per la prima volta nell'aprile 1990 su Italia 7 approdando in seguito anche su altre reti come TMC e Junior Tv.\n\nMolto tempo è ormai passato dalla distruzione delle cinque armature e le strade dei cinque eroi, Nasty e Jun si sono completamente divise. Ci pensa un inquietante manoscritto rinvenuto da Toma a farli riunire: sembra che le loro avventure, le loro battaglie, le loro sofferenze e i loro sacrifici fossero già scritti dal destino, in quanto rappresentati teatralmente secoli prima.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/goHa4bWzobc5JuCbiddi9Kaw2Ak.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uE4zfsxP38Hgbz5mMC7HgW4DPqh.jpg",
+      "genres": [
+        "Animazione",
+        "Kids",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.463cb7e8-041f-46d8-b299-69b0eed6c7bb",
+      "maturity_rating": "T",
+      "episode_count": 5
     },
     {
       "ag_id": "tm20372",
@@ -3425,36 +3425,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts55977",
-      "title": "Shin Getter Robot contro Neo Getter Robot",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 67579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
-      "maturity_rating": "T",
-      "episode_count": 4
-    },
-    {
       "ag_id": "ts432424",
       "title": "Nokotan in cerva di amici",
       "year": 2024,
@@ -3490,6 +3460,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.21f86435-abfa-4cfd-bc9d-834b99460838",
       "maturity_rating": "16+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts55977",
+      "title": "Shin Getter Robot contro Neo Getter Robot",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 67579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
+      "maturity_rating": "T",
+      "episode_count": 4
     },
     {
       "ag_id": "ts459375",
@@ -4499,7 +4499,7 @@
         "Fantasy",
         "Azione"
       ],
-      "rating": 7.377,
+      "rating": 7.379,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5588,35 +5588,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts29733",
-      "title": "Mazinkaizer SKL",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 53728,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'esercito Garan, l'esercito Kiba e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island. L'isola è una prigione isolata dal resto del mondograzie ad un campo gravitazionale creato dal WSO (governo mondiale).\n\nMa adesso il campo gravitazionale sta per raggiungere l'instabilità e la Terra è in grave pericolo. Il WSO decide quindi di inviare sull'isola la Skull Force. Di quest'ultima la squadra Death Caprice, composta da due soli membri (Ken Kaido e Ryo Magami, i piloti del Mazinga chiamato Mazinkaizer SKL) vengono inviati per primi sull'isola.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uBk3VQEbTQcj0sJxH4HKVZrQKEg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lKBdvo4EKoKHQqjegt1XRfHIUai.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
-      "maturity_rating": "16+",
-      "episode_count": 3
-    },
-    {
       "ag_id": "ts326987",
       "title": "La principessa bibliofila",
       "year": 2022,
@@ -5704,6 +5675,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts29733",
+      "title": "Mazinkaizer SKL",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 53728,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'esercito Garan, l'esercito Kiba e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island. L'isola è una prigione isolata dal resto del mondograzie ad un campo gravitazionale creato dal WSO (governo mondiale).\n\nMa adesso il campo gravitazionale sta per raggiungere l'instabilità e la Terra è in grave pericolo. Il WSO decide quindi di inviare sull'isola la Skull Force. Di quest'ultima la squadra Death Caprice, composta da due soli membri (Ken Kaido e Ryo Magami, i piloti del Mazinga chiamato Mazinkaizer SKL) vengono inviati per primi sull'isola.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uBk3VQEbTQcj0sJxH4HKVZrQKEg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lKBdvo4EKoKHQqjegt1XRfHIUai.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
+      "maturity_rating": "16+",
+      "episode_count": 3
+    },
+    {
       "ag_id": "tm146533",
       "title": "One Piece - Trappola mortale",
       "year": 2003,
@@ -5720,7 +5720,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 6.98,
+      "rating": 7.0,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6073,7 +6073,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.315,
+      "rating": 7.32,
       "audio_locales": [
         "it-IT",
         "ja-JP"
