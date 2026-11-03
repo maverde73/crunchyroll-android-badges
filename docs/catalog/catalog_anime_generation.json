@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T13:39:30Z",
+  "generated_at": "2026-11-03T22:55:20Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.648,
+      "rating": 9.653,
       "audio_locales": [
         "ja-JP"
       ],
@@ -241,7 +241,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.298,
+      "rating": 8.297,
       "audio_locales": [
         "it-IT"
       ],
@@ -419,7 +419,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.289,
+      "rating": 7.3,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -433,25 +433,23 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 24710,
+        "tmdb_id": 61389,
         "tmdb_type": "tv"
       },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
+        "Dramma"
       ],
-      "rating": 7.4,
+      "rating": 8.328,
       "audio_locales": [
         "it-IT"
       ],
@@ -459,9 +457,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
-      "episode_count": 39
+      "episode_count": 26
     },
     {
       "ag_id": "ts44897",
@@ -521,35 +519,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.328,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -579,6 +548,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts25996",
@@ -1474,38 +1474,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
-    },
-    {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.028,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "ts353577",
@@ -1536,6 +1507,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.028,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "tm121121",
@@ -1712,6 +1712,35 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts320501",
+      "title": "Mato Seihei no Slave",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 139060,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.093,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts475209",
       "title": "Digimon Beatbreak",
       "year": 2025,
@@ -1747,35 +1776,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d462c926-f813-416e-b20d-89d7b8a836a4",
       "maturity_rating": "7+",
       "episode_count": 49
-    },
-    {
-      "ag_id": "ts320501",
-      "title": "Mato Seihei no Slave",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 139060,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t02dITrzFNNFEaogaxSOgibpZfp.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.093,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts21278",
@@ -3425,6 +3425,36 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts55977",
+      "title": "Shin Getter Robot contro Neo Getter Robot",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 67579,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
+      "maturity_rating": "T",
+      "episode_count": 4
+    },
+    {
       "ag_id": "ts432424",
       "title": "Nokotan in cerva di amici",
       "year": 2024,
@@ -3460,36 +3490,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.21f86435-abfa-4cfd-bc9d-834b99460838",
       "maturity_rating": "16+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts55977",
-      "title": "Shin Getter Robot contro Neo Getter Robot",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 67579,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'Impero del Dinosauri, guidato da Gore, fa ritorno sulla superficie terrestre per annientare la razza umana e impadronirsi nuovamente di quanto gli apparteneva millenni prima: il pianeta Terra. Infatti, In un'epoca remota, a causa di radiazioni sconosciute provenienti dallo spazio (i raggi Getter) il popolo degli uomini-rettile fu costretto a rifugiarsi nelle profondità del nostro pianeta per evitare l'estinzione ed ora la squadra Getter rimane l'unico baluardo difensivo della Terra.  Lo scontro è al culmine e per gli esseri umani pare non esserci più scampo! Mentre II professor Saotome tenta di attivare un nuovo tipo di Getter Robot con a bordo Ryoma e Hayato, II Getter-1 pilotato da Musashi combatte da solo una battaglia suicida contro le orde di Mechasaurus inviate dagli uomini-rettile. L'unica arma rimasta a Musashi per evitare che la guerra venga vinta dagli Invasori è l'autodistruzione... Dalla devastante esploslone del Getter-1 sono passati due anni. L'Impero dei Dinosauri riesce a ricostituirsi e attaccare nuovamente le città per riprendere il piano di conquista originario.  Ma al laboratorio Saotome non si è rimasti con la mani in mano. Hayato ora è il responsabile della nuova generazione di piloti di un nuovo robot; due validi piloti sono già stati arruolati ma si hanno difficoltà a trovare il terzo. Il prescelto è un giovane diciassettenne, Go Ichimonji, un ragazzo orfano che si guadagna da vivere con le vincite delle lotte clandestine. Hayato lo recluta proprio durante un combattimento durante il quale si trova suo malgrado ad affrontare un uomo rettile. Il giovane dimostrerà di adattarsi benissimo alla situazione e in un batter d'occhio si trova a pilotare il Neo Getter Robot contro il Mechasaurus che sta devastando la città. Sotto la guida dell'esperto pilota del vecchio Getter Robot e con la collaborazione di Gai e Sho, Go riesce a sconfiggere il primo nemico.  La battaglia è stata vinta ma ora ricomincia la guerra contro l'impero invasore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/62N9qQaA7b98JPzAUgRiYakVMSC.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pOTcWYpEDZIBwKiOIsgbH9PMEai.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e17414d-a0f8-4243-9792-a5f37bea20ba",
-      "maturity_rating": "T",
-      "episode_count": 4
     },
     {
       "ag_id": "ts459375",
@@ -5444,35 +5444,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts68914",
-      "title": "Hurricane Polymar: Holy Blood",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43786,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
-      "maturity_rating": "16+",
-      "episode_count": 2
-    },
-    {
       "ag_id": "ts222964",
       "title": "Arte",
       "year": 2020,
@@ -5559,6 +5530,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts68914",
+      "title": "Hurricane Polymar: Holy Blood",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43786,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Agli inizi del XXI secolo, la popolazione della Terra sta per sfiorare i 10 miliardi di abitanti. Troppi, al punto che le risorse potrebbero non bastare, portando un'intero pianeta al collasso biologico. A meno di non cambiare radicalmente la stessa natura dell'uomo, fino a permettergli di sopravvivere in nuovi ambienti. Ma qualcosa funziona anche fin troppo bene. E in una notte d'incubo, l'intero gruppo di ricerca viene letteralmente fatto a pezzi. Pochi giorni dopo, un misterioso pacco viene consegnato a Takeshi Yoroi, aiutante di Jo Kuruma, il più sgangherato detective di Tokyo Plus. E' l'inizio dell'ultima leggenda dell'umanità...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fDEdSEVoBZMSUOQY3TwLSiazs3a.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/j0jkxUtdv3ZjIVZ8kQFYo9JdZq5.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dcaa2fa3-e503-4b5f-9631-f5a2821fbc9d",
+      "maturity_rating": "16+",
+      "episode_count": 2
+    },
+    {
       "ag_id": "ts345961",
       "title": "Lv1 Maou to One Room Yuusha",
       "year": 2023,
@@ -5614,6 +5614,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4d147d80-d6ca-4cb6-b438-e63320226461",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts29733",
+      "title": "Mazinkaizer SKL",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 53728,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'esercito Garan, l'esercito Kiba e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island. L'isola è una prigione isolata dal resto del mondograzie ad un campo gravitazionale creato dal WSO (governo mondiale).\n\nMa adesso il campo gravitazionale sta per raggiungere l'instabilità e la Terra è in grave pericolo. Il WSO decide quindi di inviare sull'isola la Skull Force. Di quest'ultima la squadra Death Caprice, composta da due soli membri (Ken Kaido e Ryo Magami, i piloti del Mazinga chiamato Mazinkaizer SKL) vengono inviati per primi sull'isola.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uBk3VQEbTQcj0sJxH4HKVZrQKEg.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lKBdvo4EKoKHQqjegt1XRfHIUai.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
+      "maturity_rating": "16+",
+      "episode_count": 3
     },
     {
       "ag_id": "ts18639",
@@ -5673,35 +5702,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a37a104a-406d-4494-8a11-dfb0e989dd51",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts29733",
-      "title": "Mazinkaizer SKL",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 53728,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'esercito Garan, l'esercito Kiba e l'Hachiryokaku (l'armata di Aira), si combattono per il dominio totale della Machine Island. L'isola è una prigione isolata dal resto del mondograzie ad un campo gravitazionale creato dal WSO (governo mondiale).\n\nMa adesso il campo gravitazionale sta per raggiungere l'instabilità e la Terra è in grave pericolo. Il WSO decide quindi di inviare sull'isola la Skull Force. Di quest'ultima la squadra Death Caprice, composta da due soli membri (Ken Kaido e Ryo Magami, i piloti del Mazinga chiamato Mazinkaizer SKL) vengono inviati per primi sull'isola.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uBk3VQEbTQcj0sJxH4HKVZrQKEg.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lKBdvo4EKoKHQqjegt1XRfHIUai.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
-      "maturity_rating": "16+",
-      "episode_count": 3
     },
     {
       "ag_id": "tm146533",
@@ -6449,7 +6449,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 4.9,
+      "rating": 5.118,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6636,37 +6636,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm59590",
-      "title": "One Piece Film: Z",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 176983,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La pietra Dyna arma segreta della Marina, famigerata come paragonabile alle armi ancestrali, è stata rubata e il temuto responsabile, l'ex ammiraglio Z, intralcia il cammino dei pirati di Cappello di paglia.  Il quartier generale della Marina decide finalmente di affrontare la cospirazione che minaccia gli equilibri del Nuovo Mondo. Nel frattempo l'ex ammiraglio Kuzan insegue i pirati di Cappello di paglia. Infine Rufy e la sua ciurma decidono di opporsi a Z e il suo incredibile potere.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/guzIZgMMUp11qDA22clAdVXRids.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/cMXp028BZIdiA9OFfiK4gSYYtcr.jpg",
-      "genres": [
-        "Animazione",
-        "Fantasy",
-        "Azione",
-        "Avventura"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts444703",
       "title": "Il rock è il diletto di una lady",
       "year": 2025,
@@ -6815,36 +6784,6 @@
       "episode_count": 38
     },
     {
-      "ag_id": "tm38037",
-      "title": "One Piece - Avventura all'Isola Spirale",
-      "year": 2001,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23446,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Avventura"
-      ],
-      "rating": 6.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm159116",
       "title": "One Piece 3D - L'inseguimento di Cappello di Paglia",
       "year": 2011,
@@ -6901,33 +6840,34 @@
       "episode_count": 20
     },
     {
-      "ag_id": "tm191827",
-      "title": "Detective Conan - Fino alla fine del tempo",
-      "year": 1997,
+      "ag_id": "tm59590",
+      "title": "One Piece Film: Z",
+      "year": 2012,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 21422,
+        "tmdb_id": 176983,
         "tmdb_type": "movie"
       },
-      "description_it": "Conan riceve un invito da Teiji Moriya, un importantissimo architetto universitario fanatico della simmetria, per un party che si terrà nella sua villa il 29 aprile. Il ragazzo, utilizzando la voce di Shinichi (al quale l'invito era diretto), convince Ran ad andarci al posto suo con Kogoro e il bambino. La ragazza, nel frattempo, sta preparando una sorpresa per il compleanno di Shinichi (4 maggio): un film e un regalo legati al colore rosso (una polo) che, secondo l'oroscopo letto da Ran, è il colore fortunato per entrambi. Conan, Ran e Kogoro si recano quindi alla festa e qui fanno la conoscenza di Moriya e ammirano entusiasti le sue opere architettoniche.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/60RYMTifdqUvFtPJeri1z2lYHo8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fUHuBNqTFGCohCuHDEqHs1pDPj7.jpg",
+      "description_it": "La pietra Dyna arma segreta della Marina, famigerata come paragonabile alle armi ancestrali, è stata rubata e il temuto responsabile, l'ex ammiraglio Z, intralcia il cammino dei pirati di Cappello di paglia.  Il quartier generale della Marina decide finalmente di affrontare la cospirazione che minaccia gli equilibri del Nuovo Mondo. Nel frattempo l'ex ammiraglio Kuzan insegue i pirati di Cappello di paglia. Infine Rufy e la sua ciurma decidono di opporsi a Z e il suo incredibile potere.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/guzIZgMMUp11qDA22clAdVXRids.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/cMXp028BZIdiA9OFfiK4gSYYtcr.jpg",
       "genres": [
         "Animazione",
-        "Crime",
-        "Mistero",
+        "Fantasy",
+        "Azione",
         "Avventura"
       ],
-      "rating": 7.4,
+      "rating": 7.5,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
-      "maturity_rating": "12+",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ae9cf66b-9d2b-4598-9ffb-fbd0e4288487",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -6985,6 +6925,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm191827",
+      "title": "Detective Conan - Fino alla fine del tempo",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 21422,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Conan riceve un invito da Teiji Moriya, un importantissimo architetto universitario fanatico della simmetria, per un party che si terrà nella sua villa il 29 aprile. Il ragazzo, utilizzando la voce di Shinichi (al quale l'invito era diretto), convince Ran ad andarci al posto suo con Kogoro e il bambino. La ragazza, nel frattempo, sta preparando una sorpresa per il compleanno di Shinichi (4 maggio): un film e un regalo legati al colore rosso (una polo) che, secondo l'oroscopo letto da Ran, è il colore fortunato per entrambi. Conan, Ran e Kogoro si recano quindi alla festa e qui fanno la conoscenza di Moriya e ammirano entusiasti le sue opere architettoniche.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/60RYMTifdqUvFtPJeri1z2lYHo8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fUHuBNqTFGCohCuHDEqHs1pDPj7.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Avventura"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bd8858c9-bd60-4f14-ac13-4ef213917b87",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm49444",
@@ -7257,6 +7227,36 @@
       "episode_count": 8
     },
     {
+      "ag_id": "tm38037",
+      "title": "One Piece - Avventura all'Isola Spirale",
+      "year": 2001,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23446,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre i membri della ciurma di Cappello di Paglia sono su una spiaggia, la Going Merry viene rubata.  Essendosi messi per mare per cercarla, incontrano Akisu e Bolodo, due fratellastri ladri che dicono di voler come scopo, rubare l'orologio di diamante dell'Isola Spirale. Vengono, poco dopo, attaccati da alcuni individui, i fratelli Trump, che rapiscono Nami. Bolodo spiega che potrebbero essere gli stessi che si sono appropriati della Going Merry, così, decidono di andare all'Isola Spirale dove si trova la loro base.  Riescono con abilità a superare la scalinata che porta in cima all'isola, irta di trappole, e giungono in città dove degli abitanti raccontano che i fratelli Trump hanno occupato l'isola già da parecchi anni e la loro serenità è stata compromessa.  Rufy, Zoro, Usop, Sanji, Bolodo ed Akisu si dirigono al castello dei Trump che, dopo estenuanti combattimenti, riescono a sconfiggere. I danni provocati rompono la vite che teneva in piedi l'isola che, così, si distrugge.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/8crGqHR0Js2ql4DLktZAJVVvug8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pmMdke4HG8xq6Tu4gfE4QFM7OQp.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Avventura"
+      ],
+      "rating": 6.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm34524",
       "title": "One Piece - Il miracolo dei ciliegi in fiore",
       "year": 2008,
@@ -7440,38 +7440,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm452090",
-      "title": "Detective Conan: Episode \"One\" - Il detective rimpicciolito",
-      "year": 2017,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 573364,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Shinichi Kudo è un brillante detective, pur essendo ancora un liceale, e spesso aiuta la polizia a risolvere casi complicati. Durante un appuntamento al parco di divertimenti Tropical Land con la sua amica d'infanzia Ran, si imbatte in due loschi uomini vestiti di nero e la sua vita cambierà per sempre.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yCDATczOAeINqPKMGrQmiyDyLUH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "televisione film",
-        "Commedia"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm99577",
       "title": "Corazzata spaziale Yamato",
       "year": 1977,
@@ -7613,7 +7581,7 @@
         "Fantasy",
         "televisione film"
       ],
-      "rating": 7.7,
+      "rating": 7.708,
       "audio_locales": [
         "it-IT"
       ],
@@ -7623,6 +7591,38 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1061cc6-d013-47d5-bd85-eff82763e5fd",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm452090",
+      "title": "Detective Conan: Episode \"One\" - Il detective rimpicciolito",
+      "year": 2017,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 573364,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Shinichi Kudo è un brillante detective, pur essendo ancora un liceale, e spesso aiuta la polizia a risolvere casi complicati. Durante un appuntamento al parco di divertimenti Tropical Land con la sua amica d'infanzia Ran, si imbatte in due loschi uomini vestiti di nero e la sua vita cambierà per sempre.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yCDATczOAeINqPKMGrQmiyDyLUH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/8F6uP709Iz6hKBfhnNWBKW3Rx41.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "televisione film",
+        "Commedia"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0edfd183-6a40-4a67-bf59-a26eeae856d9",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -7684,37 +7684,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a19ee0d9-3f32-4911-90c2-f97e8860d797",
       "maturity_rating": "T",
       "episode_count": 4
-    },
-    {
-      "ag_id": "tm103515",
-      "title": "Lupin III - Trappola mortale",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31050,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
-      "maturity_rating": "12+",
-      "episode_count": 1
     },
     {
       "ag_id": "tm55292",
@@ -8199,6 +8168,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.30e3e0ec-0a42-45ad-bcbe-94f83c6a2133",
       "maturity_rating": "T",
       "episode_count": 26
+    },
+    {
+      "ag_id": "tm103515",
+      "title": "Lupin III - Trappola mortale",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31050,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Dopo aver salvato alcuni uomini rinchiusi in una prigione, il cui direttore aveva il sadico passatempo di dare la caccia ai detenuti cui permetteva di tentare la fuga, Lupin si reca in un piccolo Paese del Sud Est asiatico per mettere le mani sul tesoro dell'ultima famiglia reale, recentemente spodestata da un colpo di stato guidato dallo spietato generale Cacciateste. Il tesoro in questione però si trova su di un'isola resa inespugnabile da un sofisticato sistema cibernetico che uccide all'istante chiunque tenti di avvicinarsi alla cassaforte.  L'unica persona in grado di rendere inoffensivo il sistema di sicurezza sarebbe il principe Pannish, che però risulta ufficialmente morto durante il golpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2HbyzFpZmvCRCix4m1CDeEN23OR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5lke9rqB5oz8JQeoTqe2pb2hwef.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f0ba6daf-31ac-4c94-a452-6038c1fbda90",
+      "maturity_rating": "12+",
+      "episode_count": 1
     },
     {
       "ag_id": "tm130056",
