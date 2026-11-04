@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-03T22:55:20Z",
+  "generated_at": "2026-11-04T04:54:49Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -60,7 +60,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 8.012,
       "audio_locales": [
         "it-IT"
       ],
@@ -99,7 +99,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "14+",
+      "maturity_rating": "T",
       "episode_count": 114
     },
     {
@@ -119,7 +119,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.362,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -241,7 +241,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.297,
+      "rating": 8.298,
       "audio_locales": [
         "it-IT"
       ],
@@ -345,6 +345,35 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -374,23 +403,23 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 279182,
+        "tmdb_id": 61389,
         "tmdb_type": "tv"
       },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Dramma"
       ],
-      "rating": 8.1,
+      "rating": 8.328,
       "audio_locales": [
         "it-IT"
       ],
@@ -398,9 +427,40 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 26
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.382,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts311625",
@@ -431,35 +491,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.328,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts44897",
@@ -519,37 +550,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.382,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -579,36 +579,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34158,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure",
-        "Commedia"
-      ],
-      "rating": 8.431,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
     },
     {
       "ag_id": "ts37899",
@@ -641,6 +611,36 @@
       "episode_count": 52
     },
     {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.431,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -669,6 +669,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts28078",
+      "title": "Yu degli spettri",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30669,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.475,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "maturity_rating": "14+",
+      "episode_count": 112
     },
     {
       "ag_id": "ts281904",
@@ -731,33 +760,63 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts28078",
-      "title": "Yu degli spettri",
-      "year": 1992,
+      "ag_id": "ts463737",
+      "title": "The All-devouring Whale: Homecoming",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 30669,
+        "tmdb_id": 280078,
         "tmdb_type": "tv"
       },
-      "description_it": "Yusuke Urameshi è un 14enne teppista, privo di rispetto per adulti e insegnanti e che passa tutto il tempo a fare risse con studenti di scuole rivali o a perdere tempo in sala giochi. Proprio per questo, il giorno in cui Yusuke muore sacrificandosi per salvare la vita di un bambino che giocava incauto in mezzo alla strada, l'aldilà è in subbuglio perchè non sa che fare per quella situazione imprevista: non solo nessuno avrebbe immaginato il gesto altruista di Yusuke, ma il bambino sarebbe comunque sopravvissuto senza nemmeno un graffio. Come premio per il suo atto eroico, a Yusuke viene concessa una possibilità di tornare in vita, a patto di dimostrare di meritare una seconda occasione.\n\nIniziano così le avventure di Yusuke Urameshi come decective del mondo degli spiriti, incaricato di mantenere la pace tra il mondo degli umani e quello degli spiriti e proteggere gli umani dalle scorribande dei demoni malvagi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+      "description_it": "Lingxiao Fan è un talentuoso maestro di spiriti e capo della setta Lingxiao. Durante una competizione tra le principali sette, viene tradito e divorato dal suo stesso spirito animale, una balena chiamata Kun. Al suo risveglio, si ritrova nel corpo di un adolescente di nome Fengmang Liu, prigioniero nella residenza Bai. Nel frattempo, la sua setta è sull'orlo del collasso. Determinato a scoprire la verità dietro il tradimento e a ricostruire la sua setta, Lingxiao Fan intraprende una nuova avventura insieme ai suoi spiriti rimasti e a nuovi alleati come Ling Gu, Xi Cheng e Tong Yue.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6HO3ju6Xfj8udeDmwqO5d3s3DQb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/qWT1hKlqF5rivsDqDxuV0jyGbyD.jpg",
       "genres": [
         "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Commedia"
       ],
-      "rating": 8.478,
+      "rating": 8.226,
       "audio_locales": [
         "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a52742d9-1c14-4833-a635-774d0792ebad",
+      "languages_assumed": true,
+      "deep_link_url": "https://www.primevideo.com/detail/0L6VMGM9Q442LFC0WAJQP3U1OX",
       "maturity_rating": "14+",
-      "episode_count": 112
+      "episode_count": 13
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.028,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts27309",
@@ -789,6 +848,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Goro è un ginecologo che lavora in un ospedale di provincia e la sua unica passione è la idol Ai Hoshino che gli è stata fatta conoscere da una sua piccola paziente. Un giorno, proprio la sua idol preferita si presenta in ospedale incinta di 20 settimane. L'incontro tra queste due persone che vivono in mondi completamente diversi metterà in moto gli ingranaggi del destino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
+    },
+    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -805,7 +892,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.7,
+      "rating": 7.674,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -845,34 +932,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 203737,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Goro è un ginecologo che lavora in un ospedale di provincia e la sua unica passione è la idol Ai Hoshino che gli è stata fatta conoscere da una sua piccola paziente. Un giorno, proprio la sua idol preferita si presenta in ospedale incinta di 20 settimane. L'incontro tra queste due persone che vivono in mondi completamente diversi metterà in moto gli ingranaggi del destino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
-      "maturity_rating": "14+",
-      "episode_count": 35
     },
     {
       "ag_id": "ts64898",
@@ -1333,36 +1392,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts463737",
-      "title": "The All-devouring Whale: Homecoming",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 280078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Lingxiao Fan è un talentuoso maestro di spiriti e capo della setta Lingxiao. Durante una competizione tra le principali sette, viene tradito e divorato dal suo stesso spirito animale, una balena chiamata Kun. Al suo risveglio, si ritrova nel corpo di un adolescente di nome Fengmang Liu, prigioniero nella residenza Bai. Nel frattempo, la sua setta è sull'orlo del collasso. Determinato a scoprire la verità dietro il tradimento e a ricostruire la sua setta, Lingxiao Fan intraprende una nuova avventura insieme ai suoi spiriti rimasti e a nuovi alleati come Ling Gu, Xi Cheng e Tong Yue.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6HO3ju6Xfj8udeDmwqO5d3s3DQb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/qWT1hKlqF5rivsDqDxuV0jyGbyD.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Commedia"
-      ],
-      "rating": 8.226,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": true,
-      "deep_link_url": "https://www.primevideo.com/detail/0L6VMGM9Q442LFC0WAJQP3U1OX",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts18944",
       "title": "Gigi la trottola",
       "year": 1981,
@@ -1507,35 +1536,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.028,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
-      "episode_count": 13
     },
     {
       "ag_id": "tm121121",
@@ -1728,7 +1728,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.093,
+      "rating": 8.1,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1778,6 +1778,34 @@
       "episode_count": 49
     },
     {
+      "ag_id": "ts44184",
+      "title": "Georgie",
+      "year": 1983,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 36664,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
+      "maturity_rating": "14+",
+      "episode_count": 45
+    },
+    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1806,34 +1834,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts44184",
-      "title": "Georgie",
-      "year": 1983,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 36664,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un agricoltore dell'Australia ritornando a casa trova una donna in fin di vita nel bosco che gli affida la figlia appena nata, Georgie. La piccola viene così adottata dalla famiglia Butman ed è molto amata da tutti tranne che dalla madre adottiva, che non riesce ad affezionarsi. Le cose peggiorano quando il signor Butman muore nel tentativo di salvare la figlia. Passano gli anni e Georgie cresce spensierata insieme ai suoi fratelli, Abel ed Arthur, tutti e due segretamente innamorati di lei. Un giorno incontra il bellissimo Lowell, nipote del Governatore, e se innamora perdutamente. Quando la madre ormai spinta all'esasperazione le rivela la verità sulla sua nascita e che in realtà è la figlia di un deportato, Georgie decide di imbarcarsi su una nave per raggiungere l'Inghilterra e ritrovare il suo amato che ha ormai lasciato l'Australia. Arrivata a Londra, Georgie dovrà affrontare gli intrighi aristocratici che ruotano attorno al nome della sua vera famiglia...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/l6Zh4T88goaNQAkzVsSnXjF0cPL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wihCJfqMfjY5vY6Lbq3JltXHZft.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1cf2fea2-2901-43cc-b993-bce0588c21d9",
-      "maturity_rating": "14+",
-      "episode_count": 45
     },
     {
       "ag_id": "ts492780",
@@ -2947,6 +2947,35 @@
       "episode_count": 25
     },
     {
+      "ag_id": "ts13335",
+      "title": "DNA²",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43384,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts32338",
       "title": "Penguindrum",
       "year": 2011,
@@ -2975,35 +3004,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts13335",
-      "title": "DNA²",
-      "year": 1994,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43384,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una ragazza di nome Karin Aoi viene mandata 100 anni nel passato (corrispondente ai giorni nostri) per modificare la storia. Karin è una DNA Operator ed il suo compito è quello di evitare che Junta Momonari diventi il Mega Playboy.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bgwuC5Xd9vz9xjoUqABUcqGFey6.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a1d33376-ec7c-44e0-8299-30fc260de170",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm130037",
@@ -4609,7 +4609,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.167,
+      "rating": 7.173,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7019,6 +7019,33 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm102684",
+      "title": "Cyborg 009: La leggenda della supergalassia",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 187695,
+        "tmdb_type": "movie"
+      },
+      "description_it": "All'inizio della storia, i nove Cyborg non fanno più parte dello squadrone da combattimento coordinato dal Dottor Gilmore, ma sono ciascuno dediti a differenti attività (Joe -009- è un pilota di formula uno, Francoise -003- è una ballerina, e così via). Il citato Prof. Gilmore, ormai in pensione, trascorre i suoi giorni in un istituto di ricerche scientifiche, accudendo Iwan -001-. Ma è proprio quest'ultimo, grazie ai suoi poteri telepatici a scoprire la presenza di una grave minaccia per il genere umano, che si concretizzerà in un'invasione aliena. Per fronteggiare tele eventualità, il dottor Gilmore è costretto, seppur a malincuore a riunire i cyborg, i quali assieme ad un alieno giunto presso il laboratorio a bordo di una misteriosa astronave, partono per quella che sarà, probabilmente, la loro ultima missione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eA7sprAMJMzoY5L6uKDjk89QKan.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ktvKQdwWfdlZTwLOqh0D0y6ZkVp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.740528dc-ffdb-4018-bbb3-601c7bcdb1b3",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm65142",
       "title": "One Piece - Un'amicizia oltre i confini del mare",
       "year": 2007,
@@ -7047,33 +7074,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16cd77d4-c89f-43d3-9034-c0b17a18cf6a",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm102684",
-      "title": "Cyborg 009: La leggenda della supergalassia",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 187695,
-        "tmdb_type": "movie"
-      },
-      "description_it": "All'inizio della storia, i nove Cyborg non fanno più parte dello squadrone da combattimento coordinato dal Dottor Gilmore, ma sono ciascuno dediti a differenti attività (Joe -009- è un pilota di formula uno, Francoise -003- è una ballerina, e così via). Il citato Prof. Gilmore, ormai in pensione, trascorre i suoi giorni in un istituto di ricerche scientifiche, accudendo Iwan -001-. Ma è proprio quest'ultimo, grazie ai suoi poteri telepatici a scoprire la presenza di una grave minaccia per il genere umano, che si concretizzerà in un'invasione aliena. Per fronteggiare tele eventualità, il dottor Gilmore è costretto, seppur a malincuore a riunire i cyborg, i quali assieme ad un alieno giunto presso il laboratorio a bordo di una misteriosa astronave, partono per quella che sarà, probabilmente, la loro ultima missione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eA7sprAMJMzoY5L6uKDjk89QKan.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ktvKQdwWfdlZTwLOqh0D0y6ZkVp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.740528dc-ffdb-4018-bbb3-601c7bcdb1b3",
       "maturity_rating": "T",
       "episode_count": 1
     },
