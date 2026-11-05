@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T23:13:40Z",
+  "generated_at": "2026-11-05T05:13:48Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -119,7 +119,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.362,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -241,7 +241,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.297,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -252,6 +252,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c0ba325e-593a-4baa-ac3c-546ed6e23a5e",
       "maturity_rating": "14+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts14127",
+      "title": "Ken il guerriero",
+      "year": 1984,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 56387,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Dramma"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
+      "maturity_rating": "18+",
+      "episode_count": 152
     },
     {
       "ag_id": "ts20112",
@@ -313,36 +343,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "maturity_rating": "12+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts14127",
-      "title": "Ken il guerriero",
-      "year": 1984,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 56387,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/a66BotbhMK0WHMiHp9GFu2Ys3VR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/hGRQM3wpjo3zrXN04wBEhWRK3ep.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Dramma"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
-      "maturity_rating": "18+",
-      "episode_count": 152
     },
     {
       "ag_id": "ts345",
@@ -432,6 +432,36 @@
       "episode_count": 26
     },
     {
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 134667,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pQtQh6v0dwajwf3bvHPx9n1ZyPa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -461,36 +491,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 134667,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pQtQh6v0dwajwf3bvHPx9n1ZyPa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts44897",
@@ -550,6 +550,64 @@
       "episode_count": 300
     },
     {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
+      "ag_id": "ts354570",
+      "title": "Oshi no ko - My Star",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 203737,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Goro è un ginecologo che lavora in un ospedale di provincia e la sua unica passione è la idol Ai Hoshino che gli è stata fatta conoscere da una sua piccola paziente. Un giorno, proprio la sua idol preferita si presenta in ospedale incinta di 20 settimane. L'incontro tra queste due persone che vivono in mondi completamente diversi metterà in moto gli ingranaggi del destino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "maturity_rating": "14+",
+      "episode_count": 35
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -579,36 +637,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
     },
     {
       "ag_id": "ts25996",
@@ -818,22 +846,23 @@
       "episode_count": 112
     },
     {
-      "ag_id": "ts354570",
-      "title": "Oshi no ko - My Star",
+      "ag_id": "ts322259",
+      "title": "Insomniacs After School",
       "year": 2023,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 203737,
+        "tmdb_id": 155440,
         "tmdb_type": "tv"
       },
-      "description_it": "Goro è un ginecologo che lavora in un ospedale di provincia e la sua unica passione è la idol Ai Hoshino che gli è stata fatta conoscere da una sua piccola paziente. Un giorno, proprio la sua idol preferita si presenta in ospedale incinta di 20 settimane. L'incontro tra queste due persone che vivono in mondi completamente diversi metterà in moto gli ingranaggi del destino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gnNMGCDA2mZuVMHRvqi8BwAUJWj.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s76eYQi6hcAcOVYpVd9hofdyt11.jpg",
+      "description_it": "Non riuscendo a dormire la notte, Ganta Nakami è irritabile in classe e impopolare con i compagni. Scopre che l'osservatorio della scuola può essere il luogo perfetto per un pisolino, ma non è solo. La sua compagna di scuola Isaki Màgari, affetta anche lei da insonnia, è disposta a condividere l'osservatorio con lui e tra i due nasce un'amicizia che li porta a legare per le cose più improbabili.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
       "genres": [
         "Animazione",
+        "Commedia",
         "Dramma"
       ],
-      "rating": 8.3,
+      "rating": 7.712,
       "audio_locales": [
         "ja-JP"
       ],
@@ -841,9 +870,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
-      "episode_count": 35
+      "episode_count": 13
     },
     {
       "ag_id": "ts317669",
@@ -1008,7 +1037,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.517,
+      "rating": 7.518,
       "audio_locales": [
         "it-IT"
       ],
@@ -1313,35 +1342,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts322259",
-      "title": "Insomniacs After School",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Non riuscendo a dormire la notte, Ganta Nakami è irritabile in classe e impopolare con i compagni. Scopre che l'osservatorio della scuola può essere il luogo perfetto per un pisolino, ma non è solo. La sua compagna di scuola Isaki Màgari, affetta anche lei da insonnia, è disposta a condividere l'osservatorio con lui e tra i due nasce un'amicizia che li porta a legare per le cose più improbabili.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.712,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "tm1542133",
       "title": "Wan Pîsu Fanretâ",
       "year": 2024,
@@ -1450,34 +1450,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts41160",
       "title": "Lamù, la ragazza dello spazio",
       "year": 1981,
@@ -1506,6 +1478,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts353577",
@@ -1922,35 +1922,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts28832",
-      "title": "Slayers",
-      "year": 1995,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 26318,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
-      "maturity_rating": "T",
-      "episode_count": 104
-    },
-    {
       "ag_id": "ts75698",
       "title": "Legend of the Galactic Heroes: Die Neue These",
       "year": 2018,
@@ -1980,6 +1951,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c50c989d-1e13-4a42-b4c0-c33cb1daa526",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts28832",
+      "title": "Slayers",
+      "year": 1995,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 26318,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Rina è una maga dalle grandi capacità che incontra una banda di ladri e come suo solito li rapina. Le si affianca scambiandola per una ragazza docile e indifesa Gourry, uno spadaccino così i due diventeranno inseparabili. Ma la ragazza è diventata una preda per uno sciamano di nome Zelgadis, un essere ora totalmente di pietra che vuole sottrarle una piccola statua di oricalco che Rina possiede dopo averla rubata. Nel corso delle sue avventure Rina si imbatte in un misterioso monaco, Xellos, quindi in Valgarv, l'ultimo drago della sua specie.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/9M97xCfMuYAxRt4Yy3UTF3e7JGP.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.28fc1af7-30b3-4789-bf24-b58e6a177744",
+      "maturity_rating": "T",
+      "episode_count": 104
     },
     {
       "ag_id": "ts394764",
@@ -2013,28 +2013,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -2051,7 +2029,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 8.405,
+      "rating": 8.406,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2265,6 +2243,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4ba39707-e392-4ade-81bd-faaeb9149ef1",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "tm113059",
@@ -3285,35 +3285,6 @@
       "episode_count": 203
     },
     {
-      "ag_id": "tm136088",
-      "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 83088,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Pegasus, Sirio, Cristal, Andromeda e Phoenix affrontano in questo film il più potente e spietato degli avversari: Lucifero, il Sovrano degli Inferi. Relegato fin dai tempi del mito nelle profonde oscurità dalla dea Atena egli ritorna sulla Terra per brama di vendetta. Dopo aver ucciso i cavalieri d'oro, decapita la statua di Atena ed erge la sua fortezza, il Palazzo degli Intrighi, nei pressi del Grande Tempio. Affiancato dagli spiriti di Nettuno, Discordia e Apollo, le tre malvagie divinità che i cavalieri di Atena avevano faticosamente sconfitto nelle loro precedenti avventure, Lucifero lancia un ultimatum a Lady Isabel: la giovane dovrà sacrificarsi o l'intero pianeta verrà devastato dalla sua furia demoniaca. I Cavalieri dello Zodiaco sono chiamati ad una impresa disperata, contrastare il potente avversario sfidando i terribili demoni infernali per poter salvare la dea della Giustizia e l'intera umanità.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2OwPIGtQRDeRlNKJR0fI85iOaFJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm184092",
       "title": "Lupin III - Viaggio nel pericolo",
       "year": 1993,
@@ -3341,6 +3312,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm136088",
+      "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 83088,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Pegasus, Sirio, Cristal, Andromeda e Phoenix affrontano in questo film il più potente e spietato degli avversari: Lucifero, il Sovrano degli Inferi. Relegato fin dai tempi del mito nelle profonde oscurità dalla dea Atena egli ritorna sulla Terra per brama di vendetta. Dopo aver ucciso i cavalieri d'oro, decapita la statua di Atena ed erge la sua fortezza, il Palazzo degli Intrighi, nei pressi del Grande Tempio. Affiancato dagli spiriti di Nettuno, Discordia e Apollo, le tre malvagie divinità che i cavalieri di Atena avevano faticosamente sconfitto nelle loro precedenti avventure, Lucifero lancia un ultimatum a Lady Isabel: la giovane dovrà sacrificarsi o l'intero pianeta verrà devastato dalla sua furia demoniaca. I Cavalieri dello Zodiaco sono chiamati ad una impresa disperata, contrastare il potente avversario sfidando i terribili demoni infernali per poter salvare la dea della Giustizia e l'intera umanità.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2OwPIGtQRDeRlNKJR0fI85iOaFJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.92a061ab-76c4-44d0-8a11-56ad93e58a2c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -3492,34 +3492,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts459375",
-      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 277513,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.363,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
-      "maturity_rating": "14+",
-      "episode_count": 17
-    },
-    {
       "ag_id": "ts88978",
       "title": "Mix: Meisei Story",
       "year": 2019,
@@ -3578,6 +3550,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb838b-5891-eedc-39de-f7877a08188c",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts459375",
+      "title": "WataNare - Non esiste che ci mettiamo insieme… oppure sì?",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 277513,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Renako dà una volta alla propria vita una volta entrata al liceo per evitare di isolarsi come durante le medie. Riesce subito a fare amicizia con Mai e il suo gruppetto ma, in seguito a un incidente, Mai si innamora di Renako. Quest'ultima però vuole soltanto essere amiche e rifiuta le avance. Inizia così la convivenza a scuola con un rapporto misto tra amicizia e amore.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oTZzpIktlKx6fmmsIaUu4usUah1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xMn1Fc4Go36WxZTgx4txH1Lkn3B.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.363,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1e789a0-6cf3-4934-aef9-2173fcf01b89",
+      "maturity_rating": "14+",
+      "episode_count": 17
     },
     {
       "ag_id": "ts374187",
@@ -4650,36 +4650,6 @@
       "episode_count": 21
     },
     {
-      "ag_id": "ts56436",
-      "title": "I predatori del tempo",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68608,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Famiglia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
-      "maturity_rating": "T",
-      "episode_count": 53
-    },
-    {
       "ag_id": "ts343493",
       "title": "Love Flops",
       "year": 2022,
@@ -4737,6 +4707,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5dc575dc-c7a0-489f-ac5a-33c22a2d8afa",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts56436",
+      "title": "I predatori del tempo",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68608,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Siamo nel 2980 e ormai i viaggi nel tempo non sono più un segreto per l'umanità. Ma da un grande potere derivano grandi responsabilità, per questo per evitare che criminali usino i viaggi nel tempo per i loro loschi scopi, è stata istituita un'unità speciale, la Pattuglia del Tempo che, dalla sua sede nello spazio, vigila che nessuno vari il corso naturale della Storia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/b9b5Z4LNcdhaHkG2fWmoKPGUcNS.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/wlYMFvqEc9OpkpqLnRrZJxVUR83.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Famiglia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d063e01d-0434-45f2-98ef-d27cbb957bee",
+      "maturity_rating": "T",
+      "episode_count": 53
     },
     {
       "ag_id": "ts199079",
