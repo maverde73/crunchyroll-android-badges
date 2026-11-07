@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-07T12:29:31Z",
+  "generated_at": "2026-11-07T21:27:52Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.641,
+      "rating": 9.627,
       "audio_locales": [
         "ja-JP"
       ],
@@ -91,7 +91,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.012,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -198,7 +198,7 @@
         "Mistero",
         "Action & Adventure"
       ],
-      "rating": 7.7,
+      "rating": 7.706,
       "audio_locales": [
         "en-US",
         "es",
@@ -272,7 +272,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.299,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -463,6 +463,34 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts44897",
+      "title": "Lady Oscar",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 32676,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 8.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
+      "maturity_rating": "14+",
+      "episode_count": 40
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -492,34 +520,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
       "episode_count": 47
-    },
-    {
-      "ag_id": "ts44897",
-      "title": "Lady Oscar",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 32676,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/298vDDqeAcWhnYB6YRBFMRw1aJN.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/v73PtemCeebGae3ebvds3VCrHhc.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 8.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
-      "maturity_rating": "14+",
-      "episode_count": 40
     },
     {
       "ag_id": "ts25996",
@@ -760,33 +760,6 @@
       "episode_count": 41
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
-    },
-    {
       "ag_id": "ts27309",
       "title": "Paranoia Agent",
       "year": 2004,
@@ -871,6 +844,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts317669",
@@ -1504,7 +1504,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -2582,7 +2582,7 @@
         "Romance",
         "Animazione"
       ],
-      "rating": 7.478,
+      "rating": 7.479,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4724,7 +4724,7 @@
         "Azione",
         "Animazione"
       ],
-      "rating": 7.173,
+      "rating": 7.172,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5308,7 +5308,7 @@
         "Fantasy",
         "Animazione"
       ],
-      "rating": 7.38,
+      "rating": 7.378,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -5501,6 +5501,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts342570",
+      "title": "La mia padroncina Inukai - Una volta diventato un cane, sono stato adottato dalla persona di cui sono innamorato",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195081,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un giorno un ragazzo si ritrova nel corpo di un cane. Una sua compagna di classe lo trova portandolo a casa sua. La ragazza a scuola si dimostra sempre fredda ma è molto affettuosa nei confronti del suo nuovo animale domestico.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eJURdOPus3gX48hazRNVeULxJU3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jiKtn560NRQ3KUxSA2KBpJd25i.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 5.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -5529,34 +5557,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
       "maturity_rating": "T",
       "episode_count": 27
-    },
-    {
-      "ag_id": "ts342570",
-      "title": "La mia padroncina Inukai - Una volta diventato un cane, sono stato adottato dalla persona di cui sono innamorato",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195081,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un giorno un ragazzo si ritrova nel corpo di un cane. Una sua compagna di classe lo trova portandolo a casa sua. La ragazza a scuola si dimostra sempre fredda ma è molto affettuosa nei confronti del suo nuovo animale domestico.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eJURdOPus3gX48hazRNVeULxJU3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jiKtn560NRQ3KUxSA2KBpJd25i.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 5.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50dc8a6c-d4ea-41df-b705-b0ef25aac999",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts222964",
@@ -5805,7 +5805,7 @@
         "Azione",
         "Fantasy"
       ],
-      "rating": 7.409,
+      "rating": 7.408,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -6217,7 +6217,7 @@
         "Animazione",
         "Azione"
       ],
-      "rating": 7.32,
+      "rating": 7.317,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7072,36 +7072,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm49444",
-      "title": "Detective Conan - L'asso di picche",
-      "year": 1998,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 21452,
-        "tmdb_type": "movie"
-      },
-      "description_it": "L'ispettore Megure e il professor Agasa vengono feriti da delle frecce, mentre Eri Kisaki viene avvelenata con dei cioccolatini. Nelle vicinanze dei tre attentati, l'aggressore lascia degli indizi, che Conan associa subito alle carte da poker. Chi si nasconde dietro questi gesti, e cosa lo ha spinto a tanto?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/i9GuhETBk66l72B9HBZodK7tHKc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Avventura"
-      ],
-      "rating": 7.162,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm19883",
       "title": "Le avventure di Bandar",
       "year": 1978,
@@ -7432,6 +7402,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f1542319-5ff5-493d-bf0a-fd3eec853234",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm49444",
+      "title": "Detective Conan - L'asso di picche",
+      "year": 1998,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 21452,
+        "tmdb_type": "movie"
+      },
+      "description_it": "L'ispettore Megure e il professor Agasa vengono feriti da delle frecce, mentre Eri Kisaki viene avvelenata con dei cioccolatini. Nelle vicinanze dei tre attentati, l'aggressore lascia degli indizi, che Conan associa subito alle carte da poker. Chi si nasconde dietro questi gesti, e cosa lo ha spinto a tanto?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/i9GuhETBk66l72B9HBZodK7tHKc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6Bev1r0VbGp8Riv9QiSgt832OoW.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Avventura"
+      ],
+      "rating": 7.162,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cccb5528-c7a6-4225-be01-d9b5da8ca7e4",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -8400,6 +8400,37 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm682308",
+      "title": "One Piece - Avventura nell'ombelico dell'oceano",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 1051942,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Mentre navigano spensierati come al solito, Rufy pesca un forziere, all'interno del quale trovano il teschio del misterioso capitano Joke. Sul cranio sono incise delle parole che parlano di un tesoro nascosto all'interno dell'ombelico del mare. Nami vuole immediatamente saperne di più, ma all'improvviso un'enorme voragine si apre nel mare…",
+      "poster_tall": "https://image.tmdb.org/t/p/original/tz1bikaPX4HNPBFjy2JE94XAAf1.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lMwQkhhhzIz57ldqxXk6GdApUak.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Avventura",
+        "televisione film"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm117720",
       "title": "Holly e Benji: Corri per il domani!",
       "year": 1986,
@@ -8507,37 +8538,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ccd8a-a7fa-408d-8c06-fd2f1ae5bd1e",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm682308",
-      "title": "One Piece - Avventura nell'ombelico dell'oceano",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 1051942,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Mentre navigano spensierati come al solito, Rufy pesca un forziere, all'interno del quale trovano il teschio del misterioso capitano Joke. Sul cranio sono incise delle parole che parlano di un tesoro nascosto all'interno dell'ombelico del mare. Nami vuole immediatamente saperne di più, ma all'improvviso un'enorme voragine si apre nel mare…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/tz1bikaPX4HNPBFjy2JE94XAAf1.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lMwQkhhhzIz57ldqxXk6GdApUak.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Avventura",
-        "televisione film"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1d3432e7-5342-4e93-80a8-dadb81864b05",
       "maturity_rating": "T",
       "episode_count": 1
     },
