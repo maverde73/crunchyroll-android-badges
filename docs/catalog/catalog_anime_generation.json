@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T04:33:26Z",
+  "generated_at": "2026-11-08T12:47:22Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.627,
+      "rating": 9.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -919,7 +919,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.656,
+      "rating": 7.7,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1047,28 +1047,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
     },
     {
       "ag_id": "tm69778",
@@ -1290,6 +1268,28 @@
       "episode_count": 73
     },
     {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts35975",
       "title": "Ushio e Tora",
       "year": 2015,
@@ -1504,9 +1504,37 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
+    },
+    {
+      "ag_id": "ts38826",
+      "title": "Maid-sama! - La doppia vita di Misaki",
+      "year": 2010,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 65648,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.45,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
+      "maturity_rating": "14+",
+      "episode_count": 26
     },
     {
       "ag_id": "ts353577",
@@ -1537,34 +1565,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts38826",
-      "title": "Maid-sama! - La doppia vita di Misaki",
-      "year": 2010,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 65648,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ayuzawa Misaki è la presidentessa del consiglio d’istituto dell’ex scuola maschile, Seika High School, ora aperta anche alle ragazze. Allo scopo di proteggere le neo-iscritte dalla ben poco galante fauna maschile, Misaki ingaggerà una battaglia senza esclusione di colpi con i ragazzi. La presidentessa nasconde, però, un piccolo segreto: lavora in un “Maid Cafè”. Sfortunatamente verrà scoperta da un popolarissimo studente della scuola, Usui Takumi, che metterà in pericolo la sua doppia vita da maid e presidentessa del consiglio d’istituto!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kYP6kFq79cuyKbGXuHPqhSexT7R.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/w50RYqdXGNB0rM7mMrOLGzdS0p3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 8.45,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66bc3bae-a7c9-4b7c-b59b-1f7b85c4db45",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "tm121121",
@@ -3119,36 +3119,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts32338",
-      "title": "Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm193065",
       "title": "Lupin III: Walther P38 - Nome in codice Tarantola",
       "year": 1997,
@@ -3179,6 +3149,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4cbb835b-60a9-32f3-9288-8bc599d3fcd5",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts22705",
@@ -4230,7 +4230,7 @@
         "tmdb_type": "tv"
       },
       "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg",
+      "poster_tall": "https://image.tmdb.org/t/p/original/40eczTx6wweZ8q4rCdm9WuFnof7.jpg",
       "poster_wide": "https://image.tmdb.org/t/p/original/A3ndC0rTOUc4qze6W7FjKRqnuoc.jpg",
       "genres": [
         "Animazione",
@@ -5529,6 +5529,34 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts222964",
+      "title": "Arte",
+      "year": 2020,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 95697,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arte è una giovane nobildonna che aspira a diventare una pittrice. Però, nella Firenze del 16° secolo, il suo rango sociale e l'essere donna saranno due ostacoli difficili da sormontare per riuscire a trovare una bottega che la accetti come apprendista.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gHBc5rtFRRTYP9EJXqjyNnFidpp.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/3t77iT4neKIZktuwwNhaIdT8NB8.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.77416515-803e-435d-8de3-f1865b57f2db",
+      "maturity_rating": "14+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts40524",
       "title": "Blue Noah",
       "year": 1979,
@@ -5557,34 +5585,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.65341f0c-2bd4-4e21-afd6-1ac716bedf37",
       "maturity_rating": "T",
       "episode_count": 27
-    },
-    {
-      "ag_id": "ts222964",
-      "title": "Arte",
-      "year": 2020,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 95697,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arte è una giovane nobildonna che aspira a diventare una pittrice. Però, nella Firenze del 16° secolo, il suo rango sociale e l'essere donna saranno due ostacoli difficili da sormontare per riuscire a trovare una bottega che la accetti come apprendista.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gHBc5rtFRRTYP9EJXqjyNnFidpp.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/3t77iT4neKIZktuwwNhaIdT8NB8.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.77416515-803e-435d-8de3-f1865b57f2db",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts53271",
@@ -6984,33 +6984,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts413183",
-      "title": "Rinkai!",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240399,
-        "tmdb_type": "tv"
-      },
-      "description_it": "",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ncyJvQlcDX2RkMRHSRBYQX0weLs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/zAcBOll4cTyWEsqTJs31bWdWRRP.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm191827",
       "title": "Detective Conan - Fino alla fine del tempo",
       "year": 1997,
@@ -7525,6 +7498,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f8263f52-660b-473e-9ad8-90d2dd3e01d1",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts413183",
+      "title": "Rinkai!",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240399,
+        "tmdb_type": "tv"
+      },
+      "description_it": "",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ncyJvQlcDX2RkMRHSRBYQX0weLs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/zAcBOll4cTyWEsqTJs31bWdWRRP.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.00e04ae2-7497-4ac6-98df-2a32e8805c98",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "tm99577",
