@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T22:51:30Z",
+  "generated_at": "2026-11-11T04:47:40Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -104,54 +104,6 @@
       "episode_count": 1219
     },
     {
-      "ag_id": "ts407747",
-      "title": "Dragon Ball DAIMA",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 236994,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kgv2x9vUvKF7ocNiRQqWojfWTve.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.2,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "hi",
-        "ja-JP",
-        "pt",
-        "ta",
-        "te",
-        "th"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "zh"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
-      "maturity_rating": "14+",
-      "episode_count": 20
-    },
-    {
       "ag_id": "ts20305",
       "title": "Naruto",
       "year": 2002,
@@ -227,6 +179,54 @@
       "episode_count": 48
     },
     {
+      "ag_id": "ts407747",
+      "title": "Dragon Ball DAIMA",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 236994,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Misteriosamente trasformati in versioni mini di se stessi, Goku e i suoi amici viaggiano nel Regno dei Demoni per scoprire la verità e trovare una cura.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kgv2x9vUvKF7ocNiRQqWojfWTve.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.2,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "hi",
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "pl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
+      "maturity_rating": "14+",
+      "episode_count": 20
+    },
+    {
       "ag_id": "tm190768",
       "title": "Perfect Blue",
       "year": 1998,
@@ -272,7 +272,7 @@
         "Sci-Fi & Fantasy",
         "Dramma"
       ],
-      "rating": 8.045,
+      "rating": 8.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -344,37 +344,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts413191",
-      "title": "Dan Da Dan",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 240411,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Okarun è un liceale che crede nell'esistenza di alieni e UFO e passa le giornate leggendo riviste sull'argomento, anche se viene preso di mira dai bulli. Un giorno viene difeso dalla bella Momo Ayase, che crede ai fantasmi ma non agli alieni. Così i due si lanciano una sfida: chi dimostrerà l'esistenza di alieni o fantasmi potrà rendere l'altro il proprio galoppino.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.518,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
-      "maturity_rating": "12+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -404,6 +373,95 @@
       "episode_count": 300
     },
     {
+      "ag_id": "ts413191",
+      "title": "Dan Da Dan",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 240411,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Okarun è un liceale che crede nell'esistenza di alieni e UFO e passa le giornate leggendo riviste sull'argomento, anche se viene preso di mira dai bulli. Un giorno viene difeso dalla bella Momo Ayase, che crede ai fantasmi ma non agli alieni. Così i due si lanciano una sfida: chi dimostrerà l'esistenza di alieni o fantasmi potrà rendere l'altro il proprio galoppino.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.519,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
+      "maturity_rating": "12+",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.424,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
+      "ag_id": "ts471256",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283938,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ume Mizunoe prende sempre il massimo dei voti in letteratura e ha una condotta impeccabile, ma purtroppo i suoi voti terribili nelle materie scientifiche lo mettono a rischio bocciatura. Così, per migliorare la pagella, si unisce al consiglio studentesco dove conoscerà i suoi strampalati membri. Tra mocciosi procaci e prosperose ragazze represse, Ume si godrà infine l'adolescenza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.7,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
+      "maturity_rating": "",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -430,35 +488,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8251264b-11c2-44f6-8590-ce33c4591afd",
       "maturity_rating": "14+",
       "episode_count": 40
-    },
-    {
-      "ag_id": "ts24483",
-      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
-      "year": 2009,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61389,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Dramma"
-      ],
-      "rating": 8.328,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
-      "maturity_rating": "14+",
-      "episode_count": 26
     },
     {
       "ag_id": "ts21406",
@@ -492,34 +521,33 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts311625",
-      "title": "Tenken - Reincarnato in una spada",
-      "year": 2022,
+      "ag_id": "ts24483",
+      "title": "I Cavalieri dello Zodiaco - Saint Seiya: The Lost Canvas",
+      "year": 2009,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 134667,
+        "tmdb_id": 61389,
         "tmdb_type": "tv"
       },
-      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/pQtQh6v0dwajwf3bvHPx9n1ZyPa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
+      "description_it": "Storia della guerra santa che si svolge nel 18 ° secolo, 250 anni prima della serie originale Saint Seiya. Si concentra sulla lotta tra Tenma, uno dei 88 Santi seguenti Athena, e solo, la reincarnazione del dio Ade.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gtHBhTeN7IBq0bba2QpWa7Hln8m.jpg",
       "genres": [
         "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
+        "Action & Adventure",
+        "Dramma"
       ],
-      "rating": 7.3,
+      "rating": 8.328,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
-      "episode_count": 24
+      "episode_count": 26
     },
     {
       "ag_id": "ts461952",
@@ -551,32 +579,34 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts471256",
-      "title": "Anche il consiglio studentesco cade in fallo!",
-      "year": 2026,
+      "ag_id": "ts311625",
+      "title": "Tenken - Reincarnato in una spada",
+      "year": 2022,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 283938,
+        "tmdb_id": 134667,
         "tmdb_type": "tv"
       },
-      "description_it": "Ume Mizunoe prende sempre il massimo dei voti in letteratura e ha una condotta impeccabile, ma purtroppo i suoi voti terribili nelle materie scientifiche lo mettono a rischio bocciatura. Così, per migliorare la pagella, si unisce al consiglio studentesco dove conoscerà i suoi strampalati membri. Tra mocciosi procaci e prosperose ragazze represse, Ume si godrà infine l'adolescenza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+      "description_it": "Un essere umano si reincarna in un mondo fantasy come spada magica senziente. A trovarlo sarà Fran, una giovane appartenente a una stirpe vessata e discriminata. I due stringono un legame, e lo strano duo parte all'avventura per realizzare il sogno che la ragazza ha ereditato dai suoi defunti genitori: diventare più forte ed evolvere, cosa considerata impossibile per la sua stirpe.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/pQtQh6v0dwajwf3bvHPx9n1ZyPa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fo5qwDAVqY7j2jmL350WKjk6kmi.jpg",
       "genres": [
         "Animazione",
-        "Commedia"
+        "Commedia",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 7.3,
       "audio_locales": [
+        "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
-      "maturity_rating": "",
-      "episode_count": 12
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ea44e2b0-aeff-4059-9bfd-a17c4841cfcd",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts21984",
@@ -610,37 +640,6 @@
       "episode_count": 47
     },
     {
-      "ag_id": "ts281904",
-      "title": "The Eminence in Shadow",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 119495,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.104,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
-      "maturity_rating": "14+",
-      "episode_count": 32
-    },
-    {
       "ag_id": "ts25996",
       "title": "Una porta socchiusa ai confini del sole",
       "year": 1994,
@@ -671,23 +670,24 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
+      "ag_id": "ts281904",
+      "title": "The Eminence in Shadow",
+      "year": 2022,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 64196,
+        "tmdb_id": 119495,
         "tmdb_type": "tv"
       },
-      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "description_it": "Gli uomini che vivono nell'ombra sono quelle persone che passano inosservate, come persone ordinarie, ma in realtà detengono il potere da dietro le quinte. Questo è ciò a cui aspira Shido e per raggiungere il suo obiettivo vive una vita insignificante di giorno, mentre di notte si allena duramente preparandosi alla sua ascesa al potere. Finalmente riesce a raggiungere il suo obiettivo quando, dopo un fatale incidente, si risveglia in un mondo misterioso e si ritrova a capo di un'organizzazione segreta che combatte i demoni rimanendo nell'oscurità!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/r3IHw82QFkLmggTG9QpBFpYArVM.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
       "genres": [
         "Animazione",
+        "Commedia",
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.424,
+      "rating": 8.104,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -696,9 +696,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
+      "maturity_rating": "14+",
+      "episode_count": 32
     },
     {
       "ag_id": "ts20686",
@@ -789,6 +789,33 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
+    },
+    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -818,31 +845,32 @@
       "episode_count": 112
     },
     {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
+      "ag_id": "ts522861",
+      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
+      "year": 2026,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 44033,
+        "tmdb_id": 312850,
         "tmdb_type": "tv"
       },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
       "genres": [
-        "Animazione"
+        "Animazione",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 7.8,
+      "rating": 7.9,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts354570",
@@ -932,6 +960,34 @@
       "episode_count": 13
     },
     {
+      "ag_id": "ts410723",
+      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 238892,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts342987",
       "title": "Ragna Crimson",
       "year": 2023,
@@ -960,34 +1016,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2c5e3819-5351-4ad2-9de4-75736e13719e",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts410723",
-      "title": "Uso Parry su ogni cosa - il più forte del mondo non capisce di esserlo e vuole diventare un avventuriero",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 238892,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di dodici anni Noor decide di allenarsi in montagna dopo essere stato rifiutato dai centri di formazione ufficiali della capitale in quanto ritenuto privo di talento. Il giovane è convinto che, con un duro allenamento, possa eguagliare i protagonisti delle storie della sua infanzia. Ma, per quanto determinato, conosce soltanto l’arte del bloccare i colpi che gli vengono inferti. Trascorsi degli anni, si specializza in tale tecnica diventandone maestro. Tuttavia, concluso l’allenamento, è deluso per non avere appreso altre tecniche necessarie per diventare un vero avventuriero. Non si è ancora reso conto di essere diventato uno dei più forti al mondo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/t324alfKvsj3OnLULib7jud9k8m.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts463737",
@@ -1066,7 +1094,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 7.518,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -1108,34 +1136,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts522861",
-      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 312850,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts35578",
       "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
       "year": 2015,
@@ -1175,35 +1175,6 @@
       "episode_count": 74
     },
     {
-      "ag_id": "ts57405",
-      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42713,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.595,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -1232,6 +1203,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
+      "episode_count": 13
+    },
+    {
+      "ag_id": "ts57405",
+      "title": "Record of Lodoss War - Cronache della Guerra di Lodoss",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42713,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La terribile lotta tra la Luce e le Tenebre era arrivata allo scontro finale con la battaglia tra Marpha, Dea della creazione, e Kardis, malefica Dea della Distruzione. Le grida e le urla delle due divinità, che soccombevano entrambe, avevano spezzato i continenti e fatto emergere una nuova terra. A questa terra, gli uomini avevano dato il nome di Lodoss, l'isola maledetta. In questo contesto viene narrata la storia di Parn, un giovane che aspira a diventare cavaliere come il padre. Non proprio benvoluto nel proprio paese, partirà per scontrarsi con le forze oscure che controllano l'equilibrio del potere su Lodoss. Sarà protagonista di molte avventure assieme ai suoi compagni: Deedlit, Ghim, Etoh, Slayn e Woodchuck. Questo piccolo gruppo si ritroverà coinvolto nel tentativo Beld, l'imperatore di Marmo, di conquistare Lodoss che si concluderà con la Battaglia degli Eroi, una delle più grandi battaglie della storia di Lodoss; ma dovranno vedersela anche con Karla, la Strega Grigia, che vuole controllare il destino di Lodoss. Dopo la fine della guerra contro Marmo, i nostri eroi faranno la conoscenza di due mercenari, Sylis e Olson. Il gruppo di avventurieri aiuterà re Kashew a combattere il terribile drago Shooting Star, che sta devastando il suo regno; affronteranno Ashram, intenzionato a terminare l'opera iniziata da Beld e dovranno sventare i piani di Vagnard, Sacerdote di Kardis, che intende resuscitare la malefica Dea della Distruzione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/lOVKwI5TtcZMiB94Gkn9Tj1uu7k.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.595,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.66d35ec3-6e4c-4d69-8070-ab24a85a0faa",
+      "maturity_rating": "16+",
       "episode_count": 13
     },
     {
@@ -1326,28 +1326,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts476585",
-      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -1375,6 +1353,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.05f9929e-2aa7-4875-9f0f-c1fd75633a09",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts476585",
+      "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
+      "maturity_rating": "16+",
+      "episode_count": 0
     },
     {
       "ag_id": "ts82387",
@@ -1756,7 +1756,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.1,
+      "rating": 8.093,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2325,37 +2325,6 @@
       "episode_count": 0
     },
     {
-      "ag_id": "tm113059",
-      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 109572,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm136990",
       "title": "Lupin III: Bye Bye Liberty - Scoppia la crisi!",
       "year": 1989,
@@ -2384,6 +2353,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.02bb7b96-e07e-8775-c0ba-e0a192e4396e",
       "maturity_rating": "16+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm113059",
+      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 109572,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -2627,36 +2627,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm222871",
       "title": "L'organo genocida",
       "year": 2017,
@@ -2773,6 +2743,36 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.80eb0d0d-41b9-4108-adf6-b1f4d7459cad",
       "maturity_rating": "14+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -5731,35 +5731,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts18639",
-      "title": "Baldios - Il guerriero dello spazio",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 19645,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il giovane Marin era deciso a combattere contro la sua stessa razza per difendere un pianeta che lo guardava con sospetto. Il supremo Gattler era deciso a dare una casa agli ultimi superstiti di S-I, che aveva portato con sé attraverso il subspazio fino al terzo pianeta di quel lontano sistema solare. La bella Afrodia era decisa a seguire Gattler ovunque l'avesse portata, e a vendicare la morte del fratello, ucciso da Marin. La follia dilaga in uno scontro tra due civiltà determinate a non estinguersi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/aZlKG1utn0UqJ5nXS92HErflv2b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5iDzoacpBeDQLBY1Nl2S2ycFeP.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53335993-a51a-44ff-a9fd-5891f275393b",
-      "maturity_rating": "T",
-      "episode_count": 34
-    },
-    {
       "ag_id": "ts29733",
       "title": "Mazinkaizer SKL",
       "year": 2011,
@@ -5787,6 +5758,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.c708819d-606d-49b6-8de2-a155af401c62",
       "maturity_rating": "16+",
       "episode_count": 3
+    },
+    {
+      "ag_id": "ts18639",
+      "title": "Baldios - Il guerriero dello spazio",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 19645,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il giovane Marin era deciso a combattere contro la sua stessa razza per difendere un pianeta che lo guardava con sospetto. Il supremo Gattler era deciso a dare una casa agli ultimi superstiti di S-I, che aveva portato con sé attraverso il subspazio fino al terzo pianeta di quel lontano sistema solare. La bella Afrodia era decisa a seguire Gattler ovunque l'avesse portata, e a vendicare la morte del fratello, ucciso da Marin. La follia dilaga in uno scontro tra due civiltà determinate a non estinguersi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/aZlKG1utn0UqJ5nXS92HErflv2b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5iDzoacpBeDQLBY1Nl2S2ycFeP.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.53335993-a51a-44ff-a9fd-5891f275393b",
+      "maturity_rating": "T",
+      "episode_count": 34
     },
     {
       "ag_id": "tm80059",
@@ -7068,7 +7068,7 @@
         "Fantasy",
         "Avventura"
       ],
-      "rating": 7.443,
+      "rating": 7.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -7672,7 +7672,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ada1bda5-a487-4fb2-b7e6-a83557197b43",
-      "maturity_rating": "T",
+      "maturity_rating": "13+",
       "episode_count": 1
     },
     {
