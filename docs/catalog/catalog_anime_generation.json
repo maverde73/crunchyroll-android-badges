@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T13:57:15Z",
+  "generated_at": "2026-11-13T23:15:46Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.6,
+      "rating": 9.628,
       "audio_locales": [
         "ja-JP"
       ],
@@ -121,7 +121,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.487,
+      "rating": 8.486,
       "audio_locales": [
         "it-IT"
       ],
@@ -132,6 +132,51 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
       "maturity_rating": "T",
       "episode_count": 114
+    },
+    {
+      "ag_id": "ts432739",
+      "title": "Tougen Anki",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 253811,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gphVuQrPLw5EaHr7xyutiYUHSU8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Action & Adventure"
+      ],
+      "rating": 7.706,
+      "audio_locales": [
+        "en-US",
+        "es",
+        "it-IT",
+        "ja-JP",
+        "pt"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ko",
+        "ms",
+        "pt",
+        "ru",
+        "th",
+        "vi"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
+      "maturity_rating": "18+",
+      "episode_count": 48
     },
     {
       "ag_id": "ts407747",
@@ -180,51 +225,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.acecf1c9-8cd9-4d15-a6c2-ec0d09065c14",
       "maturity_rating": "14+",
       "episode_count": 20
-    },
-    {
-      "ag_id": "ts432739",
-      "title": "Tougen Anki",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 253811,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Le linee di sangue di \"Oni\" e \"Momotaro\" sono state tramandate tra alcuni umani per generazioni. Molto tempo fa, gli Oni, consapevoli della loro ferocia, vivevano in isolamento. Tuttavia, la loro pace fu infranta da un'invasione guidata da Momotaro. Nel corso di migliaia di anni, queste due fazioni formarono rispettivamente la \"Momotaro Agency\" e la \"Oni Agency\", e da allora sono rimaste bloccate in conflitto. Il protagonista, Shiki Ichinose, apprende improvvisamente della sua discendenza Oni in seguito a un attacco inaspettato di Momotaro. Questa rivelazione mette Shiki sulla strada per scoprire il destino che giace nel suo sangue: un incontro con l'Oni che dimora in lui. Una nuova generazione di eroismo oscuro inizia qui in questa storia di demoni!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gphVuQrPLw5EaHr7xyutiYUHSU8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/k7h9p81H6X6TGV70TgOp4TmjXco.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Action & Adventure"
-      ],
-      "rating": 7.706,
-      "audio_locales": [
-        "en-US",
-        "es",
-        "it-IT",
-        "ja-JP",
-        "pt"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "id",
-        "it-IT",
-        "ko",
-        "ms",
-        "pt",
-        "ru",
-        "th",
-        "vi"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
-      "maturity_rating": "18+",
-      "episode_count": 48
     },
     {
       "ag_id": "tm190768",
@@ -864,7 +864,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.479,
+      "rating": 8.474,
       "audio_locales": [
         "it-IT"
       ],
@@ -892,7 +892,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.288,
+      "rating": 8.3,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1204,37 +1204,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts22290",
-      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45860,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Crime"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
-      "maturity_rating": "18+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts12311",
       "title": "Occhi di gatto",
       "year": 1983,
@@ -1265,6 +1234,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96baf3c4-ab40-bd89-3916-0e6b682d3664",
       "maturity_rating": "14+",
       "episode_count": 73
+    },
+    {
+      "ag_id": "ts22290",
+      "title": "Lupin the Third - La donna chiamata Fujiko Mine",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45860,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è incentrata soprattutto sul personaggio di Fujiko Mine, parlando del suo passato. La narrazione parte col suo primo incontro/scontro con Lupin III, entrambi interessati alla formula segreta di una potente droga. Fujiko conoscerà poi anche Daisuke Jigen e Goemon Ishikawa, suoi futuri soci insieme a Lupin, e l'ispettore Koichi Zenigata.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bAeI4HxXZgq6qJ9ZEmPCy7TbolA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jHBmrBhwW8FEYWruPQTHpTlZuAD.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Crime"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
+      "maturity_rating": "18+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts35975",
@@ -1342,7 +1342,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.618,
+      "rating": 7.619,
       "audio_locales": [
         "it-IT"
       ],
@@ -1654,6 +1654,34 @@
       "episode_count": 108
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts34474",
       "title": "Evelyn e la magia di un sogno d'amore",
       "year": 1984,
@@ -1707,9 +1735,37 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
       "maturity_rating": "T",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts42498",
@@ -2687,34 +2743,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2744,36 +2772,6 @@
       "episode_count": 25
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -2801,6 +2799,36 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7ebb7d9f-7c4c-a206-d535-533fc43824d9",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -3558,7 +3586,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.61,
+      "rating": 7.6,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3577,34 +3605,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.21f86435-abfa-4cfd-bc9d-834b99460838",
       "maturity_rating": "16+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts88978",
-      "title": "Mix: Meisei Story",
-      "year": 2019,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 87456,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dVWRCJEh4718sjSg9NSnBtjMyWc.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
-      "maturity_rating": "T",
-      "episode_count": 48
     },
     {
       "ag_id": "tm65451",
@@ -3637,6 +3637,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6bb838b-5891-eedc-39de-f7877a08188c",
       "maturity_rating": "12+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts88978",
+      "title": "Mix: Meisei Story",
+      "year": 2019,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 87456,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia è incentrata sui 3 fratelli Tachibana, figli di Mayumi ed Eisuke: i due fratelli maggiori, Touma e Souichiro, entrambi di 13 anni e frequentanti il secondo anno delle scuole medie, e la sorellina minore Otomi, di 12 anni e in procinto di iniziare il primo anno del medesimo istituto, che altri non è che il Meisei, la stessa scuola in cui, 26 anni prima, avevano avuto inizio le avventure di Tatsuya, Katsuya e Minami di Touch. Viene, tuttavia, subito fatto notare come i due fratelli, nati lo stesso giorno dello stesso anno, non solo non siano gemelli, ma non si somiglino nemmeno un po', lasciando intendere che non siano fratelli di sangue. Touma e Souichiro sono inoltre tra i membri titolari del club di baseball, rispettivamente terza base e ricevitore, sebbene si noti fin da subito come Touma sia decisamente più abile del lanciatore titolare, un facoltoso gigante del terzo anno, verso cui tutti mostrano un atteggiamento accondiscendente e quasi timoroso.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dVWRCJEh4718sjSg9NSnBtjMyWc.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nq8WEsxGnze3vIlEDcFd3xGXdK1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08b0b116-697b-442d-b5d4-ff2ad7c94313",
+      "maturity_rating": "T",
+      "episode_count": 48
     },
     {
       "ag_id": "ts459375",
@@ -3800,7 +3828,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.0,
+      "rating": 7.059,
       "audio_locales": [
         "it-IT"
       ],
@@ -4368,34 +4396,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts458553",
       "title": "La promessa del mago",
       "year": 2025,
@@ -4507,7 +4507,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cd58e26c-77d6-464e-80fe-47078102ec71",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
