@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-15T04:53:49Z",
+  "generated_at": "2026-11-15T13:27:36Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.626,
+      "rating": 9.627,
       "audio_locales": [
         "ja-JP"
       ],
@@ -60,7 +60,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.362,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -242,7 +242,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.298,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -331,7 +331,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.971,
+      "rating": 7.986,
       "audio_locales": [
         "it-IT"
       ],
@@ -461,6 +461,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts21406",
+      "title": "Nadia - Il mistero della pietra azzurra",
+      "year": 1990,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 24710,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Dramma",
+        "Famiglia"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
+      "maturity_rating": "14+",
+      "episode_count": 39
     },
     {
       "ag_id": "ts21984",
@@ -639,37 +670,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21406",
-      "title": "Nadia - Il mistero della pietra azzurra",
-      "year": 1990,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 24710,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Racconta le avventure di Nadia, una giovane acrobata del circo ignara delle sue origini, e Jean, un ragazzo francese con la passione per l'ingegneria, che si ritrovano a bordo del sottomarino Nautilus coinvolti nello scontro tra il misterioso capitano Nemo e l'organizzazione di Neo Atlantide guidata da Gargoyle, che punta a dominare il mondo.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xAQxaAkQQ3aRDgV9KDyJlB9MQU6.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/VQe5q9BD3itFA30VNHOmcKWrSr.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Dramma",
-        "Famiglia"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
-      "maturity_rating": "14+",
-      "episode_count": 39
-    },
-    {
       "ag_id": "ts463737",
       "title": "The All-devouring Whale: Homecoming",
       "year": 2025,
@@ -729,6 +729,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ff3d02a7-4f3f-4eb6-84dc-63eb0d2e7466",
       "maturity_rating": "14+",
       "episode_count": 32
+    },
+    {
+      "ag_id": "ts35329",
+      "title": "Saint Seiya - Soul of Gold",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62428,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.028,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
+      "maturity_rating": "T",
+      "episode_count": 13
     },
     {
       "ag_id": "ts220153",
@@ -987,35 +1016,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
-      "ag_id": "ts35329",
-      "title": "Saint Seiya - Soul of Gold",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62428,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie si colloca come spin-off dell'adattamento televisivo dell'opera originale (la serie televisiva del 1987 e gli OAV I Cavalieri dello zodiaco - Saint Seiya - Hades prodotti fra il 2002 e il 2008), in contemporanea alla battaglia dei Cavalieri di Bronzo contro Ade nei Campi Elisi a seguito della distruzione del Muro del Lamento da parte dei dodici cavalieri d'oro. Le vicende narrate si svolgono ad Asgard, il regno del dio Odino, già apparso nella serie televisiva come cornice dell'arco narrativo riempitivo che copre gli episodi compresi fra il settantaquattresimo e il novantanovesimo, collocandosi come sequel diretto di quegli eventi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/bzHEkRltkhUNPZvtRtGjDF2ia4t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/p1utSjcDm6dLDHtHDYAeE9B7e2C.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.028,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.33a77402-ecc9-4ec6-98be-29ef7bf985ad",
-      "maturity_rating": "T",
       "episode_count": 13
     },
     {
@@ -1407,6 +1407,34 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts1152",
+      "title": "Emma: Una Storia Romantica",
+      "year": 2005,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 29310,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 6.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
+      "maturity_rating": "7+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts476585",
       "title": "Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosare Kaketaga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
       "year": 2025,
@@ -1756,7 +1784,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.093,
+      "rating": 8.092,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2158,35 +2186,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts308038",
-      "title": "Demon Hunter - Le memorie del mezzo demone",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 133154,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
-      "maturity_rating": "18+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts469760",
       "title": "Fermat Kitchen",
       "year": 2025,
@@ -2240,6 +2239,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
       "maturity_rating": "T",
+      "episode_count": 24
+    },
+    {
+      "ag_id": "ts308038",
+      "title": "Demon Hunter - Le memorie del mezzo demone",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 133154,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Jinta è il guardiano di Byakuya, sacerdotessa che protegge la spada mistica Yarai, e tra le sue mansioni c'è la caccia alle creature immonde. Un giorno, due demoni attaccano il villaggio per risvegliare la divinità demoniaca che si dice discenderà su quelle terre 170 anni nel futuro, ma Jinta non sa che il loro obiettivo è sua sorella Suzune in cui scorre sangue demoniaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/6phREn6JBjCiodaAy21pXkstv4P.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7ylrebWFQZAHOW1TMGdhp9AfRp1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.22452cc6-9574-4c0f-8b8c-9b1ccbee3a29",
+      "maturity_rating": "18+",
       "episode_count": 24
     },
     {
@@ -2325,37 +2353,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm113059",
-      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 109572,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
-      "genres": [
-        "Animazione",
-        "televisione film",
-        "Azione",
-        "Commedia",
-        "Crime"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts436411",
       "title": "Hero Without a Class: Who Even Needs Skills?!",
       "year": 2025,
@@ -2412,6 +2409,37 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
       "maturity_rating": "18+",
       "episode_count": 46
+    },
+    {
+      "ag_id": "tm113059",
+      "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 109572,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Jigen viene intervistato per sapere come è avvenuto il suo primo incontro con Lupin III e il resto della banda. Jigen le racconta la vicenda che li ha fatti unire, ma ad un certo punto, con l'arrivo degli altri tre protagonisti, il pistolero se la da a gambe, lasciando la giornalista in dubbio sulla veridicità delle informazioni ricevute.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/jckASBLbKS6z8PtVhGPaMjlh2Wb.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/g5mrArmZrEgZP8X3OLdOWxJBx0n.jpg",
+      "genres": [
+        "Animazione",
+        "televisione film",
+        "Azione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "tm136990",
@@ -2746,6 +2774,35 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
+    },
+    {
       "ag_id": "tm128010",
       "title": "Lupin III - Il tesoro degli zar",
       "year": 1992,
@@ -2774,35 +2831,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
     },
     {
       "ag_id": "ts504283",
@@ -3151,36 +3179,6 @@
       "episode_count": 50
     },
     {
-      "ag_id": "ts32338",
-      "title": "Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts223380",
       "title": "BOFURI",
       "year": 2020,
@@ -3255,6 +3253,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eeeb000d-c1b2-441a-a338-8311347388ac",
       "maturity_rating": "16+",
       "episode_count": 50
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts403298",
@@ -4368,34 +4396,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts1152",
-      "title": "Emma: Una Storia Romantica",
-      "year": 2005,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 29310,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Alla fine del XIX secolo, in un'epoca in cui le classi sociali dominano la società, una donna di nome Emma serve come domestica per un'istitutrice in pensione. Un giorno fatidico, un uomo di nome William, della classe superiore, arriva alla villa per visitare l'istitutrice, e se ne va innamorandosi della giovane cameriera stessa. In un'epoca di tali pregiudizi, l'amore tra le classi è disapprovato; ma per William ed Emma, le loro difficoltà sono appena iniziate. Riusciranno i due a liberarsi dai legami che la società ha imposto loro, o soccomberanno alla pressione e metteranno distanza tra i loro cuori?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/jcAzNDGyrptpfkuXFOpBnNeuFzH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b2L2tMt01dD2jFM80kpbZpXjiD5.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 6.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.41aca2a2-d14c-4cce-9ff4-15a51a9e2281",
-      "maturity_rating": "7+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts458553",
       "title": "La promessa del mago",
       "year": 2025,
@@ -4679,6 +4679,35 @@
       "episode_count": 0
     },
     {
+      "ag_id": "ts31966",
+      "title": "Calendar Men",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45050,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
+      "maturity_rating": "T",
+      "episode_count": 52
+    },
+    {
       "ag_id": "tm96037",
       "title": "Naruto Shippuden: Il film - La torre perduta",
       "year": 2010,
@@ -4709,35 +4738,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts31966",
-      "title": "Calendar Men",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45050,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nel 1981 in Giappone in un condominio due ragazzi Beppe Domani e Tina Ieri sono i collaboratori di un investigatore privato che si chiama Arsenio Maigret. Ma i due scoprono di essere destinati a sposarsi e dar vita ad una dinnastia che nel futuro regnerà sul trono di Calendar. Infatti dal 2980 arriva la Principessa Domenica, una loro discendente che li coinvolge in una estenuante caccia al tesoro. Devono infatti recuperare un animale sacro, il Cosmopavone, che consente di sancire la sua ascesa al trono. Ma nell'ombra complotta la \"famiglia Settimana\", Lunedì e Sabato con i servitori Settembre e Ottobre che hanno un Pavonputer in grado di intercettare l'animale nei suoi salti temporali. Con queste premesse comincia il bizzarro viaggio alla ricerca del magico animale aiutati da un potentissimo robot King Star che grazie ad artefatti magici, una chiave e un lucchetto, in possesso dei due ragazzi può arrivare dal futuro ad aiutarli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yVyEZ90XB3SqeHCBpzInQjPjtcx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jzQopgN2oF4fdr8WmA5zwcN72mY.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.2,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.57741fd3-8fbb-4a41-a063-570e6676ff00",
-      "maturity_rating": "T",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts452442",
       "title": "ONE PIECE LOG: FISH-MAN ISLAND SAGA",
       "year": 2024,
@@ -4763,35 +4763,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
       "maturity_rating": "T",
       "episode_count": 21
-    },
-    {
-      "ag_id": "tm167492",
-      "title": "Lupin Terzo vs. Detective Conan: Il film",
-      "year": 2013,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 239529,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il famoso ladro illusionista Ladro Kid ruba un prezioso diamante. Conan parte al suo inseguimento, ma dal bagagliaio della macchina del ladro fuoriesce Goemon che tira un fendente e divide in due il suo skateboard. Il giovane detective capisce che Lupin III si è travestito da Kid per mettere in atto il suo piano…",
-      "poster_tall": "https://image.tmdb.org/t/p/original/puOHtVAfYwTxJwSe4SweQsh8uxZ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/sYE2B3u4A8Z37zafENdT5jW0gsm.jpg",
-      "genres": [
-        "Animazione",
-        "Azione",
-        "Thriller"
-      ],
-      "rating": 6.854,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5dc575dc-c7a0-489f-ac5a-33c22a2d8afa",
-      "maturity_rating": "T",
-      "episode_count": 1
     },
     {
       "ag_id": "ts56436",
@@ -4901,6 +4872,35 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm167492",
+      "title": "Lupin Terzo vs. Detective Conan: Il film",
+      "year": 2013,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 239529,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il famoso ladro illusionista Ladro Kid ruba un prezioso diamante. Conan parte al suo inseguimento, ma dal bagagliaio della macchina del ladro fuoriesce Goemon che tira un fendente e divide in due il suo skateboard. Il giovane detective capisce che Lupin III si è travestito da Kid per mettere in atto il suo piano…",
+      "poster_tall": "https://image.tmdb.org/t/p/original/puOHtVAfYwTxJwSe4SweQsh8uxZ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/sYE2B3u4A8Z37zafENdT5jW0gsm.jpg",
+      "genres": [
+        "Animazione",
+        "Azione",
+        "Thriller"
+      ],
+      "rating": 6.854,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5dc575dc-c7a0-489f-ac5a-33c22a2d8afa",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -6316,35 +6316,6 @@
       "episode_count": 3
     },
     {
-      "ag_id": "ts444703",
-      "title": "Il rock è il diletto di una lady",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 260523,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In seguito al nuovo matrimonio della madre, Lilisa Suzunomiya viene mandata in una prestigiosa scuola femminile e si ritrova costretta ad accantonare le sue passioni per la chitarra e la musica rock. Tutto però cambia quando incontra Otoha Kurogane, una delle ragazze più altolocate della scuola, che condivide l'amore per la musica e si rivela anche un'abile batterista.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/c2Li4DhsSJiiKRpMHmTV462oSQH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/i9E2lwBBJGuVEIwl1LZckC4isKz.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d609bc05-fa72-4129-87b7-564a1eb41406",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts237034",
       "title": "Witchy Precure!! ~MIRAI DAYS~",
       "year": 2016,
@@ -6519,6 +6490,35 @@
       "episode_count": 50
     },
     {
+      "ag_id": "ts444703",
+      "title": "Il rock è il diletto di una lady",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 260523,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In seguito al nuovo matrimonio della madre, Lilisa Suzunomiya viene mandata in una prestigiosa scuola femminile e si ritrova costretta ad accantonare le sue passioni per la chitarra e la musica rock. Tutto però cambia quando incontra Otoha Kurogane, una delle ragazze più altolocate della scuola, che condivide l'amore per la musica e si rivela anche un'abile batterista.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/c2Li4DhsSJiiKRpMHmTV462oSQH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/i9E2lwBBJGuVEIwl1LZckC4isKz.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d609bc05-fa72-4129-87b7-564a1eb41406",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts435424",
       "title": "Copriti, Makina!",
       "year": 2025,
@@ -6573,36 +6573,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8fd02e3e-cd27-4450-ab25-20c5e914b883",
       "maturity_rating": "14+",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts64978",
-      "title": "Mademoiselle Anne - Una ragazza alla moda",
-      "year": 1978,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45229,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mademoiselle Anne (Benio Hanamura in lingua originale) si vanta di essere una ragazza moderna ed indipendente, tuttavia si mette sempre nei guai e combina tremendi pasticci. Quando il padre le comunica, che, già alla sua nascita, era stata promessa in moglie a tal tenente Shinobu Ijuin, va su tutte le furie e rifiuta, oltraggiata, il matrimonio combinato, come retaggio di un mondo passato e ormai inaccertabile nel 7º anno del periodo Taisho (1912 - 1926). Tuttavia il promesso sposo non demorde, e tenterà in tutti modi di persuadere la ragazza a concedergli la mano, chi la spunterà? Non mancheranno ostacoli e rivali amorosi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oLxhTcAmdzoVTHCRYkcZaYc84Ow.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/nkWHzsKKQOTqxQlmMgOc4RMOLFz.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Commedia"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
-      "maturity_rating": "",
-      "episode_count": 42
     },
     {
       "ag_id": "ts459902",
@@ -6721,6 +6691,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d4d2331c-d541-4ca1-b7a0-e31a293313e3",
       "maturity_rating": "13+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts64978",
+      "title": "Mademoiselle Anne - Una ragazza alla moda",
+      "year": 1978,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45229,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mademoiselle Anne (Benio Hanamura in lingua originale) si vanta di essere una ragazza moderna ed indipendente, tuttavia si mette sempre nei guai e combina tremendi pasticci. Quando il padre le comunica, che, già alla sua nascita, era stata promessa in moglie a tal tenente Shinobu Ijuin, va su tutte le furie e rifiuta, oltraggiata, il matrimonio combinato, come retaggio di un mondo passato e ormai inaccertabile nel 7º anno del periodo Taisho (1912 - 1926). Tuttavia il promesso sposo non demorde, e tenterà in tutti modi di persuadere la ragazza a concedergli la mano, chi la spunterà? Non mancheranno ostacoli e rivali amorosi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oLxhTcAmdzoVTHCRYkcZaYc84Ow.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/nkWHzsKKQOTqxQlmMgOc4RMOLFz.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Commedia"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.685380d0-a23f-40c0-8a1c-6f4bbb172d84",
+      "maturity_rating": "",
+      "episode_count": 42
     },
     {
       "ag_id": "tm27495",
@@ -7255,39 +7255,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.48a42e3f-7c16-467a-bb79-859974924afe",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm27612",
-      "title": "One Piece - I misteri dell'isola meccanica",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44730,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/3ZxMSpUmWxLtnn6Fj9ciBxna74b.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
-      "genres": [
-        "Animazione",
-        "Avventura",
-        "Azione",
-        "Commedia",
-        "Fantascienza",
-        "Fantasy"
-      ],
-      "rating": 6.891,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
       "maturity_rating": "12+",
       "episode_count": 1
     },
@@ -7857,6 +7824,39 @@
       "episode_count": 1
     },
     {
+      "ag_id": "tm27612",
+      "title": "One Piece - I misteri dell'isola meccanica",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44730,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La ciurma dopo aver recuperato un baule con dentro una vecchia la riportano alla sua isola, all'interno della quale ci sono un sacco di invenzioni robotiche da sconfiggere per trovare la fatidica corona d'oro.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/3ZxMSpUmWxLtnn6Fj9ciBxna74b.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4NyJEGke7B5bZcRaImkTFc5FcZE.jpg",
+      "genres": [
+        "Animazione",
+        "Avventura",
+        "Azione",
+        "Commedia",
+        "Fantascienza",
+        "Fantasy"
+      ],
+      "rating": 6.891,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70976049-ea4c-4a25-a95d-258e660e47f6",
+      "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm681872",
       "title": "One Piece - Un tesoro grande un sogno",
       "year": 2003,
@@ -8286,33 +8286,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm130056",
-      "title": "Holly & Benji: La selezione giovanile del Giappone",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 264992,
-        "tmdb_type": "movie"
-      },
-      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
-      "maturity_rating": "10+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm204920",
       "title": "L'incantevole Creamy: Il ritorno di Creamy",
       "year": 1984,
@@ -8397,60 +8370,6 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e078eaae-0a37-483c-b80a-b8c2666a39ad",
       "maturity_rating": "16+",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm117720",
-      "title": "Holly e Benji: Corri per il domani!",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 172409,
-        "tmdb_type": "movie"
-      },
-      "description_it": "La nazionale giovanile giapponese si allena in vista della terza sfida contro l'Europa, ed i giocatori ripensano ai momenti passati (per esempio alla finale Nankatsu-Toho e al giorno in cui Benji sfidò i capitani delle squadre di differenti sport).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/yBnOHbos7Hn0FcZr2T8e7cxvJp9.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/2AX32gmX1BfmpARQFBWeuuEmT83.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm118756",
-      "title": "Holly e Benji: La grande sfida mondiale: Jr World Cup!",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 172415,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Il Giappone partecipa a un torneo con Stati Uniti, Europa e Sud America.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/2n96954FmEjYobDsFJHONYs7f4Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
-      "maturity_rating": "10+",
       "episode_count": 1
     },
     {
@@ -8539,6 +8458,87 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ccd8a-a7fa-408d-8c06-fd2f1ae5bd1e",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm118756",
+      "title": "Holly e Benji: La grande sfida mondiale: Jr World Cup!",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 172415,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Il Giappone partecipa a un torneo con Stati Uniti, Europa e Sud America.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/2n96954FmEjYobDsFJHONYs7f4Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5zY9Cbropf44GrqE4MhJp66IUyZ.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1ebb271f-51a2-7499-09c2-12168f3aa49f",
+      "maturity_rating": "10+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm117720",
+      "title": "Holly e Benji: Corri per il domani!",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 172409,
+        "tmdb_type": "movie"
+      },
+      "description_it": "La nazionale giovanile giapponese si allena in vista della terza sfida contro l'Europa, ed i giocatori ripensano ai momenti passati (per esempio alla finale Nankatsu-Toho e al giorno in cui Benji sfidò i capitani delle squadre di differenti sport).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/yBnOHbos7Hn0FcZr2T8e7cxvJp9.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/2AX32gmX1BfmpARQFBWeuuEmT83.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d0bb271c-5e11-02c3-8182-09dfd6f048d0",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm130056",
+      "title": "Holly & Benji: La selezione giovanile del Giappone",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 264992,
+        "tmdb_type": "movie"
+      },
+      "description_it": "E' il momento dell'incontro di ritorno fra la nazionale giovanile giapponese e quella europea. I nipponici devono iniziare senza Mark Lenders, che si è ritirato dopo aver subito troppe sconfitte e si applica in allenamenti durissimi...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/sMlQD13v8vjzqIt1pN0Bj4fsirR.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gWaH6sOoEmggZb5aDQltRbi8OtV.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a6bb271b-ed8b-c2ce-6b09-1a3f79a57b53",
+      "maturity_rating": "10+",
       "episode_count": 1
     },
     {
