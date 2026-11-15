@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-14T21:58:48Z",
+  "generated_at": "2026-11-15T04:53:49Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.629,
+      "rating": 9.626,
       "audio_locales": [
         "ja-JP"
       ],
@@ -42,36 +42,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bdb94f8-cc1d-49e9-a753-94afaea1e197",
       "maturity_rating": "T",
       "episode_count": 19
-    },
-    {
-      "ag_id": "ts10145",
-      "title": "Detective Conan",
-      "year": 1996,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 30983,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il giovane investigatore Shinichi Kudo viene avvelenato da una pericolosa organizzazione criminale, ma il farmaco invece di ucciderlo lo fa tornare bambino. Assunta l'identità di Conan Edogawa, inizia ad investigare sui suoi assalitori.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-      "genres": [
-        "Animazione",
-        "Crime",
-        "Mistero",
-        "Commedia"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
-      "maturity_rating": "14+",
-      "episode_count": 1219
     },
     {
       "ag_id": "ts20305",
@@ -104,24 +74,24 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
+      "ag_id": "ts10145",
+      "title": "Detective Conan",
+      "year": 1996,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 42444,
+        "tmdb_id": 30983,
         "tmdb_type": "tv"
       },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
+      "description_it": "Il giovane investigatore Shinichi Kudo viene avvelenato da una pericolosa organizzazione criminale, ma il farmaco invece di ucciderlo lo fa tornare bambino. Assunta l'identità di Conan Edogawa, inizia ad investigare sui suoi assalitori.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
       "genres": [
         "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Crime",
+        "Mistero",
+        "Commedia"
       ],
-      "rating": 8.486,
+      "rating": 8.0,
       "audio_locales": [
         "it-IT"
       ],
@@ -129,9 +99,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "T",
-      "episode_count": 114
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
+      "maturity_rating": "14+",
+      "episode_count": 1219
     },
     {
       "ag_id": "ts432739",
@@ -177,6 +147,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 48
+    },
+    {
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 42444,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.486,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
+      "maturity_rating": "T",
+      "episode_count": 114
     },
     {
       "ag_id": "ts407747",
@@ -315,6 +315,35 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.971,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
       "ag_id": "ts345",
       "title": "Berserk",
       "year": 1997,
@@ -390,7 +419,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.517,
+      "rating": 8.519,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -404,33 +433,65 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 31572,
+        "tmdb_id": 64196,
         "tmdb_type": "tv"
       },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
       "genres": [
         "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "rating": 7.971,
+      "rating": 8.425,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62110,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.382,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
       "maturity_rating": "14+",
-      "episode_count": 300
+      "episode_count": 47
     },
     {
       "ag_id": "ts471256",
@@ -578,36 +639,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.425,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -637,37 +668,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.382,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts463737",
@@ -848,45 +848,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.355,
-      "audio_locales": [
-        "de",
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
-    },
-    {
       "ag_id": "ts28078",
       "title": "Yu degli spettri",
       "year": 1992,
@@ -987,7 +948,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.63,
+      "rating": 7.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1088,6 +1049,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts353577",
+      "title": "Isekai Farming - Vita contadina in un altro mondo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 196285,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Machio Hiraku muore dopo aver trascorso la vita in un letto d'ospedale, ma il dio che governa l'universo gli offre una seconda occasione per scusarsi dell'esistenza crudele che ha vissuto fino a quel momento. Così Hiraku decide che vorrebbe sperimentare una vita contadina e si risveglia ringiovanito in un altro mondo col potere di evocare qualsiasi attrezzo agricolo e usarlo senza mai stancarsi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.771,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts322259",
       "title": "Insomniacs after school",
       "year": 2023,
@@ -1115,6 +1106,45 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.355,
+      "audio_locales": [
+        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "tm69778",
@@ -1342,7 +1372,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.619,
+      "rating": 7.613,
       "audio_locales": [
         "it-IT"
       ],
@@ -1506,36 +1536,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
       "maturity_rating": "14+",
       "episode_count": 218
-    },
-    {
-      "ag_id": "ts353577",
-      "title": "Isekai Farming - Vita contadina in un altro mondo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 196285,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Machio Hiraku muore dopo aver trascorso la vita in un letto d'ospedale, ma il dio che governa l'universo gli offre una seconda occasione per scusarsi dell'esistenza crudele che ha vissuto fino a quel momento. Così Hiraku decide che vorrebbe sperimentare una vita contadina e si risveglia ringiovanito in un altro mondo col potere di evocare qualsiasi attrezzo agricolo e usarlo senza mai stancarsi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.771,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "tm121121",
@@ -1939,7 +1939,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 7.5,
+      "rating": 7.491,
       "audio_locales": [
         "it-IT"
       ],
@@ -2158,34 +2158,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts369770",
-      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 213326,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
-      "maturity_rating": "T",
-      "episode_count": 24
-    },
-    {
       "ag_id": "ts308038",
       "title": "Demon Hunter - Le memorie del mezzo demone",
       "year": 2025,
@@ -2241,6 +2213,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.90d41e6a-780b-4003-9e11-59612a3f35fd",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts369770",
+      "title": "La regina eretica si ribella al tragico epilogo spendendosi per il suo popolo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 213326,
+        "tmdb_type": "tv"
+      },
+      "description_it": "All'età di otto anni la protagonista si rende conto di essersi reincarnata in un otome game, nei panni del terribile boss finale: la regina Pride. Essendo il nemico finale, ha una forza eccezionale in combattimento che la rende la più potente tra le principesse di quella nazione matriarcale. Sciagure si abbattono su chiunque la circondi, perciò il futuro che la attende è altrettanto nefasto. Ma la protagonista è determinata a scampare al suo destino, evitando la rovina e usando le sue abilità per salvare tutti!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mhlT8wIYlsjKK5tRASsALxePkLG.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a25f5f5d-f9b4-4a1f-9b07-36ad596c15ce",
+      "maturity_rating": "T",
+      "episode_count": 24
     },
     {
       "ag_id": "ts529845",
@@ -2686,35 +2686,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2803,6 +2774,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts504283",
@@ -3959,34 +3959,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts488482",
-      "title": "La vita nella stanzetta al manga cafè",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 295751,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
-      "maturity_rating": "18+",
-      "episode_count": 11
-    },
-    {
       "ag_id": "tm41614",
       "title": "I Cavalieri dello zodiaco - La leggenda dei guerrieri scarlatti",
       "year": 1988,
@@ -4133,6 +4105,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.97c233ac-a5a4-4442-9835-710f1eab99c3",
       "maturity_rating": "10+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts488482",
+      "title": "La vita nella stanzetta al manga cafè",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 295751,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Meiko si trasferisce a Tokyo per andare a frequentare un liceo prestigioso. Una volta arrivata al dormitorio, scopre che la sua stanza si trova all'interno di un manga cafè! Insieme a delle nuove compagne di scuola dalle personalità peculiari, inizia una nuova vita diversa rispetto alla campagna a cui è abituata!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.304a6e7f-606a-4292-a544-60186be073d8",
+      "maturity_rating": "18+",
+      "episode_count": 11
     },
     {
       "ag_id": "ts415273",
@@ -4752,7 +4752,7 @@
       "genres": [
         "Action & Adventure"
       ],
-      "rating": 9.0,
+      "rating": 8.667,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4763,36 +4763,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf2935c5-5902-460a-a69a-2bd7900cf8b4",
       "maturity_rating": "T",
       "episode_count": 21
-    },
-    {
-      "ag_id": "ts343493",
-      "title": "Love Flops",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 195990,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.817,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "tm167492",
@@ -4874,6 +4844,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
       "maturity_rating": "T",
       "episode_count": 0
+    },
+    {
+      "ag_id": "ts343493",
+      "title": "Love Flops",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 195990,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il destino attira cinque avvenenti ragazze sulla strada di Asahi, che presto riceve non una, non due, ma ben cinque confessioni d'amore. Asahi deve seguire il suo cuore per trovare chi delle cinque possa essere la sua partner perfetta, altrimenti le sue fortune amorose potrebbero finire in un epico flop!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/oCxUN465HVHhLwqRFd30hwqCjrs.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/gPKfi8LWohOPMjvjEpYbVldMGAN.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.817,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.633ee4ef-134f-455b-a792-e20b316a9c38",
+      "maturity_rating": "18+",
+      "episode_count": 12
     },
     {
       "ag_id": "tm21535",
