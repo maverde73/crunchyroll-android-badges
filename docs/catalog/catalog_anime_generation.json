@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T04:50:31Z",
+  "generated_at": "2026-11-16T14:50:32Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -60,7 +60,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.362,
+      "rating": 8.361,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -242,7 +242,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.298,
+      "rating": 8.3,
       "audio_locales": [
         "it-IT"
       ],
@@ -315,35 +315,6 @@
       "episode_count": 152
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -371,6 +342,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts461952",
@@ -494,6 +494,34 @@
       "episode_count": 52
     },
     {
+      "ag_id": "ts471256",
+      "title": "Anche il consiglio studentesco cade in fallo!",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 283938,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ume Mizunoe prende sempre il massimo dei voti in letteratura e ha una condotta impeccabile, ma purtroppo i suoi voti terribili nelle materie scientifiche lo mettono a rischio bocciatura. Così, per migliorare la pagella, si unisce al consiglio studentesco dove conoscerà i suoi strampalati membri. Tra mocciosi procaci e prosperose ragazze represse, Ume si godrà infine l'adolescenza.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 8.714,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
+      "maturity_rating": "",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts44897",
       "title": "Lady Oscar",
       "year": 1979,
@@ -522,32 +550,35 @@
       "episode_count": 40
     },
     {
-      "ag_id": "ts471256",
-      "title": "Anche il consiglio studentesco cade in fallo!",
-      "year": 2026,
+      "ag_id": "ts21984",
+      "title": "Assassination Classroom",
+      "year": 2015,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 283938,
+        "tmdb_id": 62110,
         "tmdb_type": "tv"
       },
-      "description_it": "Ume Mizunoe prende sempre il massimo dei voti in letteratura e ha una condotta impeccabile, ma purtroppo i suoi voti terribili nelle materie scientifiche lo mettono a rischio bocciatura. Così, per migliorare la pagella, si unisce al consiglio studentesco dove conoscerà i suoi strampalati membri. Tra mocciosi procaci e prosperose ragazze represse, Ume si godrà infine l'adolescenza.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/n7C1Y1GnZ23IKVblNwiYVrymA4N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/kuYMjcQ6BeLTBYUR1l1T8W8ZMcf.jpg",
+      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
       "genres": [
         "Animazione",
-        "Commedia"
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.714,
+      "rating": 8.381,
       "audio_locales": [
+        "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
-      "maturity_rating": "",
-      "episode_count": 12
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
+      "maturity_rating": "14+",
+      "episode_count": 47
     },
     {
       "ag_id": "ts24483",
@@ -577,37 +608,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2b69b9e6-cae2-44ac-9482-dc1a30910d66",
       "maturity_rating": "14+",
       "episode_count": 26
-    },
-    {
-      "ag_id": "ts21984",
-      "title": "Assassination Classroom",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62110,
-        "tmdb_type": "tv"
-      },
-      "description_it": "All'improvviso, la Luna che tutti erano abituati a vedere viene quasi completamente distrutta. Uno strano essere tentacolare rivendica l'atto e annuncia ai leader mondiali che entro un anno farà la stessa cosa con la Terra. E, cosa ancora più strana, insiste nel voler essere il professore responsabile della classe 3-E della scuola media Kunugigaoka.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/fIOYLPOorKvP4wut9y0edpnWROz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/dOCpqck500K9JmdEIOye6Ivmoip.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.38,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
-      "maturity_rating": "14+",
-      "episode_count": 47
     },
     {
       "ag_id": "ts25996",
@@ -729,36 +729,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.6,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -818,6 +788,36 @@
       "deep_link_url": "https://www.primevideo.com/detail/0L6VMGM9Q442LFC0WAJQP3U1OX",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.6,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts220153",
@@ -894,7 +894,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.474,
+      "rating": 8.477,
       "audio_locales": [
         "it-IT"
       ],
@@ -977,7 +977,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 8.0,
+      "rating": 7.953,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1221,7 +1221,7 @@
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.778,
+      "rating": 7.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1425,7 +1425,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "16+",
+      "maturity_rating": "",
       "episode_count": 0
     },
     {
@@ -2355,34 +2355,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts74597",
-      "title": "Ken il guerriero: Le origini del mito",
-      "year": 2006,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 68203,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 6.7,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
-      "maturity_rating": "18+",
-      "episode_count": 46
-    },
-    {
       "ag_id": "tm113059",
       "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
       "year": 2002,
@@ -2412,6 +2384,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts74597",
+      "title": "Ken il guerriero: Le origini del mito",
+      "year": 2006,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 68203,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/h2FCvbUYCSDry9CYSbwSsQrfz2t.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4nLAxP3d2KdEN0hDPqu2rra5s6u.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 6.7,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.08cfd8f7-1eab-4220-8d05-93f12548fb29",
+      "maturity_rating": "18+",
+      "episode_count": 46
     },
     {
       "ag_id": "tm136990",
@@ -2627,34 +2627,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "tm222871",
       "title": "L'organo genocida",
       "year": 2017,
@@ -2686,6 +2658,34 @@
       "episode_count": 1
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts47224",
       "title": "Sandy dai mille colori",
       "year": 1986,
@@ -2715,33 +2715,34 @@
       "episode_count": 25
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
       },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
       "genres": [
+        "Azione",
         "Animazione",
-        "Commedia"
+        "Commedia",
+        "Crime"
       ],
-      "rating": 6.9,
+      "rating": 6.2,
       "audio_locales": [
-        "it-IT",
-        "ja-JP"
+        "it-IT"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
       "maturity_rating": "T",
-      "episode_count": 65
+      "episode_count": 1
     },
     {
       "ag_id": "tm5128",
@@ -2775,34 +2776,33 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
       },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
       "genres": [
-        "Azione",
         "Animazione",
-        "Commedia",
-        "Crime"
+        "Commedia"
       ],
-      "rating": 6.2,
+      "rating": 6.9,
       "audio_locales": [
-        "it-IT"
+        "it-IT",
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
       "maturity_rating": "T",
-      "episode_count": 1
+      "episode_count": 65
     },
     {
       "ag_id": "ts504283",
@@ -2921,7 +2921,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.305,
+      "rating": 7.345,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3558,7 +3558,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.6,
+      "rating": 7.592,
       "audio_locales": [
         "en-US",
         "ja-JP"
@@ -3682,7 +3682,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.0,
+      "rating": 7.993,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3771,7 +3771,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 6.4,
+      "rating": 6.372,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3829,7 +3829,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.055,
+      "rating": 7.054,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4847,35 +4847,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "tm21535",
-      "title": "I Cavalieri dello zodiaco - La dea della discordia",
-      "year": 1987,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 83090,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
-      "genres": [
-        "Azione",
-        "Animazione",
-        "Fantasy"
-      ],
-      "rating": 7.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
       "ag_id": "tm167492",
       "title": "Lupin Terzo vs. Detective Conan: Il film",
       "year": 2013,
@@ -5053,6 +5024,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7d90e387-df3f-42b5-95eb-c78c2a655f9c",
       "maturity_rating": "12+",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm21535",
+      "title": "I Cavalieri dello zodiaco - La dea della discordia",
+      "year": 1987,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 83090,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Eris, dea della discordia, fa ritorno sulla Terra all'interno di una mela d'oro e prende possesso del corpo di Daisy, giovane assistente di Lamia al collegio St. Charles ed amica di Cristal. La resurrezione della dea porta alla rinascita del suo tempio e dei cinque Cavalieri ombra (Serian di Orione, Ian dello Scudo, Orfeo della Lira, Lesia della Freccia e Relta della Croce del Sud).",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kTB4NFXbjSvIIDyu0UYOaCGSFFd.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50cc4f2a-c836-4c0d-8a19-46e823238805",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
@@ -5718,7 +5718,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.0,
+      "rating": 7.043,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6197,7 +6197,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 52
     },
     {
@@ -6534,7 +6534,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 5.118,
+      "rating": 5.167,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6621,7 +6621,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 5.6,
+      "rating": 5.727,
       "audio_locales": [
         "ja-JP"
       ],
@@ -8623,7 +8623,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4941f73a-2dd1-4472-b875-348f7c5f5d8b",
-      "maturity_rating": "T",
+      "maturity_rating": "",
       "episode_count": 1
     },
     {
