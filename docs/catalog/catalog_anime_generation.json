@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T14:50:32Z",
+  "generated_at": "2026-11-17T01:35:54Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.629,
+      "rating": 9.63,
       "audio_locales": [
         "ja-JP"
       ],
@@ -91,7 +91,7 @@
         "Mistero",
         "Commedia"
       ],
-      "rating": 8.013,
+      "rating": 8.016,
       "audio_locales": [
         "it-IT"
       ],
@@ -196,7 +196,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.204,
+      "rating": 8.208,
       "audio_locales": [
         "en-US",
         "es",
@@ -242,7 +242,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.297,
       "audio_locales": [
         "it-IT"
       ],
@@ -285,6 +285,35 @@
       "episode_count": 85
     },
     {
+      "ag_id": "ts21930",
+      "title": "Lupin III",
+      "year": 1971,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31572,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.986,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
+      "maturity_rating": "14+",
+      "episode_count": 300
+    },
+    {
       "ag_id": "ts14127",
       "title": "Ken il guerriero",
       "year": 1984,
@@ -313,35 +342,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts21930",
-      "title": "Lupin III",
-      "year": 1971,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31572,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Arsenio Lupin III è il protagonista della serie, un ladro dalle innumerevoli e incredibili abilità, ricercato dalla polizia di tutto il mondo.\n\nAgile, fisico asciutto, maestro nei travestimenti, trasmette un'impressione di stupidità a chi non lo conosce, mentre è capace di ideare furti geniali. Il suo punto debole sono le belle donne: non può resistere al loro fascino, perdendo completamente la testa.\n\nNipote del celebre ladro francese Arsenio Lupin, ideatore del premio più ambito dai ladri del globo, il Lupin d'oro, Lupin III sembra nato in Giappone e avrebbe avuto tra i suoi antenati un umile contadino. Afferma però di «aver ricevuto il primo bagno nelle acque gelide della Senna»: questo lascia supporre che, almeno per quanto concerne la serie animata, Lupin sia francese.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/961SQWKlq6EQKN5lvXLR04YxSkw.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.986,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
-      "maturity_rating": "14+",
-      "episode_count": 300
     },
     {
       "ag_id": "ts345",
@@ -433,6 +433,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.425,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
+    },
+    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -464,36 +494,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.425,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts471256",
       "title": "Anche il consiglio studentesco cade in fallo!",
       "year": 2026,
@@ -509,7 +509,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.714,
+      "rating": 8.7,
       "audio_locales": [
         "ja-JP"
       ],
@@ -656,7 +656,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.3,
+      "rating": 7.294,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -746,7 +746,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 8.081,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -836,7 +836,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.261,
+      "rating": 8.26,
       "audio_locales": [
         "ja-JP"
       ],
@@ -922,7 +922,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.285,
+      "rating": 8.289,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1065,7 +1065,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.771,
+      "rating": 7.791,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1125,7 +1125,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.358,
+      "rating": 7.366,
       "audio_locales": [
         "de",
         "it-IT",
@@ -1425,7 +1425,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.eb72c3d3-9164-4711-a98a-9d30cd3f3220",
-      "maturity_rating": "",
+      "maturity_rating": "16+",
       "episode_count": 0
     },
     {
@@ -1495,7 +1495,7 @@
         "Commedia",
         "Azione"
       ],
-      "rating": 7.024,
+      "rating": 7.0,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1707,7 +1707,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60e714a4-a38f-48bd-8611-6e7299180062",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8564dedd-4625-4f16-ad4d-c78bf505dff5",
       "maturity_rating": "T",
       "episode_count": 48
     },
@@ -1756,7 +1756,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.068,
+      "rating": 8.052,
       "audio_locales": [
         "ja-JP"
       ],
@@ -2201,7 +2201,7 @@
         "Animazione",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.0,
+      "rating": 7.979,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3272,7 +3272,7 @@
         "Animazione",
         "Action & Adventure"
       ],
-      "rating": 7.5,
+      "rating": 7.235,
       "audio_locales": [
         "ja-JP"
       ],
@@ -3696,6 +3696,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts341771",
+      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 194774,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts72501",
       "title": "È un po' magia per Terry e Maggie",
       "year": 1993,
@@ -3724,35 +3753,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c04f6d9-6618-4758-a2c4-fc5a330298e9",
       "maturity_rating": "T",
       "episode_count": 51
-    },
-    {
-      "ag_id": "ts341771",
-      "title": "Vermeil in Gold - Il mago a rischio bocciatura e la calamità più forte si fanno strada nel mondo della magia",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 194774,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Accademia di Magia di Ortigia. Alto, sul punto di essere bocciato al corso di magia evocativa e di dover ripetere l'anno, si imbatte in un grimorio e traccia un cerchio magico, evocando il demone sigillato Vermeil e facendone il suo famiglio. Lei è un \"diavolo\" temuto fin dall'antichità e possiede un enorme potere di provocare disastri. Vermeil, in quanto famiglio, ha bisogno di energia magica quotidiana, che ottiene da Alto attraverso baci appassionati. Lilia, l'amica d'infanzia di Alto, è invidiosa della loro relazione, mentre anche gli studenti sono sorpresi dall'inedito famiglio. Inizia la fantasia della strada reale di un mago sull'orlo del fallimento e di una sorella diavolo malsana!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/a9Y9xwkrqE4vOK12qfZejZXgDjb.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.242,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1b34ba3-3cdd-472a-839b-c7500015a14f",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts331408",
@@ -3887,7 +3887,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 7.148,
+      "rating": 7.167,
       "audio_locales": [
         "ja-JP"
       ],
@@ -4093,7 +4093,7 @@
         "Commedia",
         "Fantasy"
       ],
-      "rating": 7.5,
+      "rating": 7.458,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4440,7 +4440,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 7.0,
+      "rating": 7.034,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5014,7 +5014,7 @@
         "Commedia",
         "Crime"
       ],
-      "rating": 6.92,
+      "rating": 6.899,
       "audio_locales": [
         "it-IT"
       ],
@@ -5370,7 +5370,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 5.3,
+      "rating": 5.357,
       "audio_locales": [
         "ja-JP"
       ],
@@ -5488,7 +5488,7 @@
         "Commedia",
         "Dramma"
       ],
-      "rating": 6.2,
+      "rating": 6.235,
       "audio_locales": [
         "ja-JP"
       ],
@@ -6197,7 +6197,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.df6258b9-a574-4bca-aa25-c8380e51c274",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 52
     },
     {
@@ -7540,7 +7540,7 @@
         "Fantasy",
         "Romance"
       ],
-      "rating": 7.686,
+      "rating": 7.682,
       "audio_locales": [
         "it-IT"
       ],
@@ -7720,7 +7720,7 @@
         "Mistero",
         "Avventura"
       ],
-      "rating": 7.2,
+      "rating": 7.165,
       "audio_locales": [
         "it-IT"
       ],
@@ -8623,7 +8623,7 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.4941f73a-2dd1-4472-b875-348f7c5f5d8b",
-      "maturity_rating": "",
+      "maturity_rating": "T",
       "episode_count": 1
     },
     {
