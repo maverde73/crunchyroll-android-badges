@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T15:36:52Z",
+  "generated_at": "2026-11-20T00:18:51Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.621,
+      "rating": 9.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -239,7 +239,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.295,
       "audio_locales": [
         "it-IT"
       ],
@@ -282,35 +282,6 @@
       "episode_count": 85
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -338,6 +309,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.70bb3a94-9141-925c-426b-130f07a2dd72",
       "maturity_rating": "14+",
       "episode_count": 300
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.511,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts14127",
@@ -368,35 +368,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.030324f0-b5d5-4b66-a27c-999bd584951d",
       "maturity_rating": "18+",
       "episode_count": 152
-    },
-    {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.511,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts413191",
@@ -430,24 +401,23 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts25996",
-      "title": "Una porta socchiusa ai confini del sole",
-      "year": 1994,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 34158,
+        "tmdb_id": 279182,
         "tmdb_type": "tv"
       },
-      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
-      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
         "Animazione",
-        "Sci-Fi & Fantasy",
         "Action & Adventure",
-        "Commedia"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.441,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -455,9 +425,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
-      "maturity_rating": "T",
-      "episode_count": 49
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts471256",
@@ -486,6 +456,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
       "maturity_rating": "",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts25996",
+      "title": "Una porta socchiusa ai confini del sole",
+      "year": 1994,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34158,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hikaru, Umi e Fu sono in gita con le rispettive classi alla Tokyo Tower. Una volta salite sulla torre le tre ragazze, dopo aver sentito una misteriosa voce invocare i leggendari Cavalieri Magici, si ritrovano a precipitare nel vuoto. Salvate da Clef, un potente mago che nonostante il suo aspetto da bambino ha 745 anni, le ignare ragazze sono informate da quest'ultimo che si trovano a Sephiro, un mondo sorretto dalla sola forza di volontà. A capo di esso si trova la cosiddetta Colonna Portante, una persona che con le sue preghiere mantiene l'ordine e la pace. L'attuale Colonna Portante, la principessa Emeraude, è stata però rapita dal sacerdote Zagato, facendo cadere Sephiro nel caos..",
+      "poster_tall": "https://image.tmdb.org/t/p/original/xHponEu74lB5nDbELzAGHBqSN6N.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/mVya8Yf5BV8wBLXXAremnzHumAK.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Commedia"
+      ],
+      "rating": 8.441,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.f47cd73b-441f-4abc-aa35-b2042db9ecea",
+      "maturity_rating": "T",
+      "episode_count": 49
     },
     {
       "ag_id": "ts37899",
@@ -623,7 +623,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.381,
+      "rating": 8.4,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -728,35 +728,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un bambino di scuola elementare soprannominato \"Shonen Bat\" gira in pattini a rotelle e attacca la gente con la sua mazza d'oro piegata. Due investigatori avviano le indagini in modo da impedire a questo bambino di fare altri attacchi, ma scopriranno presto... che questo caso è molto più di quanto loro possano immaginare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -785,6 +756,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
+    },
+    {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un bambino di scuola elementare soprannominato \"Shonen Bat\" gira in pattini a rotelle e attacca la gente con la sua mazza d'oro piegata. Due investigatori avviano le indagini in modo da impedire a questo bambino di fare altri attacchi, ma scopriranno presto... che questo caso è molto più di quanto loro possano immaginare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts463737",
@@ -1368,7 +1368,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.6,
+      "rating": 8.603,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -2801,35 +2801,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts18944",
-      "title": "Gigi la trottola",
-      "year": 1981,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 37468,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia"
-      ],
-      "rating": 6.9,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
-      "maturity_rating": "T",
-      "episode_count": 65
-    },
-    {
       "ag_id": "ts399964",
       "title": "Shaman King: Flowers",
       "year": 2024,
@@ -2884,6 +2855,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
       "maturity_rating": "14+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts18944",
+      "title": "Gigi la trottola",
+      "year": 1981,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 37468,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il protagonista della storia è Kappei Sakamoto, un ragazzo dotato di grandi capacità verso qualunque tipo di sport, simpatico, dolce e generoso, ma ha un unico \"difetto\": non raggiunge neanche il metro d'altezza.\n\nKappei non ne fa un problema, anzi, ne approfitta per vedere sotto le gonne delle studentesse, perché, oltre allo sport, la sua passione sono le mutandine bianche. Anche se eccelle in ogni tipo di sport, non gli va di iscriversi a nessun circolo sportivo, ma, per le regole della scuola, il Liceo Seirin, è costretto a scegliere una disciplina.\n\nSceglierà il circolo che sembra essere meno adatto a lui, quello della pallacanestro. Oltre ai componenti della squadra, qui incontrerà Akane, ragazza gentile e sensibile, che farà breccia nel suo cuore. I tentativi di Kappei di conquistare Akane, però, vengono sempre intralciati da uno spasimante insolito, il cane della ragazza, Seiichirō, che sa parlare, ma solamente Kappei riesce a capirlo.\n\nCon l'avanzare del tempo, Kappei si lancia una sfida: decide di sfidare tutti i circoli sportivi e batterli.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qAco4CrlOpPO68Nqrrr3H2NvPHK.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/r35f8yxPde8jJh7rqcx9TIF2fy9.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia"
+      ],
+      "rating": 6.9,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2abaeee2-cd46-6520-8e29-61fa021da859",
+      "maturity_rating": "T",
+      "episode_count": 65
     },
     {
       "ag_id": "ts459654",
@@ -4165,34 +4165,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts76735",
-      "title": "Gordian",
-      "year": 1979,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 75078,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 6.4,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
-      "maturity_rating": "T",
-      "episode_count": 73
-    },
-    {
       "ag_id": "ts374110",
       "title": "Blades of the Guardians",
       "year": 2023,
@@ -4219,6 +4191,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2948587e-b15a-403e-8755-e97fd3e85e80",
       "maturity_rating": "16+",
       "episode_count": 23
+    },
+    {
+      "ag_id": "ts76735",
+      "title": "Gordian",
+      "year": 1979,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 75078,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Protagonista è Daigo, un ragazzo molto estroverso figlio del dottor Otaki, geniale scienziato che dopo essere fisicamente morto prosegue la sua esistenza all'interno di un computer. La storia è ambientata a Victor City, una città futuristica il cui passato nasconde però un grande segreto; questa città viene improvvisamente attaccata dalla spietata razza aliena dei Madokter. Nonostante Victor City venga strenuamente difesa dalle sue forze militari, i Madokter sono numericamente soverchianti e soprattutto tecnologicamente superiori rispetto ai militari della città.\n\nProprio quando le forze nemiche stanno per prevalere, il dottor Otaki rivela l'esistenza di una segretissima generazione di robot totalmente innovativa composta da Protesser, Delinger e Garbin. Questi tre robot insieme formano Gordian, un potentissimo mecha progettato in modo da essere guidato da Daigo, il quale è dotato della capacità di comandare i tre robot anche telepaticamente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1nH00iiimno9ROXZU5Wb5twRUxA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/7kCOsBQQp6ibXGl0dnQpZ4gbZJV.jpg",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 6.4,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.1c2dc11d-6476-47ea-b494-a0aedc37d106",
+      "maturity_rating": "T",
+      "episode_count": 73
     },
     {
       "ag_id": "ts26785",
@@ -4538,34 +4538,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts345978",
-      "title": "Blue Orchestra",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 197368,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma"
-      ],
-      "rating": 7.0,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
-      "maturity_rating": "T",
-      "episode_count": 45
-    },
-    {
       "ag_id": "tm220268",
       "title": "L'impero dei cadaveri",
       "year": 2015,
@@ -4623,6 +4595,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
       "maturity_rating": "16+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts345978",
+      "title": "Blue Orchestra",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 197368,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Nell’autunno del suo terzo e ultimo anno di scuola media, Hajime Aono, un prodigio del violino, smise di suonare per motivi personali. Ma proprio in quell’anno conobbe una ragazza che gli parlò di un liceo con un’orchestra scolastica prestigiosa. Improvvisamente, gli ingranaggi dell’orologio della vita di Aono ricominciarono a muoversi.\n\nQuesta è la storia di un dramma giovanile che fa emergere l’armonia tra la musica e il cuore!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yJAIWO6zGyXE72qVJ7sFGTqpTa1.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma"
+      ],
+      "rating": 7.0,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cca0675a-3839-455f-a1d2-e176c497ee22",
+      "maturity_rating": "T",
+      "episode_count": 45
     },
     {
       "ag_id": "ts47136",
@@ -6256,34 +6256,6 @@
       "episode_count": 30
     },
     {
-      "ag_id": "ts58195",
-      "title": "Il segreto della sabbia",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 23557,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Seconda metà del XIX secolo. La piccola Jane è orfana di madre: infatti Anna Buxton è morta nel darla alla luce. La bambina cresce quindi con il fratello maggiore George ed il padre Lord Buxton. Passati tre anni il padre si risposa con Margaret, una donna che ha un figlio di undici anni di nome William. Madre e figlio vanno quindi ad abitare nel castello di Glenar, dimora di Jane e del padre, ma il ragazzo non gradisce la svolta che ha preso la sua vita e si dimostra estremamente scontroso con tutti. Geloso dell'affetto che la madre ha verso i componenti la famiglia Buxton, ha un profondo legame di amicizia solamente con Jane.\n\nAnche Margaret di lì a poco muore e a William non rimane altro che l'affetto di Jane, l'unica amica che gli è rimasta, covando però nel profondo un grande risentimento verso gli altri Buxton.\n\nPassano gli anni e Jane, intelligente ed intraprendente come è, sviluppa una grande attitudine per la meccanica. Il suo sogno è infatti quello di poter volare e invece di seguire le lezioni di piano come tutte le altre ragazze di buona famiglia, passa il tempo a rovistare nel laboratorio del fratello maggiore George per costruire improbabili macchine volanti a pedali, facendo impazzire il povero maggiordomo Agenore che dovrebbe vegliare su di lei.\n\nGeorge è un giovane studioso che sta sviluppando una teoria partendo dalle antiche leggende che provengono dall'Oriente ed è convinto dell'esistenza di una sostanza, il Fojusen che permetterebbe agli uomini di volare. Riceve dal governo un incarico segreto per svolgere ricerche approfondite e parte quindi per l'Est, ufficialmente per una missione archeologica. Stranamente anche il fratello William, coinvolto in affari poco chiari con la banca di famiglia, scompare nello stesso periodo.\n\nDopo qualche tempo, quando Jane è ormai un'adolescente di 14 anni, la famiglia Buxton è sconvolta da terribili avvenimenti. Una lettera ufficiale del governo comunica l'esecuzione di George, reo di aver fomentato una rivolta in un paese orientale e subito dopo la banca dei Buxton viene svaligiata da uomini provenienti da una misteriosa macchina volante, causando la rovina della famiglia. Il cuore di Lord Buxton, non regge a tutto questo e l'uomo si riduce in fin di vita. L'unica cosa che Jane può fare, nella sua disperazione, è di accudire il padre ormai morente, quando un giorno riceve una lettera. L'indirizzo sembra vergato dalla mano del fratello George ed il contenuto è solamente una strana pietra azzurra che sembra possedere poteri misteriosi.\n\nCon la certezza che il fratello sia ancora vivo, Jane affida il padre alla governante e con Agenore parte per l'Oriente, per quella che diventerà la più grande avventura della sua vita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/9EaNz47zAZDtPSojrox8UodlrmG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/rHQa5Fmq8ofUuCHbXWWTflVnsqc.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 5.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
-      "maturity_rating": "T",
-      "episode_count": 26
-    },
-    {
       "ag_id": "ts287917",
       "title": "Tecno Ninja Gatchaman",
       "year": 1994,
@@ -6311,6 +6283,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bfc7cc8a-5e9c-48a8-ba30-c45c5888d61a",
       "maturity_rating": "14+",
       "episode_count": 3
+    },
+    {
+      "ag_id": "ts58195",
+      "title": "Il segreto della sabbia",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 23557,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Seconda metà del XIX secolo. La piccola Jane è orfana di madre: infatti Anna Buxton è morta nel darla alla luce. La bambina cresce quindi con il fratello maggiore George ed il padre Lord Buxton. Passati tre anni il padre si risposa con Margaret, una donna che ha un figlio di undici anni di nome William. Madre e figlio vanno quindi ad abitare nel castello di Glenar, dimora di Jane e del padre, ma il ragazzo non gradisce la svolta che ha preso la sua vita e si dimostra estremamente scontroso con tutti. Geloso dell'affetto che la madre ha verso i componenti la famiglia Buxton, ha un profondo legame di amicizia solamente con Jane.\n\nAnche Margaret di lì a poco muore e a William non rimane altro che l'affetto di Jane, l'unica amica che gli è rimasta, covando però nel profondo un grande risentimento verso gli altri Buxton.\n\nPassano gli anni e Jane, intelligente ed intraprendente come è, sviluppa una grande attitudine per la meccanica. Il suo sogno è infatti quello di poter volare e invece di seguire le lezioni di piano come tutte le altre ragazze di buona famiglia, passa il tempo a rovistare nel laboratorio del fratello maggiore George per costruire improbabili macchine volanti a pedali, facendo impazzire il povero maggiordomo Agenore che dovrebbe vegliare su di lei.\n\nGeorge è un giovane studioso che sta sviluppando una teoria partendo dalle antiche leggende che provengono dall'Oriente ed è convinto dell'esistenza di una sostanza, il Fojusen che permetterebbe agli uomini di volare. Riceve dal governo un incarico segreto per svolgere ricerche approfondite e parte quindi per l'Est, ufficialmente per una missione archeologica. Stranamente anche il fratello William, coinvolto in affari poco chiari con la banca di famiglia, scompare nello stesso periodo.\n\nDopo qualche tempo, quando Jane è ormai un'adolescente di 14 anni, la famiglia Buxton è sconvolta da terribili avvenimenti. Una lettera ufficiale del governo comunica l'esecuzione di George, reo di aver fomentato una rivolta in un paese orientale e subito dopo la banca dei Buxton viene svaligiata da uomini provenienti da una misteriosa macchina volante, causando la rovina della famiglia. Il cuore di Lord Buxton, non regge a tutto questo e l'uomo si riduce in fin di vita. L'unica cosa che Jane può fare, nella sua disperazione, è di accudire il padre ormai morente, quando un giorno riceve una lettera. L'indirizzo sembra vergato dalla mano del fratello George ed il contenuto è solamente una strana pietra azzurra che sembra possedere poteri misteriosi.\n\nCon la certezza che il fratello sia ancora vivo, Jane affida il padre alla governante e con Agenore parte per l'Oriente, per quella che diventerà la più grande avventura della sua vita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/9EaNz47zAZDtPSojrox8UodlrmG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/rHQa5Fmq8ofUuCHbXWWTflVnsqc.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 5.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7c8b06d0-5bf8-4c43-b76a-b36c8371d5d3",
+      "maturity_rating": "T",
+      "episode_count": 26
     },
     {
       "ag_id": "ts237034",
@@ -6631,6 +6631,34 @@
       "episode_count": 50
     },
     {
+      "ag_id": "ts18589",
+      "title": "Dancouga",
+      "year": 1985,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9478,
+        "tmdb_type": "tv"
+      },
+      "description_it": "L'imperatore Muge Zarbados e il suo Impero della Morte decidono che la loro prossima conquista sarà il lontano pianeta Terra. Muge diventa ancora più temibile grazie a Shapiro Keats, un terrestre avido di potere diventato traditore. Spetta a Shinobu, Sara (la vecchia fidanzata di Shapiro), Masato e Ryo della Jyusenkitai/Cyber Beast Force pilotare i quattro Jyusenki/Beast Mecha (Eagle Fighter, Land Cougar, Land Liger e Big Moth [un mecha mammut]), che possono combinarsi nel mech gigante Dancougar.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/eEPUp0hpJrRD7MPnDYG4ylTMqNW.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/b42LVWh2irrOkMdu1MAoe1xZUuv.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Animazione"
+      ],
+      "rating": 5.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.295e0af1-19ab-4f74-b61d-5e030169f3de",
+      "maturity_rating": "T",
+      "episode_count": 38
+    },
+    {
       "ag_id": "ts221701",
       "title": "Futsal Boys!!!!!",
       "year": 2022,
@@ -6807,34 +6835,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.86749be7-cb85-4143-a859-5ad3650fa402",
       "maturity_rating": "T",
       "episode_count": 51
-    },
-    {
-      "ag_id": "ts18589",
-      "title": "Dancouga",
-      "year": 1985,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9478,
-        "tmdb_type": "tv"
-      },
-      "description_it": "L'imperatore Muge Zarbados e il suo Impero della Morte decidono che la loro prossima conquista sarà il lontano pianeta Terra. Muge diventa ancora più temibile grazie a Shapiro Keats, un terrestre avido di potere diventato traditore. Spetta a Shinobu, Sara (la vecchia fidanzata di Shapiro), Masato e Ryo della Jyusenkitai/Cyber Beast Force pilotare i quattro Jyusenki/Beast Mecha (Eagle Fighter, Land Cougar, Land Liger e Big Moth [un mecha mammut]), che possono combinarsi nel mech gigante Dancougar.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/eEPUp0hpJrRD7MPnDYG4ylTMqNW.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/b42LVWh2irrOkMdu1MAoe1xZUuv.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Animazione"
-      ],
-      "rating": 5.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.295e0af1-19ab-4f74-b61d-5e030169f3de",
-      "maturity_rating": "T",
-      "episode_count": 38
     },
     {
       "ag_id": "tm159116",
