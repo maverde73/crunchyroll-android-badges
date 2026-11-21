@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-20T23:41:33Z",
+  "generated_at": "2026-11-21T05:42:58Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -239,7 +239,7 @@
         "Animazione",
         "Thriller"
       ],
-      "rating": 8.3,
+      "rating": 8.295,
       "audio_locales": [
         "it-IT"
       ],
@@ -341,35 +341,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -401,23 +372,23 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 279182,
+        "tmdb_id": 35935,
         "tmdb_type": "tv"
       },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
       "genres": [
-        "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Sci-Fi & Fantasy",
+        "Animazione"
       ],
-      "rating": 8.1,
+      "rating": 8.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -425,9 +396,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
       "maturity_rating": "14+",
-      "episode_count": 12
+      "episode_count": 25
     },
     {
       "ag_id": "ts471256",
@@ -455,6 +426,35 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.dbafb405-9130-4ed5-9bad-4cffb6375775",
       "maturity_rating": "",
+      "episode_count": 12
+    },
+    {
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 279182,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.1,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
+      "maturity_rating": "14+",
       "episode_count": 12
     },
     {
@@ -488,36 +488,6 @@
       "episode_count": 49
     },
     {
-      "ag_id": "ts37899",
-      "title": "Overlord",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 64196,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Action & Adventure"
-      ],
-      "rating": 8.4,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
-      "maturity_rating": "18+",
-      "episode_count": 52
-    },
-    {
       "ag_id": "ts21406",
       "title": "Nadia - Il mistero della pietra azzurra",
       "year": 1990,
@@ -547,6 +517,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts37899",
+      "title": "Overlord",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 64196,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il popolare DMMO-RPG Yggdrasil termina il servizio. Momonga, uno dei suoi giocatori più forti e famosi, rimasto fino all'ultimo, si ritroverà catapultato in una realtà molto simile a quella del gioco. Annoiato da tempo della sua vita reale, non resta sconvolto dell'avvenimento e decide di voler diventare il signore e conquistatore del nuovo mondo in cui si è ritrovato.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/q5WJxYTXNNJdEHxFCqd3S8pO4VA.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "rating": 8.4,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
+      "maturity_rating": "18+",
+      "episode_count": 52
     },
     {
       "ag_id": "ts44897",
@@ -667,6 +667,45 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.368,
+      "audio_locales": [
+        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
+    },
+    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -728,45 +767,6 @@
       "episode_count": 11
     },
     {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.366,
-      "audio_locales": [
-        "de",
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
-    },
-    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -824,6 +824,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts522861",
+      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 312850,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts463737",
@@ -899,7 +927,7 @@
         "Sci-Fi & Fantasy",
         "Animazione"
       ],
-      "rating": 8.26,
+      "rating": 8.259,
       "audio_locales": [
         "ja-JP"
       ],
@@ -957,7 +985,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.477,
+      "rating": 8.476,
       "audio_locales": [
         "it-IT"
       ],
@@ -1085,6 +1113,36 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts353577",
+      "title": "Isekai Farming - Vita contadina in un altro mondo",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 196285,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Machio Hiraku muore dopo aver trascorso la vita in un letto d'ospedale, ma il dio che governa l'universo gli offre una seconda occasione per scusarsi dell'esistenza crudele che ha vissuto fino a quel momento. Così Hiraku decide che vorrebbe sperimentare una vita contadina e si risveglia ringiovanito in un altro mondo col potere di evocare qualsiasi attrezzo agricolo e usarlo senza mai stancarsi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.791,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
+      "maturity_rating": "14+",
+      "episode_count": 24
+    },
+    {
       "ag_id": "ts322259",
       "title": "Insomniacs after school",
       "year": 2023,
@@ -1142,36 +1200,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts353577",
-      "title": "Isekai Farming - Vita contadina in un altro mondo",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 196285,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Machio Hiraku muore dopo aver trascorso la vita in un letto d'ospedale, ma il dio che governa l'universo gli offre una seconda occasione per scusarsi dell'esistenza crudele che ha vissuto fino a quel momento. Così Hiraku decide che vorrebbe sperimentare una vita contadina e si risveglia ringiovanito in un altro mondo col potere di evocare qualsiasi attrezzo agricolo e usarlo senza mai stancarsi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/q5FIdhZVXAES26E2lMYUk0dfQRx.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6XJ0XJbL14YkThOe1iU5TJKU5l3.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.791,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2bea7d59-7c33-492c-ae7d-73ac370dece6",
-      "maturity_rating": "14+",
-      "episode_count": 24
     },
     {
       "ag_id": "ts57405",
@@ -1265,34 +1293,6 @@
       "episode_count": 39
     },
     {
-      "ag_id": "ts522861",
-      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 312850,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts17714",
       "title": "Devil May Cry",
       "year": 2007,
@@ -1309,7 +1309,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.601,
+      "rating": 7.61,
       "audio_locales": [
         "it-IT"
       ],
@@ -1530,7 +1530,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -1920,36 +1920,6 @@
       "episode_count": 26
     },
     {
-      "ag_id": "ts20710",
-      "title": "Oltre il confine",
-      "year": 2013,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 61695,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mirai Kuriyama è una cacciaspiriti, una guerriera che combatte contro entità soprannaturali chiamate Incubi. Il suo incontro con Akihito Kanbara, un ragazzo immortale metà uomo e metà Incubo, cambierà per sempre la sua vita tormentata da un crudele passato. I due, supportati da compagni con caratteri peculiari e amici fuori dal comune, lotteranno per salvare la città dalla minaccia degli Incubi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/93I7zPn0Afvp126PqNR3FdugNXH.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.13,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f648524-9a16-470c-94ae-820ea6714edf",
-      "maturity_rating": "T",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts21278",
       "title": "La rivoluzione di Utena",
       "year": 1997,
@@ -1978,6 +1948,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.82e9d403-3067-42b2-961f-04787835bf90",
       "maturity_rating": "14+",
       "episode_count": 39
+    },
+    {
+      "ag_id": "ts20710",
+      "title": "Oltre il confine",
+      "year": 2013,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 61695,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mirai Kuriyama è una cacciaspiriti, una guerriera che combatte contro entità soprannaturali chiamate Incubi. Il suo incontro con Akihito Kanbara, un ragazzo immortale metà uomo e metà Incubo, cambierà per sempre la sua vita tormentata da un crudele passato. I due, supportati da compagni con caratteri peculiari e amici fuori dal comune, lotteranno per salvare la città dalla minaccia degli Incubi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/93I7zPn0Afvp126PqNR3FdugNXH.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.13,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f648524-9a16-470c-94ae-820ea6714edf",
+      "maturity_rating": "T",
+      "episode_count": 12
     },
     {
       "ag_id": "ts485272",
@@ -2593,37 +2593,6 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm20372",
-      "title": "Lupin III - Per un dollaro in più",
-      "year": 2000,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 31053,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
-      "genres": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "televisione film",
-        "Crime"
-      ],
-      "rating": 6.6,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
-      "maturity_rating": "12+",
-      "episode_count": 1
-    },
-    {
       "ag_id": "ts57729",
       "title": "Shin Jeeg robot d'acciaio",
       "year": 2007,
@@ -2680,6 +2649,37 @@
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b0b9c8a6-939f-58a0-1a19-60c121a62e85",
       "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
+      "ag_id": "tm20372",
+      "title": "Lupin III - Per un dollaro in più",
+      "year": 2000,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 31053,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin vuole rubare all'avvenente direttrice della Bank of World un anello contenente informazioni per ritrovare un antico cimelio che in passato è stato posseduto da persone che si sono impegnate in campagne per dominare il mondo, tra cui Hitler e Napoleone. A colpo riuscito, però, un agente della direttrice spara al petto del ladro, facendolo morire, almeno apparentemente.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kHoYYRmmayOFsoe42qg0vFbhBYH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/pWnGh4KNo2tY179MIC9jWTe4LWJ.jpg",
+      "genres": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "televisione film",
+        "Crime"
+      ],
+      "rating": 6.6,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8cbb83c8-a438-1433-7bcd-b7b83d260036",
+      "maturity_rating": "12+",
       "episode_count": 1
     },
     {
@@ -3135,7 +3135,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 10.0,
+      "rating": 9.4,
       "audio_locales": [
         "it-IT"
       ],
@@ -7093,7 +7093,7 @@
       "genres": [
         "Animazione"
       ],
-      "rating": 7.8,
+      "rating": 7.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -7244,7 +7244,7 @@
         "Thriller",
         "Mistero"
       ],
-      "rating": 6.4,
+      "rating": 6.425,
       "audio_locales": [
         "it-IT"
       ],
