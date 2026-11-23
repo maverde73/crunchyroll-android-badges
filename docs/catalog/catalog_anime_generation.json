@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T23:15:32Z",
+  "generated_at": "2026-11-23T05:51:37Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.613,
+      "rating": 9.597,
       "audio_locales": [
         "ja-JP"
       ],
@@ -39,6 +39,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.6bdb94f8-cc1d-49e9-a753-94afaea1e197",
       "maturity_rating": "T",
       "episode_count": 19
+    },
+    {
+      "ag_id": "ts10145",
+      "title": "Detective Conan",
+      "year": 1996,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 30983,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il giovane investigatore Shinichi Kudo viene avvelenato da una pericolosa organizzazione criminale, ma il farmaco invece di ucciderlo lo fa tornare bambino. Assunta l'identità di Conan Edogawa, inizia ad investigare sui suoi assalitori.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "genres": [
+        "Animazione",
+        "Crime",
+        "Mistero",
+        "Commedia"
+      ],
+      "rating": 8.02,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
+      "maturity_rating": "14+",
+      "episode_count": 1221
     },
     {
       "ag_id": "ts20305",
@@ -71,24 +101,24 @@
       "episode_count": 220
     },
     {
-      "ag_id": "ts10145",
-      "title": "Detective Conan",
-      "year": 1996,
+      "ag_id": "ts22809",
+      "title": "I cavalieri dello zodiaco",
+      "year": 1986,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 30983,
+        "tmdb_id": 42444,
         "tmdb_type": "tv"
       },
-      "description_it": "Il giovane investigatore Shinichi Kudo viene avvelenato da una pericolosa organizzazione criminale, ma il farmaco invece di ucciderlo lo fa tornare bambino. Assunta l'identità di Conan Edogawa, inizia ad investigare sui suoi assalitori.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
       "genres": [
         "Animazione",
-        "Crime",
-        "Mistero",
-        "Commedia"
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.018,
+      "rating": 8.483,
       "audio_locales": [
         "it-IT"
       ],
@@ -96,9 +126,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce671e4a-d147-49bc-a226-412a6269584e",
-      "maturity_rating": "14+",
-      "episode_count": 1221
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
+      "maturity_rating": "T",
+      "episode_count": 114
     },
     {
       "ag_id": "ts432739",
@@ -144,36 +174,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7615134a-e25b-418c-b819-076215c15863",
       "maturity_rating": "18+",
       "episode_count": 48
-    },
-    {
-      "ag_id": "ts22809",
-      "title": "I cavalieri dello zodiaco",
-      "year": 1986,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 42444,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La Terra e' sull'orlo di una gravissima crisi geografica e politica: mentre forti terremoti scuotono la superficie, si e' innescata una spirale di violenza. Intanto nella citta' di Nuova Luxor comincia la Guerra Galattica, torneo al quale partecipano i Cavalieri dello Zodiaco.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/uQSSmtwFUaCoWD1QLQckBmapnL5.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xqi7xzgzed2TyVuoXBmm6neYGee.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.483,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.09566142-b530-41a0-bd59-e997f703affb",
-      "maturity_rating": "T",
-      "episode_count": 114
     },
     {
       "ag_id": "ts407747",
@@ -341,35 +341,6 @@
       "episode_count": 300
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 35935,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
-      ],
-      "rating": 8.5,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts413191",
       "title": "Dan Da Dan",
       "year": 2024,
@@ -399,6 +370,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d1a19e76-fae0-4f0d-a341-232f287c7b98",
       "maturity_rating": "12+",
       "episode_count": 24
+    },
+    {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.5,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts471256",
@@ -516,6 +516,45 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
+    },
+    {
+      "ag_id": "ts35578",
+      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
+      "year": 2015,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 62745,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy",
+        "Commedia",
+        "Action & Adventure"
+      ],
+      "rating": 7.368,
+      "audio_locales": [
+        "de",
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "ar",
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "it-IT",
+        "pt",
+        "ru"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
+      "maturity_rating": "14+",
+      "episode_count": 74
     },
     {
       "ag_id": "ts21406",
@@ -667,45 +706,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts35578",
-      "title": "DanMachi - Familia Myth - È sbagliato cercare di incontrare ragazze in un Dungeon?",
-      "year": 2015,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 62745,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Il dungeon è un posto misterioso della città di Orario dove gli avventurieri vanno alla ricerca di fama e ricchezze, rischiando al tempo stesso di incorrere in una morte violenta. Mostri e trappole sono piazzati ovunque e, secondo diverse leggende e dicerie, più ci si addentra in esso, più i piani diventano grandi e i nemici forti.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/afGt9Agsm7YakvBm7oCazebprLr.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/xHzLhMzsAg3OcrfyZlYMmRTfCJC.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy",
-        "Commedia",
-        "Action & Adventure"
-      ],
-      "rating": 7.368,
-      "audio_locales": [
-        "de",
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "ar",
-        "de",
-        "en-US",
-        "es",
-        "fr",
-        "it-IT",
-        "pt",
-        "ru"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3c899a0c-7b66-47dd-a93e-6a81d35e38d2",
-      "maturity_rating": "14+",
-      "episode_count": 74
-    },
-    {
       "ag_id": "ts281904",
       "title": "The Eminence in Shadow",
       "year": 2022,
@@ -767,6 +767,35 @@
       "episode_count": 11
     },
     {
+      "ag_id": "ts27309",
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 9343,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Un bambino di scuola elementare soprannominato \"Shonen Bat\" gira in pattini a rotelle e attacca la gente con la sua mazza d'oro piegata. Due investigatori avviano le indagini in modo da impedire a questo bambino di fare altri attacchi, ma scopriranno presto... che questo caso è molto più di quanto loro possano immaginare.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
+      "genres": [
+        "Animazione",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.9,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts317669",
       "title": "Call of the Night - il richiamo della notte",
       "year": 2022,
@@ -795,35 +824,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
       "maturity_rating": "14+",
       "episode_count": 25
-    },
-    {
-      "ag_id": "ts27309",
-      "title": "Paranoia Agent",
-      "year": 2004,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 9343,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Un bambino di scuola elementare soprannominato \"Shonen Bat\" gira in pattini a rotelle e attacca la gente con la sua mazza d'oro piegata. Due investigatori avviano le indagini in modo da impedire a questo bambino di fare altri attacchi, ma scopriranno presto... che questo caso è molto più di quanto loro possano immaginare.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5YtfsLvQaisPGmZ8ZoMxNKsITQw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/6ugaYfLhkEyVXzw4EYawMIV30qx.jpg",
-      "genres": [
-        "Animazione",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.9,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5ebaf3fc-812c-7f3b-d0c6-c7e4c4516845",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts463737",
@@ -916,34 +916,6 @@
       "episode_count": 46
     },
     {
-      "ag_id": "ts522861",
-      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
-      "year": 2026,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 312850,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "genres": [
-        "Animazione",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.4,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
-      "maturity_rating": "14+",
-      "episode_count": 25
-    },
-    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -971,6 +943,34 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b1e61b10-12b2-45b0-b293-be624cc49edd",
       "maturity_rating": "14+",
       "episode_count": 41
+    },
+    {
+      "ag_id": "ts522861",
+      "title": "Nia Liston, la spietata nobildonna - Cronache delle grandiose gesta dell'impareggiabile guerriera ammazzadèi reincarnatasi in una giovane nobildonna cagionevole di salute",
+      "year": 2026,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 312850,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Una grande eroina del passato, capace di uccidere gli dèi, sogna di morire in combattimento per mano di un degno avversario. Tuttavia, muore prima che il suo desiderio si realizzi e la sua anima viene reincarnata nel corpo della giovane Nia Liston, una gracile nobildonna coinvolta nelle attività della magivisione.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+      "genres": [
+        "Animazione",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.4,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2e8a4af7-ef71-44e5-9fbe-12a9ce29016e",
+      "maturity_rating": "14+",
+      "episode_count": 25
     },
     {
       "ag_id": "ts28078",
@@ -1144,6 +1144,35 @@
       "episode_count": 24
     },
     {
+      "ag_id": "ts322259",
+      "title": "Insomniacs after school",
+      "year": 2023,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 155440,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Non riuscendo a dormire la notte, Ganta Nakami è irritabile in classe e impopolare con i compagni. Scopre che l'osservatorio della scuola può essere il luogo perfetto per un pisolino, ma non è solo. La sua compagna di scuola Isaki Màgari, affetta anche lei da insonnia, è disposta a condividere l'osservatorio con lui e tra i due nasce un'amicizia che li porta a legare per le cose più improbabili.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 7.746,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
+      "maturity_rating": "14+",
+      "episode_count": 13
+    },
+    {
       "ag_id": "tm69778",
       "title": "Lupin III - Il castello di Cagliostro",
       "year": 1979,
@@ -1172,35 +1201,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.13eabab2-e472-4cbf-9baf-278774d12ada",
       "maturity_rating": "T",
       "episode_count": 1
-    },
-    {
-      "ag_id": "ts322259",
-      "title": "Insomniacs after school",
-      "year": 2023,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 155440,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Non riuscendo a dormire la notte, Ganta Nakami è irritabile in classe e impopolare con i compagni. Scopre che l'osservatorio della scuola può essere il luogo perfetto per un pisolino, ma non è solo. La sua compagna di scuola Isaki Màgari, affetta anche lei da insonnia, è disposta a condividere l'osservatorio con lui e tra i due nasce un'amicizia che li porta a legare per le cose più improbabili.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/leJEC6tORpACQXtW4HvSuRJBTsu.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 7.746,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.54e32e88-0bc7-4036-95e3-ebf3745ab039",
-      "maturity_rating": "14+",
-      "episode_count": 13
     },
     {
       "ag_id": "ts353577",
@@ -1740,6 +1740,34 @@
       "episode_count": 48
     },
     {
+      "ag_id": "ts42498",
+      "title": "Judo Boy - Kurenai Sanshiro",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 43903,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
+      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 8.111,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
+      "maturity_rating": "T",
+      "episode_count": 26
+    },
+    {
       "ag_id": "ts320501",
       "title": "Mato Seihei no Slave",
       "year": 2024,
@@ -1767,34 +1795,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.72e04d28-2531-4585-9518-1c4ec3e226dc",
       "maturity_rating": "14+",
       "episode_count": 24
-    },
-    {
-      "ag_id": "ts42498",
-      "title": "Judo Boy - Kurenai Sanshiro",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 43903,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Sanshiro Kurenai è un ragazzo il cui padre, ammirato maestro di judo e fondatore della scuola nella quale anch'egli è stato allievo, viene un giorno ucciso durante un duello (o un agguato a sorpresa) da un nemico più esperto. Al suo arrivo il ragazzo trova il padre gravemente ferito, ormai senza più alcuna speranza di poter sopravvivere. Unico indizio che egli trova sul luogo del delitto è un occhio di vetro vicino al corpo del padre: ciò dimostrerebbe che l'assassino era un uomo con un occhio solo. Così, dopo aver superato un primo momento d'angoscia e sconforto, si mette in viaggio alla ricerca \"dell'uomo con un occhio solo\"",
-      "poster_tall": "https://image.tmdb.org/t/p/original/A7v8jVW1RyKkHne1vyrFaJbBXZw.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/yOOzvgiUDzsEIjfHqslsrnfQz6X.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 8.111,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96bae98d-8f70-856d-b900-c73626f9c927",
-      "maturity_rating": "T",
-      "episode_count": 26
     },
     {
       "ag_id": "ts52317",
@@ -2039,6 +2039,35 @@
       "episode_count": 12
     },
     {
+      "ag_id": "ts448353",
+      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
+      "year": 2025,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 271003,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
+      "maturity_rating": "18+",
+      "episode_count": 12
+    },
+    {
       "ag_id": "ts22249",
       "title": "Kuroko's Basket",
       "year": 2012,
@@ -2067,35 +2096,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
       "maturity_rating": "14+",
       "episode_count": 75
-    },
-    {
-      "ag_id": "ts448353",
-      "title": "L'elfa oscura un po' ossessiva mi ha seguito dall'altro mondo",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 271003,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Hinata ce l'ha fatta. Si è reincarnato in un altro mondo, ha assunto il ruolo di Eroe e infine ha ucciso il Signore dei Demoni con l'aiuto dei suoi compagni avventurieri. Come ricompensa, è tornato sulla Terra per vivere la sua vita da normale liceale giapponese... o sarebbe così se Mariabelle, un'elfa oscura che è stata la sua prima compagna e più fervente sostenitrice durante la sua avventura, non l'avesse seguito proclamando che sono destinati a stare insieme per sempre. Ora Hinata dovrà gestire la sua vita scolastica con la costante presenza dell'elfa dall'amore tanto passionale quanto ossessivo, mentre Mariabelle utilizza le sue arti arcane per allontanare qualsiasi potenziale rivale d'amore e catturare l'affetto del ragazzo!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/br6b3hhZQYOyN6zKS3INNxuLjla.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/goz9KqwTKy8pCW2iOycBLMBtJ0y.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.2,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.536b52c5-8b67-4aa5-88ed-091d36aa92a8",
-      "maturity_rating": "18+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts469760",
@@ -2211,6 +2211,28 @@
       "episode_count": 45
     },
     {
+      "ag_id": "ts529845",
+      "title": "È quasi magia Johnny OAV",
+      "year": 1989,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
+      "maturity_rating": "T",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts492780",
       "title": "Akane-banashi",
       "year": 2026,
@@ -2238,28 +2260,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.23f136f7-46dd-4424-9927-9129615bdef4",
       "maturity_rating": "T",
       "episode_count": 12
-    },
-    {
-      "ag_id": "ts529845",
-      "title": "È quasi magia Johnny OAV",
-      "year": 1989,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.462214a8-b15f-4299-b7d2-b1ea6472a72e",
-      "maturity_rating": "T",
-      "episode_count": 0
     },
     {
       "ag_id": "ts394039",
@@ -2551,7 +2551,7 @@
         "Dramma",
         "Commedia"
       ],
-      "rating": 7.504,
+      "rating": 7.5,
       "audio_locales": [
         "it-IT"
       ],
@@ -7240,7 +7240,7 @@
         "Azione",
         "Avventura"
       ],
-      "rating": 7.492,
+      "rating": 7.491,
       "audio_locales": [
         "it-IT",
         "ja-JP"
