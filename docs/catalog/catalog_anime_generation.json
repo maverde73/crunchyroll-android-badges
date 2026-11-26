@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-26T01:35:20Z",
+  "generated_at": "2026-11-26T16:25:37Z",
   "titles": [
     {
       "ag_id": "ts517188",
@@ -19,7 +19,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 9.598,
+      "rating": 9.6,
       "audio_locales": [
         "ja-JP"
       ],
@@ -87,12 +87,13 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.4,
+      "rating": 8.36,
       "audio_locales": [
         "it-IT",
         "ja-JP"
       ],
       "subtitle_locales": [
+        "en-US",
         "it-IT"
       ],
       "languages_assumed": false,
@@ -166,7 +167,7 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.483,
+      "rating": 8.485,
       "audio_locales": [
         "it-IT"
       ],
@@ -312,6 +313,35 @@
       "episode_count": 152
     },
     {
+      "ag_id": "ts345",
+      "title": "Berserk",
+      "year": 1997,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 35935,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Animazione"
+      ],
+      "rating": 8.513,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts21930",
       "title": "Lupin III",
       "year": 1971,
@@ -358,7 +388,7 @@
         "Commedia",
         "Sci-Fi & Fantasy"
       ],
-      "rating": 8.519,
+      "rating": 8.518,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -400,23 +430,23 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts345",
-      "title": "Berserk",
-      "year": 1997,
+      "ag_id": "ts461952",
+      "title": "Super Cube",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 35935,
+        "tmdb_id": 279182,
         "tmdb_type": "tv"
       },
-      "description_it": "In una sorta di Medioevo alternativo, Guts è un formidabile guerriero mercenario che nella vita non ha conosciuto altro che guerra e violenza. Continuando a guerreggiare da campo di battaglia in campo di battaglia, Guts attira l'attenzione del carismatico leader dell'Armata dei Falchi, Grifis, il quale lo sconfigge e lo costringe a entrare a far parte della compagnia.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
       "genres": [
+        "Animazione",
         "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Animazione"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 8.5,
+      "rating": 8.1,
       "audio_locales": [
         "it-IT"
       ],
@@ -424,9 +454,9 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a4bae056-47f1-3260-3891-997fc08538fa",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
       "maturity_rating": "14+",
-      "episode_count": 25
+      "episode_count": 12
     },
     {
       "ag_id": "ts37899",
@@ -457,35 +487,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.ce9ca630-dba3-43f1-bfcb-993f9009c101",
       "maturity_rating": "18+",
       "episode_count": 52
-    },
-    {
-      "ag_id": "ts461952",
-      "title": "Super Cube",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 279182,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Wang Xiaoxiu è un ragazzo come tanti che un giorno riceve una confessione d'amore da Shen Yao, la ragazza più bella scuola che ammira fin da quando erano bambini. Questa dichiarazione attira l'attenzione del delinquente Sun Jun, anche lui infatuato di Shen, che decide per gelosia di dare una lezione al rivale. Questo causa un incidente e Wang finisce per cadere in un fiume gelido dove trova un misterioso oggetto sul fondo, il \"Super Cube\". Si tratta di un sistema spaziale creato da una civiltà cosmica che permette all'utilizzatore di ottenere poteri straordinari.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/89qSKhLrJOUhp6xgbqgSTpzblbA.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.1,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.733fada0-1d8a-4a87-94ef-05067a6c63f9",
-      "maturity_rating": "14+",
-      "episode_count": 12
     },
     {
       "ag_id": "ts25996",
@@ -546,6 +547,36 @@
       "episode_count": 40
     },
     {
+      "ag_id": "ts317669",
+      "title": "Call of the Night - il richiamo della notte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 138357,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.624,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
+      "maturity_rating": "14+",
+      "episode_count": 25
+    },
+    {
       "ag_id": "ts21984",
       "title": "Assassination Classroom",
       "year": 2015,
@@ -565,11 +596,29 @@
       ],
       "rating": 8.381,
       "audio_locales": [
+        "de",
+        "en-US",
+        "es",
+        "fr",
+        "hi",
         "it-IT",
-        "ja-JP"
+        "ja-JP",
+        "pt",
+        "ta",
+        "te",
+        "th"
       ],
       "subtitle_locales": [
-        "it-IT"
+        "en-US",
+        "es",
+        "fr",
+        "id",
+        "it-IT",
+        "ms",
+        "pt",
+        "th",
+        "vi",
+        "zh"
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8adc45ef-50db-42a1-b277-a1cc7cddfdee",
@@ -606,36 +655,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.d2bb295e-936e-9050-7fc8-e72e21400d49",
       "maturity_rating": "14+",
       "episode_count": 39
-    },
-    {
-      "ag_id": "ts317669",
-      "title": "Call of the Night - il richiamo della notte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 138357,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Ko Yamori ha sempre fatto il possibile per integrarsi, ma un fraintendimento in classe lo porterà a smettere di andare a scuola. In cerca di pace esce di notte all’insaputa di tutti. Incontrerà così la vampira Nazuna Nanakusa, ben diversa dalle creature delle storie. Le lascerà succhiare il suo sangue, e da lì avrà inizio un rapporto in cui lei gli insegnerà a seguire il richiamo della notte.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/ohgC4YPhYO4mjTW64JRK0abx6lQ.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.624,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e501fdee-d5ef-4dfe-8ead-aea95e0cdbd3",
-      "maturity_rating": "14+",
-      "episode_count": 25
     },
     {
       "ag_id": "ts24483",
@@ -714,7 +733,7 @@
         "Commedia",
         "Action & Adventure"
       ],
-      "rating": 7.351,
+      "rating": 7.353,
       "audio_locales": [
         "de",
         "it-IT",
@@ -885,34 +904,6 @@
       "episode_count": 24
     },
     {
-      "ag_id": "ts57729",
-      "title": "Shin Jeeg robot d'acciaio",
-      "year": 2007,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 17772,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
-      "maturity_rating": "T",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts87564",
       "title": "Arifureta - Il più forte del mondo con un mestiere comune",
       "year": 2019,
@@ -985,7 +976,7 @@
         "Animazione",
         "Commedia"
       ],
-      "rating": 8.608,
+      "rating": 8.6,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -1059,6 +1050,34 @@
       "episode_count": 112
     },
     {
+      "ag_id": "ts57729",
+      "title": "Shin Jeeg robot d'acciaio",
+      "year": 2007,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 17772,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kenji Kusanagi, un giovane studente liceale, è destinato a diventare il pilota del nuovo Jeeg per combattere contro gli Haniwa Genjin del Grande Regno Yamatai guidato dalla malvagia regina Himika.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/kWWrymYX0vQEwuT93KmcI3KLDDa.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/4YvBgHKnLRynJl4N3B8LeeJU5ow.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure"
+      ],
+      "rating": 7.3,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5892056f-bf65-4e99-8ccf-b421e1be270c",
+      "maturity_rating": "T",
+      "episode_count": 13
+    },
+    {
       "ag_id": "ts354570",
       "title": "Oshi no ko - My Star",
       "year": 2023,
@@ -1074,7 +1093,7 @@
         "Animazione",
         "Dramma"
       ],
-      "rating": 8.289,
+      "rating": 8.292,
       "audio_locales": [
         "ja-JP"
       ],
@@ -1085,33 +1104,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.60adeb80-bc12-4bed-b34f-cbc241ce9a1f",
       "maturity_rating": "14+",
       "episode_count": 35
-    },
-    {
-      "ag_id": "ts64898",
-      "title": "Sampei",
-      "year": 1980,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 44033,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
-      "genres": [
-        "Animazione"
-      ],
-      "rating": 7.8,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
-      "maturity_rating": "T",
-      "episode_count": 109
     },
     {
       "ag_id": "ts410723",
@@ -1140,6 +1132,33 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b12a1144-a436-407c-923b-ca011cb27339",
       "maturity_rating": "14+",
       "episode_count": 13
+    },
+    {
+      "ag_id": "ts64898",
+      "title": "Sampei",
+      "year": 1980,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 44033,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Mihira Sanpei parla con un accento di Tohou ed è un ragazzo con i piedi per terra con una personalità allegra e ottimista. Tuttavia, quando si tratta di pescare, diventa molto serio ed è un giovane che ama pescare più di ogni altra cosa. Il villaggio in cui vive è un ambiente naturale che offre diversi tipi di sfide di pesca. Nonostante la sua mancanza di esperienza, Sampei ha un senso di prim'ordine per quanto riguarda la pesca e decide di massimizzare il suo potenziale partecipando a diversi concorsi di pesca. Mentre affronta varie sfide, impara a risolvere problemi difficili e impara dai suoi errori nella misura in cui è in grado di pescare qualsiasi cosa fuori dalle acque. Lungo la strada, incontra tutti i tipi di rivali e compagni che aumentano i suoi punti esperienza e lo aiutano nella sua crescita.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/MVbGsdcO7R6DsqVB0cw8ampnoz.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/s573JHUWXmSq4oC0qcOpP77sMxp.jpg",
+      "genres": [
+        "Animazione"
+      ],
+      "rating": 7.8,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cea2365f-1f9c-4072-97f1-3fd4beed6c1b",
+      "maturity_rating": "T",
+      "episode_count": 109
     },
     {
       "ag_id": "ts35329",
@@ -1397,7 +1416,7 @@
         "Sci-Fi & Fantasy",
         "Action & Adventure"
       ],
-      "rating": 7.6,
+      "rating": 7.615,
       "audio_locales": [
         "it-IT"
       ],
@@ -1432,6 +1451,28 @@
       "episode_count": 0
     },
     {
+      "ag_id": "tm1542133",
+      "title": "Wan Pîsu Fanretâ",
+      "year": 2024,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
+      "maturity_rating": "13+",
+      "episode_count": 0
+    },
+    {
       "ag_id": "ts22290",
       "title": "Lupin the Third - La donna chiamata Fujiko Mine",
       "year": 2012,
@@ -1461,28 +1502,6 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.cf33220e-a8ac-47b3-a0cb-b9ea89556d67",
       "maturity_rating": "18+",
       "episode_count": 13
-    },
-    {
-      "ag_id": "tm1542133",
-      "title": "Wan Pîsu Fanretâ",
-      "year": 2024,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e9439394-e258-46aa-bd67-c3858969425f",
-      "maturity_rating": "13+",
-      "episode_count": 0
     },
     {
       "ag_id": "ts476585",
@@ -1589,7 +1608,7 @@
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.10baf3d2-8fb5-4a97-a2ba-f9de281de043",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.513fb9c1-29b6-4b1e-906c-1aee83be1c8d",
       "maturity_rating": "14+",
       "episode_count": 218
     },
@@ -2066,36 +2085,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts22249",
-      "title": "Kuroko's Basket",
-      "year": 2012,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 45783,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
-      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Dramma"
-      ],
-      "rating": 8.394,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
-      "maturity_rating": "14+",
-      "episode_count": 75
-    },
-    {
       "ag_id": "ts20710",
       "title": "Oltre il confine",
       "year": 2013,
@@ -2124,6 +2113,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.8f648524-9a16-470c-94ae-820ea6714edf",
       "maturity_rating": "T",
       "episode_count": 12
+    },
+    {
+      "ag_id": "ts22249",
+      "title": "Kuroko's Basket",
+      "year": 2012,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 45783,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Kuroko è un membro del leggendario team di basket delle scuole medie conosciuto come \"The Generation of Miracles\" (la generazione dei miracoli) e, nonostante sembri che nessuno lo conosca davvero, i principali 5 giocatori della squadra scolastica delle superiori lo considerano il miglior giocatore di basket. Quando questi si unisce alla squadra, tutti restano sorpresi nel constatare che il ragazzo è piccolo, esile e debole... qual'è il segreto che lo ha reso così famoso, e grazie a quale abilità riuscirà ad aiutare il suo team?",
+      "poster_tall": "https://image.tmdb.org/t/p/original/1kA78aDffwt5Hq2dk72rof4s2Im.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/fOyOP702oDeGyM2H4I8mQ5pdKne.jpg",
+      "genres": [
+        "Animazione",
+        "Commedia",
+        "Dramma"
+      ],
+      "rating": 8.394,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.bad38a05-787e-47b3-b9a0-770d421e48b1",
+      "maturity_rating": "14+",
+      "episode_count": 75
     },
     {
       "ag_id": "ts469760",
@@ -2416,6 +2435,36 @@
       "episode_count": 5
     },
     {
+      "ag_id": "tm141589",
+      "title": "The Last: Naruto the Movie",
+      "year": 2014,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 317442,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
+      "genres": [
+        "Azione",
+        "Romance",
+        "Animazione"
+      ],
+      "rating": 7.482,
+      "audio_locales": [
+        "it-IT",
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
+      "maturity_rating": "T",
+      "episode_count": 1
+    },
+    {
       "ag_id": "tm113059",
       "title": "Lupin III - Episodio: 0 (C'era una volta... Lupin)",
       "year": 2002,
@@ -2443,36 +2492,6 @@
       ],
       "languages_assumed": false,
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.96fb7e22-727b-474f-ab52-e1893f72923f",
-      "maturity_rating": "T",
-      "episode_count": 1
-    },
-    {
-      "ag_id": "tm141589",
-      "title": "The Last: Naruto the Movie",
-      "year": 2014,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 317442,
-        "tmdb_type": "movie"
-      },
-      "description_it": "Due anni dopo la fine della quarta grande guerra ninja, per motivi sconosciuti la luna si sta avvicinando sempre più alla terra. Nel mentre, Naruto Uzumaki, grazie al valore dimostrato nella guerra, è diventato celebre e ammirato da numerose ragazze e ninja di Konoha e di tutto il mondo. Hinata Hyuga, da sempre innamorata di lui, tenta di dichiararsi donandogli una sciarpa rossa cucita da lei stessa  Hinata viene rapita dal misterioso e potente Toneri Otsutsuki, discendente di Hamura Otsutsuki, giunto a Konoha unicamente per rapirla. Contrastato nell'impresa da Naruto, Toneri rapisce la sorella minore di Hinata, Hanabi, sparendo subito dopo. Dopo un summit dei cinque kage, il sesto Hokage Kakashi Hatake ordina a Naruto, Hinata, Sakura, Sai e Shikamaru di partire per una missione per salvare Hanabi e neutralizzare Toneri Otsutsuki, sospettato di essere l'artefice del piano della caduta della luna e della conseguente distruzione della terra.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/qzcHTNTqcq5chJamRmRVnhJTWus.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/l8ubUlfzlB5R2j9cJ3CN7tj0gmd.jpg",
-      "genres": [
-        "Azione",
-        "Romance",
-        "Animazione"
-      ],
-      "rating": 7.482,
-      "audio_locales": [
-        "it-IT",
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.0c5aeee5-58ce-40bc-bb4c-bc6fe26a5dce",
       "maturity_rating": "T",
       "episode_count": 1
     },
@@ -2739,35 +2758,6 @@
       "episode_count": 13
     },
     {
-      "ag_id": "ts444582",
-      "title": "Da burocrate a villainess: papà si è reincarnato!",
-      "year": 2025,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 260822,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Kenzaburo Tondenbayashi, un diligente impiegato pubblico di 52 anni, è morto in un incidente stradale... O almeno, così sembrava. Quando riapre gli occhi, si ritrova reincarnato come un personaggio del mondo dell’Otome game preferito di sua figlia.\n\nLa sua nuova identità? Grace Auvergne, la nobile villainess che ostacola la storia d'amore della protagonista del gioco, Anna Doll. Deciso a comportarsi come la villainess originale, Grace-Kenzaburo prova ad agire come previsto dal personaggio. Tuttavia, grazie alla sua esperienza di vita, inizia a vedere Anna come un genitore affettuoso e a darle consigli. Inoltre, grazie alla sua abilità speciale, l’“Elegant Cheat”, che trasforma automaticamente il suo comportamento umile e plebeo in un raffinato atteggiamento aristocratico, la sua popolarità schizza alle stelle!\n\nIn questo nuovo mondo, non è la spada o la magia la chiave per sopravvivere, ma le abilità di vita e il buon senso che un uomo comune ha coltivato nella società!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/byRY71SZ76krFFkm273IeSTBmA.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/tq6Ouby6VmXxiQfJpUdh3zzPIF5.jpg",
-      "genres": [
-        "Animazione",
-        "Commedia",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.3,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "tm5128",
       "title": "Lupin III - Ruba il dizionario di Napoleone!",
       "year": 1991,
@@ -2799,34 +2789,33 @@
       "episode_count": 1
     },
     {
-      "ag_id": "tm128010",
-      "title": "Lupin III - Il tesoro degli zar",
-      "year": 1992,
+      "ag_id": "ts444582",
+      "title": "Da burocrate a villainess: papà si è reincarnato!",
+      "year": 2025,
       "matched_crunchyroll_id": null,
       "external_ids": {
-        "tmdb_id": 80857,
-        "tmdb_type": "movie"
+        "tmdb_id": 260822,
+        "tmdb_type": "tv"
       },
-      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
-      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "description_it": "Kenzaburo Tondenbayashi, un diligente impiegato pubblico di 52 anni, è morto in un incidente stradale... O almeno, così sembrava. Quando riapre gli occhi, si ritrova reincarnato come un personaggio del mondo dell’Otome game preferito di sua figlia.\n\nLa sua nuova identità? Grace Auvergne, la nobile villainess che ostacola la storia d'amore della protagonista del gioco, Anna Doll. Deciso a comportarsi come la villainess originale, Grace-Kenzaburo prova ad agire come previsto dal personaggio. Tuttavia, grazie alla sua esperienza di vita, inizia a vedere Anna come un genitore affettuoso e a darle consigli. Inoltre, grazie alla sua abilità speciale, l’“Elegant Cheat”, che trasforma automaticamente il suo comportamento umile e plebeo in un raffinato atteggiamento aristocratico, la sua popolarità schizza alle stelle!\n\nIn questo nuovo mondo, non è la spada o la magia la chiave per sopravvivere, ma le abilità di vita e il buon senso che un uomo comune ha coltivato nella società!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/byRY71SZ76krFFkm273IeSTBmA.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/tq6Ouby6VmXxiQfJpUdh3zzPIF5.jpg",
       "genres": [
-        "Azione",
         "Animazione",
         "Commedia",
-        "Crime"
+        "Sci-Fi & Fantasy"
       ],
-      "rating": 6.2,
+      "rating": 7.3,
       "audio_locales": [
-        "it-IT"
+        "ja-JP"
       ],
       "subtitle_locales": [
         "it-IT"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
-      "maturity_rating": "T",
-      "episode_count": 1
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e6841205-a947-4f23-9928-aea1bf4e3795",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts504283",
@@ -2855,6 +2844,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.7fc8681f-f69c-40fa-a7b1-e1a7a9b790b5",
       "maturity_rating": "18+",
       "episode_count": 12
+    },
+    {
+      "ag_id": "tm128010",
+      "title": "Lupin III - Il tesoro degli zar",
+      "year": 1992,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 80857,
+        "tmdb_type": "movie"
+      },
+      "description_it": "Lupin e Jigen sono a New York, nella biblioteca civica; cercano informazioni sulla famiglia dello Zar Nicola II di Russia: secondo la storia nel 1916, la Russia possedeva il 20% della riserva mondiale d'oro con le sue 1.240 tonnellate ma nonostante tutto la popolazione era povera ed affamata. Dopo la morte di Rasputin, con il conseguente inizio della rivoluzione russa, la famiglia Romanov venne catturata e giustiziata ad Aketisburg verso il 1917-18. Lupin scopre invece che la famiglia venne salvata dall'esecuzione dal capo della sicurezza Jurovskij. Come ringraziamento, gli vennero regalate 500 tonnellate d'oro, con la missione di portare l'allora piccola Anastasia in America...",
+      "poster_tall": "https://image.tmdb.org/t/p/original/vqFlCGTRR4R3TN1yqaXkAFcGz8v.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/aqFvkH71z0lRlZfmNR5s80PGOWS.jpg",
+      "genres": [
+        "Azione",
+        "Animazione",
+        "Commedia",
+        "Crime"
+      ],
+      "rating": 6.2,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2ebb7da9-157a-1e82-71ff-7a519628359c",
+      "maturity_rating": "T",
+      "episode_count": 1
     },
     {
       "ag_id": "ts459654",
@@ -3026,7 +3045,7 @@
         "ru"
       ],
       "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.3cefe368-0d6f-4f75-9f0d-124e7e60243c",
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9063c137-e64a-4785-aa61-d087f82bb1ae",
       "maturity_rating": "T",
       "episode_count": 25
     },
@@ -3310,36 +3329,6 @@
       "episode_count": 8
     },
     {
-      "ag_id": "ts32338",
-      "title": "Penguindrum",
-      "year": 2011,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 39657,
-        "tmdb_type": "tv"
-      },
-      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
-      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Mistero",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 8.0,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
-      "maturity_rating": "14+",
-      "episode_count": 24
-    },
-    {
       "ag_id": "tm136088",
       "title": "I Cavalieri dello zodiaco - L'ultima battaglia",
       "year": 1989,
@@ -3398,6 +3387,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.2cbb7db0-7d95-709d-d37f-bbf4bb4d97f1",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts32338",
+      "title": "Penguindrum",
+      "year": 2011,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 39657,
+        "tmdb_type": "tv"
+      },
+      "description_it": "In casa Takakura è un giorno di festa: la piccola Himari, gravemente malata, sembra stare meglio e i suoi fratelli maggiori Shoma e Kanba decidono di festeggiare portandola in gita all'acquario. Durante la visita, Shoma le compra come souvenir un bizzarro cappello a forma di pinguino, ma purtroppo la ragazza collassa improvvisamente e muore. Tuttavia, all'obitorio il cappello prende vita grazie a una misteriosa entità che stringe un patto con i fratelli: la vita di Himari sarà salva solo se i ragazzi riusciranno a trovare il leggendario \"Penguindrum\".",
+      "poster_tall": "https://image.tmdb.org/t/p/original/ieMlBS944rWnmMwqalrYa2kXxBJ.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Mistero",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 8.0,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.55288ab2-ded6-4eec-94a3-b030bbbf0fc0",
+      "maturity_rating": "14+",
+      "episode_count": 24
     },
     {
       "ag_id": "ts312683",
@@ -3752,35 +3771,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts331408",
-      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
-      "year": 2022,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 158522,
-        "tmdb_type": "tv"
-      },
-      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
-      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
-      "genres": [
-        "Animazione",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 6.372,
-      "audio_locales": [
-        "ja-JP"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
-      "maturity_rating": "14+",
-      "episode_count": 12
-    },
-    {
       "ag_id": "ts34463",
       "title": "Gunslinger Girl",
       "year": 2003,
@@ -3808,6 +3798,35 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.58f0855b-cfd8-4c27-8936-28cd40844376",
       "maturity_rating": "14+",
       "episode_count": 26
+    },
+    {
+      "ag_id": "ts331408",
+      "title": "Fantasy Farm - Avevo coltivato solo le mie abilità legate all'agricoltura, ma sono comunque diventato più forte",
+      "year": 2022,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 158522,
+        "tmdb_type": "tv"
+      },
+      "description_it": "La storia di un giovane ragazzo, Al Wayne, che per passare dal fondo della società fino ai suoi vertici, decide di potenziare al massimo le sue capacità di contadino riuscendo a tirare fuori dai guai occasionalmente i suoi amici. Un giorno, quando riesce a raggiunge il livello massimo come agricoltore, la sua vita cambia drasticamente prendendo una via totalmente diversa da quella dei campi.",
+      "poster_tall": "https://image.tmdb.org/t/p/original/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/jFWPKQZxILLwq7MzLqT2kDfLzSC.jpg",
+      "genres": [
+        "Animazione",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 6.372,
+      "audio_locales": [
+        "ja-JP"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.b6da8635-36ea-4550-b5ad-adba63485fd5",
+      "maturity_rating": "14+",
+      "episode_count": 12
     },
     {
       "ag_id": "ts441134",
@@ -3914,7 +3933,7 @@
         "Animazione",
         "Fantasy"
       ],
-      "rating": 7.8,
+      "rating": 7.782,
       "audio_locales": [
         "it-IT",
         "ja-JP"
@@ -4479,36 +4498,6 @@
       "episode_count": 12
     },
     {
-      "ag_id": "ts23284",
-      "title": "Saikano - Lei, l'arma finale",
-      "year": 2002,
-      "matched_crunchyroll_id": null,
-      "external_ids": {
-        "tmdb_id": 34771,
-        "tmdb_type": "tv"
-      },
-      "description_it": "Questa è la storia d’amore di due studenti liceali: Shuji e Chise. A prima vista Shuji è duro e insensibile… ma la timidezza, l’ingenuità e la semplicità di Chise lo hanno conquistato. Il loro amore è minacciato da molte cose: Fuyumi, l’ex di Shuji; Akemi, un’amica comune; e una guerra mondiale in cui Chise gioca una parte determinante come… arma finale!",
-      "poster_tall": "https://image.tmdb.org/t/p/original/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg",
-      "poster_wide": "https://image.tmdb.org/t/p/original/bdCCnmI68GfAgaYQpFfFB0B9T1P.jpg",
-      "genres": [
-        "Animazione",
-        "Dramma",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
-      ],
-      "rating": 7.536,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
-      "maturity_rating": "16+",
-      "episode_count": 13
-    },
-    {
       "ag_id": "ts310025",
       "title": "La novella alchimista apre bottega",
       "year": 2022,
@@ -4595,6 +4584,36 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.50fed5e2-1ada-44bd-9f50-a2a02c7acc94",
       "maturity_rating": "16+",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts23284",
+      "title": "Saikano - Lei, l'arma finale",
+      "year": 2002,
+      "matched_crunchyroll_id": null,
+      "external_ids": {
+        "tmdb_id": 34771,
+        "tmdb_type": "tv"
+      },
+      "description_it": "Questa è la storia d’amore di due studenti liceali: Shuji e Chise. A prima vista Shuji è duro e insensibile… ma la timidezza, l’ingenuità e la semplicità di Chise lo hanno conquistato. Il loro amore è minacciato da molte cose: Fuyumi, l’ex di Shuji; Akemi, un’amica comune; e una guerra mondiale in cui Chise gioca una parte determinante come… arma finale!",
+      "poster_tall": "https://image.tmdb.org/t/p/original/5A7EjZkt6UXo0QRV0StPbqudBlG.jpg",
+      "poster_wide": "https://image.tmdb.org/t/p/original/bdCCnmI68GfAgaYQpFfFB0B9T1P.jpg",
+      "genres": [
+        "Animazione",
+        "Dramma",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "rating": 7.536,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.16e3d906-bdf1-45ce-8b1b-1edf1912aafc",
+      "maturity_rating": "16+",
+      "episode_count": 13
     },
     {
       "ag_id": "ts345978",
@@ -4762,28 +4781,6 @@
       "episode_count": 52
     },
     {
-      "ag_id": "ts199079",
-      "title": "L'uomo tigre II",
-      "year": 1969,
-      "matched_crunchyroll_id": null,
-      "external_ids": {},
-      "description_it": "",
-      "poster_tall": "",
-      "poster_wide": "",
-      "genres": [],
-      "rating": null,
-      "audio_locales": [
-        "it-IT"
-      ],
-      "subtitle_locales": [
-        "it-IT"
-      ],
-      "languages_assumed": false,
-      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
-      "maturity_rating": "T",
-      "episode_count": 0
-    },
-    {
       "ag_id": "ts343493",
       "title": "Love Flops",
       "year": 2022,
@@ -4871,6 +4868,28 @@
       "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.5dc575dc-c7a0-489f-ac5a-33c22a2d8afa",
       "maturity_rating": "T",
       "episode_count": 1
+    },
+    {
+      "ag_id": "ts199079",
+      "title": "L'uomo tigre II",
+      "year": 1969,
+      "matched_crunchyroll_id": null,
+      "external_ids": {},
+      "description_it": "",
+      "poster_tall": "",
+      "poster_wide": "",
+      "genres": [],
+      "rating": null,
+      "audio_locales": [
+        "it-IT"
+      ],
+      "subtitle_locales": [
+        "it-IT"
+      ],
+      "languages_assumed": false,
+      "deep_link_url": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14797e3e-58cb-4a50-bcfe-6c35e3e7c5be",
+      "maturity_rating": "T",
+      "episode_count": 0
     },
     {
       "ag_id": "ts400911",
@@ -5600,7 +5619,7 @@
         "Dramma",
         "Storia"
       ],
-      "rating": 6.663,
+      "rating": 6.677,
       "audio_locales": [
         "it-IT"
       ],
